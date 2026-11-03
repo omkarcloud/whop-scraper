@@ -1,0 +1,12 @@
+{
+ "data": [],
+ "pagination": {
+  "count": 0,
+  "cursor": null,
+  "limit": 10,
+  "nextCursor": null,
+  "pageIndex": 0,
+  "servingId": "01a1a0ed-f3d1-7000-80d0-56af0e3543db"
+ },
+ "success": true
+}

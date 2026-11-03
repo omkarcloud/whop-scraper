@@ -1,0 +1,3019 @@
+{
+ "leaderboardType": "usd_gmv",
+ "totalCount": 3109,
+ "results": [
+  {
+   "currentRank": 1,
+   "previousRank": null,
+   "currentScore": 0.0,
+   "previousScore": 0.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_MiDMiMe59TOrM",
+    "title": "Sales Team Accelerator",
+    "route": "sales-team-accelerator",
+    "headline": "Unlock the Power of Top 1% Sales Talent",
+    "shortenedDescription": "Crafting High-Performance Sales Teams, Step by Step.  This streamlined process ensures that your sales team is not just assembled but optimized for peak performance. ",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "leadership_and_management_training",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 300,
+    "memberCount": 300,
+    "publishedReviewsCount": 1,
+    "reviewsAverage": 1.0,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 30.0,
+    "createdAt": 1758226324,
+    "discoverableAt": 1767726759,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-09-18/user_9239189_f90941bd-3856-4b27-a8f7-8978cdf0fc91.jpeg"
+     }
+    ],
+    "company": {
+     "id": "biz_bw3r8SZwB3xy4t",
+     "route": "sales-team-accelerator-llc",
+     "title": "Sales Team Accelerator, LLC",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_yl1kpgRO2mVIZ",
+     "formattedPrice": "$1.00",
+     "formattedPeriodV2": "one-time purchase",
+     "rawInitialPrice": 1.0,
+     "rawRenewalPrice": 0.0,
+     "baseCurrency": "usd",
+     "planType": "one_time",
+     "billingPeriod": null,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 2,
+   "previousRank": 5,
+   "currentScore": 0.0,
+   "previousScore": 0.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_yRZXeDVMaKm9x",
+    "title": "The Tax Sale Guy ",
+    "route": "the-tax-sale-guy",
+    "headline": "Learn how to purchase tax sale properties",
+    "shortenedDescription": "Join our engaging real estate community to learn wealth-building strategies through tax sales, with comprehensive support and exclusive expert-led events.",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "tax_lien_investing",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 15,
+    "memberCount": 15,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": 0.0,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 30.0,
+    "createdAt": 1742766976,
+    "discoverableAt": 1771996164,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-04-08/user_4131425_33128f15-1c3b-43c0-b545-fd770bde4ccf.jpeg"
+     }
+    ],
+    "company": {
+     "id": "biz_oDk7kpjIPO5A5Z",
+     "route": "the-tax-sale-guy",
+     "title": "TSG",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_fja5XcQqT7Uo0",
+     "formattedPrice": "$97.00 / month",
+     "formattedPeriodV2": "/ month",
+     "rawInitialPrice": 0.0,
+     "rawRenewalPrice": 97.0,
+     "baseCurrency": "usd",
+     "planType": "renewal",
+     "billingPeriod": 30,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 3,
+   "previousRank": null,
+   "currentScore": 0.0,
+   "previousScore": 0.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_fBj0j8s4lgZ1z",
+    "title": "Agentattraction.io",
+    "route": "agentattraction-io",
+    "headline": "Agentattraction.io Payment Form",
+    "shortenedDescription": "Stop chasing agents—build an agent attraction machine that attracts top talent while boosting your revenue share. Scale smarter with proven systems.",
+    "accessPassType": "regular",
+    "businessType": "services",
+    "industryType": "lead_generation",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 436,
+    "memberCount": 436,
+    "publishedReviewsCount": 1,
+    "reviewsAverage": 5.0,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 30.0,
+    "createdAt": 1731953344,
+    "discoverableAt": 1746050950,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2024-11-28/user_7278735_cf56815c-7af6-4b6c-946a-06afedc654c2.png"
+     }
+    ],
+    "company": {
+     "id": "biz_CPQWhQxYBroHsv",
+     "route": "agentattraction-io",
+     "title": "Agentattraction.io",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_xL94DqPhr3CWP",
+     "formattedPrice": "$1,066.67 / 108 days",
+     "formattedPeriodV2": "/ 108 days",
+     "rawInitialPrice": 0.0,
+     "rawRenewalPrice": 1066.67,
+     "baseCurrency": "usd",
+     "planType": "renewal",
+     "billingPeriod": 108,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 4,
+   "previousRank": 56,
+   "currentScore": 0.0,
+   "previousScore": 0.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_l8EGokTJFlUM2",
+    "title": "Creators Corner ",
+    "route": "creators-corner-c9",
+    "headline": "Unlock Your Creative Potential",
+    "shortenedDescription": "Creators Corner is your gateway to enhancing creativity and innovation. Join a community of like-minded individuals and access resources to fuel your creative journey.",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "affiliate_marketing_training",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 0,
+    "memberCount": 0,
+    "publishedReviewsCount": 24,
+    "reviewsAverage": 4.96,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 30.0,
+    "createdAt": 1729695607,
+    "discoverableAt": 1781802738,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/user_4356338/image/access_passes/2026-03-16/38c8c0ca-e852-4980-9d52-1c2ad3b06c04.jpeg"
+     }
+    ],
+    "company": {
+     "id": "biz_wD16sqUApWRUs6",
+     "route": "creators-corner-c9",
+     "title": "Creators Corner",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_iwEOjvEce1pOA",
+     "formattedPrice": "$875.00",
+     "formattedPeriodV2": "one-time purchase",
+     "rawInitialPrice": 875.0,
+     "rawRenewalPrice": 0.0,
+     "baseCurrency": "usd",
+     "planType": "one_time",
+     "billingPeriod": null,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 5,
+   "previousRank": 1,
+   "currentScore": 0.0,
+   "previousScore": 0.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_E6hjkATRuWdcR",
+    "title": "ZTH Player Accelerator",
+    "route": "zth-training",
+    "headline": "Sign for a pro academy in 30 days or less",
+    "shortenedDescription": "Join ZTH Training to build your skills with courses, interviews, and pro academy insights. Perfect your game with tailored programs and coaching.",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "soccer",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 5359,
+    "memberCount": 5359,
+    "publishedReviewsCount": 161,
+    "reviewsAverage": 4.91,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 30.0,
+    "createdAt": 1712357201,
+    "discoverableAt": 1728329611,
+    "logo": null,
+    "images": [],
+    "company": {
+     "id": "biz_IwpHMLqTmEeaKG",
+     "route": "zth-training",
+     "title": "ZTH Training",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_GmMHhAbX0Ticd",
+     "formattedPrice": "$378.09 / 6-months",
+     "formattedPeriodV2": "/ 6 months",
+     "rawInitialPrice": 0.0,
+     "rawRenewalPrice": 378.09,
+     "baseCurrency": "usd",
+     "planType": "renewal",
+     "billingPeriod": 180,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 6,
+   "previousRank": null,
+   "currentScore": 0.0,
+   "previousScore": 0.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_mJWvsFycvmoAj",
+    "title": "Info Scalers",
+    "route": "info-scaler-1",
+    "headline": "",
+    "shortenedDescription": "Info Scaler offers expert DFY services to streamline your operations, scale efficiently, and unlock your business’s full potential.",
+    "accessPassType": "regular",
+    "businessType": "services",
+    "industryType": "info_business_scaling",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 12,
+    "memberCount": 12,
+    "publishedReviewsCount": 1,
+    "reviewsAverage": 5.0,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 30.0,
+    "createdAt": 1738698987,
+    "discoverableAt": 1746208806,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/user_7956369/image/bots/2026-07-02/6b789a11-6f03-4f15-9093-c16a072e9705.png"
+     }
+    ],
+    "company": {
+     "id": "biz_eNVlHqyE0kL5Ji",
+     "route": "info-scaler-1",
+     "title": "Info Scalers",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_FyfOubdsg5lHQ",
+     "formattedPrice": "$3,000.00",
+     "formattedPeriodV2": "one-time purchase",
+     "rawInitialPrice": 3000.0,
+     "rawRenewalPrice": 0.0,
+     "baseCurrency": "usd",
+     "planType": "one_time",
+     "billingPeriod": null,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 7,
+   "previousRank": 6,
+   "currentScore": 0.0,
+   "previousScore": 0.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_c7huJ04euTFTV",
+    "title": "DreamsBets VIP",
+    "route": "dreamsbets",
+    "headline": "Sharpest Sports Betting Group",
+    "shortenedDescription": "Speedrun/Challenge King 👑\nHelp people turn $100 to $1,000 Everyday 🔮 \ncompleted 100+ challenges in 2026 🤑\nWorlds First $100 to $100,000 Challenge ✅",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "sports_betting_picks",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 225,
+    "memberCount": 225,
+    "publishedReviewsCount": 242,
+    "reviewsAverage": 4.82,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 10.0,
+    "createdAt": 1687384633,
+    "discoverableAt": 1728329611,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/images/images/39924.original.jpeg"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/user_1309164/image/bots/2026-07-19/e0983910-8590-495e-b9a8-20ebcbd13071.png"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-03-26/user_1309164_38ce49a1-db49-4603-a8bc-f7957eabeff5.jpeg"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/user_1309164/image/bots/2026-07-19/238a513b-9dd1-47f8-96da-2a3e8e824715.JPG"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-03-26/user_1309164_0223e7bf-ea04-4982-b987-8e7a1a9aeede.jpeg"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-03-26/user_1309164_05115019-63ff-411d-9c33-15440173cea7.jpeg"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-03-26/user_1309164_8208d456-4ac9-494b-b8cc-cf05e7d46de7.jpeg"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-03-26/user_1309164_13f6f416-60b1-461b-a586-2446393d27d9.jpeg"
+     }
+    ],
+    "company": {
+     "id": "biz_qCh4zvDzJZB3iK",
+     "route": "dreamsbets",
+     "title": "DreamsBets",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_567zlWl4PYCj3",
+     "formattedPrice": "$39.99 / week",
+     "formattedPeriodV2": "/ week",
+     "rawInitialPrice": 0.0,
+     "rawRenewalPrice": 39.99,
+     "baseCurrency": "usd",
+     "planType": "renewal",
+     "billingPeriod": 7,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 8,
+   "previousRank": null,
+   "currentScore": 0.0,
+   "previousScore": 0.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_gyUuqUzCcX6gI",
+    "title": "MTC Market Mastery",
+    "route": "mtc-market-mastery",
+    "headline": "Learn how to Build Wealth with Options Trading",
+    "shortenedDescription": "**A full Mastermind Program designed to help you achieve more financial, time &amp; location freedoms**",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "options_trading",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 98,
+    "memberCount": 98,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": 0.0,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 30.0,
+    "createdAt": 1745976520,
+    "discoverableAt": 1755387069,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-07-23/user_1317806_5dd37fad-b65a-4f28-b916-785a29db7291.jpeg"
+     }
+    ],
+    "company": {
+     "id": "biz_f9xaKHT8jxXJHp",
+     "route": "mtc-market-mastery",
+     "title": "MTC Market Mastery",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_5ZzgafljBWR2W",
+     "formattedPrice": "$1.00",
+     "formattedPeriodV2": "one-time purchase",
+     "rawInitialPrice": 1.0,
+     "rawRenewalPrice": 0.0,
+     "baseCurrency": "usd",
+     "planType": "one_time",
+     "billingPeriod": null,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 9,
+   "previousRank": 119,
+   "currentScore": 0.0,
+   "previousScore": 0.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_bdD4OA6yZ0fcq",
+    "title": "Creator / LIVE Blueprint",
+    "route": "media-labs",
+    "headline": "Join Media Labs and Start Earning",
+    "shortenedDescription": "Helping thousands quit their jobs by making 60-second videos and earning thousands monthly. Connect with brands easily.",
+    "accessPassType": "regular",
+    "businessType": "services",
+    "industryType": "influencer_marketing",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 2278,
+    "memberCount": 2278,
+    "publishedReviewsCount": 183,
+    "reviewsAverage": 4.84,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": true,
+    "hasPaidAvailablePlan": false,
+    "globalAffiliatePercentage": 30.0,
+    "createdAt": 1713056622,
+    "discoverableAt": 1772811724,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2024-12-02/user_6083186_53bda3b9-e74b-4daa-8ecf-125d8094a677.qt"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-02-03/user_1222239_724964f5-47b5-48c6-999b-660a5e27b66d.jpeg"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-02-03/user_1222239_585f7755-a1e4-4efb-ab80-1f27aef695a0.jpeg"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-02-03/user_1222239_01453c54-364c-4caa-987d-c8a5d299812f.jpeg"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-02-03/user_1222239_d12f16ea-5516-4502-88ad-2a6b3436c1cb.jpeg"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-02-03/user_1222239_77f13f90-7602-4507-9e08-67d311b049e9.jpeg"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-02-03/user_1222239_cdf28a49-a344-48cc-bc06-cecc6632c081.jpeg"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-02-03/user_1222239_a05cfe1f-9d8c-4b98-8a6e-fcb7eeaa2bda.jpeg"
+     }
+    ],
+    "company": {
+     "id": "biz_1ysCYHtqs0uGt3",
+     "route": "media-labs",
+     "title": "MediaLabs - a UGC Agency",
+     "verified": false
+    },
+    "defaultPlan": null
+   },
+   "user": null
+  },
+  {
+   "currentRank": 10,
+   "previousRank": 4,
+   "currentScore": 0.0,
+   "previousScore": 0.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_G8CNtn0islY7h",
+    "title": "KingCapSports Full Access",
+    "route": "fullaccesscheckout",
+    "headline": "The Best Premium Sports Information Available",
+    "shortenedDescription": "3000+ 5 Star Reviews ⭐️⭐️⭐️⭐️⭐️  \nProviding the best premium sports information since 2012. Follow @KingCap702 on Instagram for FREE daily insight!",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "sports_betting_picks",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 994,
+    "memberCount": 994,
+    "publishedReviewsCount": 3966,
+    "reviewsAverage": 4.78,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 0.0,
+    "createdAt": 1716396689,
+    "discoverableAt": 1752772075,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2024-12-25/user_2257209_bceff3e6-6e4a-4012-b875-5ed689ef80e1.mp4"
+     }
+    ],
+    "company": {
+     "id": "biz_Cv6mip3HVc2iIQ",
+     "route": "kingcapsports",
+     "title": "KingCapSports",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_1Ifrf5QCxb8dg",
+     "formattedPrice": "$50.00",
+     "formattedPeriodV2": "for 1 day",
+     "rawInitialPrice": 50.0,
+     "rawRenewalPrice": 0.0,
+     "baseCurrency": "usd",
+     "planType": "one_time",
+     "billingPeriod": null,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 11,
+   "previousRank": 10,
+   "currentScore": 0.0,
+   "previousScore": 0.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_UzIpfrCaGvdqD",
+    "title": "Elite Options Pro",
+    "route": "elite-options",
+    "headline": "Master Day Trading with Elite Strategies and Insights",
+    "shortenedDescription": "Unlock your full potential in options trading with exclusive insights, expert strategies, and a supportive community aimed at maximizing your success.",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "options_trading",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 1466,
+    "memberCount": 1466,
+    "publishedReviewsCount": 1453,
+    "reviewsAverage": 4.88,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 10.0,
+    "createdAt": 1726540122,
+    "discoverableAt": 1758050526,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-02-25/user_6575470_bf9d6bd0-5d44-4dfe-9c21-a89f8408f809.mp4"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2024-12-09/user_6575470_b729f8aa-54d3-409e-a3e5-2d402eb29e30.mp4"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2024-12-11/user_6575470_33f9da82-a7b5-440b-90f1-b7d94d32e1ca.mp4"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2024-12-11/user_6575470_29a1e60a-3440-41a9-94c8-c97a343fa7a6.mp4"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2024-12-11/user_6575470_4ac469c0-2ecf-47d0-9f3e-476a6f7755e4.mp4"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2024-12-11/user_6575470_2fb56d69-1d13-41ac-8f57-a5ebe04a83d0.mp4"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2024-12-11/user_6575470_612d8149-6dc8-4673-af96-6edeba6c1bf8.mp4"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2024-12-11/user_6575470_df7d67ad-70ee-4388-8095-eeeb05b82912.mp4"
+     }
+    ],
+    "company": {
+     "id": "biz_zh2Uiu0fXhimUj",
+     "route": "elite-options",
+     "title": "Elite Options Trader",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_7dRK7eAvsc0vQ",
+     "formattedPrice": "$189.00 / month",
+     "formattedPeriodV2": "/ month",
+     "rawInitialPrice": 0.0,
+     "rawRenewalPrice": 189.0,
+     "baseCurrency": "usd",
+     "planType": "renewal",
+     "billingPeriod": 30,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 12,
+   "previousRank": 9,
+   "currentScore": 0.0,
+   "previousScore": 0.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_zRugremqdLV9A",
+    "title": "Pro",
+    "route": "heatseeker",
+    "headline": "Every Skylit tool, on 5,000+ tickers, with 1:1 support.",
+    "shortenedDescription": "Pro is the full Skylit suite.\n\nEverything in Initiate, plus:\n- Heatseeker on 5,000+ tickers\n- Atlas: charting with Heatseeker and Flowseeker on your chart\n- Talon: your AI trading copilot\n- Tempest: the volatility suite (beta)\n- 100,000 monthly API credits for the Skylit API and MCP\n- 1:1 Success Sessions with the Trader Success team\n- Arc: coming in Q4\n\nYou also get the Skylit Discord, the Heatseeker Bot, Flowseeker, Nexus, Live Stages with screen viewing, and Skylit Academy.\n\nWorks on desktop and mobile, and there's a Mac desktop app (beta).",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "options_trading",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 0,
+    "memberCount": 0,
+    "publishedReviewsCount": 573,
+    "reviewsAverage": 4.87,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 15.0,
+    "createdAt": 1747832947,
+    "discoverableAt": 1747843578,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2026-09-30/6b4f2098-2b8b-4db6-8c5f-34682bd95b1f/image.jpg"
+     }
+    ],
+    "company": {
+     "id": "biz_JpZKXtEOk1jdgX",
+     "route": "heatseeker",
+     "title": "Skylit",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_DhhMYEY7OoBIk",
+     "formattedPrice": "$699.00 / month",
+     "formattedPeriodV2": "/ month",
+     "rawInitialPrice": 0.0,
+     "rawRenewalPrice": 699.0,
+     "baseCurrency": "usd",
+     "planType": "renewal",
+     "billingPeriod": 30,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 13,
+   "previousRank": 367,
+   "currentScore": 0.0,
+   "previousScore": 0.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_bN7GnUJtjdUxU",
+    "title": "La Meute | Écosystème E-Commerce ",
+    "route": "la-meute-ecosysteme-e-commerce",
+    "headline": "Construis et scale ta boutique e-commerce SEO/SEA. ",
+    "shortenedDescription": "**Ce que tu débloques aujourd’hui**\n\nUne formation e-commerce complète pour **construire et scaler une boutique rentable avec le SEO et le SEA**, étape par étape.\n\n\n\nTu accèdes à **tout l’écosystème La Meute** :\n\n• Deux formations ultra-complètes\n\n• Accompagnement step-by-step\n\n• +5 formateurs expérimentés\n\n• Audit au lancement de ta boutique\n\n• Outils et contacts introuvables ailleurs\n\n• Groupe privé entre frères\n\n• Lives avec des invités d’exception\n\n• Stratégie claire à appliquer\n\n\n\n&nbsp;\n\n**Formation principale : méthode SEO**\n\nConstruire un business durable grâce au trafic SEO et à une vraie marque.\n\n\n\nModules inclus :\n\n• Introduction\n\n• État d’Esprit & Organisation\n\n• Fiscalité\n\n• Recherche de Niche\n\n• Sourcing\n\n• Marketing & Persona\n\n• SEO On-Site\n\n• Configuration de la Boutique\n\n• Blogs\n\n• Netlinking (SEO Off-Site)\n\n• Google Ads\n\n• Email Marketing\n\n• Pinterest Ads\n\n• Marketing d’Influence\n\n• Passage en stock\n\n• Nouvel An Chinois\n\n• Build in Public\n\n• Rediffusions des lives\n\n• Règles islamiques du commerce\n\n\n\n&nbsp;\n\n**Deuxième formation incluse : Google Ads**\n\nPensée pour **générer du cash plus rapidement** avec la publicité.\n\n\n\nModules :\n\n• Introduction\n\n• Mindset & Organisation\n\n• Fiscalité\n\n• Recherche de niche SEA\n\n• Sourcing\n\n• Marketing & Persona\n\n• Intelligence Artificielle\n\n• Configuration boutique\n\n• Google Ads\n\n• Retargeting\n\n• Email Marketing\n\n• Marketing d’influence\n\n• Passage en marque",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "dropshipping_business_training",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 0,
+    "memberCount": 0,
+    "publishedReviewsCount": 1,
+    "reviewsAverage": 5.0,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 15.0,
+    "createdAt": 1773216725,
+    "discoverableAt": 1790349010,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/user_23736756/image/bots/2026-03-22/6a09b397-f46d-489b-8a1b-faf132a41d01.png"
+     }
+    ],
+    "company": {
+     "id": "biz_LyrWRsySxzC48Q",
+     "route": "cofounders-limited",
+     "title": "La Meute Écosystème",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_zP5X3S4qQGspV",
+     "formattedPrice": "€600.00 / month",
+     "formattedPeriodV2": "/ month",
+     "rawInitialPrice": 0.0,
+     "rawRenewalPrice": 600.0,
+     "baseCurrency": "eur",
+     "planType": "renewal",
+     "billingPeriod": 30,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 14,
+   "previousRank": null,
+   "currentScore": 0.0,
+   "previousScore": 0.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_EmKNma2GWaRlD",
+    "title": "Cash Flow Content",
+    "route": "cash-flow-content-de",
+    "headline": "Cash Flow Content Founding Member",
+    "shortenedDescription": "The founding member rate will never again be available. This rate will be grandfathered for all founding members.",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "organic_social_media_marketing_training",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 133,
+    "memberCount": 133,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": 0.0,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 30.0,
+    "createdAt": 1786119280,
+    "discoverableAt": 1786119586,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/user_6478919/image/bots/2026-08-07/7bba6f16-fc34-4525-bb33-4f84173de806.png"
+     }
+    ],
+    "company": {
+     "id": "biz_TS4tl6DagMEcx7",
+     "route": "cash-flow-content",
+     "title": "Cash Flow Content",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_jyGRzmVVqgGjJ",
+     "formattedPrice": "$2,000.00",
+     "formattedPeriodV2": "one-time purchase",
+     "rawInitialPrice": 2000.0,
+     "rawRenewalPrice": 0.0,
+     "baseCurrency": "usd",
+     "planType": "one_time",
+     "billingPeriod": null,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 15,
+   "previousRank": 17,
+   "currentScore": 0.0,
+   "previousScore": 0.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_mXq3xhSiKLLn1",
+    "title": "Pompa Program - Split It",
+    "route": "pompa-program",
+    "headline": "We EMPOWER People to Get Their Lives Back!",
+    "shortenedDescription": "Struggling with unexplained symptoms? Pompa Program offers expert health coaching, nutrition guidance, and proven strategies to help you heal and thrive—just like Dr. Pompa did.",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "detox_programs",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 0,
+    "memberCount": 0,
+    "publishedReviewsCount": 5,
+    "reviewsAverage": 2.8,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 30.0,
+    "createdAt": 1734024310,
+    "discoverableAt": 1767647178,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-01-07/user_7673847_ea1cbd98-52b8-43fc-ae97-32bdb5cf89ca.jpeg"
+     }
+    ],
+    "company": {
+     "id": "biz_XILigMh0x5izWV",
+     "route": "pompa-program",
+     "title": "Pompa Program",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_BK4ISumiUri9i",
+     "formattedPrice": "$10.00",
+     "formattedPeriodV2": "one-time purchase",
+     "rawInitialPrice": 10.0,
+     "rawRenewalPrice": 0.0,
+     "baseCurrency": "usd",
+     "planType": "one_time",
+     "billingPeriod": null,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 16,
+   "previousRank": 239,
+   "currentScore": 0.0,
+   "previousScore": 0.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_2VCGCKjYd8kfS",
+    "title": "CRYPTO POWER ACADEMY",
+    "route": "tecnologia-segreta",
+    "headline": "Tecnologia Segreta",
+    "shortenedDescription": "Scopri l’unico strumento semi-automatizzato per poter operare sui mercati finanziari con pochi minuti al giorno…\n\nIl tutto mentre vieni guidato passo dopo passo, per sfruttare al meglio questa nuova, potentissima tecnologia e portare il tuo trading al massimo livello!\n",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "crypto_trading",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 0,
+    "memberCount": 0,
+    "publishedReviewsCount": 12,
+    "reviewsAverage": 4.83,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 10.0,
+    "createdAt": 1760384891,
+    "discoverableAt": 1767695872,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-10-22/user_6123946_6a79fb31-f651-4d53-88f8-0af80a7de5c3.mp4"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-10-17/user_18191538_24881cfe-0601-4ef9-a655-ea827d0d1eb2.png"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-10-22/user_6123946_316b9e04-1e61-40de-b025-158089b9c645.mp4"
+     }
+    ],
+    "company": {
+     "id": "biz_xAaKzpzchB91a0",
+     "route": "cpacademy",
+     "title": "CRYPTO POWER ACADEMY",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_8x05YPwzFf0VW",
+     "formattedPrice": "€1.00",
+     "formattedPeriodV2": "one-time purchase",
+     "rawInitialPrice": 1.0,
+     "rawRenewalPrice": 0.0,
+     "baseCurrency": "eur",
+     "planType": "one_time",
+     "billingPeriod": null,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 17,
+   "previousRank": 16,
+   "currentScore": 0.0,
+   "previousScore": 0.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_4OF1AsqnKF8LW",
+    "title": "Sartori Accademy",
+    "route": "percorso-di-formazione",
+    "headline": "Percorso di formazione nel settore E-commerce",
+    "shortenedDescription": "Impara a creare e gestire un negozio digitale di successo con strategie pratiche e strumenti professionali. Dalla scelta della piattaforma (ad esempio Shopify) al marketing digitale, scoprirai come attrarre clienti, aumentare le vendite e fidelizzare il tuo pubblico. Il corso ti guida passo dopo passo nella costruzione di un brand online efficace, con esempi reali e casi di successo. Ideale per imprenditori, freelance e chi vuole avviare un’attività online",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "dtc_brand_business_training",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 1555,
+    "memberCount": 1555,
+    "publishedReviewsCount": 1,
+    "reviewsAverage": 5.0,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 30.0,
+    "createdAt": 1759392574,
+    "discoverableAt": 1767642450,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-10-07/user_18011631_57610224-0208-44bf-b203-34337cd6b64d.png"
+     }
+    ],
+    "company": {
+     "id": "biz_zRZxXI1Yw22OgH",
+     "route": "xecom-consulting-llc",
+     "title": "SARTORI HOLDING",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_XNb2IQBOB1gCa",
+     "formattedPrice": "€50.00",
+     "formattedPeriodV2": "one-time purchase",
+     "rawInitialPrice": 50.0,
+     "rawRenewalPrice": 0.0,
+     "baseCurrency": "eur",
+     "planType": "one_time",
+     "billingPeriod": null,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 18,
+   "previousRank": 18,
+   "currentScore": 0.0,
+   "previousScore": 0.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_hLzSZejTp45Jp",
+    "title": "Stock Talk Insiders",
+    "route": "stocktalk",
+    "headline": "One-Stop Shop for Trading & Investing - 50+ Years Experience",
+    "shortenedDescription": "Stock Talk Insiders is a professional trading &amp; investing community brought to you by @stocktalkweekly on X (followed by Elon Musk, Fortune 500 CEOs, and U.S. congresspeople). Every entry, exit, weighting, and research thesis shared transparently. Our expert analyst team has 50+ years of combined experience.",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "stock_trading",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 0,
+    "memberCount": 0,
+    "publishedReviewsCount": 753,
+    "reviewsAverage": 4.85,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 15.0,
+    "createdAt": 1704527134,
+    "discoverableAt": 1728329611,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/images/images/22312.original.jpeg"
+     }
+    ],
+    "company": {
+     "id": "biz_0tXTxxxrWbJJrT",
+     "route": "stocktalk",
+     "title": "Stock Talk Insiders Trading Club",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_mh67D76NXqxlP",
+     "formattedPrice": "$179.00 / month",
+     "formattedPeriodV2": "/ month",
+     "rawInitialPrice": 0.0,
+     "rawRenewalPrice": 179.0,
+     "baseCurrency": "usd",
+     "planType": "renewal",
+     "billingPeriod": 30,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 19,
+   "previousRank": null,
+   "currentScore": 0.0,
+   "previousScore": 0.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_g1Ebz0I6E7aEG",
+    "title": "Blue Edge Financial",
+    "route": "blue-edge-financial-9b",
+    "headline": "Use AI to trade profitably! ",
+    "shortenedDescription": "Plug in our AI trading bot to trade profitably!  No fake hype, no lambos, just making higher lows with low risk investment strategy. The best part? It's all done automatically, just add to your brokerage account! ",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "forex_trading",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 0,
+    "memberCount": 0,
+    "publishedReviewsCount": 1,
+    "reviewsAverage": 5.0,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 10.0,
+    "createdAt": 1762195401,
+    "discoverableAt": 1778496512,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-12-16/user_6123946_7164428e-0a02-40a6-bf9f-825f72b4bec2.png"
+     }
+    ],
+    "company": {
+     "id": "biz_xBuyUIPFo74byD",
+     "route": "blue-edge-financial",
+     "title": "Blue Edge Financial",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_bppP2yjQQOAOA",
+     "formattedPrice": "$14,997.00",
+     "formattedPeriodV2": "one-time purchase",
+     "rawInitialPrice": 14997.0,
+     "rawRenewalPrice": 0.0,
+     "baseCurrency": "usd",
+     "planType": "one_time",
+     "billingPeriod": null,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 19,
+   "previousRank": 30,
+   "currentScore": 0.0,
+   "previousScore": 0.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_pCQbAVORo8pXw",
+    "title": "MGC (EU)",
+    "route": "mgc-eu",
+    "headline": "I help people market their business using Instagram.",
+    "shortenedDescription": "Scale your online coaching business",
+    "accessPassType": "regular",
+    "businessType": "services",
+    "industryType": "management_consulting",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 165,
+    "memberCount": 165,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": 0.0,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 30.0,
+    "createdAt": 1738287664,
+    "discoverableAt": 1767809967,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-04-19/user_7881619_3bd53df7-f628-4f6e-855d-b86d3c7e1a5d.jpeg"
+     }
+    ],
+    "company": {
+     "id": "biz_InThewIxKf1NIP",
+     "route": "mgc-eu",
+     "title": "Client Acquisition Systems LLC (EU)",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_LMo1n1ggQ1jmJ",
+     "formattedPrice": "$1,000.00",
+     "formattedPeriodV2": "one-time purchase",
+     "rawInitialPrice": 1000.0,
+     "rawRenewalPrice": 0.0,
+     "baseCurrency": "usd",
+     "planType": "one_time",
+     "billingPeriod": null,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 20,
+   "previousRank": null,
+   "currentScore": 0.0,
+   "previousScore": 0.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_v50hpQvkmyonD",
+    "title": "7 Figure Runway Membership",
+    "route": "7-figure-runway-membership",
+    "headline": "Build a Consistent, Predictable, Profitable Real Estate Investing Business",
+    "shortenedDescription": "This is a LIFETIME step-by-step program, which means you’ll be working with us for a full year to implement each piece of the Runway system into your own business. Get ready to take massive action!",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "house_flipping",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 356,
+    "memberCount": 356,
+    "publishedReviewsCount": 1,
+    "reviewsAverage": 5.0,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 0.0,
+    "createdAt": 1755653138,
+    "discoverableAt": 1792779872,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2026-09-15/667ea6d3-bedc-4fbc-9dd4-97c483c05e76/image.png"
+     }
+    ],
+    "company": {
+     "id": "biz_HK4AKJBbE8MRvN",
+     "route": "7ff",
+     "title": "7 Figure Flipping",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_yfUxJTCn6SdY7",
+     "formattedPrice": "$7,997.00",
+     "formattedPeriodV2": "one-time purchase",
+     "rawInitialPrice": 7997.0,
+     "rawRenewalPrice": 0.0,
+     "baseCurrency": "usd",
+     "planType": "one_time",
+     "billingPeriod": null,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 21,
+   "previousRank": 52,
+   "currentScore": 0.0,
+   "previousScore": 0.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_2UljWyeJt7xgY",
+    "title": "TMS+ VIP 🏆",
+    "route": "tms-plus",
+    "headline": "🥇 Whop's #1 Most Reviewed Sports Betting Group ",
+    "shortenedDescription": "Enjoy one free day of TMS+ on the house!",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "sports_betting_picks",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 0,
+    "memberCount": 0,
+    "publishedReviewsCount": 5492,
+    "reviewsAverage": 4.78,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 0.0,
+    "createdAt": 1733268505,
+    "discoverableAt": 1746539054,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/user_2338690/image/access_passes/2025-12-24/c995aa66-1ce0-403f-aa8a-100a49487a47.png"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2024-12-02/user_1164981_8b475352-0950-433b-8a63-7e37627445d5.jpeg"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-11-12/user_1164981_6acf8330-153a-43b4-a45c-bdb73cba4bc8.qt"
+     }
+    ],
+    "company": {
+     "id": "biz_kQotVtxrJkTjcv",
+     "route": "trustmysystem",
+     "title": "Trust My System",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_fnrHIxRlN23Wg",
+     "formattedPrice": "$49.99 / week",
+     "formattedPeriodV2": "/ week",
+     "rawInitialPrice": 0.0,
+     "rawRenewalPrice": 49.99,
+     "baseCurrency": "usd",
+     "planType": "renewal",
+     "billingPeriod": 7,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": 1
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 22,
+   "previousRank": null,
+   "currentScore": 0.0,
+   "previousScore": 0.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_S0VC3N9e7318Q",
+    "title": "Grow Channels Accelerator",
+    "route": "grow-channels",
+    "headline": "Achieve Passive Income with YouTube Automation!",
+    "shortenedDescription": "Learn how to make passive income on YouTube without creating videos or showing your face. Join 4,000+ students mastering automation.",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "faceless_content_business_training",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 0,
+    "memberCount": 0,
+    "publishedReviewsCount": 5,
+    "reviewsAverage": 5.0,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 30.0,
+    "createdAt": 1730902647,
+    "discoverableAt": 1767642226,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2024-11-25/user_6684692_26afe3b3-ca6a-4a56-a138-ed1e05e51eb2.png"
+     }
+    ],
+    "company": {
+     "id": "biz_SmnIvChnniF1Wf",
+     "route": "grow-channels",
+     "title": "Grow Channels",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_gZxs26SrDBX78",
+     "formattedPrice": "$800.00",
+     "formattedPeriodV2": "one-time purchase",
+     "rawInitialPrice": 800.0,
+     "rawRenewalPrice": 0.0,
+     "baseCurrency": "usd",
+     "planType": "one_time",
+     "billingPeriod": null,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 23,
+   "previousRank": 11,
+   "currentScore": 0.0,
+   "previousScore": 0.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_u2dEA67G7ebnz",
+    "title": "PJ Trades Premium",
+    "route": "pjtradespremium",
+    "headline": "Learn To Become A Profitable Futures Trader",
+    "shortenedDescription": "Join PJ Trades and trade alongside a 9-year pro! Get real-time trading guidance, exclusive insights, proven strategies, PJ’s Starter Crash Course, and access to prop firm giveaways",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "futures_trading",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 2264,
+    "memberCount": 2264,
+    "publishedReviewsCount": 2691,
+    "reviewsAverage": 4.96,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 10.0,
+    "createdAt": 1734134885,
+    "discoverableAt": 1742902785,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-03-12/user_7691008_b3e1794c-ad22-49bf-bedb-4cf1a13bb654.mp4"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-06-06/user_7691008_93ba4c04-3996-4c2c-9960-41d7548a38e7.jpeg"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-06-06/user_7691008_31b2229e-d160-4129-b4ee-a06a7e2eaeed.jpeg"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-06-06/user_7691008_029a9f93-a6fe-4b38-b3ce-66766943c7b0.jpeg"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-06-06/user_7691008_5ebace82-914d-4006-8739-3009d7de7b3b.jpeg"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-06-06/user_7691008_9c264f42-3caf-4008-b864-33dcfab8378a.jpeg"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-06-06/user_7691008_f06a515c-48c6-4f95-8eb3-a2f1684b269b.jpeg"
+     }
+    ],
+    "company": {
+     "id": "biz_DwsyX7ipNJ25vA",
+     "route": "pjtradespremium",
+     "title": "PJ Trades",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_ak6V0SKRzkHA0",
+     "formattedPrice": "$100.00 / month",
+     "formattedPeriodV2": "/ month",
+     "rawInitialPrice": 0.0,
+     "rawRenewalPrice": 100.0,
+     "baseCurrency": "usd",
+     "planType": "renewal",
+     "billingPeriod": 30,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 24,
+   "previousRank": 22,
+   "currentScore": 0.0,
+   "previousScore": 0.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_cZGAPDSdEODwd",
+    "title": "ALL LOCKS HERE 👑",
+    "route": "sb-locks-community",
+    "headline": "LET’S EAT 🍽️ ",
+    "shortenedDescription": "Here I drop all my locks & free plays 💰",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "sports_betting_picks",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 0,
+    "memberCount": 0,
+    "publishedReviewsCount": 738,
+    "reviewsAverage": 4.88,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": true,
+    "hasPaidAvailablePlan": false,
+    "globalAffiliatePercentage": 30.0,
+    "createdAt": 1777046924,
+    "discoverableAt": 1777049073,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/user_20179681/image/access_passes/2026-04-24/3ada366b-ada7-46e5-a162-2507c83f4546.jpeg"
+     }
+    ],
+    "company": {
+     "id": "biz_JzeAPnRiHrRcMB",
+     "route": "sb-locks-d8aa",
+     "title": "SB LOCKS 🔐",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_fT9msY0l0l8WZ",
+     "formattedPrice": "Free",
+     "formattedPeriodV2": "one-time purchase",
+     "rawInitialPrice": 0.0,
+     "rawRenewalPrice": 0.0,
+     "baseCurrency": "usd",
+     "planType": "one_time",
+     "billingPeriod": null,
+     "releaseMethod": "buy_now",
+     "free": true,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 25,
+   "previousRank": null,
+   "currentScore": 0.0,
+   "previousScore": 0.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_rkvLY7abG3BkY",
+    "title": "Doctor Customized Plan (DCP)",
+    "route": "day-0-full-package",
+    "headline": "NanoScan, DCP & 5 Visits",
+    "shortenedDescription": "The NanoScan hair test including 3 profiles (toxicity, pathogen and hormone reactivity levels), plus 5 doctor consultations and the full customized program with calendar. ",
+    "accessPassType": "regular",
+    "businessType": "services",
+    "industryType": "functional_medicine",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 1358,
+    "memberCount": 1358,
+    "publishedReviewsCount": 3,
+    "reviewsAverage": 5.0,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 30.0,
+    "createdAt": 1763409080,
+    "discoverableAt": 1767645033,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-11-17/user_19444363_3ee47a3e-cc43-4ca6-89cb-d77e5926cf1a.jpeg"
+     }
+    ],
+    "company": {
+     "id": "biz_PzwlZX3pAm4YA2",
+     "route": "alternacare-holistic-healthcare",
+     "title": "Alternacare Holistic Healthcare",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_29GC1ih746eiC",
+     "formattedPrice": "$1,260.00",
+     "formattedPeriodV2": "one-time purchase",
+     "rawInitialPrice": 1260.0,
+     "rawRenewalPrice": 0.0,
+     "baseCurrency": "usd",
+     "planType": "one_time",
+     "billingPeriod": null,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 26,
+   "previousRank": null,
+   "currentScore": 0.0,
+   "previousScore": 0.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_6wOcFlrCDRv5j",
+    "title": "Consulting Protocol",
+    "route": "consulting-protocol",
+    "headline": "Helping you end the cycle",
+    "shortenedDescription": "We help you end this cycle for good.",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "addiction_recovery",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 74,
+    "memberCount": 74,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": 0.0,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 30.0,
+    "createdAt": 1744661857,
+    "discoverableAt": 1785427302,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-04-14/user_13039149_40465bb3-b04e-47ab-9176-12a0b7be0fe7.jpeg"
+     }
+    ],
+    "company": {
+     "id": "biz_pcuQb79CVYCLQE",
+     "route": "consulting-protocol",
+     "title": "Consulting Protocol",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_ULPIB1xQw9Bth",
+     "formattedPrice": "$4,000.00",
+     "formattedPeriodV2": "one-time purchase",
+     "rawInitialPrice": 4000.0,
+     "rawRenewalPrice": 0.0,
+     "baseCurrency": "usd",
+     "planType": "one_time",
+     "billingPeriod": null,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 27,
+   "previousRank": null,
+   "currentScore": 0.0,
+   "previousScore": 0.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_M87a95OaV7sPa",
+    "title": "The Boardroom",
+    "route": "mogul-lifestyle",
+    "headline": "The Boardroom",
+    "shortenedDescription": "Learn how to buy a cashflowing business with little to no money down strategies",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "business_acquisition",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 78,
+    "memberCount": 78,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": 0.0,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 30.0,
+    "createdAt": 1736271399,
+    "discoverableAt": 1781553869,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-01-08/user_8030765_dac34ff9-0ab7-4cd7-9701-cf8d7b98334e.qt"
+     }
+    ],
+    "company": {
+     "id": "biz_0eFxXUVxq1omWA",
+     "route": "mogul-lifestyle",
+     "title": "Mogul Lifestyle ",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_nfuJfeIsMeYz4",
+     "formattedPrice": "$500.00",
+     "formattedPeriodV2": "one-time purchase",
+     "rawInitialPrice": 500.0,
+     "rawRenewalPrice": 0.0,
+     "baseCurrency": "usd",
+     "planType": "one_time",
+     "billingPeriod": null,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 28,
+   "previousRank": 20,
+   "currentScore": 0.0,
+   "previousScore": 0.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_3ckmx7Zt0zUlJ",
+    "title": "Wealth Builders Academy",
+    "route": "wealth-builders-academy",
+    "headline": "Become A 6 Figure Broker ",
+    "shortenedDescription": "Tired of trying to figure it all out on your own? Wealth Builders Academy gives you the blueprint to launch, grow, and scale as a broker",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "funding_broker_training",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 0,
+    "memberCount": 0,
+    "publishedReviewsCount": 2,
+    "reviewsAverage": 5.0,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 30.0,
+    "createdAt": 1730076790,
+    "discoverableAt": 1747133354,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-10-28/user_6977979_9704e870-a01f-4aec-81af-0079a630979c.mp4"
+     }
+    ],
+    "company": {
+     "id": "biz_AEcTCbujr236pa",
+     "route": "wealth-builders-academy",
+     "title": "Wealth Builders Academy",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_TfDjA85zM4OXO",
+     "formattedPrice": "$6,000.00",
+     "formattedPeriodV2": "one-time purchase",
+     "rawInitialPrice": 6000.0,
+     "rawRenewalPrice": 0.0,
+     "baseCurrency": "usd",
+     "planType": "one_time",
+     "billingPeriod": null,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 29,
+   "previousRank": 7,
+   "currentScore": 0.0,
+   "previousScore": 0.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_yMTlKiwRIByQJ",
+    "title": "Traders Academy",
+    "route": "crypto-academy",
+    "headline": "Find den strategi og det marked der passer til dig - og lær at leve af det.",
+    "shortenedDescription": "De fleste trading-kurser lærer dig én strategi på ét marked og håber, at det virker for dig. Traders Academy giver dig en komplet værktøjskasse: flere markeder, flere strategier og daglige livestreams - så du finder præcis det setup og det marked, der passer til din hverdag og din personlighed.  \n\n\nDu lærer alt fra bunden: teknisk analyse, price action, funded accounts og trading-psykologi. 86% af vores medlemmer startede uden nogen erfaring.",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "crypto_trading",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 0,
+    "memberCount": 0,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": 0.0,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 10.0,
+    "createdAt": 1742508960,
+    "discoverableAt": 1746514805,
+    "logo": null,
+    "images": [],
+    "company": {
+     "id": "biz_rNA5aeAiOkKCXN",
+     "route": "tradersacademy",
+     "title": "Traders Academy",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_l7gZAiIKD6PMk",
+     "formattedPrice": "€525.00 / month",
+     "formattedPeriodV2": "/ month",
+     "rawInitialPrice": 0.0,
+     "rawRenewalPrice": 525.0,
+     "baseCurrency": "eur",
+     "planType": "renewal",
+     "billingPeriod": 30,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 30,
+   "previousRank": 13,
+   "currentScore": 0.0,
+   "previousScore": 0.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_yrJn9Kp3mBY3Z",
+    "title": "Dr. Profit Premium",
+    "route": "drprofit-trading",
+    "headline": "Join DrProfit Premium",
+    "shortenedDescription": "Premium includes     ⇩\n\n* DrProfit’s personal trades and portfolio updates\n\n* Community chat with 11,000+ members\n\n* Personal Spot & Leverage position updates\n\n* Long-term investment ideas and research\n\n* Short-term trading opportunities\n\n* Market education and analysis\n\n* Market psychology insights\n\n* Updates on key market narratives\n\n* Analysis of market structure and  \ninstitutional activity\n\n* Risk management and hedging strategies\n\n* Real trades explained with their underlying reasoning\n\n* A disciplined approach focused on risk, not gambling\n\n* Educational content to help you become a better trader\n\n* And much more…",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "crypto_trading",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 11265,
+    "memberCount": 11265,
+    "publishedReviewsCount": 1596,
+    "reviewsAverage": 4.83,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 0.0,
+    "createdAt": 1721418480,
+    "discoverableAt": 1786878524,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/user_5858940/video/bots/2026-08-16/fe452c10-546e-4c88-ab96-ffd8928d1cd0.mp4"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2024-07-19/user_4482081_4c55e37d-7827-42e1-a296-5e237f38368d.png"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2024-08-10/user_5858940_3c68ec0c-43f8-4009-b7c9-3823e0d6507c.png"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2024-08-10/user_5858940_0fcface8-32b3-419f-b2f2-5066112db7b3.png"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/user_5858940/image/bots/2026-08-16/313ef0fe-5cba-405c-a5b4-434d3effb378.png"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/user_5858940/image/bots/2026-08-16/15c66102-e09a-4709-aa82-d55ea9989411.png"
+     }
+    ],
+    "company": {
+     "id": "biz_QjrRut72S3H0R6",
+     "route": "drprofit-trading",
+     "title": "Dr. Profit Premium",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_0sFdn8kaYXCoF",
+     "formattedPrice": "$149.00 / month",
+     "formattedPeriodV2": "/ month",
+     "rawInitialPrice": 0.0,
+     "rawRenewalPrice": 149.0,
+     "baseCurrency": "usd",
+     "planType": "renewal",
+     "billingPeriod": 30,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 31,
+   "previousRank": null,
+   "currentScore": 0.0,
+   "previousScore": 0.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_PF2SiBlSFuZ7j",
+    "title": "VIP",
+    "route": "acquisition-accelerator",
+    "headline": "VIP coaching and Retreats",
+    "shortenedDescription": "Retreat hosting and coaching for business owners ",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "business_growth_coaching",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 0,
+    "memberCount": 0,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": 0.0,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 30.0,
+    "createdAt": 1728401777,
+    "discoverableAt": 1776463212,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2024-10-09/user_6377425_31b95939-96fb-4413-ac74-4cb45933051d.png"
+     }
+    ],
+    "company": {
+     "id": "biz_R3m9B58lZQK1Xm",
+     "route": "acquisition-accelerator",
+     "title": "VIP",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_593tGVtIreOhN",
+     "formattedPrice": "$2,500.00",
+     "formattedPeriodV2": "one-time purchase",
+     "rawInitialPrice": 2500.0,
+     "rawRenewalPrice": 0.0,
+     "baseCurrency": "usd",
+     "planType": "one_time",
+     "billingPeriod": null,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 32,
+   "previousRank": 12,
+   "currentScore": 0.0,
+   "previousScore": 0.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_tBeVHFMFQJgom",
+    "title": "Entrepreneur Dinner Club",
+    "route": "edc",
+    "headline": "Meet 10 entrepreneurs in your city every month over dinner.",
+    "shortenedDescription": "Dine with 10 other entrepreneurs in your city every month, matched by our algorithm. Live in Austin, Texas. Join today at entrepreneurdinner.club.",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "mastermind_groups",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 0,
+    "memberCount": 0,
+    "publishedReviewsCount": 12,
+    "reviewsAverage": 3.58,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 25.0,
+    "createdAt": 1740359158,
+    "discoverableAt": 1767643465,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-03-25/user_608504_fe67bcad-83cb-4109-a4fc-6fe5d72c646e.jpeg"
+     }
+    ],
+    "company": {
+     "id": "biz_NnMOG5WgzKOGIk",
+     "route": "edc",
+     "title": "Entrepreneur Dinner Club",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_h1xnobPLQc52K",
+     "formattedPrice": "$49.00 / month",
+     "formattedPeriodV2": "/ month",
+     "rawInitialPrice": 0.0,
+     "rawRenewalPrice": 49.0,
+     "baseCurrency": "usd",
+     "planType": "renewal",
+     "billingPeriod": 30,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 33,
+   "previousRank": 55,
+   "currentScore": 0.0,
+   "previousScore": 0.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_KZ842GVFkJ8fz",
+    "title": "Atlantis Full Service",
+    "route": "atlantis-full-service",
+    "headline": "Willkommen bei Atlantis",
+    "shortenedDescription": "Verknüpfe jetzt noch deinen Whop Account mit Discord indem du Links auf den Reiter \"Discord\" klickst.",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "crypto_trading",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 0,
+    "memberCount": 0,
+    "publishedReviewsCount": 33,
+    "reviewsAverage": 4.85,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 10.0,
+    "createdAt": 1788123993,
+    "discoverableAt": 1792586953,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2026-09-21/5b9c63ee-97aa-4c08-829e-cf5e38116484/image.png"
+     }
+    ],
+    "company": {
+     "id": "biz_xVfzQRfJxtROrx",
+     "route": "atlantis-adrificialjohn",
+     "title": "Atlantis Full Service",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_1XnKKGavRIDos",
+     "formattedPrice": "€199.99 / month",
+     "formattedPeriodV2": "/ month",
+     "rawInitialPrice": 0.0,
+     "rawRenewalPrice": 199.99,
+     "baseCurrency": "eur",
+     "planType": "renewal",
+     "billingPeriod": 30,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 34,
+   "previousRank": 3,
+   "currentScore": 0.0,
+   "previousScore": 0.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_ipLPwhiUqr16U",
+    "title": "STS",
+    "route": "setthestandard",
+    "headline": "Sales Reps ",
+    "shortenedDescription": "Helping average reps go from good to great",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "high_ticket_closer_training",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 134,
+    "memberCount": 134,
+    "publishedReviewsCount": 2,
+    "reviewsAverage": 5.0,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 30.0,
+    "createdAt": 1745521982,
+    "discoverableAt": 1745610383,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-04-25/user_13488592_e2f450c3-4d33-4070-9797-be50b7088bef.jpeg"
+     }
+    ],
+    "company": {
+     "id": "biz_aSbnH6FCE1NuNy",
+     "route": "setthestandard",
+     "title": "STS",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_bCYn9wDmDZmMJ",
+     "formattedPrice": "Free",
+     "formattedPeriodV2": "one-time purchase",
+     "rawInitialPrice": 0.0,
+     "rawRenewalPrice": 0.0,
+     "baseCurrency": "usd",
+     "planType": "one_time",
+     "billingPeriod": null,
+     "releaseMethod": "waitlist",
+     "free": true,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 35,
+   "previousRank": 120,
+   "currentScore": 0.0,
+   "previousScore": 0.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_sHjNvsMOSN8j9",
+    "title": "Owls Full Access",
+    "route": "owls-options-traders",
+    "headline": "All-Inclusive Stock Trading: Real-Time Alerts & Premium Tools",
+    "shortenedDescription": "Live stocks &amp; options trading, unusual flow, alerts, and a real trading floor. Built for traders who want real edge.",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "options_trading",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 2947,
+    "memberCount": 2947,
+    "publishedReviewsCount": 2122,
+    "reviewsAverage": 4.93,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 15.0,
+    "createdAt": 1685939315,
+    "discoverableAt": 1733081664,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/user_18097050/video/bots/2026-06-25/0be67448-7ca5-4a46-a4bc-653a41b08441.mp4"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2026-09-07/a79ed1a7-8ad2-43a0-b748-c1e33e39b4a3/image.png"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2026-09-07/522e71aa-11dc-412f-b823-3469d70a1694/image.png"
+     }
+    ],
+    "company": {
+     "id": "biz_ND1OyxcwzRsQq6",
+     "route": "owls-options-traders",
+     "title": "Owls Options Traders",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_LqG0AiQbGFFFr",
+     "formattedPrice": "$59.99 / 28 days",
+     "formattedPeriodV2": "/ 4 weeks",
+     "rawInitialPrice": 0.0,
+     "rawRenewalPrice": 59.99,
+     "baseCurrency": "usd",
+     "planType": "renewal",
+     "billingPeriod": 28,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 36,
+   "previousRank": null,
+   "currentScore": 0.0,
+   "previousScore": 0.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_gvw5i9QObozXr",
+    "title": "CGA PREMIUM - EN 1 FOIS",
+    "route": "cga-premium-en-1-fois",
+    "headline": "CLUB DU GRAND AMOUR PREMIUM",
+    "shortenedDescription": "• Accompagnement GLOBAL pendant 3 mois (6 séances individuelles) avec un coach spécialisé \n\n• 2 séances de coaching individuel avec Pascal (première et dernière séance)\n\n• 2 coachings de groupe par mois pendant 1 an (1 coaching avec Pascal De Sutter et 1 workshop avec un expert)\n\n• Service de rencontre (sur demande)\n\n• Accès complet au catalogue de formation (mises à jour + nouvelles formations de Pascal De Sutter)\n\n• Outils exclusifs de compréhension amoureuse (questionnaires, fiches pratiques, test de compatibilité)\n\n• Accès au groupe communautaire du Club (accès disponible immédiatement après votre commande)\n\n• Accès au Whatsapp de votre coach pour avoir des réponses en direct à vos questions (7J/7) \n",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "dating_skills",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 10,
+    "memberCount": 10,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": 0.0,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 30.0,
+    "createdAt": 1762441470,
+    "discoverableAt": 1787394690,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-10-31/user_18906142_5da6eec4-f26c-46af-acb5-4679e7352461.png"
+     }
+    ],
+    "company": {
+     "id": "biz_d6cWGLJhloTR20",
+     "route": "ltp-publishing-srl",
+     "title": "CLUB DU GRAND AMOUR",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_zRCwVcMk1pFzn",
+     "formattedPrice": "€2,990.00",
+     "formattedPeriodV2": "one-time purchase",
+     "rawInitialPrice": 2990.0,
+     "rawRenewalPrice": 0.0,
+     "baseCurrency": "eur",
+     "planType": "one_time",
+     "billingPeriod": null,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 37,
+   "previousRank": 25,
+   "currentScore": 0.0,
+   "previousScore": 0.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_vXLb0CYY438cn",
+    "title": "Geobox Ultra",
+    "route": "geobox-ultra",
+    "headline": "Geobox Warzone + Multiplayer 2/3box",
+    "shortenedDescription": "Automated 2box for Multiplayer + Automated 2/3 Box for Warzone\n\nDisclaimer: No lobby outcomes, difficulty levels, or results are guaranteed. We do not promise easy lobbies. By purchasing, you acknowledge this.",
+    "accessPassType": "regular",
+    "businessType": "software",
+    "industryType": "game_cheats_and_exploits",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 1895,
+    "memberCount": 1895,
+    "publishedReviewsCount": 157,
+    "reviewsAverage": 4.85,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 30.0,
+    "createdAt": 1763052289,
+    "discoverableAt": 1786018824,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/user_1649257/image/bots/2026-05-27/c3c090b4-8ce4-4939-99db-9e23080deb0c.png"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/user_1649257/video/bots/2026-05-27/1c05f75a-2475-4a37-aba9-4a003df92db6.mp4"
+     }
+    ],
+    "company": {
+     "id": "biz_rrpOptAClyJjxG",
+     "route": "geoboxai",
+     "title": "Geobox",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_WLP6qVYnCBCff",
+     "formattedPrice": "$34.99 / month",
+     "formattedPeriodV2": "/ month",
+     "rawInitialPrice": 0.0,
+     "rawRenewalPrice": 34.99,
+     "baseCurrency": "usd",
+     "planType": "renewal",
+     "billingPeriod": 30,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 38,
+   "previousRank": null,
+   "currentScore": 0.0,
+   "previousScore": 0.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_AMyPK1RsdQp44",
+    "title": "KubeCraft Career Accelerator ",
+    "route": "kubecraft-career-accelerator",
+    "headline": "Annual access to hands-on projects, expert mentorship and community. ",
+    "shortenedDescription": "KubeCraft is the ultimate DevOps accelerator for anyone tired of “tutorial hell.” Founded by a Microsoft MVP and former nurse turned 6-figure DevOps engineer, KubeCraft focuses on proof over theory — giving you the real-world experience that gets you hired fast.\n\nMore than 1,000 students have landed roles at companies like Google, Microsoft, Amazon, and Nvidia within 2–20 weeks — many without even applying. Whether you’re a graduate, a career switcher, or coming from a non-tech background, KubeCraft gives you the systems, mentorship, and hands-on projects to make recruiters come to you.",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "tech_career_training",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 28,
+    "memberCount": 28,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": 0.0,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 5.0,
+    "createdAt": 1758692164,
+    "discoverableAt": 1761254539,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-10-23/user_17653320_68d9c9aa-81f3-4ace-a981-6014a66bc51d.qt"
+     }
+    ],
+    "company": {
+     "id": "biz_0h9fbKeV04kTV6",
+     "route": "kubecraft",
+     "title": "KubeCraft",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_OG2Y8VTtGPTpi",
+     "formattedPrice": "$2,000.00",
+     "formattedPeriodV2": "one-time purchase",
+     "rawInitialPrice": 2000.0,
+     "rawRenewalPrice": 0.0,
+     "baseCurrency": "usd",
+     "planType": "one_time",
+     "billingPeriod": null,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 39,
+   "previousRank": 28,
+   "currentScore": 0.0,
+   "previousScore": 0.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_5XCovpcWIocWb",
+    "title": "Divine Pro",
+    "route": "divine",
+    "headline": "Whop's Most Trusted Reselling Community.",
+    "shortenedDescription": "# **⭐⭐⭐⭐⭐ Over 100,000 Resellers Helped Since 2019 ⭐⭐⭐⭐⭐**\n\n\n\nDivine is the **only group on Whop** trusted by over **100,000 members** with **4,500+ 5-star reviews**.  \n\n\n\nWhether you’re looking for free autocheckout, botting setups, penny items, hidden clearance, ticket flips, sneakers, eBay leads, Amazon leads or more - Divine has been the #1 group on Whop for all things reselling since 2019.\n\n\n\nThere is no other group on Discord with more member success than Divine.",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "cook_groups",
+    "marketplaceStatus": "live_marketplace",
+    "verified": true,
+    "whopRanking": null,
+    "activeUsersCount": 0,
+    "memberCount": 0,
+    "publishedReviewsCount": 4616,
+    "reviewsAverage": 4.97,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 30.0,
+    "createdAt": 1725312761,
+    "discoverableAt": 1781317388,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-12-21/user_29147_2bc570f3-3ba2-4792-9aac-47593da3e749.mp4"
+     }
+    ],
+    "company": {
+     "id": "biz_IQjx5bPgQNQqpm",
+     "route": "divine",
+     "title": "Divine",
+     "verified": true
+    },
+    "defaultPlan": {
+     "id": "plan_IE47ZOVX5tHLA",
+     "formattedPrice": "$74.99 / month",
+     "formattedPeriodV2": "/ month",
+     "rawInitialPrice": 27.0,
+     "rawRenewalPrice": 74.99,
+     "baseCurrency": "usd",
+     "planType": "renewal",
+     "billingPeriod": 30,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": 30
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 40,
+   "previousRank": null,
+   "currentScore": 0.0,
+   "previousScore": 0.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_rfkDCZvU72zbQ",
+    "title": "GOLD 10 MONTH PROGRAM",
+    "route": "gold-10-month-program",
+    "headline": "Gold 10-Month Bridal Transformation: $6500",
+    "shortenedDescription": "Your entire transformation built backwards from your wedding day. 10 months. 1 dedicated coach. Zero generic plans. Built specifically around your body, your dress, and your wedding date.",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "weight_loss",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 1,
+    "memberCount": 1,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": 0.0,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 30.0,
+    "createdAt": 1786405068,
+    "discoverableAt": 1786405372,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/user_27826078/image/bots/2026-08-11/f06504ed-53b3-45d0-babc-9fd754621d5f.png"
+     }
+    ],
+    "company": {
+     "id": "biz_56iCMgvoCqNKMj",
+     "route": "bride-fit",
+     "title": "Bride Fit",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_exf2NP5rCBy0x",
+     "formattedPrice": "$6,500.00",
+     "formattedPeriodV2": "one-time purchase",
+     "rawInitialPrice": 6500.0,
+     "rawRenewalPrice": 0.0,
+     "baseCurrency": "usd",
+     "planType": "one_time",
+     "billingPeriod": null,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 41,
+   "previousRank": 15,
+   "currentScore": 0.0,
+   "previousScore": 0.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_UFnoQG70mqJ6O",
+    "title": "Wealth Group Credit Card Pay",
+    "route": "wealthgroup",
+    "headline": "#1 Crypto, Stock, Prediction Markets & Sports Betting Community on the Internet",
+    "shortenedDescription": "Join Wealth Group and gain exclusive access to the world’s leading crypto, stock, and trading experts. Participate in live calls, get insider market insights, and explore curated educational content designed to accelerate your trading journey. Connect with a community of like-minded traders and take your skills to the next level",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "crypto_trading",
+    "marketplaceStatus": "live_marketplace",
+    "verified": true,
+    "whopRanking": null,
+    "activeUsersCount": 0,
+    "memberCount": 0,
+    "publishedReviewsCount": 1995,
+    "reviewsAverage": 4.89,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 10.0,
+    "createdAt": 1683557063,
+    "discoverableAt": 1752842795,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/user_6083186/image/bots/2026-04-09/72eb911e-2c9d-4e63-bd15-01e72d81c76f.png"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2026-01-13/user_6083186_c6f4619f-f12b-40af-b54d-0526bea590ae.qt"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-09-24/user_6083186_d5bd5c05-fddf-4110-9f31-753949399fbc.qt"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2024-09-11/user_138746_f272f86b-1139-40b6-9715-883d5caedab9.mp4"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2024-12-02/user_6083186_2231dfb6-5ffb-4a72-a92c-686056d9d4c4.qt"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2024-12-07/user_6083186_42043239-b6b3-4d4e-a6c6-3e6d7dc5a3fc.qt"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2024-12-07/user_6083186_933c8bb3-59bf-42bb-ac13-54d136367d0d.qt"
+     }
+    ],
+    "company": {
+     "id": "biz_mc6XEKDkpPRlaj",
+     "route": "wealthgroup",
+     "title": "Wealth Group",
+     "verified": true
+    },
+    "defaultPlan": {
+     "id": "plan_jPNwahatbgzZN",
+     "formattedPrice": "$250.00 / month",
+     "formattedPeriodV2": "/ month",
+     "rawInitialPrice": 0.0,
+     "rawRenewalPrice": 250.0,
+     "baseCurrency": "usd",
+     "planType": "renewal",
+     "billingPeriod": 30,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 42,
+   "previousRank": 73,
+   "currentScore": 0.0,
+   "previousScore": 0.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_oTghJT4oVQReO",
+    "title": "Premium Access",
+    "route": "superluckeee",
+    "headline": "Master trading with complete access to experts & resources.",
+    "shortenedDescription": "Unlock expert trading insights with Premium Access. Engage in live discussions, receive daily alerts, and access expert classes to elevate your trading game. Timing is everything.",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "options_trading",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 383,
+    "memberCount": 383,
+    "publishedReviewsCount": 362,
+    "reviewsAverage": 4.82,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 10.0,
+    "createdAt": 1719179537,
+    "discoverableAt": 1782060436,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-01-13/user_6083186_cd4c15d4-f77e-4ade-af74-b53f8adb3478.jpeg"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-01-13/user_6083186_719268d1-15c3-46c5-a935-ef51575ca724.jpeg"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-01-13/user_6083186_0c685dc2-3914-4129-bcbc-5541a18f168b.jpeg"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-01-13/user_6083186_17a44512-d4c7-4ff1-b179-d85ddc23d7b6.jpeg"
+     }
+    ],
+    "company": {
+     "id": "biz_kpR1kfJ9HzvRYN",
+     "route": "superluckeee",
+     "title": "SuperLuckeee Trading",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_V3izUnHtFQVZB",
+     "formattedPrice": "$195.00 / month",
+     "formattedPeriodV2": "/ month",
+     "rawInitialPrice": 0.0,
+     "rawRenewalPrice": 195.0,
+     "baseCurrency": "usd",
+     "planType": "renewal",
+     "billingPeriod": 30,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 43,
+   "previousRank": 14,
+   "currentScore": 0.0,
+   "previousScore": 0.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_Se1vfYm2yO4g1",
+    "title": "Ecom MRR Mastery Course",
+    "route": "mrbrandowner",
+    "headline": "E-com MRR Mastery",
+    "shortenedDescription": "Most eCommerce brands are stuck chasing one-time sales. MRR Mastery is the complete A-to-Z system for building a profitable, sustainable recurring revenue brand from the ground up, covering product and offer structuring, subscriber acquisition, retention mechanics, pricing strategy, and scaling your MRR without burning your margins or your audience.\n\nThis isn't theory. Every module is built around what actually moves the needle inside real subscription brands, from your first 100 subscribers to a fully systemized MRR engine that compounds month over month.\n\nIf you're ready to stop relying on launch spikes and start building a brand with predictable, growing revenue, this is your blueprint.",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "dtc_brand_business_training",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 0,
+    "memberCount": 0,
+    "publishedReviewsCount": 39,
+    "reviewsAverage": 4.97,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 20.0,
+    "createdAt": 1775655302,
+    "discoverableAt": 1775763482,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/user_14301270/image/bots/2026-04-08/40dfe39e-974a-4ff1-9ab1-8b7cf367c02a.png"
+     }
+    ],
+    "company": {
+     "id": "biz_gfHUaRCOfJhChm",
+     "route": "e-com-mrr-mastery",
+     "title": "E-com MRR Mastery",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_gpj1ku7CszGbL",
+     "formattedPrice": "$6,999.00",
+     "formattedPeriodV2": "one-time purchase",
+     "rawInitialPrice": 6999.0,
+     "rawRenewalPrice": 0.0,
+     "baseCurrency": "usd",
+     "planType": "one_time",
+     "billingPeriod": null,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 43,
+   "previousRank": null,
+   "currentScore": 0.0,
+   "previousScore": 0.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_XwI2MQyQDG73A",
+    "title": "Scale",
+    "route": "scale-high",
+    "headline": "Built for consistent, sustainable growth.",
+    "shortenedDescription": "The Scale Package is built for consistent growth and serious advertisers ready to scale past limits.\n\nThis setup gives you complete infrastructure — multiple Business Managers, 12 high-spending ad accounts, and instant replacements across every asset. You’ll gain the freedom to scale from $5K to $50K/day without downtime, restrictions, or interruptions.\n\nWith priority 24/7 support, dedicated ad approval assistance, and competitor spy reporting, you’ll always have the data, systems, and help needed to outlast every Meta update and outperform your competitors.\n\nEverything here is designed for smooth scaling, bulletproof reliability, and long-term profit.",
+    "accessPassType": "regular",
+    "businessType": "services",
+    "industryType": "ad_account_rental",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 35,
+    "memberCount": 35,
+    "publishedReviewsCount": 2,
+    "reviewsAverage": 5.0,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 20.0,
+    "createdAt": 1761623727,
+    "discoverableAt": 1767843833,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-10-28/user_8654346_f5927c5a-4b8d-4749-852e-b8cd48715bf3.mp4"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-10-28/user_8654346_bc468ebf-c7bd-4b24-9ff2-2c31f283a806.mp4"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-10-28/user_8654346_a57b6779-40d0-46a2-a139-b7a04686bc05.mp4"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-10-28/user_8654346_0f43e18c-9764-4a86-8de1-69407b5c8180.mp4"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-10-28/user_8654346_19edb050-6766-48c8-afed-a0b0e9bafa9b.mp4"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-10-28/user_8654346_00bad96b-9176-4bf3-bdf0-6832721e40e1.mp4"
+     }
+    ],
+    "company": {
+     "id": "biz_T5T8Twj4TYOA43",
+     "route": "exiscaleofficial",
+     "title": "ExiScale",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_yuVame01BYx5n",
+     "formattedPrice": "$3,000.00 / month",
+     "formattedPeriodV2": "/ month",
+     "rawInitialPrice": 0.0,
+     "rawRenewalPrice": 3000.0,
+     "baseCurrency": "usd",
+     "planType": "renewal",
+     "billingPeriod": 30,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 43,
+   "previousRank": null,
+   "currentScore": 0.0,
+   "previousScore": 0.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_2Xdd63C6uEXJa",
+    "title": "ClipGenie",
+    "route": "clipster-8c",
+    "headline": "Turn Clips Into Cash with ClipGenie",
+    "shortenedDescription": "",
+    "accessPassType": "regular",
+    "businessType": "services",
+    "industryType": "managed_clipping_campaigns",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 7474,
+    "memberCount": 7474,
+    "publishedReviewsCount": 54,
+    "reviewsAverage": 4.76,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": true,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 30.0,
+    "createdAt": 1761473802,
+    "discoverableAt": 1761475981,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2026-11-02/90b91e0a-830a-4873-84e0-7ffc14b9d82d/image.png"
+     }
+    ],
+    "company": {
+     "id": "biz_qC5doU28x3GQ8w",
+     "route": "theclipgenie",
+     "title": "ClipGenie",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_jtOhsLwmXoCOu",
+     "formattedPrice": "Free",
+     "formattedPeriodV2": "one-time purchase",
+     "rawInitialPrice": 0.0,
+     "rawRenewalPrice": 0.0,
+     "baseCurrency": "usd",
+     "planType": "one_time",
+     "billingPeriod": null,
+     "releaseMethod": "buy_now",
+     "free": true,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 43,
+   "previousRank": null,
+   "currentScore": 0.0,
+   "previousScore": 0.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_NeG9MKlPcVakv",
+    "title": "FBA Insiders Mentorship",
+    "route": "fba-insiders-mentorship",
+    "headline": "Step-by-step Amazon FBA mentorship with one-on-one calls and direct support.",
+    "shortenedDescription": "Join our one-on-one Amazon FBA mentorship. We guide you step-by-step with one-on-one calls, sharing everything we know. We succeed together, with exclusive events and support.",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "retail_arbitrage_training",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 272,
+    "memberCount": 272,
+    "publishedReviewsCount": 5,
+    "reviewsAverage": 4.4,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 30.0,
+    "createdAt": 1743026892,
+    "discoverableAt": 1772486310,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2026-10-12/9e246f01-1fd9-402f-9153-a8b93bae1365/image.png"
+     }
+    ],
+    "company": {
+     "id": "biz_wONyXJu6JZGec9",
+     "route": "fba-insiders",
+     "title": "FBA Insiders",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_gXDQPUAZ6sFQj",
+     "formattedPrice": "$1,500.00",
+     "formattedPeriodV2": "one-time purchase",
+     "rawInitialPrice": 1500.0,
+     "rawRenewalPrice": 0.0,
+     "baseCurrency": "usd",
+     "planType": "one_time",
+     "billingPeriod": null,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 43,
+   "previousRank": null,
+   "currentScore": 0.0,
+   "previousScore": 0.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_g1TYir4bO7l4i",
+    "title": "Sovereign Man Services",
+    "route": "sovereign-man-services",
+    "headline": "Reignite Your Marriage with Proven Strategies",
+    "shortenedDescription": "Use the 'Lighthouse Strategy' to transform your relationship by mastering communication, rebuilding trust, and reigniting intimacy through expert coaching and actionable guidance.",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "marriage_and_relationships",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 0,
+    "memberCount": 0,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": 0.0,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 30.0,
+    "createdAt": 1731353047,
+    "discoverableAt": 1769610313,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2024-11-21/user_4482081_bc5d527a-d6b4-42ae-bf4f-84acfbff668d.png"
+     }
+    ],
+    "company": {
+     "id": "biz_ruWNszYF5BljV2",
+     "route": "sovereign-man-services",
+     "title": "Sovereign Man",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_k59WYYjkXVbuj",
+     "formattedPrice": "$200.00 / 6-months",
+     "formattedPeriodV2": "/ 6 months",
+     "rawInitialPrice": 0.0,
+     "rawRenewalPrice": 200.0,
+     "baseCurrency": "usd",
+     "planType": "renewal",
+     "billingPeriod": 180,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 44,
+   "previousRank": null,
+   "currentScore": 0.0,
+   "previousScore": 0.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_4AIUXo2L0CoCh",
+    "title": "Market Movers",
+    "route": "marketmovers1",
+    "headline": "Unlock Premium Insights Now!",
+    "shortenedDescription": "Market Movers is a high-performance community for people who refuse to choose between financial freedom and physical discipline. \n\n* Catch high-probability market moves with real-time alerts\n* Lock in profits early so the rest of the day is yours\n* Train with structure and purpose using proven workout systems\n* Stay lean, energized, and sharp with simple, effective nutrition\n\nINSIDE, YOU GET:\n* Live trade alerts + breakdowns (focus on execution, not gambling)\n* Daily watchlists so you’re prepared before the market opens\n* A structured approach to trading psychology and discipline\n* Full access to training programs (build size, strength, and consistency)\n* Simple meal frameworks to stay lean without overthinking food\n* An active community that pushes you to stay accountable daily\n\nWIN the morning → TRAIN the body → ENJOY the life.",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "options_trading",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 0,
+    "memberCount": 0,
+    "publishedReviewsCount": 2,
+    "reviewsAverage": 5.0,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 30.0,
+    "createdAt": 1705983384,
+    "discoverableAt": 1728329611,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/user_2307325/image/access_passes/2026-05-02/8a629051-6847-4587-a2f1-468991ac7355.png"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-04-07/user_638038_f6538b70-ac42-49c2-81d7-55b73a1dda41.jpeg"
+     }
+    ],
+    "company": {
+     "id": "biz_Ds5CkM8aTNUp5s",
+     "route": "vjrod",
+     "title": "Market Movers",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_q3klstVqaLY5M",
+     "formattedPrice": "$150.00 / 5 days",
+     "formattedPeriodV2": "/ 5 days",
+     "rawInitialPrice": 0.0,
+     "rawRenewalPrice": 150.0,
+     "baseCurrency": "usd",
+     "planType": "renewal",
+     "billingPeriod": 5,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 45,
+   "previousRank": 31,
+   "currentScore": 0.0,
+   "previousScore": 0.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_eNSiI8J8Ssc6s",
+    "title": "The Society Premium",
+    "route": "thesocietymonthy",
+    "headline": "Master Reversal and Continuation Techniques",
+    "shortenedDescription": "Unlock **exclusive access** to my private Discord in which you will learn my simple **trading model**.  \n\n\n**What You Get:**\n\n🔹 **Educational lectures** teaching you everything you need to know  \n🔹 **Complete breakdown** of my **TTP Model** and how to apply it correctly  \n🔹 **Daily Calls** going over my trades/students trades  \n🔹 **Prop firm guidance** to help you leverage them the right way  \n🔹 Weekly news and market narrative every Sunday  \n🔹 **Advanced** in-depth trade recaps  \n🔹 Specific channel to ask me direct questions",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "futures_trading",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 1386,
+    "memberCount": 1386,
+    "publishedReviewsCount": 132,
+    "reviewsAverage": 4.99,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 15.0,
+    "createdAt": 1766502878,
+    "discoverableAt": 1766503181,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/user_5825049/image/bots/2026-05-06/a2137f82-6185-4584-86da-79b5d7859a62.png"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/user_5825049/image/bots/2026-03-22/375b7f06-fdc5-4b2a-9494-9cbb4909926b.jpeg"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/user_5825049/image/bots/2026-05-06/91a8eb55-481b-470f-85a4-00f4fb6e4ea6.png"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/user_5825049/image/bots/2026-05-06/a570ee73-1896-4262-a780-a35cfa452465.png"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2026-10-22/c00647c6-78b2-4691-b2e8-36840eccd9e2/image.png"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/user_5825049/image/bots/2026-05-06/413be7b4-957c-49cc-b606-bcc1a9ada44a.png"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/user_5825049/image/bots/2026-03-08/4846d37a-5260-4494-a97b-b5136ad3284e.png"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/user_5825049/image/bots/2026-05-06/ce27625c-ea3e-4711-9149-a3d781da20b7.png"
+     }
+    ],
+    "company": {
+     "id": "biz_tLavDuymJ6Mw0S",
+     "route": "thesocietytrading",
+     "title": "The Society",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_daUpRVqQox1G1",
+     "formattedPrice": "$99.00 / month",
+     "formattedPeriodV2": "/ month",
+     "rawInitialPrice": 0.0,
+     "rawRenewalPrice": 99.0,
+     "baseCurrency": "usd",
+     "planType": "renewal",
+     "billingPeriod": 30,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  }
+ ]
+}

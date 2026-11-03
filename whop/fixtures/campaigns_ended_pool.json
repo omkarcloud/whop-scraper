@@ -1,0 +1,1961 @@
+{
+ "data": [
+  {
+   "banner": "fe520411-733d-5812-a383-b56f9575d049/campaigns/thumbnails/b9fc9813-6720-4914-841f-ad8e95bad2ab.webp",
+   "budgetCents": 2500000,
+   "categories": [
+    {
+     "id": "streamer",
+     "name": "Streamer"
+    },
+    {
+     "id": "personal-brand",
+     "name": "Personal Brand"
+    }
+   ],
+   "createdAt": "2026-10-20T21:11:56.000Z",
+   "description": "Clip content from Lacy's social media accounts\n\n(TikTok, IG, YT)\n\nREAD THE RULES AND REQUIREMENTS HERE: \nhttps://reachclipping.com/Lacy",
+   "featuredScore": 1033036,
+   "geoPriced": false,
+   "group": {
+    "campaignIds": [
+     "4479e5e2-9a00-489e-8b0c-345834f37cc7",
+     "20b7c977-8d0c-4bd0-b9b0-2db9200f405b"
+    ],
+    "cover": "organizations/fe520411-733d-5812-a383-b56f9575d049/campaign-groups/covers/71e1af75-7a00-45f8-a798-3c4c1aa25367.webp",
+    "description": "Lacy Clippers",
+    "id": "6d9223d5-e666-41b4-b6ba-1366a88bfdc2",
+    "name": "$30,000 LACY 30 DAY CAMPAIGN"
+   },
+   "id": "4479e5e2-9a00-489e-8b0c-345834f37cc7",
+   "launchDate": "2026-10-20T22:15:03.000Z",
+   "listedAt": "2026-10-20T22:15:03.000Z",
+   "metrics": {
+    "approvedSubmissionCount": 24467,
+    "budgetProgressBps": 0,
+    "budgetSpentCents": 0,
+    "chartPoints": [
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-04T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-05T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-06T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-07T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-08T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-09T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-10T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-11T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-12T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-13T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-14T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-15T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-16T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-17T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-18T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-19T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-20T00:00:00.000Z",
+      "totalViews": 9673
+     },
+     {
+      "approvedSubmissionCount": 378,
+      "bucket": "2026-10-21T00:00:00.000Z",
+      "totalViews": 5378864
+     },
+     {
+      "approvedSubmissionCount": 417,
+      "bucket": "2026-10-22T00:00:00.000Z",
+      "totalViews": 11756068
+     },
+     {
+      "approvedSubmissionCount": 969,
+      "bucket": "2026-10-23T00:00:00.000Z",
+      "totalViews": 9330475
+     },
+     {
+      "approvedSubmissionCount": 562,
+      "bucket": "2026-10-24T00:00:00.000Z",
+      "totalViews": 18041272
+     },
+     {
+      "approvedSubmissionCount": 6331,
+      "bucket": "2026-10-25T00:00:00.000Z",
+      "totalViews": 10260464
+     },
+     {
+      "approvedSubmissionCount": 1315,
+      "bucket": "2026-10-26T00:00:00.000Z",
+      "totalViews": 19030282
+     },
+     {
+      "approvedSubmissionCount": 2407,
+      "bucket": "2026-10-27T00:00:00.000Z",
+      "totalViews": 9044633
+     },
+     {
+      "approvedSubmissionCount": 2265,
+      "bucket": "2026-10-28T00:00:00.000Z",
+      "totalViews": 17901437
+     },
+     {
+      "approvedSubmissionCount": 1699,
+      "bucket": "2026-10-29T00:00:00.000Z",
+      "totalViews": 16281331
+     },
+     {
+      "approvedSubmissionCount": 1570,
+      "bucket": "2026-10-30T00:00:00.000Z",
+      "totalViews": 10727102
+     },
+     {
+      "approvedSubmissionCount": 1535,
+      "bucket": "2026-10-31T00:00:00.000Z",
+      "totalViews": 9238509
+     },
+     {
+      "approvedSubmissionCount": 3271,
+      "bucket": "2026-11-01T00:00:00.000Z",
+      "totalViews": 8573474
+     },
+     {
+      "approvedSubmissionCount": 1627,
+      "bucket": "2026-11-02T00:00:00.000Z",
+      "totalViews": 6343341
+     },
+     {
+      "approvedSubmissionCount": 121,
+      "bucket": "2026-11-03T00:00:00.000Z",
+      "totalViews": 3507959
+     }
+    ],
+    "creatorCount": 2694,
+    "metricsUpdatedAt": "2026-11-03T10:20:22.000Z",
+    "paidOutCents": 0,
+    "poolSplit": {
+     "creatorCount": 3273,
+     "otherShareBps": 4525,
+     "topShareBps": [
+      1751,
+      1126,
+      1065,
+      818,
+      715
+     ],
+     "final": false
+    },
+    "topClips": [
+     {
+      "platform": "youtube",
+      "postUrl": "https://www.youtube.com/watch?v=WEiKyTlH-Cw",
+      "rank": 1,
+      "submissionId": "b9760272-d39a-4224-8ae2-e65396970317",
+      "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/e0b043c5-0160-4f0b-b1ed-0f7d5f0e966d/youtube_WEiKyTlH-Cw_thumb.webp",
+      "title": "Lacy Got Hit With A $12,000 Restaurant Bill 😭💸",
+      "totalViews": 7279655,
+      "userId": "d77b62bf-e62f-4cf1-971d-71318ec34c50",
+      "username": "Richard Gibson",
+      "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/e0b043c5-0160-4f0b-b1ed-0f7d5f0e966d/youtube_WEiKyTlH-Cw.mp4"
+     },
+     {
+      "platform": "tiktok",
+      "postUrl": "https://www.tiktok.com/@rjclippedu/video/7700741189527407894",
+      "rank": 2,
+      "submissionId": "851db462-1d57-47a5-986f-a41047694611",
+      "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/58ee3ba0-2ec7-41aa-82b2-b647a31f7dad/tiktok_7700741189527407894_thumb.webp",
+      "title": "Lacy is not Batman #lacy #marlon",
+      "totalViews": 3400000,
+      "userId": "55a33937-b7b2-4485-a08f-29b084897170",
+      "username": "jakerobinsone4",
+      "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/58ee3ba0-2ec7-41aa-82b2-b647a31f7dad/tiktok_7700741189527407894.mp4"
+     },
+     {
+      "platform": "youtube",
+      "postUrl": "https://www.youtube.com/watch?v=rl6uyAxXzos",
+      "rank": 3,
+      "submissionId": "b3c157a9-2c03-45d2-8fd9-00976c06d163",
+      "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/da435861-b667-4c25-b6f8-f05ffda43b9a/youtube_rl6uyAxXzos_thumb.webp",
+      "title": "Lacy pays for $12,000 worth of food in Japan",
+      "totalViews": 3362492,
+      "userId": "387bcce6-ad77-4def-a94d-969a85491690",
+      "username": "Zemmy Rico",
+      "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/da435861-b667-4c25-b6f8-f05ffda43b9a/youtube_rl6uyAxXzos.mp4"
+     },
+     {
+      "platform": "youtube",
+      "postUrl": "https://www.youtube.com/watch?v=jDIWWIwNIHE",
+      "rank": 4,
+      "submissionId": "ba694b30-a73e-4ee3-9b3c-f762ee62bfc8",
+      "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/3656f43c-eae7-46af-85f1-7baab91065be/youtube_jDIWWIwNIHE_thumb.webp",
+      "title": "Lacy Accidentally Took A Fortnite Gift Card 😭🎮",
+      "totalViews": 3323751,
+      "userId": "d77b62bf-e62f-4cf1-971d-71318ec34c50",
+      "username": "Richard Gibson",
+      "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/3656f43c-eae7-46af-85f1-7baab91065be/youtube_jDIWWIwNIHE.mp4"
+     },
+     {
+      "platform": "tiktok",
+      "postUrl": "https://www.tiktok.com/@boombasticclips/video/7701774753249414414",
+      "rank": 5,
+      "submissionId": "22546aff-3d7a-4edd-b31e-44caa28ae70b",
+      "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/23fdb0e8-d3eb-4ada-bbea-1bee38356b67/tiktok_7701774753249414414_thumb.webp",
+      "title": "Lacy has to pay for $12,000 worth of food in Japan #lacy #core",
+      "totalViews": 3100000,
+      "userId": "387bcce6-ad77-4def-a94d-969a85491690",
+      "username": "Zemmy Rico",
+      "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/23fdb0e8-d3eb-4ada-bbea-1bee38356b67/tiktok_7701774753249414414.mp4"
+     },
+     {
+      "platform": "youtube",
+      "postUrl": "https://www.youtube.com/watch?v=ZiPt6AWaohc",
+      "rank": 6,
+      "submissionId": "00695013-3fdb-4b26-aea4-8819f047cb2a",
+      "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/7d14c385-be06-4951-8e34-1b1524f1f091/youtube_ZiPt6AWaohc_thumb.webp",
+      "title": "Lacy got SCAMMED💔",
+      "totalViews": 2933152,
+      "userId": "e711eaf9-bade-4d63-8c5a-09c87aa527b8",
+      "username": "3kjacobb",
+      "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/7d14c385-be06-4951-8e34-1b1524f1f091/youtube_ZiPt6AWaohc.mp4"
+     },
+     {
+      "platform": "instagram",
+      "postUrl": "https://www.instagram.com/reel/DfAWvsQTQEd/",
+      "rank": 7,
+      "submissionId": "df0fa448-9c9c-4bee-b9f4-7434d009fe72",
+      "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/5415c216-32e4-44e8-82c5-86fe24e1da11/instagram_DfAWvsQTQEd_thumb.webp",
+      "title": "Twitch: Lacy #lacy #mar3lg #twitch #instagramreels #looksmaxxing",
+      "totalViews": 2541596,
+      "userId": "21709da3-7b49-4c8a-8a9d-a7a3443e568e",
+      "username": "moggers.looks_",
+      "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/5415c216-32e4-44e8-82c5-86fe24e1da11/instagram_DfAWvsQTQEd.mp4"
+     },
+     {
+      "platform": "tiktok",
+      "postUrl": "https://www.tiktok.com/@everythingkc3/video/7701589510022352158",
+      "rank": 8,
+      "submissionId": "a6e81639-6872-449f-8099-752c95296049",
+      "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/74999f64-91cd-4d6a-b0d0-ab4d3a2d4a71/tiktok_7701589510022352158_thumb.webp",
+      "title": "#lacy #darla #fyp #viral @Lacy",
+      "totalViews": 2336545,
+      "userId": "3e9c20af-d38b-4e05-a44f-832b4f8bcd99",
+      "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/74999f64-91cd-4d6a-b0d0-ab4d3a2d4a71/tiktok_7701589510022352158.mp4"
+     },
+     {
+      "platform": "tiktok",
+      "postUrl": "https://www.tiktok.com/@core_fx_/video/7701906350757940502",
+      "rank": 9,
+      "submissionId": "33098133-ff13-4998-9f6c-ec23c9843e4d",
+      "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/ab2d0437-07c1-48ed-b49c-5351d5d079c4/tiktok_7701906350757940502_thumb.webp",
+      "title": "Lacy Got Hit With A $12,000 Restaurant Bill 😭💸 #lacy #core",
+      "totalViews": 2230343,
+      "userId": "d77b62bf-e62f-4cf1-971d-71318ec34c50",
+      "username": "Richard Gibson",
+      "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/ab2d0437-07c1-48ed-b49c-5351d5d079c4/tiktok_7701906350757940502.mp4"
+     },
+     {
+      "platform": "tiktok",
+      "postUrl": "https://www.tiktok.com/@everythingkc3/video/7700743750720474398",
+      "rank": 10,
+      "submissionId": "df4ffddc-87ba-49a4-a05d-2cc0eaa290ff",
+      "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/46ce4342-5a54-4079-91c7-6f50781dfac0/tiktok_7700743750720474398_thumb.webp",
+      "title": "#lacy #marlon #fyp #viral @Lacy @Marlon",
+      "totalViews": 2220623,
+      "userId": "3e9c20af-d38b-4e05-a44f-832b4f8bcd99",
+      "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/46ce4342-5a54-4079-91c7-6f50781dfac0/tiktok_7700743750720474398.mp4"
+     }
+    ],
+    "topEarners": [
+     {
+      "approvedSubmissionCount": 27,
+      "earnedCents": 0,
+      "rank": 1,
+      "totalViews": 20393287,
+      "userId": "d77b62bf-e62f-4cf1-971d-71318ec34c50",
+      "username": "Richard Gibson",
+      "whopUsername": "northparking4e"
+     },
+     {
+      "approvedSubmissionCount": 345,
+      "earnedCents": 0,
+      "rank": 2,
+      "totalViews": 13109730,
+      "userId": "24cdeb02-d1b4-4296-b065-eb11857af752",
+      "username": "qctrls",
+      "whopUsername": "qctrls"
+     },
+     {
+      "approvedSubmissionCount": 214,
+      "earnedCents": 0,
+      "rank": 3,
+      "totalViews": 12405766,
+      "userId": "3e9c20af-d38b-4e05-a44f-832b4f8bcd99",
+      "whopUsername": "daniatet91"
+     }
+    ],
+    "totalViews": 155424884
+   },
+   "name": "$25,000 Lacy 30 Day Campaign",
+   "organizationExperienceId": "exp_6DJh0DkDMhATvG",
+   "organizationId": "fe520411-733d-5812-a383-b56f9575d049",
+   "organizationLogoUrl": "organizations/fe520411-733d-5812-a383-b56f9575d049/logo/fe520411-733d-5812-a383-b56f9575d049.05c048630f.png",
+   "organizationName": "Reach",
+   "organizationProfileHandle": "reach",
+   "organizationVerified": true,
+   "payouts": [
+    {
+     "payoutType": "pool",
+     "platform": "tiktok"
+    },
+    {
+     "payoutType": "pool",
+     "platform": "instagram"
+    },
+    {
+     "payoutType": "pool",
+     "platform": "youtube"
+    }
+   ],
+   "payoutType": "pool",
+   "platforms": [
+    "instagram",
+    "tiktok",
+    "youtube"
+   ],
+   "primaryPayoutCents": 0,
+   "private": false,
+   "referenceMaterials": [],
+   "requiresApplication": false,
+   "retainerSpotsTotal": 0,
+   "status": "active",
+   "updatedAt": "2026-11-03T10:20:24.000Z",
+   "briefCounts": {
+    "contentRules": 0,
+    "creatorRequirements": 0,
+    "references": 4
+   }
+  },
+  {
+   "banner": "fe520411-733d-5812-a383-b56f9575d049/campaigns/thumbnails/45c1ba72-1c77-432b-85fd-1e50b2659e91.webp",
+   "budgetCents": 900000,
+   "categories": [
+    {
+     "id": "entertainment",
+     "name": "Entertainment"
+    }
+   ],
+   "createdAt": "2026-10-29T16:21:41.000Z",
+   "description": "Get paid to clip JasonTheWeen's content!\n\nhttps://www.youtube.com/@JasonTheWeenie\ntwitch.tv/jasontheween\ntiktok.com/@jasontheween\ninstagram.com/jasontheween",
+   "featuredScore": 2816687,
+   "geoPriced": false,
+   "id": "0b178e3c-fbd3-4294-8ded-394e3da9c62f",
+   "launchDate": "2026-10-31T17:21:26.000Z",
+   "listedAt": "2026-10-31T17:21:26.000Z",
+   "metrics": {
+    "approvedSubmissionCount": 31,
+    "budgetProgressBps": 0,
+    "budgetSpentCents": 0,
+    "chartPoints": [
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-04T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-05T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-06T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-07T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-08T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-09T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-10T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-11T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-12T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-13T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-14T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-15T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-16T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-17T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-18T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-19T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-20T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-21T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-22T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-23T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-24T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-25T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-26T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-27T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-28T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-29T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-30T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-31T00:00:00.000Z",
+      "totalViews": 79026
+     },
+     {
+      "approvedSubmissionCount": 4,
+      "bucket": "2026-11-01T00:00:00.000Z",
+      "totalViews": 789999
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-11-02T00:00:00.000Z",
+      "totalViews": 556749
+     },
+     {
+      "approvedSubmissionCount": 27,
+      "bucket": "2026-11-03T00:00:00.000Z",
+      "totalViews": 2520989
+     }
+    ],
+    "creatorCount": 14,
+    "metricsUpdatedAt": "2026-11-03T10:20:21.000Z",
+    "paidOutCents": 0,
+    "poolSplit": {
+     "creatorCount": 685,
+     "otherShareBps": 0,
+     "topShareBps": [
+      10000
+     ],
+     "final": false
+    },
+    "topClips": [
+     {
+      "platform": "tiktok",
+      "postUrl": "https://www.tiktok.com/@everythingkc3/video/7703718326911896862",
+      "rank": 1,
+      "submissionId": "c1b078e9-18fa-4a31-913c-ed32333ef33f",
+      "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/a7224001-43e2-4967-8dfe-131b8eafd86e/tiktok_7703718326911896862_thumb.webp",
+      "title": "#jasontheween #stableronaldo #fyp #viral @Jason @StableRonaldo",
+      "totalViews": 1700000,
+      "userId": "3e9c20af-d38b-4e05-a44f-832b4f8bcd99",
+      "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/a7224001-43e2-4967-8dfe-131b8eafd86e/tiktok_7703718326911896862.mp4"
+     },
+     {
+      "avatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocIur1l4ach0N7NeJBPjNvMet4HDRUikF8-5AQm30vHn6Ntw50E=s96-c",
+      "platform": "x",
+      "postUrl": "https://x.com/yoxics/status/2117395718667456935",
+      "rank": 2,
+      "submissionId": "2dd85c56-7a06-4d17-8ba6-a513fc57ae67",
+      "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/99848de5-22b4-4896-a912-8da5cd41c6fb/twitter_2117395718667456935_thumb.webp",
+      "title": "StableRonaldo and JasonTheWeen got pressed by a Facebook Marketplace food seller for saying her food was horrible after doing a review 😭 https://t.co/Ekrbc5DwYM",
+      "totalViews": 643311,
+      "userId": "23268195-ab19-443e-b5a1-fadbfcb19f61",
+      "username": "yoxic",
+      "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/99848de5-22b4-4896-a912-8da5cd41c6fb/twitter_2117395718667456935.mp4"
+     },
+     {
+      "platform": "tiktok",
+      "postUrl": "https://www.tiktok.com/@zerh0o/video/7702908602134089012",
+      "rank": 3,
+      "submissionId": "de3b54e5-a355-4bcc-9674-2b4d53770357",
+      "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/6c160a5d-f8ac-43d2-a3d6-03935c65e39b/tiktok_7702908602134089012_thumb.webp",
+      "title": "twitch:jasontheween #jasontheween #lacy #fyp #Reach",
+      "totalViews": 439100,
+      "userId": "c261b1e1-fae1-4532-b42e-24a6d8c44219",
+      "username": "Kurt",
+      "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/6c160a5d-f8ac-43d2-a3d6-03935c65e39b/tiktok_7702908602134089012.mp4"
+     },
+     {
+      "avatarUrl": "users/4827cc85-e8a7-427d-baa7-30fa04f2d079/avatar/f0b01063-55d7-49dc-94ab-c2bc731cee68.webp",
+      "platform": "tiktok",
+      "postUrl": "https://www.tiktok.com/@comp.inprogress/video/7702893938440441102",
+      "rank": 4,
+      "submissionId": "1d4a2382-2eab-419a-8f7a-9dd6a291b705",
+      "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/ab169e1b-0909-42d2-9e0f-212a37ea489b/tiktok_7702893938440441102_thumb.webp",
+      "title": "Jason’s quick wit it tho👀#jasontheween #jasontheweenclips #streamer #fyp #viral",
+      "totalViews": 278000,
+      "userId": "4827cc85-e8a7-427d-baa7-30fa04f2d079",
+      "username": "c0mp",
+      "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/ab169e1b-0909-42d2-9e0f-212a37ea489b/tiktok_7702893938440441102.mp4"
+     },
+     {
+      "avatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocIartV1qFuCKRJRQJNSdSi-aBqMK-GDAwn_Iz-WAGD1xg3XIteH=s96-c",
+      "platform": "tiktok",
+      "postUrl": "https://www.tiktok.com/@rami.mehenni5/video/7702941362882219286",
+      "rank": 5,
+      "submissionId": "09440046-d221-48ce-9120-1a28a3b2d0b3",
+      "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/120f2a2a-f1da-4eb0-bbc5-c414497363b2/tiktok_7702941362882219286_thumb.webp",
+      "title": "he had the charisma but lacks luck😅#JasonTheween",
+      "totalViews": 264300,
+      "userId": "ebc64e78-6449-4115-8632-770f4f134ac7",
+      "username": "big bang",
+      "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/120f2a2a-f1da-4eb0-bbc5-c414497363b2/tiktok_7702941362882219286.mp4"
+     },
+     {
+      "platform": "tiktok",
+      "postUrl": "https://www.tiktok.com/@core_fx_/video/7703023942193253654",
+      "rank": 6,
+      "submissionId": "1cac62cc-69d6-4673-9a44-9450ab8dcb63",
+      "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/76513389-38ff-49cd-9bc5-ecf2489b5361/tiktok_7703023942193253654_thumb.webp",
+      "title": "Jason Didn't Expect Her To Do That 😭💀 #jasontheween #core",
+      "totalViews": 199100,
+      "userId": "d77b62bf-e62f-4cf1-971d-71318ec34c50",
+      "username": "Richard Gibson",
+      "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/76513389-38ff-49cd-9bc5-ecf2489b5361/tiktok_7703023942193253654.mp4"
+     },
+     {
+      "platform": "tiktok",
+      "postUrl": "https://www.tiktok.com/@everythingkc3/video/7702936005724228895",
+      "rank": 7,
+      "submissionId": "782d5ee6-7723-424d-b9c5-dcd82ae48872",
+      "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/c78e2105-1518-4248-a5b1-66e0489ccbc5/tiktok_7702936005724228895_thumb.webp",
+      "title": "#stableronaldo #jasontheween #fyp #viral @Jason @StableRonaldo",
+      "totalViews": 86400,
+      "userId": "3e9c20af-d38b-4e05-a44f-832b4f8bcd99",
+      "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/c78e2105-1518-4248-a5b1-66e0489ccbc5/tiktok_7702936005724228895.mp4"
+     },
+     {
+      "platform": "tiktok",
+      "postUrl": "https://www.tiktok.com/@zerh0o/video/7703724512172412180",
+      "rank": 8,
+      "submissionId": "d6d39eb3-3746-4d1c-9ef4-d606af3b6d01",
+      "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/51e8e11c-ca70-453c-b653-080a78292c8a/tiktok_7703724512172412180_thumb.webp",
+      "title": "twitch:jasontheween #jasontheween #stableronaldo #Reach #fyp",
+      "totalViews": 57900,
+      "userId": "c261b1e1-fae1-4532-b42e-24a6d8c44219",
+      "username": "Kurt",
+      "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/51e8e11c-ca70-453c-b653-080a78292c8a/tiktok_7703724512172412180.mp4"
+     },
+     {
+      "platform": "tiktok",
+      "postUrl": "https://www.tiktok.com/@zerh0o/video/7703237113466195220",
+      "rank": 9,
+      "submissionId": "f0a0d53d-ce57-4370-88b8-2ba0f70c0717",
+      "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/c609ae6a-25b7-4cba-895b-e1df14de4ecd/tiktok_7703237113466195220_thumb.webp",
+      "title": "twitch:jasontheween #jasontheween #stableronaldo #lacy",
+      "totalViews": 52400,
+      "userId": "c261b1e1-fae1-4532-b42e-24a6d8c44219",
+      "username": "Kurt",
+      "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/c609ae6a-25b7-4cba-895b-e1df14de4ecd/tiktok_7703237113466195220.mp4"
+     },
+     {
+      "platform": "youtube",
+      "postUrl": "https://www.youtube.com/watch?v=cS6YrnU2nzU",
+      "rank": 10,
+      "submissionId": "3e575f9c-b2bf-4f1a-878b-8d0fdb89b430",
+      "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/1f7f5bbc-729b-4a34-92f7-d4a3e26ab439/youtube_cS6YrnU2nzU_thumb.webp",
+      "title": "Crazy work gg",
+      "totalViews": 33081,
+      "userId": "612a1e0f-11ea-418c-bccd-792d29c5ae2c",
+      "username": "Emeritus",
+      "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/1f7f5bbc-729b-4a34-92f7-d4a3e26ab439/youtube_cS6YrnU2nzU.mp4"
+     }
+    ],
+    "topEarners": [
+     {
+      "approvedSubmissionCount": 3,
+      "earnedCents": 0,
+      "rank": 1,
+      "totalViews": 1809600,
+      "userId": "3e9c20af-d38b-4e05-a44f-832b4f8bcd99",
+      "whopUsername": "daniatet91"
+     },
+     {
+      "approvedSubmissionCount": 1,
+      "avatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocIur1l4ach0N7NeJBPjNvMet4HDRUikF8-5AQm30vHn6Ntw50E=s96-c",
+      "earnedCents": 0,
+      "rank": 2,
+      "totalViews": 643311,
+      "userId": "23268195-ab19-443e-b5a1-fadbfcb19f61",
+      "username": "yoxic",
+      "whopUsername": "yoxics"
+     },
+     {
+      "approvedSubmissionCount": 12,
+      "earnedCents": 0,
+      "rank": 3,
+      "totalViews": 597498,
+      "userId": "c261b1e1-fae1-4532-b42e-24a6d8c44219",
+      "username": "Kurt",
+      "whopUsername": "kvrt"
+     }
+    ],
+    "totalViews": 3946763
+   },
+   "name": "$9,000 Jason Pool Campaign",
+   "organizationExperienceId": "exp_6DJh0DkDMhATvG",
+   "organizationId": "fe520411-733d-5812-a383-b56f9575d049",
+   "organizationLogoUrl": "organizations/fe520411-733d-5812-a383-b56f9575d049/logo/fe520411-733d-5812-a383-b56f9575d049.05c048630f.png",
+   "organizationName": "Reach",
+   "organizationProfileHandle": "reach",
+   "organizationVerified": true,
+   "payouts": [
+    {
+     "payoutType": "pool",
+     "platform": "tiktok"
+    },
+    {
+     "payoutType": "pool",
+     "platform": "instagram"
+    },
+    {
+     "payoutType": "pool",
+     "platform": "youtube"
+    },
+    {
+     "payoutType": "pool",
+     "platform": "x"
+    }
+   ],
+   "payoutType": "pool",
+   "platforms": [
+    "instagram",
+    "tiktok",
+    "x",
+    "youtube"
+   ],
+   "primaryPayoutCents": 0,
+   "private": false,
+   "referenceMaterials": [],
+   "requiresApplication": false,
+   "retainerSpotsTotal": 0,
+   "status": "active",
+   "updatedAt": "2026-11-03T10:20:24.000Z",
+   "briefCounts": {
+    "contentRules": 0,
+    "creatorRequirements": 0,
+    "references": 4
+   }
+  },
+  {
+   "banner": "fe520411-733d-5812-a383-b56f9575d049/campaigns/thumbnails/ae83a4a4-6c2e-4aba-ab5d-4f4f42a3eb3e.webp",
+   "budgetCents": 500000,
+   "categories": [
+    {
+     "id": "streamer",
+     "name": "Streamer"
+    },
+    {
+     "id": "personal-brand",
+     "name": "Personal Brand"
+    }
+   ],
+   "createdAt": "2026-10-20T21:17:54.000Z",
+   "description": "Clip content from Lacy's social media accounts\n\n(Twitter/X)\n\nREAD THE RULES AND REQUIREMENTS HERE: \nhttps://reachclipping.com/Lacy",
+   "featuredScore": 524616,
+   "geoPriced": false,
+   "group": {
+    "campaignIds": [
+     "4479e5e2-9a00-489e-8b0c-345834f37cc7",
+     "20b7c977-8d0c-4bd0-b9b0-2db9200f405b"
+    ],
+    "cover": "organizations/fe520411-733d-5812-a383-b56f9575d049/campaign-groups/covers/71e1af75-7a00-45f8-a798-3c4c1aa25367.webp",
+    "description": "Lacy Clippers",
+    "id": "6d9223d5-e666-41b4-b6ba-1366a88bfdc2",
+    "name": "$30,000 LACY 30 DAY CAMPAIGN"
+   },
+   "id": "20b7c977-8d0c-4bd0-b9b0-2db9200f405b",
+   "launchDate": "2026-10-20T22:15:06.000Z",
+   "listedAt": "2026-10-20T22:15:06.000Z",
+   "metrics": {
+    "approvedSubmissionCount": 782,
+    "budgetProgressBps": 0,
+    "budgetSpentCents": 0,
+    "chartPoints": [
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-04T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-05T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-06T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-07T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-08T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-09T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-10T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-11T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-12T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-13T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-14T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-15T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-16T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-17T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-18T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-19T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-20T00:00:00.000Z",
+      "totalViews": 3565
+     },
+     {
+      "approvedSubmissionCount": 3,
+      "bucket": "2026-10-21T00:00:00.000Z",
+      "totalViews": 568416
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-22T00:00:00.000Z",
+      "totalViews": 972672
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-23T00:00:00.000Z",
+      "totalViews": 1148892
+     },
+     {
+      "approvedSubmissionCount": 10,
+      "bucket": "2026-10-24T00:00:00.000Z",
+      "totalViews": 2027728
+     },
+     {
+      "approvedSubmissionCount": 285,
+      "bucket": "2026-10-25T00:00:00.000Z",
+      "totalViews": 692680
+     },
+     {
+      "approvedSubmissionCount": 80,
+      "bucket": "2026-10-26T00:00:00.000Z",
+      "totalViews": 2287953
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-27T00:00:00.000Z",
+      "totalViews": 608779
+     },
+     {
+      "approvedSubmissionCount": 253,
+      "bucket": "2026-10-28T00:00:00.000Z",
+      "totalViews": 7740223
+     },
+     {
+      "approvedSubmissionCount": 116,
+      "bucket": "2026-10-29T00:00:00.000Z",
+      "totalViews": 4314430
+     },
+     {
+      "approvedSubmissionCount": 35,
+      "bucket": "2026-10-30T00:00:00.000Z",
+      "totalViews": 1028934
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-31T00:00:00.000Z",
+      "totalViews": 189366
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-11-01T00:00:00.000Z",
+      "totalViews": 222380
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-11-02T00:00:00.000Z",
+      "totalViews": 57603
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-11-03T00:00:00.000Z",
+      "totalViews": 32807
+     }
+    ],
+    "creatorCount": 117,
+    "metricsUpdatedAt": "2026-11-03T10:20:19.000Z",
+    "paidOutCents": 0,
+    "poolSplit": {
+     "creatorCount": 154,
+     "otherShareBps": 816,
+     "topShareBps": [
+      6113,
+      1060,
+      890,
+      589,
+      532
+     ],
+     "final": false
+    },
+    "topClips": [
+     {
+      "platform": "x",
+      "postUrl": "https://x.com/ChipGotIt_/status/2115397320292663758",
+      "rank": 1,
+      "submissionId": "bec5846e-735a-48f6-88db-58fbbae85b0e",
+      "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/19bb8f44-baab-42f9-afe8-cc66df19b366/twitter_2115397320292663758_thumb.webp",
+      "title": "Lacy's first Japan stream ended in DISASTER after he accidentally showed a restaurant's QR code, leading viewers to order over 500,000 yen ($3K) worth of food and drinks 😭💀 https://t.co/ZYwZyXQREw",
+      "totalViews": 9606161,
+      "userId": "a5df67d7-9758-4268-b6a7-5113f5dacc41",
+      "username": "Chip",
+      "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/19bb8f44-baab-42f9-afe8-cc66df19b366/twitter_2115397320292663758.mp4"
+     },
+     {
+      "platform": "x",
+      "postUrl": "https://x.com/lacymomentslive/status/2113321143146828143",
+      "rank": 2,
+      "submissionId": "c3ddab6f-c36d-49d4-b0f9-45a72673f3bb",
+      "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/83d80d5d-9a2d-443c-a1a0-6567fbc85884/twitter_2113321143146828143_thumb.webp",
+      "title": "An old video of Lacy from back in his college days got leaked 😭 https://t.co/AoglbggFVW",
+      "totalViews": 1714611,
+      "userId": "74b8a9e4-920d-4aed-8a05-92a5c97bc5dd",
+      "username": "Kohn",
+      "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/83d80d5d-9a2d-443c-a1a0-6567fbc85884/twitter_2113321143146828143.mp4"
+     },
+     {
+      "platform": "x",
+      "postUrl": "https://x.com/ChipGotIt_/status/2114491480882761818",
+      "rank": 3,
+      "submissionId": "82f00326-e4b1-498c-a3de-0c9b95c00a54",
+      "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/c48c3d4c-8aec-48ef-bd2a-785bbaa8fd93/twitter_2114491480882761818_thumb.webp",
+      "title": "Marlon and Lacy get into a heated exchange with a group of kids holding an Israeli flag after saying “Free Palestine” 😳\n\n“My beliefs aren't your beliefs” https://t.co/Sy9qbbBVHh",
+      "totalViews": 1541860,
+      "userId": "a5df67d7-9758-4268-b6a7-5113f5dacc41",
+      "username": "Chip",
+      "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/c48c3d4c-8aec-48ef-bd2a-785bbaa8fd93/twitter_2114491480882761818.mp4"
+     },
+     {
+      "platform": "x",
+      "postUrl": "https://x.com/grimedant/status/2115326993168495089",
+      "rank": 4,
+      "submissionId": "3e1f0828-8809-4c2e-8fbf-5f27df67472a",
+      "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/9fcc6664-4113-445e-b6d5-111770d9746b/twitter_2115326993168495089_thumb.webp",
+      "title": "Lacy smokes a Japanese cigarette for the first time while in Tokyo 👀 https://t.co/zZm9gAOpyk",
+      "totalViews": 901743,
+      "userId": "24184c55-b208-42d9-bd74-e13def4702af",
+      "username": "ISawLight Light",
+      "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/9fcc6664-4113-445e-b6d5-111770d9746b/twitter_2115326993168495089.mp4"
+     },
+     {
+      "platform": "x",
+      "postUrl": "https://x.com/ChipGotIt_/status/2115402241213440019",
+      "rank": 5,
+      "submissionId": "27fe1819-7c64-48f3-9d13-a18e8575e470",
+      "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/5e3553db-0f75-4a6d-923b-f1cd1798f653/twitter_2115402241213440019_thumb.webp",
+      "title": "Lacy reveals his restaurant bill in Japan skyrocketed to $12,000 after viewers got hold of the ordering QR code he accidentally leaked 😭💀\n\n\"That poor restaurant had to cook 1.6 million yen worth of food because chat wanted to be funny\" https://t.co/xbkV33e30w",
+      "totalViews": 793774,
+      "userId": "a5df67d7-9758-4268-b6a7-5113f5dacc41",
+      "username": "Chip",
+      "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/5e3553db-0f75-4a6d-923b-f1cd1798f653/twitter_2115402241213440019.mp4"
+     },
+     {
+      "avatarUrl": "users/75b2d78e-d0eb-4050-ae37-af16ad196116/avatar/624af39b-d129-4615-b7f0-057d789cc87b.jpg",
+      "platform": "x",
+      "postUrl": "https://x.com/lacyupdateslive/status/2113754374354977263",
+      "rank": 6,
+      "submissionId": "4da3eac7-fb2a-4a35-8975-3271c3f8b233",
+      "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/63ab72bb-2f28-42ae-9025-46cc1b69ae74/twitter_2113754374354977263_thumb.webp",
+      "title": "Lacy unboxes the new iPhone Duo after buying it off a random person in Facebook marketplace 😭🔥 https://t.co/pFh3Trzjur",
+      "totalViews": 550119,
+      "userId": "75b2d78e-d0eb-4050-ae37-af16ad196116",
+      "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/63ab72bb-2f28-42ae-9025-46cc1b69ae74/twitter_2113754374354977263.mp4"
+     },
+     {
+      "avatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocIur1l4ach0N7NeJBPjNvMet4HDRUikF8-5AQm30vHn6Ntw50E=s96-c",
+      "platform": "x",
+      "postUrl": "https://x.com/yoxics/status/2115454207633551470",
+      "rank": 7,
+      "submissionId": "355c689a-2dd0-4302-9915-f52851da7b4a",
+      "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/71d73f09-716c-4d84-b563-a8a1d1a77586/twitter_2115454207633551470_thumb.webp",
+      "title": "Lacy accidentally showed a QR Code to a the table he was eating at, allowing fans to order 500,000 yen or $3,100 worth of items without him knowing 😳 https://t.co/KGIFsrYLNH",
+      "totalViews": 463126,
+      "userId": "23268195-ab19-443e-b5a1-fadbfcb19f61",
+      "username": "yoxic",
+      "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/71d73f09-716c-4d84-b563-a8a1d1a77586/twitter_2115454207633551470.mp4"
+     },
+     {
+      "avatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocIur1l4ach0N7NeJBPjNvMet4HDRUikF8-5AQm30vHn6Ntw50E=s96-c",
+      "platform": "x",
+      "postUrl": "https://x.com/yoxics/status/2113774792344256822",
+      "rank": 8,
+      "submissionId": "a55cad9a-a32a-4539-8f5f-948f0712d4f2",
+      "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/379513e9-d253-4366-904e-2a3f8ce7c5f7/twitter_2113774792344256822_thumb.webp",
+      "title": "Lacy performed a durability test on the brand new iPhone Duo 😭 https://t.co/ANxX9ozzae",
+      "totalViews": 423388,
+      "userId": "23268195-ab19-443e-b5a1-fadbfcb19f61",
+      "username": "yoxic",
+      "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/379513e9-d253-4366-904e-2a3f8ce7c5f7/twitter_2113774792344256822.mp4"
+     },
+     {
+      "avatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocIur1l4ach0N7NeJBPjNvMet4HDRUikF8-5AQm30vHn6Ntw50E=s96-c",
+      "platform": "x",
+      "postUrl": "https://x.com/yoxics/status/2112736608068014173",
+      "rank": 9,
+      "submissionId": "0553cc73-aa02-44f3-99d8-07ca4ff16ab5",
+      "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/7f8beaf9-892f-42f2-86f6-36d57bed5065/twitter_2112736608068014173_thumb.webp",
+      "title": "Lacy started panicking after realizing that he accidentally stole a $20 Fortnite V-Bucks card 😳 https://t.co/tMmAWa3vGC",
+      "totalViews": 338602,
+      "userId": "23268195-ab19-443e-b5a1-fadbfcb19f61",
+      "username": "yoxic",
+      "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/7f8beaf9-892f-42f2-86f6-36d57bed5065/twitter_2112736608068014173.mp4"
+     },
+     {
+      "platform": "x",
+      "postUrl": "https://x.com/Lacy__Thugs/status/2114441769412853992",
+      "rank": 10,
+      "submissionId": "abe65c2a-1e23-427a-9bb7-1c1fb06d7394",
+      "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/74203aa1-0601-4275-a033-ed49ef24ce0a/twitter_2114441769412853992_thumb.webp",
+      "title": "Lacy got accidentally tagged in a Hatercentral tweet bantering Manchester United players, mistaking him for the young player “Shea Lacy”😭 https://t.co/JZIGAOKszf",
+      "totalViews": 335394,
+      "userId": "e2d66ac8-5cec-46c6-ab5b-fef1c7360ad4",
+      "username": "Darkbooi",
+      "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/74203aa1-0601-4275-a033-ed49ef24ce0a/twitter_2114441769412853992.mp4"
+     }
+    ],
+    "topEarners": [
+     {
+      "approvedSubmissionCount": 27,
+      "earnedCents": 0,
+      "rank": 1,
+      "totalViews": 13386894,
+      "userId": "a5df67d7-9758-4268-b6a7-5113f5dacc41",
+      "username": "Chip",
+      "whopUsername": "moodycaliperac"
+     },
+     {
+      "approvedSubmissionCount": 15,
+      "avatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocIur1l4ach0N7NeJBPjNvMet4HDRUikF8-5AQm30vHn6Ntw50E=s96-c",
+      "earnedCents": 0,
+      "rank": 2,
+      "totalViews": 2321714,
+      "userId": "23268195-ab19-443e-b5a1-fadbfcb19f61",
+      "username": "yoxic",
+      "whopUsername": "yoxics"
+     },
+     {
+      "approvedSubmissionCount": 31,
+      "earnedCents": 0,
+      "rank": 3,
+      "totalViews": 1949796,
+      "userId": "74b8a9e4-920d-4aed-8a05-92a5c97bc5dd",
+      "username": "Kohn",
+      "whopUsername": "vkohn"
+     }
+    ],
+    "totalViews": 21896428
+   },
+   "name": "$5,000 Lacy 30 Day Campaign (Twitter/X)",
+   "organizationExperienceId": "exp_6DJh0DkDMhATvG",
+   "organizationId": "fe520411-733d-5812-a383-b56f9575d049",
+   "organizationLogoUrl": "organizations/fe520411-733d-5812-a383-b56f9575d049/logo/fe520411-733d-5812-a383-b56f9575d049.05c048630f.png",
+   "organizationName": "Reach",
+   "organizationProfileHandle": "reach",
+   "organizationVerified": true,
+   "payouts": [
+    {
+     "payoutType": "pool",
+     "platform": "x"
+    }
+   ],
+   "payoutType": "pool",
+   "platforms": [
+    "x"
+   ],
+   "primaryPayoutCents": 0,
+   "private": false,
+   "referenceMaterials": [],
+   "requiresApplication": false,
+   "retainerSpotsTotal": 0,
+   "status": "active",
+   "updatedAt": "2026-11-03T10:20:23.000Z",
+   "briefCounts": {
+    "contentRules": 0,
+    "creatorRequirements": 0,
+    "references": 4
+   }
+  },
+  {
+   "banner": "fe520411-733d-5812-a383-b56f9575d049/campaigns/thumbnails/feaf90cd-44e6-4bc3-ab1c-6bf41a50c34f.webp",
+   "budgetCents": 300000,
+   "categories": [
+    {
+     "id": "streamer",
+     "name": "Streamer"
+    },
+    {
+     "id": "personal-brand",
+     "name": "Personal Brand"
+    }
+   ],
+   "createdAt": "2026-10-26T19:18:58.000Z",
+   "description": "Create/Clip JShock content, read the rules and requirements for more information \n\nRules and requirements: https://reachclipping.com/JShock\n\nCampaign end date: 27th of November.",
+   "featuredScore": 445036,
+   "geoPriced": false,
+   "id": "fb463a98-3b5b-476d-a789-529b4a7120bd",
+   "launchDate": "2026-10-27T16:48:41.000Z",
+   "listedAt": "2026-10-27T16:48:41.000Z",
+   "metrics": {
+    "approvedSubmissionCount": 567,
+    "budgetProgressBps": 0,
+    "budgetSpentCents": 0,
+    "chartPoints": [
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-04T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-05T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-06T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-07T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-08T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-09T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-10T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-11T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-12T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-13T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-14T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-15T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-16T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-17T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-18T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-19T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-20T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-21T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-22T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-23T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-24T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-25T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-26T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-27T00:00:00.000Z",
+      "totalViews": 3546
+     },
+     {
+      "approvedSubmissionCount": 1,
+      "bucket": "2026-10-28T00:00:00.000Z",
+      "totalViews": 364046
+     },
+     {
+      "approvedSubmissionCount": 1,
+      "bucket": "2026-10-29T00:00:00.000Z",
+      "totalViews": 456017
+     },
+     {
+      "approvedSubmissionCount": 17,
+      "bucket": "2026-10-30T00:00:00.000Z",
+      "totalViews": 426207
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-31T00:00:00.000Z",
+      "totalViews": 373672
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-11-01T00:00:00.000Z",
+      "totalViews": 151280
+     },
+     {
+      "approvedSubmissionCount": 518,
+      "bucket": "2026-11-02T00:00:00.000Z",
+      "totalViews": 100685
+     },
+     {
+      "approvedSubmissionCount": 30,
+      "bucket": "2026-11-03T00:00:00.000Z",
+      "totalViews": 23726
+     }
+    ],
+    "creatorCount": 140,
+    "metricsUpdatedAt": "2026-11-03T10:20:17.000Z",
+    "paidOutCents": 0,
+    "poolSplit": {
+     "creatorCount": 182,
+     "otherShareBps": 0,
+     "topShareBps": [
+      9111,
+      888
+     ],
+     "final": false
+    },
+    "topClips": [
+     {
+      "platform": "tiktok",
+      "postUrl": "https://www.tiktok.com/@jshockclipss/video/7702424694812658957",
+      "rank": 1,
+      "submissionId": "d3a9be4e-bf7d-4612-b7a8-76450be69d9c",
+      "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/faaf05a7-bf9b-4613-a305-f8a986d2c571/tiktok_7702424694812658957_thumb.webp",
+      "title": "HOLY TRICEP😭💀#jshock #jshockclips #shocksquad #rainbowsixsiege #siegex @Jshock",
+      "totalViews": 382300,
+      "userId": "ee1f1bee-5424-43d2-a7c1-b817f8d9ae1c",
+      "username": "Jake",
+      "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/faaf05a7-bf9b-4613-a305-f8a986d2c571/tiktok_7702424694812658957.mp4"
+     },
+     {
+      "platform": "tiktok",
+      "postUrl": "https://www.tiktok.com/@jshockclipss/video/7701751412002278669",
+      "rank": 2,
+      "submissionId": "e77f55f5-f6db-4962-909e-a3d758c6198b",
+      "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/d8db97e0-3ff6-45f4-8008-b700be419c5d/tiktok_7701751412002278669_thumb.webp",
+      "title": "IM WATCHING THE NEWS😭💀#jshock #jshockclips #shocksquad #rainbowsixsiege #siegex @Jshock",
+      "totalViews": 306800,
+      "userId": "ee1f1bee-5424-43d2-a7c1-b817f8d9ae1c",
+      "username": "Jake",
+      "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/d8db97e0-3ff6-45f4-8008-b700be419c5d/tiktok_7701751412002278669.mp4"
+     },
+     {
+      "platform": "tiktok",
+      "postUrl": "https://www.tiktok.com/@jshockclipss/video/7701507696222113037",
+      "rank": 3,
+      "submissionId": "187b5889-6d08-4ca5-b8b2-b7dd7738dcb1",
+      "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/cc543f1d-4a77-4428-aaf1-2d156de34b10/tiktok_7701507696222113037_thumb.webp",
+      "title": "SOLD OUTTT😭💀#jshock #jshockclips #shocksquad #rainbowsixsiege #siegex @Jshock",
+      "totalViews": 217900,
+      "userId": "ee1f1bee-5424-43d2-a7c1-b817f8d9ae1c",
+      "username": "Jake",
+      "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/cc543f1d-4a77-4428-aaf1-2d156de34b10/tiktok_7701507696222113037.mp4"
+     },
+     {
+      "platform": "tiktok",
+      "postUrl": "https://www.tiktok.com/@nocturnal.cinema/video/7702605251395865886",
+      "rank": 4,
+      "submissionId": "e7dfe354-ac9c-4eb6-b7fd-56421e4a22d4",
+      "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/e42f45a7-b70f-4d3a-832e-723f0d6d17b2/tiktok_7702605251395865886_thumb.webp",
+      "title": "She hit the stealth mode sneeze 💀😭 #JShock #funny #streamer #joshock9nine #foryou",
+      "totalViews": 83800,
+      "userId": "c87938a1-2388-4e26-8799-ecfa95994bd6",
+      "username": "wbat",
+      "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/e42f45a7-b70f-4d3a-832e-723f0d6d17b2/tiktok_7702605251395865886.mp4"
+     },
+     {
+      "platform": "tiktok",
+      "postUrl": "https://www.tiktok.com/@jshockclipss/video/7703180862686317837",
+      "rank": 5,
+      "submissionId": "38b4e0d5-e2c8-4863-88cb-bdda04863076",
+      "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/4eedaa52-b636-4308-9d35-f14b1cdf1c9b/tiktok_7703180862686317837_thumb.webp",
+      "title": "GET A 360😭💀#jshock #jshockclips #shocksquad #rainbowsixsiege #siegex @Jshock",
+      "totalViews": 60200,
+      "userId": "ee1f1bee-5424-43d2-a7c1-b817f8d9ae1c",
+      "username": "Jake",
+      "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/4eedaa52-b636-4308-9d35-f14b1cdf1c9b/tiktok_7703180862686317837.mp4"
+     },
+     {
+      "platform": "tiktok",
+      "postUrl": "https://www.tiktok.com/@jshockclipss/video/7702224361339637006",
+      "rank": 6,
+      "submissionId": "0627faee-ab5a-4a5c-bcc2-7bd418eb5263",
+      "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/44ad9da7-34e2-473c-a4c7-3206e3bcf26d/tiktok_7702224361339637006_thumb.webp",
+      "title": "AHHHHH😭💀#jshock #jshockclips #shocksquad #rainbowsixsiege #siegex @Jshock",
+      "totalViews": 48800,
+      "userId": "ee1f1bee-5424-43d2-a7c1-b817f8d9ae1c",
+      "username": "Jake",
+      "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/44ad9da7-34e2-473c-a4c7-3206e3bcf26d/tiktok_7702224361339637006.mp4"
+     },
+     {
+      "platform": "tiktok",
+      "postUrl": "https://www.tiktok.com/@facts.uncovered0/video/7701886942375447838",
+      "rank": 7,
+      "submissionId": "9aa0ecb0-c9d2-4f2d-a667-6b66eb270af9",
+      "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/20880984-a4c9-44f2-ab83-dd2f210f0d24/tiktok_7701886942375447838_thumb.webp",
+      "title": "Fit check #jshock #shockoclock #content #clips #stream",
+      "totalViews": 41000,
+      "userId": "e696381c-1cb9-494c-816f-a6bf4d31e8c6",
+      "username": "Asaad Ghaleb",
+      "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/20880984-a4c9-44f2-ab83-dd2f210f0d24/tiktok_7701886942375447838.mp4"
+     },
+     {
+      "platform": "tiktok",
+      "postUrl": "https://www.tiktok.com/@real.clipz.exe/video/7702599970876181781",
+      "rank": 8,
+      "submissionId": "0ae3a12c-bf48-43d8-9fe9-236caafe40d3",
+      "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/892f998c-6347-4299-a07e-285a721eb762/tiktok_7702599970876181781_thumb.webp",
+      "title": "Jshock gave a hint of his new “Vivet worthy” merch 🔥 #clips #jshock",
+      "totalViews": 36200,
+      "userId": "30a013a8-8087-40b6-b27f-9a21eaa0e64c",
+      "username": "Ryan Luis",
+      "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/892f998c-6347-4299-a07e-285a721eb762/tiktok_7702599970876181781.mp4"
+     },
+     {
+      "platform": "youtube",
+      "postUrl": "https://www.youtube.com/watch?v=u5fGMvD44K0",
+      "rank": 9,
+      "submissionId": "c2065feb-d663-41ec-8d7e-ff0f6becb483",
+      "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/990141b4-dfb4-4333-9d92-f1d34a27ae49/youtube_u5fGMvD44K0_thumb.webp",
+      "title": "HE DIDN'T SEE THAT💀 #JShock",
+      "totalViews": 31320,
+      "userId": "c4df3df7-54f3-4aaf-8b79-ae08f674ee29",
+      "username": "DaevidEST",
+      "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/990141b4-dfb4-4333-9d92-f1d34a27ae49/youtube_u5fGMvD44K0.mp4"
+     },
+     {
+      "avatarUrl": "users/d500fe76-7236-47ec-87e8-5de131a47685/avatar/31659a0e-c752-48df-bd2b-0779deaa1f89.webp",
+      "platform": "youtube",
+      "postUrl": "https://www.youtube.com/watch?v=62Ygzgokjzc",
+      "rank": 10,
+      "submissionId": "2b760094-6d36-4189-8747-1d911ca79c21",
+      "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/25876cbf-d939-403d-a6bb-c0b1bcf14462/youtube_62Ygzgokjzc_thumb.webp",
+      "title": "He shut down an ENTIRE Pokémon store for Soph #JShock #jshock",
+      "totalViews": 30961,
+      "userId": "d500fe76-7236-47ec-87e8-5de131a47685",
+      "username": "Shyam Kumar",
+      "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/25876cbf-d939-403d-a6bb-c0b1bcf14462/youtube_62Ygzgokjzc.mp4"
+     }
+    ],
+    "topEarners": [
+     {
+      "approvedSubmissionCount": 15,
+      "earnedCents": 0,
+      "rank": 1,
+      "totalViews": 1086520,
+      "userId": "ee1f1bee-5424-43d2-a7c1-b817f8d9ae1c",
+      "username": "Jake",
+      "whopUsername": "floridagators191"
+     },
+     {
+      "approvedSubmissionCount": 37,
+      "earnedCents": 0,
+      "rank": 2,
+      "totalViews": 106689,
+      "userId": "30a013a8-8087-40b6-b27f-9a21eaa0e64c",
+      "username": "Ryan Luis",
+      "whopUsername": "clipzexe"
+     },
+     {
+      "approvedSubmissionCount": 2,
+      "earnedCents": 0,
+      "rank": 3,
+      "totalViews": 87578,
+      "userId": "c87938a1-2388-4e26-8799-ecfa95994bd6",
+      "username": "wbat",
+      "whopUsername": "wbat"
+     }
+    ],
+    "totalViews": 1899179
+   },
+   "name": "$3,000 JShock Clipping Campaign",
+   "organizationExperienceId": "exp_6DJh0DkDMhATvG",
+   "organizationId": "fe520411-733d-5812-a383-b56f9575d049",
+   "organizationLogoUrl": "organizations/fe520411-733d-5812-a383-b56f9575d049/logo/fe520411-733d-5812-a383-b56f9575d049.05c048630f.png",
+   "organizationName": "Reach",
+   "organizationProfileHandle": "reach",
+   "organizationVerified": true,
+   "payouts": [
+    {
+     "payoutType": "pool",
+     "platform": "tiktok"
+    },
+    {
+     "payoutType": "pool",
+     "platform": "instagram"
+    },
+    {
+     "payoutType": "pool",
+     "platform": "youtube"
+    }
+   ],
+   "payoutType": "pool",
+   "platforms": [
+    "instagram",
+    "tiktok",
+    "youtube"
+   ],
+   "primaryPayoutCents": 0,
+   "private": false,
+   "referenceMaterials": [],
+   "requiresApplication": false,
+   "retainerSpotsTotal": 0,
+   "status": "active",
+   "updatedAt": "2026-11-03T10:20:18.000Z",
+   "briefCounts": {
+    "contentRules": 0,
+    "creatorRequirements": 0,
+    "references": 4
+   }
+  },
+  {
+   "banner": "fe520411-733d-5812-a383-b56f9575d049/campaigns/thumbnails/c8706921-5056-489c-9bf5-82b16902d2d0.webp",
+   "budgetCents": 200000,
+   "categories": [
+    {
+     "id": "streamer",
+     "name": "Streamer"
+    },
+    {
+     "id": "personal-brand",
+     "name": "Personal Brand"
+    }
+   ],
+   "createdAt": "2026-10-29T06:13:25.000Z",
+   "description": "Clip content for Braeden and earn \n\nread the rules and requirements here: \nhttps://reachclipping.com/Braeden\n\nEnd date: 5th of November.",
+   "featuredScore": 273036,
+   "geoPriced": false,
+   "id": "c4c0b8fd-47d7-4675-a810-5e2f952da477",
+   "launchDate": "2026-10-29T06:14:08.000Z",
+   "listedAt": "2026-10-29T06:14:08.000Z",
+   "metrics": {
+    "approvedSubmissionCount": 916,
+    "budgetProgressBps": 0,
+    "budgetSpentCents": 0,
+    "chartPoints": [
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-04T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-05T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-06T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-07T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-08T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-09T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-10T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-11T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-12T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-13T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-14T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-15T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-16T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-17T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-18T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-19T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-20T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-21T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-22T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-23T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-24T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-25T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-26T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-27T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-28T00:00:00.000Z",
+      "totalViews": 0
+     },
+     {
+      "approvedSubmissionCount": 4,
+      "bucket": "2026-10-29T00:00:00.000Z",
+      "totalViews": 325297
+     },
+     {
+      "approvedSubmissionCount": 19,
+      "bucket": "2026-10-30T00:00:00.000Z",
+      "totalViews": 830661
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-10-31T00:00:00.000Z",
+      "totalViews": 553068
+     },
+     {
+      "approvedSubmissionCount": 0,
+      "bucket": "2026-11-01T00:00:00.000Z",
+      "totalViews": 466902
+     },
+     {
+      "approvedSubmissionCount": 816,
+      "bucket": "2026-11-02T00:00:00.000Z",
+      "totalViews": 104330
+     },
+     {
+      "approvedSubmissionCount": 77,
+      "bucket": "2026-11-03T00:00:00.000Z",
+      "totalViews": 43284
+     }
+    ],
+    "creatorCount": 153,
+    "metricsUpdatedAt": "2026-11-03T10:20:19.000Z",
+    "paidOutCents": 0,
+    "poolSplit": {
+     "creatorCount": 205,
+     "otherShareBps": 0,
+     "topShareBps": [
+      6414,
+      3585
+     ],
+     "final": false
+    },
+    "topClips": [
+     {
+      "platform": "tiktok",
+      "postUrl": "https://www.tiktok.com/@kn.himself/video/7702016232307903776",
+      "rank": 1,
+      "submissionId": "f0fe04f7-642b-4b15-92ab-bdab8db68305",
+      "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/532ae6f3-5409-4fb3-a3e0-7452405e8d77/tiktok_7702016232307903776_thumb.webp",
+      "title": "Braeden Ray Madi & Bilzo hit “quiet on the creek”😭❤️‍🩹 #braeden #rayasianboy #madi2hotty #fyp #trending",
+      "totalViews": 424200,
+      "userId": "1a27b35f-87b8-4271-ae2b-b252c5293327",
+      "username": "kngtb",
+      "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/532ae6f3-5409-4fb3-a3e0-7452405e8d77/tiktok_7702016232307903776.mp4"
+     },
+     {
+      "platform": "tiktok",
+      "postUrl": "https://www.tiktok.com/@morekwshy/video/7703098866941398294",
+      "rank": 2,
+      "submissionId": "7fa33da6-3aab-45f8-b4d0-ce9567ca1fa0",
+      "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/d29f85a8-41f1-4416-bc62-118c90a3e2a2/tiktok_7703098866941398294_thumb.webp",
+      "title": "Braeden was typing a message to Sky Bri and she messaged him back before he even pressed sent😭😭 #braeden #skybri #twitch #viral #fypシ゚",
+      "totalViews": 287700,
+      "userId": "b3f3bbb7-c368-48be-a539-d92d044db585",
+      "username": "Qwshy",
+      "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/d29f85a8-41f1-4416-bc62-118c90a3e2a2/tiktok_7703098866941398294.mp4"
+     },
+     {
+      "platform": "tiktok",
+      "postUrl": "https://www.tiktok.com/@kn.himself/video/7702264655040761121",
+      "rank": 3,
+      "submissionId": "c4be2d28-6c6c-4912-9d06-159d2a28a8de",
+      "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/20d68343-eb62-4fb5-a5ea-dd30d69e4696/tiktok_7702264655040761121_thumb.webp",
+      "title": "What’s Bathroom in Taiwan😭🥀 #braeden #bilzo #fyp #viral #trending",
+      "totalViews": 270100,
+      "userId": "1a27b35f-87b8-4271-ae2b-b252c5293327",
+      "username": "kngtb",
+      "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/20d68343-eb62-4fb5-a5ea-dd30d69e4696/tiktok_7702264655040761121.mp4"
+     },
+     {
+      "platform": "tiktok",
+      "postUrl": "https://www.tiktok.com/@morekwshy/video/7702270481201728790",
+      "rank": 4,
+      "submissionId": "d010d426-f1ed-43de-aff4-6dfa6a97ce71",
+      "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/4245b58d-d339-444c-9034-d6b6f7cc7266/tiktok_7702270481201728790_thumb.webp",
+      "title": "braeden really caught mooda cheating at a Fortnite event😭💀 #braeden #mooda #fortnite #viral #fypシ゚",
+      "totalViews": 68800,
+      "userId": "b3f3bbb7-c368-48be-a539-d92d044db585",
+      "username": "Qwshy",
+      "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/4245b58d-d339-444c-9034-d6b6f7cc7266/tiktok_7702270481201728790.mp4"
+     },
+     {
+      "platform": "tiktok",
+      "postUrl": "https://www.tiktok.com/@kn.himself/video/7702353124144598304",
+      "rank": 5,
+      "submissionId": "acc9c3e7-c050-4adb-9d2f-1b000d85d39f",
+      "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/8fffdd7a-a48b-4bcb-9b88-5802b67ddeb7/tiktok_7702353124144598304_thumb.webp",
+      "title": "“Or your gonna get hit with a lacy”😭🥀 #braeden #lacy #fyp #viral #trending",
+      "totalViews": 66100,
+      "userId": "1a27b35f-87b8-4271-ae2b-b252c5293327",
+      "username": "kngtb",
+      "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/8fffdd7a-a48b-4bcb-9b88-5802b67ddeb7/tiktok_7702353124144598304.mp4"
+     },
+     {
+      "avatarUrl": "users/2a16726c-2b28-4a64-a8ac-a69a5db6f9ce/avatar/c4bdf327-97c9-46ff-acfd-d2d5d71fe9f4.webp",
+      "platform": "tiktok",
+      "postUrl": "https://www.tiktok.com/@ishowtaxes/video/7702522568493813014",
+      "rank": 6,
+      "submissionId": "44fbc524-ffc6-495e-9cd2-e6822c9e884d",
+      "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/ca2d244c-c748-4132-aa2b-0eb307eab03f/tiktok_7702522568493813014_thumb.webp",
+      "title": "Braeden CRASHES OUT after Ray’s cousin was RACIST to him the whole stream 😨💔 #braeden #rayasianboy #fyp",
+      "totalViews": 58000,
+      "userId": "2a16726c-2b28-4a64-a8ac-a69a5db6f9ce",
+      "username": "Vito Official",
+      "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/ca2d244c-c748-4132-aa2b-0eb307eab03f/tiktok_7702522568493813014.mp4"
+     },
+     {
+      "platform": "tiktok",
+      "postUrl": "https://www.tiktok.com/@nolimitclipz5/video/7702136615275089183",
+      "rank": 7,
+      "submissionId": "f0bf5e10-db43-470d-9be3-80b5e90ce5cc",
+      "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/c3c48cfe-a679-4032-9fe5-943019719fd0/tiktok_7702136615275089183_thumb.webp",
+      "title": "Ray and Braeden EXP0SED Madi for HAVING no CLOTHS #rayasianboy #fyp",
+      "totalViews": 53800,
+      "userId": "13d95e2f-6f67-4f75-8485-7c3e0e37e252",
+      "username": "UNKNOWN",
+      "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/c3c48cfe-a679-4032-9fe5-943019719fd0/tiktok_7702136615275089183.mp4"
+     },
+     {
+      "platform": "tiktok",
+      "postUrl": "https://www.tiktok.com/@morekwshy/video/7702271582281944342",
+      "rank": 8,
+      "submissionId": "ac205564-d543-4f28-b8e1-0a34991c5ea3",
+      "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/2b87a8ca-9a0f-4d6c-920f-2f8c650e41fb/tiktok_7702271582281944342_thumb.webp",
+      "title": "the panic on braeden’s face when he realized ray fed him pork💀😭 #braeden #twitch #viral #fypシ゚",
+      "totalViews": 35400,
+      "userId": "b3f3bbb7-c368-48be-a539-d92d044db585",
+      "username": "Qwshy",
+      "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/2b87a8ca-9a0f-4d6c-920f-2f8c650e41fb/tiktok_7702271582281944342.mp4"
+     },
+     {
+      "platform": "youtube",
+      "postUrl": "https://www.youtube.com/watch?v=TNfEHMc7aLM",
+      "rank": 9,
+      "submissionId": "1e40673a-fbc7-4886-9349-bbe6d349827b",
+      "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/cc2acc4a-2890-4214-82a5-0b0a242360ff/youtube_TNfEHMc7aLM_thumb.webp",
+      "title": "Ray & Braeden are CRAZY DUO'S! 😂#braeden",
+      "totalViews": 32880,
+      "userId": "932c2380-54d1-465d-b996-8eb1e007aabe",
+      "username": "TM💚",
+      "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/cc2acc4a-2890-4214-82a5-0b0a242360ff/youtube_TNfEHMc7aLM.mp4"
+     },
+     {
+      "platform": "youtube",
+      "postUrl": "https://www.youtube.com/watch?v=M1Q8nrweQqg",
+      "rank": 10,
+      "submissionId": "8017f063-8659-4ae5-8cd2-6917e26ae48a",
+      "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/aae3477c-9442-407b-a903-c68a36f6836a/youtube_M1Q8nrweQqg_thumb.webp",
+      "title": "Braeden Asked What “What” Means in Chinese… 💀😭#braeden",
+      "totalViews": 29814,
+      "userId": "9627d48b-dda6-4231-994b-9207e53c4762",
+      "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/aae3477c-9442-407b-a903-c68a36f6836a/youtube_M1Q8nrweQqg.mp4"
+     }
+    ],
+    "topEarners": [
+     {
+      "approvedSubmissionCount": 15,
+      "earnedCents": 0,
+      "rank": 1,
+      "totalViews": 839288,
+      "userId": "1a27b35f-87b8-4271-ae2b-b252c5293327",
+      "username": "kngtb",
+      "whopUsername": "clipperbusiness"
+     },
+     {
+      "approvedSubmissionCount": 37,
+      "earnedCents": 0,
+      "rank": 2,
+      "totalViews": 469052,
+      "userId": "b3f3bbb7-c368-48be-a539-d92d044db585",
+      "username": "Qwshy",
+      "whopUsername": "qwshy"
+     },
+     {
+      "approvedSubmissionCount": 4,
+      "earnedCents": 0,
+      "rank": 3,
+      "totalViews": 84761,
+      "userId": "9627d48b-dda6-4231-994b-9207e53c4762",
+      "whopUsername": "faintnapb1"
+     }
+    ],
+    "totalViews": 2323542
+   },
+   "name": "$2,000 Braeden Campaign",
+   "organizationExperienceId": "exp_6DJh0DkDMhATvG",
+   "organizationId": "fe520411-733d-5812-a383-b56f9575d049",
+   "organizationLogoUrl": "organizations/fe520411-733d-5812-a383-b56f9575d049/logo/fe520411-733d-5812-a383-b56f9575d049.05c048630f.png",
+   "organizationName": "Reach",
+   "organizationProfileHandle": "reach",
+   "organizationVerified": true,
+   "payouts": [
+    {
+     "payoutType": "pool",
+     "platform": "tiktok"
+    },
+    {
+     "payoutType": "pool",
+     "platform": "instagram"
+    },
+    {
+     "payoutType": "pool",
+     "platform": "youtube"
+    }
+   ],
+   "payoutType": "pool",
+   "platforms": [
+    "instagram",
+    "tiktok",
+    "youtube"
+   ],
+   "primaryPayoutCents": 0,
+   "private": false,
+   "referenceMaterials": [],
+   "requiresApplication": false,
+   "retainerSpotsTotal": 0,
+   "status": "active",
+   "updatedAt": "2026-11-03T10:20:21.000Z",
+   "briefCounts": {
+    "contentRules": 0,
+    "creatorRequirements": 0,
+    "references": 3
+   }
+  }
+ ],
+ "pagination": {
+  "count": 5,
+  "cursor": "MjUwMDAwMAA0NDc5ZTVlMi05YTAwLTQ4OWUtOGIwYy0zNDU4MzRmMzdjYzcAMDFhMWEwZWQtZjJiMC03MDAwLWEzZGQtNjQ3NmY0YTBhNzM3ADAAZDdmYjM3MzllMmMxMjI2ZQ==",
+  "limit": 10,
+  "nextCursor": null,
+  "pageIndex": 0,
+  "servingId": "01a1a0ed-f2b0-7000-a3dd-6476f4a0a737"
+ },
+ "success": true
+}

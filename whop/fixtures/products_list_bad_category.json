@@ -1,0 +1,4 @@
+{
+ "__error__": "WhopBadRequest",
+ "message": "unknown category route 'no-such-category-xyz'; see /whop/categories/list"
+}

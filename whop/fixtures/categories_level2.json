@@ -1,0 +1,1477 @@
+{
+ "totalCount": 92,
+ "nodes": [
+  {
+   "id": "mcat_jcmrQNWxRzvEs",
+   "name": "Building",
+   "route": "building",
+   "level": 2,
+   "tagline": null,
+   "description": null,
+   "liveAccessPassCount": 8,
+   "livePageCount": 8,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_w35XJPqgMxQMx",
+    "name": "Real Estate",
+    "route": "real-estate"
+   }
+  },
+  {
+   "id": "mcat_BP1uVqjDuWlWb",
+   "name": "General",
+   "route": "general",
+   "level": 2,
+   "tagline": null,
+   "description": null,
+   "liveAccessPassCount": 2,
+   "livePageCount": 2,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_CnqbtiRli0evq",
+    "name": "Newsletters",
+    "route": "newsletters"
+   }
+  },
+  {
+   "id": "mcat_TGqsgS8KbSmUn",
+   "name": "General",
+   "route": "general",
+   "level": 2,
+   "tagline": null,
+   "description": null,
+   "liveAccessPassCount": 1,
+   "livePageCount": 1,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_Bi9Hf3JKlq7RE",
+    "name": "Religion",
+    "route": "religion"
+   }
+  },
+  {
+   "id": "mcat_37He6vj68lhMo",
+   "name": "Marketing",
+   "route": "marketing",
+   "level": 2,
+   "tagline": null,
+   "description": null,
+   "liveAccessPassCount": 86,
+   "livePageCount": 86,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_n2W08CjtVUeJh",
+    "name": "Agencies",
+    "route": "agencies"
+   }
+  },
+  {
+   "id": "mcat_GpLQXcjJ8tOwp",
+   "name": "Futures",
+   "route": "futures",
+   "level": 2,
+   "tagline": null,
+   "description": null,
+   "liveAccessPassCount": 270,
+   "livePageCount": 270,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_lkjDDW8wBZzQU",
+    "name": "Trading",
+    "route": "trading"
+   }
+  },
+  {
+   "id": "mcat_oMBnxn1PL7iBh",
+   "name": "Golf",
+   "route": "golf",
+   "level": 2,
+   "tagline": null,
+   "description": null,
+   "liveAccessPassCount": 1,
+   "livePageCount": 1,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_EHguGjCHgcYdU",
+    "name": "Sports Betting",
+    "route": "sports-picks"
+   }
+  },
+  {
+   "id": "mcat_t27Ww1FDx4X8b",
+   "name": "General",
+   "route": "general",
+   "level": 2,
+   "tagline": null,
+   "description": null,
+   "liveAccessPassCount": 22,
+   "livePageCount": 22,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_SUnTDiMm9yGwA",
+    "name": "Travel",
+    "route": "travel"
+   }
+  },
+  {
+   "id": "mcat_NqA9IreBfo0nE",
+   "name": "Other",
+   "route": "other",
+   "level": 2,
+   "tagline": null,
+   "description": null,
+   "liveAccessPassCount": 11,
+   "livePageCount": 11,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_lkjDDW8wBZzQU",
+    "name": "Trading",
+    "route": "trading"
+   }
+  },
+  {
+   "id": "mcat_TXZMnGwGztAee",
+   "name": "Investing",
+   "route": "investing",
+   "level": 2,
+   "tagline": null,
+   "description": "These are Whop’s trading and investing groups, designed to give you a leg up in your quest to build wealth. This is an endeavor that generally begins with education, and these communities are all about providing you with the knowledge and tools that you need to accomplish your financial objectives. On this page, you’ll find trading Discord groups full of people on the same journey, so there’ll be plenty of support and a community element to your progress that shouldn’t be underestimated. Mentorship and instruction is a big part of it as well, and the coaches in these trading communities have decades of experience and their own unique styles. Investing is all about fundamental analysis and developing your mentality as well as a long-term approach, but trading is a great way to build wealth too. This page features trading and investing groups that devote themselves to both approaches, but some meet in the middle and offer you a blend, which really just boils down to learning more and putting more arrows in your quiver. So, if you want to get serious about trading and investing, check out these groups!",
+   "liveAccessPassCount": 60,
+   "livePageCount": 60,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_lkjDDW8wBZzQU",
+    "name": "Trading",
+    "route": "trading"
+   }
+  },
+  {
+   "id": "mcat_abtdIddTARcbG",
+   "name": "Datasets",
+   "route": "datasets",
+   "level": 2,
+   "tagline": null,
+   "description": null,
+   "liveAccessPassCount": 2,
+   "livePageCount": 2,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_lkjDDW8wBZzQU",
+    "name": "Trading",
+    "route": "trading"
+   }
+  },
+  {
+   "id": "mcat_eAK6VdhBkouK6",
+   "name": "General",
+   "route": "general",
+   "level": 2,
+   "tagline": null,
+   "description": "Welcome to the internet’s best corner for general trading groups, where you’ll find a range of thriving communities and tools covering all aspects of trading. Trading is one of the most lucrative hustles going, but there is an incredible amount of variety in the trading world not just in what assets you can trade, but how you can trade them! Finding your style and a market in which you’re comfortable is often the first step, and you can do that right here. These trading communities each have their own speciality whether it comes to the style of trading, whether that’s swing trading, day trading, or something else entirely; and you’ll find just as much of a range when it comes to trading instruments like forex, stocks, bonds, and even crypto. You can also find great trading communities focused on tools that can enhance your trading, such as trading indicators. So, whether you’re just getting into the game and seeking to skill up or are already an experienced trader looking for a boost via the right tools or the perfect mentor, these trading groups are for you!",
+   "liveAccessPassCount": 91,
+   "livePageCount": 91,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_lkjDDW8wBZzQU",
+    "name": "Trading",
+    "route": "trading"
+   }
+  },
+  {
+   "id": "mcat_ZdpHfFIoZProK",
+   "name": "Journals",
+   "route": "journals",
+   "level": 2,
+   "tagline": null,
+   "description": null,
+   "liveAccessPassCount": 11,
+   "livePageCount": 11,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_lkjDDW8wBZzQU",
+    "name": "Trading",
+    "route": "trading"
+   }
+  },
+  {
+   "id": "mcat_sC7BNjsxnzIrJ",
+   "name": "Options",
+   "route": "options",
+   "level": 2,
+   "tagline": null,
+   "description": "This is Whop’s options trading page, your home for the very best in options trading if what you want is top-class education, learning resources, effective instruction and a dynamic community. Options are an often misunderstood instrument when it comes to trading and investment, and making consistent profits from options comes down to a combination of things such as trading skill, analysis, psychology, and good judgment. If you want to develop all of those things, gain experience, and understand the systems that the top options traders are using today, these groups are where it’s at. From experienced coaches with decades of experience in the markets to some of the best technical analysis tools and indicators, and even some incredible trading algorithms, Whop’s options trading Discord servers give you everything you need for consistent options excellence.  ",
+   "liveAccessPassCount": 147,
+   "livePageCount": 147,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_lkjDDW8wBZzQU",
+    "name": "Trading",
+    "route": "trading"
+   }
+  },
+  {
+   "id": "mcat_Bo4fTnZIwdjQf",
+   "name": "Forex",
+   "route": "forex",
+   "level": 2,
+   "tagline": null,
+   "description": "Welcome to Whop’s Forex trading page, where you can find the Internet’s best Forex-focused communities and Discord servers. If you’re looking to brush up on your trading skills and learn some new strategies, this is where you want to be! Forex is one of the most profitable trading assets if done right, and Whop’s listings include experts who’ve been in the business for years and have the benefits of both experience as well as proven systems to help them succeed. You’ll learn from the very best, developing your own abilities to the point where you can call yourself an expert too. Each of the groups you’ll find in this category has a thriving community and its own speciality, and you can expect to find every trading style being covered too—regardless if it’s day trading or scalping, Forex profits are the name of the game. So, if you want to master the ins and outs of Forex trading, you’ve got all you’ll ever need right here!",
+   "liveAccessPassCount": 306,
+   "livePageCount": 306,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_lkjDDW8wBZzQU",
+    "name": "Trading",
+    "route": "trading"
+   }
+  },
+  {
+   "id": "mcat_1D2JitSZqzKqw",
+   "name": "Technical Analysis",
+   "route": "technical-analysis",
+   "level": 2,
+   "tagline": null,
+   "description": "Welcome to Whop’s trading technical analysis page, where you’ll find some of the best tools and training geared toward making you a better technical analyst and successful technical trader. These trading Discord groups are focused on providing you with the very best in technical trading education, with extensive courses and top-class mentorship showing you not only how trading with technical analysis works but how to put it to good use yourself. You can follow professional traders as they chart out the market in real time, and then put skin in the game as they take trades. Trading with technical analysis also means a lot of automation, so whether it’s signals, indicators, or even bots, you’ll find all of those resources here along with extensive help in how to deploy them however you want. So, if you want to get serious about trading using technical analysis and all that goes with it, this is the place for you!",
+   "liveAccessPassCount": 76,
+   "livePageCount": 76,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_lkjDDW8wBZzQU",
+    "name": "Trading",
+    "route": "trading"
+   }
+  },
+  {
+   "id": "mcat_n9WwNiYhQSqiG",
+   "name": "Trading Indicators",
+   "route": "trading-indicators",
+   "level": 2,
+   "tagline": null,
+   "description": "You’ve found Whop’s trading indicators page, your one-stop shop for the most powerful trading indicators to amplify your trading efficacy and make you a better trader. Trading and technical analysis can be difficult to master, but trading indicators can help you identify specific conditions in a market or even forecast the future moves of an asset to a more reliable degree than you otherwise would. They can inform decision-making, and help you develop your feel for price movements and the general pulse of the market.\n\nThere are many trading indicators on offer and even more providers out there, but you’ll find only the best on this page. The trading communities listed here offer their own premium trading indicators but importantly also the education needed to deploy them at the right time and make the correct inferences. Each one of these trading indicators Discord servers has its own selection of indicators as well as a whole host of accompanying services, so there’s sure to be one for you down below.",
+   "liveAccessPassCount": 89,
+   "livePageCount": 89,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_lkjDDW8wBZzQU",
+    "name": "Trading",
+    "route": "trading"
+   }
+  },
+  {
+   "id": "mcat_DASwIDfHFxa1b",
+   "name": "NFTs",
+   "route": "nfts",
+   "level": 2,
+   "tagline": null,
+   "description": "Welcome to the Whop NFT trading page! Here, you’ll find some of the internet’s best communities and Discord servers focused on trading NFTs! Non-fungible tokens are an innovative, disruptive technology that is being used by some of the world’s biggest brands in areas like logistics, but they are also digital assets that have significant value and can be traded for profit. Blockchain technology can be complex, but these NFT trading communities feature plenty of educational resources that’ll give you a fantastic grounding on not just how to trade NFTs, but what they and their underlying technology is all about. If you’re not sure which out of the hundreds of blockchains out there can support NFTs and what the best NFT marketplaces are, your worries are at an end. ETH or SOL? Opensea or Immutable? What is minting, and how do NFT wallets work? From where to sell NFTs to how to flip PFPs, these NFT trading Discord servers have all the answers. Scroll down and take your pick from the choice below to start learning about and trading NFTs today!",
+   "liveAccessPassCount": 3,
+   "livePageCount": 3,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_lkjDDW8wBZzQU",
+    "name": "Trading",
+    "route": "trading"
+   }
+  },
+  {
+   "id": "mcat_a0U3wNDJu86E1",
+   "name": "Crypto",
+   "route": "crypto",
+   "level": 2,
+   "tagline": null,
+   "description": "This is Whop’s crypto trading page, the best place to find a cryptocurrency trading community that meets your needs! Crypto is one of the most volatile asset classes to trade, and unlike most other markets, trading happens 24/7. It’s an area where a lot of traditional traders fail to cut it, but you’re giving yourself the best possible chance of success by being right here. On this page, you’ll find Discord servers that cover everything you’ll need to become a better crypto trader. From educating members on the ins and outs of blockchain technology and its value proposition to establishing different trading styles and strategies while also covering psychology and the crypto trader’s mindset, these groups will take your skills to the next level. So, whether you’re looking to apply established crypto trading strategies to liquid markets like BTC or dip into NFTs, or even take a trip into the world of DeFi and liquidity pools on blockchains like Ethereum or Solana, you’re in the right place!",
+   "liveAccessPassCount": 400,
+   "livePageCount": 400,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_lkjDDW8wBZzQU",
+    "name": "Trading",
+    "route": "trading"
+   }
+  },
+  {
+   "id": "mcat_u0yTx5sA1kiXo",
+   "name": "Stocks",
+   "route": "stocks",
+   "level": 2,
+   "tagline": null,
+   "description": "This is Whop’s stock trading page, your home for the very best in stock trading communities, trading Discord servers, and trading courses! Whether you’ve been trading stocks for a long time or are just getting started, there’s always something new to learn. Even professional traders may not be an expert with every stock trading style or strategy out there, and trying a new trading style might feel like an epiphany when it all clicks into place. The trading Discord groups you’ll find here are some of the most reputable in the business, and many have been around for years. Some of these groups are led by pro traders who have been at it for decades, while others may be younger but their consistent success and dedication to a trading style speaks volumes—meaning that you’ll find the mentor for you, whether you need someone who speaks your language or possesses sheer volume of experience. These trading communities are perfect for you if you’re interested in trading stocks because they’ll help you to find your style, grounding you in the basics and then allowing you to develop not just your skills but the right mentality for trading. So, jump right in and check them out! ",
+   "liveAccessPassCount": 81,
+   "livePageCount": 81,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_lkjDDW8wBZzQU",
+    "name": "Trading",
+    "route": "trading"
+   }
+  },
+  {
+   "id": "mcat_5MkmbN8F73Jqc",
+   "name": "Other",
+   "route": "other",
+   "level": 2,
+   "tagline": null,
+   "description": "This is Whop’s student tools and discounts page, where you’ll find plenty of ways to hack your student life and make things both easier and cheaper! If you’ve found yourself overwhelmed by assignments, tests, or just the general demands placed upon your time by your studies, you’re in luck! The student tools on this page will cut down on your study time dramatically, giving you a variety of shortcuts that’ll help you out without negatively affecting the learning process. The student discounts you’ll find here will also help you out by preserving that budget, letting you put cash toward whatever you deem most important! This way, you can live your student life to the absolute max, nailing your test prep and breezing through your assignments while also enjoying all those extracurriculars. Ensure that you don’t miss out by checking out all of these great time-saving student tools and fantastic student discounts right here on Whop!",
+   "liveAccessPassCount": 1,
+   "livePageCount": 1,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_T8RFcflmiilmk",
+    "name": "Students",
+    "route": "students"
+   }
+  },
+  {
+   "id": "mcat_qE0KeZ2X5J9YO",
+   "name": "Chrome Extensions",
+   "route": "chrome-extensions",
+   "level": 2,
+   "tagline": null,
+   "description": "Welcome to Whop’s Chrome extensions page, where you can find browser extensions and plug-ins that will save you both time and effort when it comes to your studies. Students have a tough workload at the best of times, but there are plenty of hacks out there to make it more manageable. If you’re using a Chrome-based browser you can take advantage of plenty of them, linking your browser with some of the most advanced utilities and tools, including advanced AI. The Chrome extensions for students that you’ll find on this page can empower you by doing a large bulk of the work for you, saving you time, giving you great answers and in-depth, and providing simplified explanations. There might even be a few student discounts for you to take advantage of! Say goodbye to hours of studying and swotting for minimal gains and let these Chrome extensions save you time by studying smarter with Whop’s Chrome extensions!",
+   "liveAccessPassCount": 0,
+   "livePageCount": 0,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_T8RFcflmiilmk",
+    "name": "Students",
+    "route": "students"
+   }
+  },
+  {
+   "id": "mcat_JK78pxDIjAfvk",
+   "name": "Test Prep",
+   "route": "test-prep",
+   "level": 2,
+   "tagline": null,
+   "description": "Welcome to Whop’s test prep page, the perfect collection of resources and student discounts to help you prepare to ace all your upcoming tests! Preparing for tests and exams can be a tricky business, and University tests aren’t getting any easier. On top of that, test prep has become a big business, and the companies that provide test prep services are getting increasingly difficult to deal with in a variety of ways. This collection of resources, utilities, groups, and creators is here to change this landscape! You’ll find a variety of ways to take on your next exams, so there’s something for you no matter whether you respond better to group study and community or direct one-to-one coaching. So, give yourself the best chance possible of nailing your test prep with these student test prep groups on Whop!",
+   "liveAccessPassCount": 1,
+   "livePageCount": 1,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_T8RFcflmiilmk",
+    "name": "Students",
+    "route": "students"
+   }
+  },
+  {
+   "id": "mcat_tGf11DuatiSKW",
+   "name": "Food",
+   "route": "food",
+   "level": 2,
+   "tagline": null,
+   "description": "This is Whop’s Food deals page, featuring the best food deals and student discounts on the internet! Student life can be tough, and saving a little money where possible can help immeasurably—whether you want to use those funds on extra tutoring, textbooks, entertainment, or extracurriculars, a few bucks can go a long way when you’re in school. These groups and communities are dedicated to bringing you the best food deals and student discounts, allowing you to save as much money as you can. Food deals can change your student life, so there’s no sense in letting them go by. Some say that there’s no such thing as a free lunch. With Whop’s food deals for students, you’ll find that there’s nothing further from the truth!",
+   "liveAccessPassCount": 0,
+   "livePageCount": 0,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_T8RFcflmiilmk",
+    "name": "Students",
+    "route": "students"
+   }
+  },
+  {
+   "id": "mcat_2aeQ1YWiPe1Y6",
+   "name": "Homework Helping",
+   "route": "homework-helping",
+   "level": 2,
+   "tagline": null,
+   "description": "Welcome to Whop’s Homework Helping section, where you can find the help you need to get your homework out of the way faster, easier, and more efficiently! Homework is a big part of student life and is essential to make the most of your studies, but there’s no reason you can’t get it done in the quickest and most painless way possible. These groups give you the homework help you need without compromising on education, letting you learn while also cutting down on the graft. This page features communities focused on your education, helping you out in different ways. High-value coaching can help you master the concepts you’re learning, while tools, utilities, and even Chrome extensions can cut down on a lot of the bloat time that comes with homework. So, if you want to maximize your learning but also save time and maybe even money via student discounts, check out these Whop homework help groups!",
+   "liveAccessPassCount": 0,
+   "livePageCount": 0,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_T8RFcflmiilmk",
+    "name": "Students",
+    "route": "students"
+   }
+  },
+  {
+   "id": "mcat_GiUBYQX6e0qus",
+   "name": "Notion",
+   "route": "notion",
+   "level": 2,
+   "tagline": null,
+   "description": "This is Whop’s Notion templates page, featuring some of the best student Notion templates for making your student life easier. Notion has revolutionized the world of productivity, and that’s as true for student life as it is for the workplace. As a student, you sometimes need all the help you can get, whether it’s getting your term schedule in order or actually getting through the curriculum more efficiently. Various creators are using Notion to help students like you, and you can find their templates right here! From systems helping you to become more efficient to others helping you study, and even aiding with University applications, this list has it all. So, get scrolling and see what Whop’s student Notion templates can do to make your student life easier, whether it’s hacking your productivity or saving money via student discounts!",
+   "liveAccessPassCount": 0,
+   "livePageCount": 0,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_T8RFcflmiilmk",
+    "name": "Students",
+    "route": "students"
+   }
+  },
+  {
+   "id": "mcat_9DL8RDqx7zOw7",
+   "name": "General",
+   "route": "general",
+   "level": 2,
+   "tagline": null,
+   "description": null,
+   "liveAccessPassCount": 1,
+   "livePageCount": 1,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_jylAmR1lN0BoZ",
+    "name": "Sports",
+    "route": "sports"
+   }
+  },
+  {
+   "id": "mcat_q7xl1jbneheZf",
+   "name": "Other",
+   "route": "other",
+   "level": 2,
+   "tagline": null,
+   "description": "Fans of multiple or more obscure sports often don’t have access to reliable sports picks Discord servers for their predictions. However, that’s not the case with Whop, where you can find several communities built by enthusiasts for every sport imaginable and many more things. These communities are the perfect place to have fun and discuss what you enjoy most. Sports picks communities will also have experts, each specializing in a particular sport or league. Whether you’re into major American sports, like the NFL, NBA, and MLB, or like to dabble in less popular sports, like college sports, boxing, or UFC, there’s definitely a community for you. The experts on these sports Discord servers have been following their respective sports for many years and have amassed tons of experience in it. Their job is to research all the stats and parameters available to come up with insightful predictions and plays. All you need to do is follow their plays and have fun. While sports picks communities mostly discuss sports (it’s in the name, after all), most of them have dedicated sections for members to talk about anything they want. You can discuss other hobbies and interests you may have, share jokes and memes, and the overall feeling is like hanging out with your buddies. If all these sound interesting, you should definitely check out the sports picks Discord servers available on Whop today. Become a part of huge communities filled with people from around the world who all share the same passion for sports as you!",
+   "liveAccessPassCount": 32,
+   "livePageCount": 32,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_EHguGjCHgcYdU",
+    "name": "Sports Betting",
+    "route": "sports-picks"
+   }
+  },
+  {
+   "id": "mcat_VVB952SsWzOlc",
+   "name": "General",
+   "route": "general",
+   "level": 2,
+   "tagline": null,
+   "description": "Whop is home to many unique sports pick groups, each with its own niche. If you’re unsure which fits your needs best, a great place to start is in the General section. Here, you’ll find hundreds of communities offering predictions and insights to help you make better sports betting decisions. These sports picks communities stand out because they don’t specialize in particular sports or leagues. You’ll find plays for any sport imaginable, from popular American sports, like the NBA, NFL and MLB, to UFC, Tennis, and Esports. This makes them great if you’re a fan of multiple sports and like to predict results for all of them. The same goes for different bet types. Whether you prefer standard moneyline plays, spreads, or player props, you’ll find them all on general groups for sports predictions. Some of these communities focus on single picks, while others rely on huge parlay slips that require multiple hits in order to win. General sports Discord servers are also excellent for newcomers, as they give them an overall idea of how sports betting works. They strive to teach everyone the principles of proper betting and have tons of tips and insights for novice bettors. What’s also noteworthy is some of the top communities on the Whop charts fall under the General tab. Sounds interesting? Then check out some of the top sports picks groups on Whop today! You can even try out multiple communities to find the perfect fit for you!",
+   "liveAccessPassCount": 271,
+   "livePageCount": 271,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_EHguGjCHgcYdU",
+    "name": "Sports Betting",
+    "route": "sports-picks"
+   }
+  },
+  {
+   "id": "mcat_y6sGG4wSKlPL9",
+   "name": "Tennis",
+   "route": "tennis",
+   "level": 2,
+   "tagline": null,
+   "description": "The captivating world of tennis keeps drawing more and more fans in. And with new people getting into the sport, many are also searching for reliable tennis predictions. If you’re one of these people, you’ve landed on the right page. At Whop, you can find several sports picks communities with tennis picks from experts who have been following the sport for years. Tennis is one of the few “single-player sports” that has such a huge betting following, and for good reason. There are so many aspects that can affect how a tennis player performs, including the court surface, recent performances, health, and even the weather conditions (for outdoor tournaments). That’s a lot of parameters to account for, and it takes a lot of studying to come up with solid predictions. That’s why you need veterans who’ve been following the sport for decades and understand how different matchups work, as well as the strengths and weaknesses of any player. You’ll find them at different sports Discord servers, which offer picks and plays ranging from the match winner, game, and set handicaps, as well as total games played. The tennis season lasts for almost the entire calendar year, so you can expect daily plays and in-depth coverage of all major tournaments and Grand Slams. Some tennis Discord servers also include plays from other sports, like soccer and hockey. Interested in learning more? Check out the wide selection of tennis picks communities on Whop today. You can try out several of them to see where you have more fun!",
+   "liveAccessPassCount": 10,
+   "livePageCount": 10,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_EHguGjCHgcYdU",
+    "name": "Sports Betting",
+    "route": "sports-picks"
+   }
+  },
+  {
+   "id": "mcat_uJzmKr2XOdF5W",
+   "name": "NHL",
+   "route": "nhl",
+   "level": 2,
+   "tagline": null,
+   "description": "For most fans, hockey games are always better when you have bets and predictions going on. If you’re one of them, then you’re surely in the right place. At the Whop marketplace, you’ll find a few different communities that specialize in NHL picks, as well as many servers with daily NHL plays during the season. Every NHL picks community is equipped with several experts whose job is to do all the work and research for you. You don’t have to go through every stat and detail possible to make your predictions. You can just let the veterans do it and just tail their plays. After all, they’ve been doing it for years already and can notice things you might not be able to spot. Sports Discord servers for the NHL usually offer all different types of bets available. This includes the standard moneyline and puck line plays, as well as goal totals, which are very popular with hockey fans. Some experts focus on prop bets, including team and player props, and you’ll also find the occasional future bet before the start of the season. Apart from hockey, these communities also dabble in other sports, especially during the offseason. It’s not uncommon to find picks and predictions for soccer and tennis, which both have major tournaments running when hockey is off. And, of course, you can’t leave out baseball, where the entire season commences during the NHL offseason. Interested in making some hockey predictions? Check out the NHL picks servers on Whop and find the one that fits your needs best!",
+   "liveAccessPassCount": 3,
+   "livePageCount": 3,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_EHguGjCHgcYdU",
+    "name": "Sports Betting",
+    "route": "sports-picks"
+   }
+  },
+  {
+   "id": "mcat_CooEvr58bXtP2",
+   "name": "Soccer",
+   "route": "soccer",
+   "level": 2,
+   "tagline": null,
+   "description": "Welcome to the Whop marketplace, home a wide selection of soccer picks communities for you to choose from. Soccer predictions heavily revolve around statistics, team form, and opposition matchups. The weather can also be an important factor sometimes. Plus, every league has different dynamics and playstyles. That’s why you want sports picks communities with experts who’ve been following specific leagues and competitions for years and can provide you with deep insights to make your predictions. You can choose among a few different types of bets on soccer. There’s the classic moneyline bet (with the draw as a potential result), whether both teams will score, and how many total goals the match will have. Some soccer experts focus on statistics and player props, such as shots on target and yellow cards. With soccer being so popular worldwide, it’s no surprise you’ll find international sports Discord servers on Whop as well. There are communities from all over Europe, including the UK, full of soccer fans who live and breathe for the game. You can discuss anything you want with them, and have fun together. If all this sounds interesting, check out the soccer picks communities on Whop today. Join thousands of soccer fans across the world, watch the games together, and have a good time!",
+   "liveAccessPassCount": 42,
+   "livePageCount": 42,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_EHguGjCHgcYdU",
+    "name": "Sports Betting",
+    "route": "sports-picks"
+   }
+  },
+  {
+   "id": "mcat_cYn8yvtf1hOwB",
+   "name": "MLB",
+   "route": "mlb",
+   "level": 2,
+   "tagline": null,
+   "description": "With 162 games for every team, the MLB season is by far the longest and most exhausting for players and bettors alike. Doing proper research consistently when betting on the MLB can be very time-consuming, so why not leave your MLB picks to the experts? At Whop, you can find several MLB-focused sports picks communities that provide daily plays and predictions. They have teams of expert researchers and veteran bettors who consider all possible parameters to come up with all their plays. Some of them even utilize the output AI and betting algorithms to strive for more calculated bets. The league is full of exciting bets, and you can pretty much find everything you want on MLB Discord servers. While most people prefer to bet on the money line, some look for additional value on the Run Line, which may give them solid odds on a strong favorite. Then there are those who prefer predicting how well a single player will do; for them, player props are the go-to. And for those long and agonizing months during the offseason, you can dabble in other sports and leagues. Most MLB communities are also active during the offseason and use their insights and tools for predicting events in other popular sports. Ready to predict some MLB results? Check out the different MLB picks communities on Whop to better understand how they operate on a day-to-day basis. Join one (or multiple) communities of individuals who all have fun betting on their favorite sport!",
+   "liveAccessPassCount": 5,
+   "livePageCount": 5,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_EHguGjCHgcYdU",
+    "name": "Sports Betting",
+    "route": "sports-picks"
+   }
+  },
+  {
+   "id": "mcat_wl8BlS4aqp5UC",
+   "name": "NFL",
+   "route": "nfl",
+   "level": 2,
+   "tagline": null,
+   "description": "Sundays are full of NFL action, and what better way to enjoy them than with some hot wings and even hotter NFL picks! Agree with us? Then you’re in the right place. The Whop Marketplace is home to a bunch of dedicated NFL Discord servers full of football enthusiasts who enjoy predicting results for their favorite teams. These sports picks communities usually consist of several NFL betting veterans who’ve been predicting for years and know the ins and outs of the league. Through tons of research and number crunching, they’re able to make well-educated predictions on anything. Will the home side win? Will they cover their point spread? Will their quarterback go over or under his passing yard prop? These guys have the insights to help you make better decisions in your predictions. However, it’s not just about predictions in these sports Discord servers. You may come across things like weekly analyses for the upcoming Sunday games or watch-alongs where the whole community participates and has fun. Not only that, some NFL communities even have dedicated sections for discussing and predicting other leagues, which is ideal for fans of a bunch of different sports. Plus, experienced members are always eager to help out newcomers, so make sure to ask any question you want. If all these things sound exciting, make sure to check out the NFL picks communities on Whop. Join one (or even a few of them) today, see how they operate, and decide whether you want them as your company on Sunday afternoons.",
+   "liveAccessPassCount": 14,
+   "livePageCount": 14,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_EHguGjCHgcYdU",
+    "name": "Sports Betting",
+    "route": "sports-picks"
+   }
+  },
+  {
+   "id": "mcat_sN9O0vV44cyGb",
+   "name": "NBA",
+   "route": "nba",
+   "level": 2,
+   "tagline": null,
+   "description": "What’s even better than watching NBA games every night? Predicting their results, of course! If you’re nodding in agreement, you’re in the right place. Welcome to the Whop marketplace for NBA picks, where dozens of communities offer their services to fans around the world. NBA picks communities are full of fans and veteran sports bettors who put in hours of research every day before they put out their daily plays. You’ll find many different communities, some focusing on standard bet types, like moneyline, spreads, and totals, and others specializing in prop bets. Regardless of your preferences, you can let the experts do all the research for you, so you don’t have to spend the whole day looking at stats and numbers. They are well-equipped to study every aspect of the game, including stats, recent form, injury reports, and team matchups, among others. Their plays are based on facts and their years of experience betting on the league. Most sports Discord servers don’t just cover one basketball league. They have experts on multiple sports, so you can always expect daily plays, even during the NBA offseason. And, if you follow more than one league, you’ll get even more tips and insights to make your predictions. So, what are you waiting for? Check out the different NBA picks communities on Whop today! Become a member of an active community of bettors and sports enthusiasts who all have fun predicting the results of their favorite sport!",
+   "liveAccessPassCount": 87,
+   "livePageCount": 87,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_EHguGjCHgcYdU",
+    "name": "Sports Betting",
+    "route": "sports-picks"
+   }
+  },
+  {
+   "id": "mcat_AadpyZqWCwDDy",
+   "name": "Betting Algorithms",
+   "route": "betting-algorithms",
+   "level": 2,
+   "tagline": null,
+   "description": "Did you know that math and algorithms are key in sports betting? With the power of modern-day computing systems, more and more players utilize sports betting algorithms to enhance their research and come up with more solid predictions. The Whop marketplace is home to 100+ sports Discord servers and Telegram groups that harness the power of algorithms for their picks and plays. So, what exactly is a sports betting algorithm? It’s basically a program designed to take into consideration stats and other parameters, like form, injury reports, etc., to come up with predictions for sports events. That’s not drastically different from what sports bettors have been doing for decades, but its key advantage is it can crunch numbers and consider everything extremely fast. Most sports picks communities that use algorithms have just implemented them into their research process without discarding the human approach to betting. Others completely rely on sports betting algorithms and what they output. Some even help their members learn how the algorithms function so they can utilize them on their own. The question is, do algorithms work on all sports and bets? The answer to that is yes and no. While you can use them for every sport, there must be enough data for the algorithm to rely on. Naturally, algorithm predictions on player props fare much better than other bet types since they have fewer parameters to consider. If you want to implement sports betting algorithms into your predictions, you’ve come to the right place. Check out the dozens of sports picks communities on Whop that use betting algorithms, and see if this new technology is the right fit for you!",
+   "liveAccessPassCount": 196,
+   "livePageCount": 196,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_EHguGjCHgcYdU",
+    "name": "Sports Betting",
+    "route": "sports-picks"
+   }
+  },
+  {
+   "id": "mcat_6Q1D3RA3LztZs",
+   "name": "Other",
+   "route": "other",
+   "level": 2,
+   "tagline": null,
+   "description": null,
+   "liveAccessPassCount": 38,
+   "livePageCount": 38,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_H8cjiLMEl1Rtr",
+    "name": "Social Media",
+    "route": "social-media"
+   }
+  },
+  {
+   "id": "mcat_iJS7TADv0Lwec",
+   "name": "TikTok",
+   "route": "tiktok",
+   "level": 2,
+   "tagline": null,
+   "description": "Welcome to Whop’s TikTok page, where you can learn all about how to supercharge your social media presence and make money consistently using today’s most viral video platform, TikTok. The listings you’ll find here are all about getting you to do the right things with your TikTok by cracking the code for you—you’ll heighten your grasp of how the TikTok algorithm works and how to make the platform dance to your tune, letting you go viral and multiply your earnings! From expert education on gaming the system from creators who’ve been there and done that time and time again to insights into how to maximize your use of the TikTok Shop, these Discord groups have got it all. So, if you want to get serious about developing a mastery of TikTok and using it as a real revenue stream for yourself, check out these groups!",
+   "liveAccessPassCount": 77,
+   "livePageCount": 77,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_H8cjiLMEl1Rtr",
+    "name": "Social Media",
+    "route": "social-media"
+   }
+  },
+  {
+   "id": "mcat_Iw4rjBSiazfIr",
+   "name": "Editing Tools",
+   "route": "editing-tools",
+   "level": 2,
+   "tagline": null,
+   "description": "Welcome to Whop’s editing tools page, the only trove of social media content editing expertise you’ll ever need! These groups are home to some of the smartest social media editing tools available today, fine-tuned to make your content creation a breeze. If you’ve got great ideas but it’s the execution stage that slows things down, then you’re exactly where you need to be. These editing tools can help you make your ideas a reality with far less work than ever before, meaning that you’ll be shortening the route from the drawing board to your content analytics dashboard significantly. These groups will help you boost your social media presence in a variety of ways, whether it’s via giving you the editing education you need, or AI tools that’ll allow you to automate your content creation to cut down on workload. Whop’s social media editing tools are the fastest way to streamline your workflow while also adding more zeroes to both your subscriber count and platform revenue, so give them a try today!",
+   "liveAccessPassCount": 42,
+   "livePageCount": 42,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_H8cjiLMEl1Rtr",
+    "name": "Social Media",
+    "route": "social-media"
+   }
+  },
+  {
+   "id": "mcat_zLifLw1I77Yjy",
+   "name": "Twitch",
+   "route": "twitch",
+   "level": 2,
+   "tagline": null,
+   "description": null,
+   "liveAccessPassCount": 8,
+   "livePageCount": 8,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_H8cjiLMEl1Rtr",
+    "name": "Social Media",
+    "route": "social-media"
+   }
+  },
+  {
+   "id": "mcat_UMUUQNreokD7u",
+   "name": "YouTube",
+   "route": "youtube",
+   "level": 2,
+   "tagline": null,
+   "description": "Welcome to Whop’s YouTube page, the best place to be if you’re actively looking to grow your YouTube subscriber base and boost your view count! The Discord groups listed here can help you and your channel out in a number of ways, from fantastic editing tools, AI assistance, and insider secrets from successful creators. Consistently growing your YouTube channel can be difficult at times, and almost all creators get stuck at different points—whether it’s getting stuck in that 200 view rut or hitting the 5k YouTube subscribers wall, there may come a time when you just need some help. Whether all you need is a little nudge or one big boost, these groups are where it’s at. Learn how to create viral content from creators who have been there and done that, test your thumbnails, and generate content far faster with custom tools—we’ve brought all of that into one place for your benefit. Take your social media presence to the next level and turn your YouTube channel from a side-hustle to a full-time job, then use it to make a fortune with Whop’s YouTube groups!",
+   "liveAccessPassCount": 58,
+   "livePageCount": 58,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_H8cjiLMEl1Rtr",
+    "name": "Social Media",
+    "route": "social-media"
+   }
+  },
+  {
+   "id": "mcat_Uz01l6wZdvLm5",
+   "name": "Twitter",
+   "route": "twitter",
+   "level": 2,
+   "tagline": null,
+   "description": "Welcome to Whop’s Twitter page, home to all of the products you need to master content, marketing, and ecommerce on Twitter. You’ll find a variety of great options on this page, all of them geared toward helping you enhance your social media presence. You’ll find some fantastic Twitter tools here too, and they’ll help you out in a variety of ways from finding leads and product ideas to generating newsletters. Twitter is unique as a social media platform with almost unlimited reach, and making the most of it is crucial if you want to ensure that you’re not missing out on any opportunities. Checking out these groups and tools is a small, easy, yet extremely powerful step you can take if you want to get serious about your socials. So, check out Whop’s Twitter tools and products today in order to ensure that you’re utilizing Twitter to its fullest potential!",
+   "liveAccessPassCount": 9,
+   "livePageCount": 9,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_H8cjiLMEl1Rtr",
+    "name": "Social Media",
+    "route": "social-media"
+   }
+  },
+  {
+   "id": "mcat_rW6dBsiXeIGv9",
+   "name": "Instagram",
+   "route": "instagram",
+   "level": 2,
+   "tagline": null,
+   "description": "This is Whop’s Instagram page, your destination for all things Insta. If you want to boost your social media presence and start earning an income online, these Instagram tools are the way to go! Social media presence is key to business success today, and if your business is online, you’re leaving a lot of opportunity behind if you don’t crack all of the major social networks. Instagram is one of the most powerful of the bunch, so it pays to achieve mastery. Getting to that level of Insta success can be hard, but these groups and social media communities can get you there a whole lot faster than you could ever imagine. From teaching you all about scaling IG theme pages to follower-acquisition strategies and the very best Instagram tools for both saving time and making your page pop, these groups have it all. Let Whop’s Instagram tools, courses, mentorships, and communities help you shorten your timeline for achieving everything you want from Instagram!",
+   "liveAccessPassCount": 84,
+   "livePageCount": 84,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_H8cjiLMEl1Rtr",
+    "name": "Social Media",
+    "route": "social-media"
+   }
+  },
+  {
+   "id": "mcat_vbE1tRC3zjCJN",
+   "name": "AI",
+   "route": "ai",
+   "level": 2,
+   "tagline": null,
+   "description": null,
+   "liveAccessPassCount": 0,
+   "livePageCount": 0,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_8dBRWdtcQyhZ6",
+    "name": "SaaS",
+    "route": "saas"
+   }
+  },
+  {
+   "id": "mcat_KSuvIVfCsTxqt",
+   "name": "Productivity Tools",
+   "route": "productivity-tools",
+   "level": 2,
+   "tagline": null,
+   "description": "Welcome to Whop’s SaaS productivity tools page, the best place to find resources, applications, bots, and much more to enhance your workflows and shave hours off your day. SaaS has taken over the world of productivity, and whether you’re looking to make life a little easier or automate major parts of your small business, the right productivity tools can be a game-changer. These SaaS tools can help you ensure that you’re allocating your time and resources only where they need to be. That means maximizing the potential of your online business as well as your presence. There are products and educational resources here that can aid you in leveraging even further, so get scrolling to find your fit with the right SaaS tools on Whop!",
+   "liveAccessPassCount": 1,
+   "livePageCount": 1,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_8dBRWdtcQyhZ6",
+    "name": "SaaS",
+    "route": "saas"
+   }
+  },
+  {
+   "id": "mcat_W4cHU1IBj6rt9",
+   "name": "Educational",
+   "route": "educational",
+   "level": 2,
+   "tagline": null,
+   "description": "Welcome to Whop’s collection of educational resources for SaaS, your first step toward mastering SaaS and making the most out of the productivity benefits it can bring. The SaaS industry seemingly can’t stop growing, and whether you’re just looking to learn how you can utilize it for your own benefit or thinking about taking the leap with a SaaS venture of your own, there’s plenty to learn. These products and educational resources can give you not only a solid grounding in how SaaS works but also a quick route toward understanding the ins and outs of the industry from founders who have been there multiple times over. These top insights and insider secrets can give you the edge you need to make it in the hyper-competitive industry that is SaaS, so get scrolling right now and invest in yourself with these educational SaaS products on Whop!",
+   "liveAccessPassCount": 0,
+   "livePageCount": 0,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_8dBRWdtcQyhZ6",
+    "name": "SaaS",
+    "route": "saas"
+   }
+  },
+  {
+   "id": "mcat_JALuUlNBOsK2F",
+   "name": "Other",
+   "route": "other",
+   "level": 2,
+   "tagline": null,
+   "description": "You don’t know what you’re missing if you haven’t at least tried one of Whop’s reselling Discord servers. Making money in the broad category of reselling is full of trial and error and nearly impossible to do on your own without ending up sitting on dead inventory that you end up selling for a loss or barely being able to sell at all. By joining one of our reselling Discord servers, you’ll be able to cut down the learning curve and avoid the costly mistakes that are all too common for beginners so you can start your side hustle or full-time business in the most efficient way possible. Although there will be plenty of money to be made, you won’t have to go on this journey alone as you will be breaking bread at the table in tight-knit communities that will present bonds far greater than the money to be made. Be sure to browse our vast assortment of reselling communities, particularly Whop Verified groups which have been thoroughly vetted to ensure that you get tried and true advice from an active and caring community of experts and motivated money-minded individuals that you can soon be a part of while inside.",
+   "liveAccessPassCount": 41,
+   "livePageCount": 41,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_8JjDHFwSZ9g00",
+    "name": "Reselling",
+    "route": "reselling"
+   }
+  },
+  {
+   "id": "mcat_qi83y62rGBQgn",
+   "name": "General",
+   "route": "general",
+   "level": 2,
+   "tagline": null,
+   "description": "Reselling is one of the easiest entry points into entrepreneurship as it does not require undergoing the trial and error of taking on the potentially costly process of manufacturing and selling your own product. With Whop’s reselling Discord Communities, you can learn about all aspects of reselling in any area that calls you, whether it’s reselling collectibles, tickets, sneakers, electronics, or even NFTs. Once you have gained expertise in the reselling realm, you’ll have the capital and the knowledge to pursue more complex business structures, and no matter how far you’ll go, you won’t forget where it all started, especially when you will look back on all the amazing support staff and admins from your group that helped forge you into the reselling guru that your future self can embody after having spent time in one of our premier Discord communities.",
+   "liveAccessPassCount": 24,
+   "livePageCount": 24,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_8JjDHFwSZ9g00",
+    "name": "Reselling",
+    "route": "reselling"
+   }
+  },
+  {
+   "id": "mcat_9gIs5i3iG95zP",
+   "name": "Collectibles",
+   "route": "collectibles",
+   "level": 2,
+   "tagline": null,
+   "description": "Reselling makes up a massive industry covering many broad categories, so if you want to focus your efforts, it’s a good idea to niche down and become an expert in a single area. Focusing on reselling collectibles is one such way to do this. When it comes to reselling, having niche experts guide you will save you the extensive research that it will take to build a knowledge base on your own. With Whop’s collectible reselling communities, you’ll have the dedicated support of a community that focuses on a variety of collectibles, ranging from trading cards, art, video games to miscellaneous items like Funko Pops, all of which have profitability and a hot market. Joining one of our groups that focuses on reselling collectibles will bring you into a fascinating world where you can make a side hustle (or a living!) once you’re inside.",
+   "liveAccessPassCount": 22,
+   "livePageCount": 22,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_8JjDHFwSZ9g00",
+    "name": "Reselling",
+    "route": "reselling"
+   }
+  },
+  {
+   "id": "mcat_qH131RFkU5I2v",
+   "name": "NFTs",
+   "route": "nfts",
+   "level": 2,
+   "tagline": null,
+   "description": "Non-fungible tokens, or NFTs, are misunderstood by many but for those who know, their intrinsic value is an easy sell and provides an alternative asset that can be used as an investment. Thus, many in-the-know individuals participate in NFT reselling. The key difference between an ordinary image or digital asset that is online and an NFT is the fact that each NFT is made unique by its individual identity which is encoded on the blockchain, giving each of them scarcity in the same way that physical objects have scarcity. Because of this scarcity and the release-and-sell-out drop model that is popular in physical item resale, NFT reselling has participants cashing in digitally without needing to ship or store inventory except for in a digital wallet. While many of the so-called “blue-chip” NFTs such as Bored Ape Yacht Club, Azuki, and Cryptopunks produce consistent aftermarket volume, the five to six-figure price ranges are out of reach for ordinary individuals. NFTs that are more within reach for ordinary individuals often lose value, making it a tricky market to enter alone without guidance–not to mention the learning curve of crypto activities such as minting an NFT, safely storing it in a wallet, and selling or transferring it. With Whop’s NFT reselling groups, you’ll have the inside alpha that will make you a pixel-flipping expert in no time, starting with NFT reselling basics such as how and where to sell them in addition to avoiding the most common scams. Further perks for those who already know the game will include getting whitelisted for mints, price projections, advanced resale tips, and more.",
+   "liveAccessPassCount": 2,
+   "livePageCount": 2,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_8JjDHFwSZ9g00",
+    "name": "Reselling",
+    "route": "reselling"
+   }
+  },
+  {
+   "id": "mcat_sHH0RV5VeBpeT",
+   "name": "E-Commerce",
+   "route": "e-commerce",
+   "level": 2,
+   "tagline": null,
+   "description": "Ecommerce is booming, and the multi-billion dollar market is minting millionaires every year, but creating a product from scratch is not as easy as it seems. One of the best entry points is ecommerce reselling, where you can sell existing products that already have a demand so all you’ll have to focus on is learning to acquire the product, which can prove difficult for solo beginners. Rather than leaving empty-handed, you can join one of Whop’s many communities which focuses on ecommerce reselling opportunities. Inside, you’ll find advice and direct guidance on reselling, dropshipping, and even starting your own storefront so that you can join the group of individuals that are cashing in on this opportunity that anyone can take advantage of once they have the knowledge base. Ecommerce reselling is one of the hottest niches within the space, and Whop’s reselling Discord communities have experts that will lead the way, all within a convenient monthly or weekly subscription that you can manage at your convenience.",
+   "liveAccessPassCount": 49,
+   "livePageCount": 49,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_8JjDHFwSZ9g00",
+    "name": "Reselling",
+    "route": "reselling"
+   }
+  },
+  {
+   "id": "mcat_Pyp3nduKRRkub",
+   "name": "Tickets",
+   "route": "tickets",
+   "level": 2,
+   "tagline": null,
+   "description": "Whether the general public likes it or not, ticket reselling is a thriving industry. If you’ve been frustrated in the past by tickets to your favorite concert selling out and having to pay a premium over the originally issued price, instead of getting mad again, perhaps it’s time to adopt the mentality of “if you can’t beat ‘em, join ‘em”. Event ticket sales are quickly approaching $100 Billion in sales annually, and ticket reselling is a big part of it across multiple categories, including sporting events, concerts, festivals and more. With Whop’s ticket reselling communities, you’ll learn all of the industry secrets about the exciting and potentially lucrative worlds of ticket scalping, ticket brokering and more. By joining these reselling Discord groups, you’ll become a ticket dealing insider as you learn all of the best places to buy and sell tickets in addition to having industry intel on seasonality, timing, best pricing practices and more. ",
+   "liveAccessPassCount": 19,
+   "livePageCount": 19,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_8JjDHFwSZ9g00",
+    "name": "Reselling",
+    "route": "reselling"
+   }
+  },
+  {
+   "id": "mcat_304MqrH912MwK",
+   "name": "Retail",
+   "route": "retail",
+   "level": 2,
+   "tagline": null,
+   "description": "This is Whop’s retail reselling page, your number one source of all of the education and resources needed to up your reselling game with some of the world’s biggest brands. These listings feature some of the best tools in the business such as automated inventory management utilities to make reselling that much easier, and include the very best deal-finders in the world. If there’s a price error to be found on a retail website, these groups will give you the best possible chance to not just get the alert, but take advantage of it as fast as you can! If you want to transform retail reselling into an adventure rather than a grind, and let software do all the hard work for you, these Discord groups are where you need to be. Freebies, price errors, top deals and cutting edge bots—all of it is available right here with Whop.",
+   "liveAccessPassCount": 44,
+   "livePageCount": 44,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_8JjDHFwSZ9g00",
+    "name": "Reselling",
+    "route": "reselling"
+   }
+  },
+  {
+   "id": "mcat_oCuUBlYWjNMqY",
+   "name": "Sneakers",
+   "route": "sneakers",
+   "level": 2,
+   "tagline": null,
+   "description": "One of the longest-standing reselling niches - sneaker reselling - is a favorite for OG sneakerheads and new-school opportunists alike. Whop has a large collection of members only Discord communities that focus on sneaker reselling so that you can cash in on the multi-billion dollar sneaker aftermarket. Inside, you’ll get access to monitors for the latest drops in addition to sneaker bots so you can cop a pair of the hottest kicks before they sell out for the general public. Although the market has had its ups and downs in recent years, sneaker reselling is here to stay and it’s never too late to join a private community that will help give you an edge in this exciting market. Once you join one of our sneaker reselling communities, you’ll be able to join the fast-paced world of shoe flipping while understanding which models are best to keep and hold as investments, those that are good to flip quickly, and those to avoid if your intent is to resell for profit.",
+   "liveAccessPassCount": 20,
+   "livePageCount": 20,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_8JjDHFwSZ9g00",
+    "name": "Reselling",
+    "route": "reselling"
+   }
+  },
+  {
+   "id": "mcat_jSXgc2fXaBBh5",
+   "name": "General",
+   "route": "general",
+   "level": 2,
+   "tagline": null,
+   "description": null,
+   "liveAccessPassCount": 36,
+   "livePageCount": 36,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_w35XJPqgMxQMx",
+    "name": "Real Estate",
+    "route": "real-estate"
+   }
+  },
+  {
+   "id": "mcat_vlPMZ3LCKaO4M",
+   "name": "General",
+   "route": "general",
+   "level": 2,
+   "tagline": null,
+   "description": null,
+   "liveAccessPassCount": 13,
+   "livePageCount": 13,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_t3qCf65z5lzPC",
+    "name": "Podcasts",
+    "route": "podcasts"
+   }
+  },
+  {
+   "id": "mcat_otcu4r3PRvlDr",
+   "name": "Credit",
+   "route": "credit",
+   "level": 2,
+   "tagline": null,
+   "description": null,
+   "liveAccessPassCount": 34,
+   "livePageCount": 34,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_iZN0K1XqXkoxi",
+    "name": "Personal Finance",
+    "route": "personal-finance"
+   }
+  },
+  {
+   "id": "mcat_bDEEJ1P6vUimy",
+   "name": "Side Hustles",
+   "route": "side-hustles",
+   "level": 2,
+   "tagline": null,
+   "description": "Welcome to Whop’s profitable side hustles page, where you can learn all about starting, managing, and growing business ideas into side hustles that could replace your 9-to-5 before too long. Side hustles often need a little bit of graft at the beginning, but they have immense earning potential. There are plenty of entrepreneurs who’ve started a small business in their teens or during college, and have never needed to work a traditional job thanks to their side hustles becoming full-fledged businesses and raking in far more income than an ordinary job ever could. These personal finance groups aim to give you the ideas as well as the know-how and expertise to create your own profitable side hustle. An entrepreneur has to do it all, so a personal finance community can be the perfect place to polish up the skills you don’t quite have, apply the tips or tricks you learn from other community members, and perhaps even find business partners to create something really great. So, check out these personal finance groups now and take your business idea or side hustle to the next level!",
+   "liveAccessPassCount": 52,
+   "livePageCount": 52,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_iZN0K1XqXkoxi",
+    "name": "Personal Finance",
+    "route": "personal-finance"
+   }
+  },
+  {
+   "id": "mcat_lwPqR8VMsbybk",
+   "name": "Budgeting",
+   "route": "budgeting",
+   "level": 2,
+   "tagline": null,
+   "description": null,
+   "liveAccessPassCount": 15,
+   "livePageCount": 15,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_iZN0K1XqXkoxi",
+    "name": "Personal Finance",
+    "route": "personal-finance"
+   }
+  },
+  {
+   "id": "mcat_yh0kdFdMx3Mev",
+   "name": "Taxes",
+   "route": "taxes",
+   "level": 2,
+   "tagline": null,
+   "description": null,
+   "liveAccessPassCount": 9,
+   "livePageCount": 9,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_iZN0K1XqXkoxi",
+    "name": "Personal Finance",
+    "route": "personal-finance"
+   }
+  },
+  {
+   "id": "mcat_Pw5miGktO3OJf",
+   "name": "Investing",
+   "route": "investing",
+   "level": 2,
+   "tagline": null,
+   "description": null,
+   "liveAccessPassCount": 71,
+   "livePageCount": 71,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_iZN0K1XqXkoxi",
+    "name": "Personal Finance",
+    "route": "personal-finance"
+   }
+  },
+  {
+   "id": "mcat_qNiTJt7XFElWG",
+   "name": "Real Estate",
+   "route": "real-estate",
+   "level": 2,
+   "tagline": null,
+   "description": "Welcome to Whop’s real estate education page, the perfect destination for you if you’re serious about real estate or starting to think about getting into the property game. Real estate can be extremely complicated, and there are plenty of entry barriers compared to other personal finance options. Navigating these waters can take a lot of work, which is why a good real estate education can save you both time and money in the long run. These pages aim to provide you with exactly that. These personal finance communities specialize in providing you with all of the knowledge, insights, and skills you’ll need to embark upon your real estate journey with confidence, whether you’re thinking about investing, flipping, or buying a property for your own. So, check out these personal finance groups and real estate education courses today—the only way is up, for both you and your net worth!",
+   "liveAccessPassCount": 3,
+   "livePageCount": 3,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_iZN0K1XqXkoxi",
+    "name": "Personal Finance",
+    "route": "personal-finance"
+   }
+  },
+  {
+   "id": "mcat_YAkW0fej2odai",
+   "name": "Finance",
+   "route": "finance",
+   "level": 2,
+   "tagline": null,
+   "description": null,
+   "liveAccessPassCount": 34,
+   "livePageCount": 34,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_iZN0K1XqXkoxi",
+    "name": "Personal Finance",
+    "route": "personal-finance"
+   }
+  },
+  {
+   "id": "mcat_0eWaD4GKZCk9S",
+   "name": "General",
+   "route": "general",
+   "level": 2,
+   "tagline": null,
+   "description": null,
+   "liveAccessPassCount": 0,
+   "livePageCount": 0,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_vdHeYF7yR6N8p",
+    "name": "Night Life",
+    "route": "night-life"
+   }
+  },
+  {
+   "id": "mcat_V2xl7zdfH5I9i",
+   "name": "General",
+   "route": "general",
+   "level": 2,
+   "tagline": null,
+   "description": null,
+   "liveAccessPassCount": 0,
+   "livePageCount": 0,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_4yzM2OEfFrdod",
+    "name": "Music",
+    "route": "music"
+   }
+  },
+  {
+   "id": "mcat_3BOJ7OsOysH7j",
+   "name": "General",
+   "route": "general",
+   "level": 2,
+   "tagline": null,
+   "description": null,
+   "liveAccessPassCount": 0,
+   "livePageCount": 0,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_AgeeOzelhJ5lY",
+    "name": "Misc Services",
+    "route": "misc-services"
+   }
+  },
+  {
+   "id": "mcat_NDUuLBcUP8l2r",
+   "name": "General",
+   "route": "general",
+   "level": 2,
+   "tagline": null,
+   "description": null,
+   "liveAccessPassCount": 0,
+   "livePageCount": 0,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_tjAEeg2gZoJhs",
+    "name": "Local Shop",
+    "route": "local-shop"
+   }
+  },
+  {
+   "id": "mcat_eHcpLIpc2sEdX",
+   "name": "AI",
+   "route": "ai",
+   "level": 2,
+   "tagline": null,
+   "description": "Welcome to Whop’s AI life hacks! Since ChatGPT first burst onto the scene in 2022, AI has become an integral part of daily life. Despite the technology being widely available, finding success with AI has proven elusive for most people. Yet there is still a group of people who use the technology to greatly increase their productivity or to take advantage of life changing business opportunities using AI. Those who effectively utilize AI life hacks are making the most of what is possible. Others may sit on the sidelines, still confused or in disbelief with how effective some AI life hacks can be. Rather than being a spectator during the AI revolution, jump on board by joining one of Whop’s communities that are dedicated to AI life hacks. Inside of Whop’s AI life hacks communities, you will find information on how to craft the best AI prompts, second brain templates, automations, and more. Armed with these tools, you’ll be able to effectively use artificial intelligence to start a brand new business or scale an existing one to levels that you have never seen before. We know that the FOMO is strong with AI, but we also know how overwhelming the information can be, which is why we have dedicated a life hack category entirely to AI. Some groups are completely focused on mastering artificial intelligence, while others are using AI to supplement other winning strategies. No matter the focus, all groups will give you value and knowledge worth more than their monthly membership, so check out Whop’s AI life hacks groups today.",
+   "liveAccessPassCount": 0,
+   "livePageCount": 0,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_7PwFZeZGzWA4L",
+    "name": "Life Hacks",
+    "route": "life-hacks"
+   }
+  },
+  {
+   "id": "mcat_ecKsrfkRT0BT4",
+   "name": "Deals",
+   "route": "deals",
+   "level": 2,
+   "tagline": null,
+   "description": "When you open up the Pandora's box of life hacks, you’ll realize that this game is full of an insane amount of different strategies, many of which can be totally mind-blowing. On top of food deals, price errors, AI, and general wellness life hacks, there are other deals that skilled developers and opportunists find and push to the life hacks groups on Whop’s marketplace. These life hacks have been expertly curated for maximum potential, so with them, you’ll be able to improve your overall well-being in health, wealth, and peace of mind. The membership fee for joining a life hacks group on Whop is nominal compared to the massive value you’ll be getting inside, which will pay off in more than money as you will learn lifelong skills from helpful experts, all inside of a community with tight camaraderie that fosters valuable connections and friendships. After joining one of these life hacks communities, you’ll become a money-making, life-optimizing opportunist who will never see the world through the same old lens of the typical normie again.",
+   "liveAccessPassCount": 0,
+   "livePageCount": 0,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_7PwFZeZGzWA4L",
+    "name": "Life Hacks",
+    "route": "life-hacks"
+   }
+  },
+  {
+   "id": "mcat_avLpK0glt8kb4",
+   "name": "Credit Card Deals",
+   "route": "credit-card-deals",
+   "level": 2,
+   "tagline": null,
+   "description": "Credit cards are some of the most misused tools of modern finance, with many people abusing them and damaging their financial outlook. Yet while some people watch their credit scores plummet and their repayments rise, others understand how to work the credit system in their favor, earning perks like points, interest and even flight miles by using their cards. Joining a community on Whop that gives the ins and outs of credit card life hacks can bring you on the winning team so that you can healthily use credit to maximize your financial potential. Inside, you will learn basics like gaining a good credit score, in addition to developing an in-depth understanding of credit card reward points so you can travel the world for free. You’ll gain knowledge that the top 1% have in the realm of credit, which is based on knowing when you can and should leverage available credit to acquire assets that will improve your life and financial well-being. By learning these strategic ways that credit can work for you, you’ll gain an education that wasn’t taught in school so you can get ahead of the pack and access credit-related capital and free perks from points that will allow you to partake in what is essentially a money glitch that the general public is totally unaware of.",
+   "liveAccessPassCount": 0,
+   "livePageCount": 0,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_7PwFZeZGzWA4L",
+    "name": "Life Hacks",
+    "route": "life-hacks"
+   }
+  },
+  {
+   "id": "mcat_h8OHg3IARZvu9",
+   "name": "Travel",
+   "route": "travel",
+   "level": 2,
+   "tagline": null,
+   "description": "In recent times, travel has hit all-time highs, with a growing group of jetsetters who have their sights set on globetrotting the hottest destinations. However, traveling costs add up quickly, so for the average individual who is budget-conscious, many destinations remain on the bucket list as the years go by. While you can always pick up a new skill to earn a higher income that can fuel your worldwide dreams, joining a private community that covers travel hacks is the best way to expand the options and budget in this realm. Finding travel hacks on your own is time-intensive and draining, but you can save yourself the struggle by joining a group of seasoned globetrotters inside one of Whop’s Travel Hacks communities. By joining one of these groups, you’ll be able to access a tight-knit community of vacation maximizers and digital nomads who all share the same goal of traveling as much as possible without breaking the bank. Other perks include exclusive travel deals, budget-friendly but low-key location recommendations, side hustle opportunities, remote work tips, and strategies for earning credit card points and rewards for free flights and stays. As a travel hacker, you’ll be able to join those who have gained location independence and freedom through global jetsetting.",
+   "liveAccessPassCount": 0,
+   "livePageCount": 0,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_7PwFZeZGzWA4L",
+    "name": "Life Hacks",
+    "route": "life-hacks"
+   }
+  },
+  {
+   "id": "mcat_vV8OtLVDnDBJj",
+   "name": "Food",
+   "route": "food",
+   "level": 2,
+   "tagline": null,
+   "description": "Imagine being able to join a group where the goal is that everyone eats–literally. That’s what you’ll get while inside one of Whop’s food life hacks groups. Once you’re part of one of these exclusive communities, you’ll rarely have to pay full price for a meal again, thanks to perks like delivery app discounts, free appetizers at popular restaurants, and discounted meals. You’ll be able to satisfy your cravings as a foodie by getting coupons for free sweets and restaurant treats, and if you are feeling like you need something healthy, many of these groups offer access to meal kits that keep your diet on point. One of the best parts about these food life hacks is that many of the groups offer a free tier so you can get a taste of what’s inside for premium members without needing to financially commit right off the bat. Your wallet and taste buds will thank you if you choose to join a Whop food life hacks group, some of which save its members hundreds of dollars annually on a membership that costs a fraction of the savings to be had.",
+   "liveAccessPassCount": 2,
+   "livePageCount": 2,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_7PwFZeZGzWA4L",
+    "name": "Life Hacks",
+    "route": "life-hacks"
+   }
+  },
+  {
+   "id": "mcat_RpefPhMkAYf2u",
+   "name": "Poker",
+   "route": "poker",
+   "level": 2,
+   "tagline": null,
+   "description": "For many, poker is a game of pure chance. However, that’s not entirely true. Yes, you need luck on your side to win “flips”, but it’ll only get you so far without proper strategy. That’s where an online poker community on Whop comes in to help you learn all the strategies and intricacies and become a better overall poker player. Online poker groups are similar to traditional gaming groups. They’re created by experts with years of experience to help all players become better at the game. A poker community will start by teaching the fundamentals of the games, as they’re mandatory if you want to understand more advanced strategies and concepts. Once you get the basics down, these online poker gaming Discords will give you resources, like preflop charts, to show you which ranges you need to open from each position and how to play your hand. As you get better, you can utilize all these automatically and improve your overall skill in the game. But, of course, poker is also about meeting new people and having fun, and online poker communities are excellent for that. You can chat with other members, have fun, and even play against each other. You can also analyze hands, which will help you spot the mistakes or good plays you made during a hand. Ready to take the next step in your poker journey? Join an online poker community on the Whop marketplace today and find everything you need to climb to the top of the poker world!",
+   "liveAccessPassCount": 1,
+   "livePageCount": 1,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_AQ9m3swCLE38a",
+    "name": "Gaming",
+    "route": "gaming"
+   }
+  },
+  {
+   "id": "mcat_fbPLundumNZuu",
+   "name": "Other",
+   "route": "other",
+   "level": 2,
+   "tagline": null,
+   "description": "Every player wants to get to the top of their game’s ladder, but the grind can sometimes feel endless or even pointless. If you feel the same way, you should try out a Discord gaming community on Whop. They’re created by actual expert players and aim to provide members with tips, strategies, and even tools to help them reach their full potential. Gaming communities are the perfect place to find strategies and guides on how to optimize your gameplay to fit your style or “the meta”. And for titles that have in-game marketplaces, like CS:GO, a gaming group can offer you tips on investing and trading to increase your in-game currency balance. Another important aspect of gaming Discords is coaching. It’s not uncommon for veteran or even active professional eSports players to provide coaching sessions for players who want to advance their skills. Their experience is invaluable and they can help you improve your mechanics, perception of the game, or even your winning mentality. And just like any other community, online gaming groups are full of eager members who want to reach the top just like you do. You can spend time discussing in-game strategies or just have fun chatting with each other and sharing jokes and memes. Ready to master your favorite game? Join one of several online gaming communities on the Whop marketplace, embrace the grind, and begin your journey to the top today! Become a member of a community with like-minded gamers who all have the same goals and dreams as you!",
+   "liveAccessPassCount": 31,
+   "livePageCount": 31,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_AQ9m3swCLE38a",
+    "name": "Gaming",
+    "route": "gaming"
+   }
+  },
+  {
+   "id": "mcat_YfiHFV0YvVsPs",
+   "name": "FIFA",
+   "route": "fifa",
+   "level": 2,
+   "tagline": null,
+   "description": "Every FIFA Ultimate Team (or FC Ultimate Team as it’s now called) player wants to collect a group of overpowered players and compete at the top level. However, very few actually make it, with most players stuck with average or lackluster teams. That’s where a FIFA Discord community comes in to give you the best tools and strategies to collect millions of coins and amass an exceptional group of players! What exactly are FIFA communities? They’re basically gaming Discords created by veteran players with years of FUT experience. They provide insight on how to invest and trade players effectively to earn millions of EAFC coins daily, which you can then use to get the best players for your team. One of the best ways to collect more coins is to buy undervalued players and make a profit from moving them on. FIFA gaming groups will give you specific filters and tools to spot these opportunities and snipe them as soon as they hit the market to maximize your winnings. You’ll also learn how to trade players properly and find some good player opportunities for long-term investments, which will give you some passive in-game income. And, of course, as a member of the community, you’ll get to participate in group events and giveaways and make new friends with fellow FIFA gamers. Sounds interesting? Join one of the FIFA gaming communities on Whop today and unlock access to everything you need to create your perfect Ultimate Team. ",
+   "liveAccessPassCount": 0,
+   "livePageCount": 0,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_AQ9m3swCLE38a",
+    "name": "Gaming",
+    "route": "gaming"
+   }
+  },
+  {
+   "id": "mcat_DRg81YaNTdLJb",
+   "name": "General",
+   "route": "general",
+   "level": 2,
+   "tagline": null,
+   "description": null,
+   "liveAccessPassCount": 204,
+   "livePageCount": 204,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_llHkTWFR3YaTw",
+    "name": "Fitness",
+    "route": "fitness"
+   }
+  },
+  {
+   "id": "mcat_vazjzHmIjiF1F",
+   "name": "General",
+   "route": "general",
+   "level": 2,
+   "tagline": null,
+   "description": null,
+   "liveAccessPassCount": 0,
+   "livePageCount": 0,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_JpqJ3dfN25mXZ",
+    "name": "Fashion",
+    "route": "fashion"
+   }
+  },
+  {
+   "id": "mcat_Gm7ETDvLhUmUk",
+   "name": "General",
+   "route": "general",
+   "level": 2,
+   "tagline": null,
+   "description": null,
+   "liveAccessPassCount": 0,
+   "livePageCount": 0,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_SXIAOhLKF5lob",
+    "name": "Events",
+    "route": "events"
+   }
+  },
+  {
+   "id": "mcat_kVwlDm5EEA9IN",
+   "name": "General",
+   "route": "general",
+   "level": 2,
+   "tagline": null,
+   "description": "Welcome to Whop’s ecommerce groups! On this page, you’ll find ecommerce communities and Discord servers that will cater to your every ecommerce-related need, whether it’s reselling, retail arbitrage, FBA, or dropshipping. These ecommerce Discord servers are your pathway to turning ideas into side hustles, side hustles into fully-fledged businesses, and businesses into financial freedom. This is how you can learn from entrepreneurs who’ve been on that journey and made it, with the added benefit of being in an ecommerce group full of people at different stages of the same path you’re on. Joining one of the ecommerce communities on this page is a great way to get yourself a leg up on the competition no matter the nature of your ecommerce brainchild—and even if you don’t have a solid idea just yet, you’ll definitely find your inspiration along the way as you learn the ins and outs of ecommerce from a variety of seasoned pros. So, whether you’re looking for high ROI leads and discount monitors, Amazon seller support, or even just a crash course in cutting-edge ecommerce strategy, browse these communities to get started!",
+   "liveAccessPassCount": 156,
+   "livePageCount": 156,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_NOkEDUjnGp4PH",
+    "name": "E-Commerce",
+    "route": "ecommerce"
+   }
+  },
+  {
+   "id": "mcat_uxj3ZacmxBYkn",
+   "name": "FBA",
+   "route": "fba",
+   "level": 2,
+   "tagline": null,
+   "description": "Welcome to Whop’s FBA page, your one-stop shop for the internet’s best ecommerce FBA communities. Fulfillment by Amazon is a huge source of revenue for a lot of entrepreneurs, so whether you want to get started or scale your side hustle into a full-time business, you’ve come to the right place. FBA has become a source of 7-figure revenue for many entrepreneurs, but it takes time and effort to master. The ecommerce FBA communities on this page are designed to help you cut down on that by providing you with the hows and how-to’s—these groups will help you build your business and scale to where you want to be with their all-on-one services. So, whether you’re a beginner or a seasoned seller, you’ll find what you’re looking for here—from full educational programs to true FBA mastery and the most cutting-edge strategies, these Discord servers are truly where it’s at!",
+   "liveAccessPassCount": 36,
+   "livePageCount": 36,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_NOkEDUjnGp4PH",
+    "name": "E-Commerce",
+    "route": "ecommerce"
+   }
+  },
+  {
+   "id": "mcat_ZUU0LEMom44zb",
+   "name": "Dropshipping",
+   "route": "dropshipping",
+   "level": 2,
+   "tagline": null,
+   "description": "This is Whop’s dropshipping page, where you’ll find the internet’s best dropshipping ecommerce groups and Discord servers all in one place! Dropshipping can be a tricky business to get into if you’re relatively new to it, but that’s where a great ecommerce community comes in. Joining these ecommerce Discord servers doesn’t just give you the resources, whether that’s information or education, you need to prosper as a dropshipper—you’re also getting access to a community of other entrepreneurs in various stages of their own dropshipping journeys. This community aspect can help immeasurably, since there’ll definitely be someone out there who’s encountered the same situations and circumstances as you, and has been there and done that. So, if you want to level up your dropshipping game and enjoy the benefits of experience as well as networking that a community of like-minded entrepreneurs can bring, check out these ecommerce dropshipping communities! ",
+   "liveAccessPassCount": 95,
+   "livePageCount": 95,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_NOkEDUjnGp4PH",
+    "name": "E-Commerce",
+    "route": "ecommerce"
+   }
+  },
+  {
+   "id": "mcat_H9RmN7XOnCI7G",
+   "name": "General",
+   "route": "general",
+   "level": 2,
+   "tagline": null,
+   "description": null,
+   "liveAccessPassCount": 0,
+   "livePageCount": 0,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_kx59fgXbrBhmy",
+    "name": "Design",
+    "route": "design"
+   }
+  },
+  {
+   "id": "mcat_fOFlpgiJBlRPZ",
+   "name": "Manufacturing",
+   "route": "manufacturing",
+   "level": 2,
+   "tagline": null,
+   "description": null,
+   "liveAccessPassCount": 6,
+   "livePageCount": 6,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_Vm5cCCwNR1C9V",
+    "name": "Business",
+    "route": "business"
+   }
+  },
+  {
+   "id": "mcat_TgvrtkjkN67JL",
+   "name": "Other",
+   "route": "other",
+   "level": 2,
+   "tagline": null,
+   "description": null,
+   "liveAccessPassCount": 66,
+   "livePageCount": 66,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_Vm5cCCwNR1C9V",
+    "name": "Business",
+    "route": "business"
+   }
+  },
+  {
+   "id": "mcat_x151s3x0KSFXq",
+   "name": "Figma",
+   "route": "figma",
+   "level": 2,
+   "tagline": null,
+   "description": "Learning to code is a valuable skill that can pay lifelong dividends, however, coding from scratch is a long, complex process, especially when you are crafting high-level visions. For those who enjoy designing but are looking to save time, Figma and its tools are the perfect solution. Figma is a web app that solves one of the most frustrating issues in designing the front-end interface of a website or application, which is not having the ability to accurately craft a design that can easily be translated into code. With the right Figma tools and guidance, you’ll learn to craft the perfect design for your consumer-facing business in a fraction of the time it’ll take to learn to write just a few lines of decently functional code. This makes Figma tools a godsend to the visionary who wants to efficiently fulfill their full business potential. Additionally, Figma allows for easy collaboration so the technical and non-technical can work effortlessly in tandem. Because of the freedom and saved costs on design and development that Figma tools offer, it would be time well spent to learn the application and how it works. However, learning how Figma tools work as a total beginner can prove inefficient, and you might find out weeks or even months later that there is a better way to use the application to achieve your goals. With Whop’s private business communities and Figma tools, you’ll be able to get to market much faster and with a higher converting design that both you and your customers prefer so you can cash in big with your idea. Inside these business groups you can find profitable pre-made Figma templates that only need to be slightly tweaked for you to plug and play and quickly launch. You’ll also find challenges that will give you the motivation and accountability to set and smash goals so you can finally succeed as an entrepreneur.",
+   "liveAccessPassCount": 6,
+   "livePageCount": 6,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_Vm5cCCwNR1C9V",
+    "name": "Business",
+    "route": "business"
+   }
+  },
+  {
+   "id": "mcat_akgGhbaMA4tns",
+   "name": "General",
+   "route": "general",
+   "level": 2,
+   "tagline": null,
+   "description": "Every seasoned entrepreneur knows the truth in the advantage of working smarter and not harder, and apart from joining the right network, the best way to work in this way is to utilize the right business tools. With so many money-making niches and advancements in technology, particularly in AI, finding the right tools can prove overwhelming. You can end your search right here on Whop, where you’ll find the group that’s right for you no matter what business tool you need. These private Discord communities are full of top experts in their field who offer the best business tools for your success, all within a powerful community setting. You’ll find goodies like proxies and bots that will make for a great addition to your technical toolkit. For those who are into the investing game, you’ll find advice here in multiple areas including crypto, traditional markets, and sports betting. No need to worry about missing out on the AI revolution as well–we’ve got you covered here, with efficient automations, prompts, and overall guidance that will help you supercharge your income with these AI business tools. So stop sitting on the sidelines wondering how these online money-makers are doing it–jump in and join a winning team so you can capitalize on this once-in-a-lifetime opportunity to change how you make money forever.",
+   "liveAccessPassCount": 159,
+   "livePageCount": 159,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_Vm5cCCwNR1C9V",
+    "name": "Business",
+    "route": "business"
+   }
+  },
+  {
+   "id": "mcat_a5nuJVOAvNMXb",
+   "name": "Sales",
+   "route": "sales",
+   "level": 2,
+   "tagline": null,
+   "description": "Selling is a crucial component of a profitable business or service of any kind. For most people, sales does not come naturally, but as with any skill, it can be learned. However, in order to learn properly, you need the right teachers and sales tools. Whop has you covered. Here, you’ll find dedicated experts who are leading business Discord communities that will help you excel with effective sales tools that are curated to make you a cash-generating closer. Inside these groups, you’ll be able to access sales tools that will help you to build up a massive pipeline with strategies that are used by the top percentile of sales masters. Most importantly, you’ll learn how to close at a high rate so you can cash in big. In addition to the business tools, you’ll get world-class assistance from leaders and private community peers that will want you to succeed inside of their winner’s circles. You’ll find sales tools that cover all areas to make you a money-making machine, including automations, email marketing, and lead generation strategies. These thriving communities and their sales tools will make you a rainmaker in your desired realm, so don’t hesitate any longer–now is the time for you to finally nail sales and cash in with your skills.",
+   "liveAccessPassCount": 117,
+   "livePageCount": 117,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_Vm5cCCwNR1C9V",
+    "name": "Business",
+    "route": "business"
+   }
+  },
+  {
+   "id": "mcat_1pU0FV1He1KQ3",
+   "name": "Social Media",
+   "route": "social-media",
+   "level": 2,
+   "tagline": null,
+   "description": "One of the greatest wealth creators in recent years for individual creators and solopreneurs has been social media. Platforms like Instagram, YouTube, and TikTok have their share of newly minted millionaires popping up on the regular. You can either choose to sit on the sidelines and watch these creators succeed, or you can jump in and learn how they’re doing it. Rather than going through a potentially inefficient process of trying to learn the ins and outs of business on your own, you can arm yourself with the right social media business tools right here on Whop to get you started on this journey in the most effective way. By joining one of these Discord communities on Whop, you’ll learn all about the social media game, including what it takes to be a profitable influencer. You’ll also learn about social media marketing that you can use for your product, service, or personal brand, no matter which niche you are an expert in. Armed with these social media business tools, you’ll be able to make a living from anywhere online, and you can build up a healthy side hustle or a life-changing full-time income. So, instead of getting distracted by the repetitive entertainment as a consumer of the content on these platforms, you can cash in as a creator today with one of Whop’s groups right here that are dedicated to helping you build your social media empire from scratch. ",
+   "liveAccessPassCount": 85,
+   "livePageCount": 85,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_Vm5cCCwNR1C9V",
+    "name": "Business",
+    "route": "business"
+   }
+  },
+  {
+   "id": "mcat_eNX0a6KQX2fEN",
+   "name": "Marketing",
+   "route": "marketing",
+   "level": 2,
+   "tagline": null,
+   "description": "Whether you like it or not, marketing is a crucial part of business success. So, no matter how good your product, store, or service might be, if you don’t know how to effectively expose it to the world, you won’t be able to land any customers to make a viable business.\nWhop’s selection of private communities includes those complete with business marketing tools that will allow you to reach the right crowd that wants to pay for your offering. Whether you’re just starting out or if you already have an existing product or service, you’ll find tools and support here that will multiply your money. Inside these Discord groups, you’ll get access to the tools that will help you start an agency or business of any kind and to scale it to the next level. You’ll have the accountability of a driven group of similarly-minded, money-hungry individuals who are all led by experts in their domain. Other business marketing tools include assistance with profitable email marketing, effective advertising, and networking that will help you gain the exposure that you deserve. In addition to groups with tools and advice for marketing products for ecommerce stores, you’ll find assistance for lead generation including AI-powered automations that will reel in an abundance of customers so you can get your business booming.",
+   "liveAccessPassCount": 179,
+   "livePageCount": 179,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_Vm5cCCwNR1C9V",
+    "name": "Business",
+    "route": "business"
+   }
+  },
+  {
+   "id": "mcat_DKmHRxxnHQ7Rk",
+   "name": "Productivity",
+   "route": "productivity",
+   "level": 2,
+   "tagline": null,
+   "description": "Strategy is just one piece of the puzzle in business, and the piece that makes it happen is the execution. The quality of your execution is largely determined by how you use the limited time you have each day to achieve the tasks that you set out to do. Increasing your productivity is the only way that you can truly maximize the use of the time you have to carry out your goals, and this is best done with the assistance of productivity tools. With business Discord groups on Whop, you can join a community that is dedicated to providing the best productivity tools so that you can gain a huge edge over the competition. You can choose to gain access to a diverse set of productivity tools such as Notion templates and specialized groups that give you focus and accountability. \nAlso, if you want to use AI to increase your output, you will have a huge set of tools at your disposal, including AI-superpowered automations, writing assistance, and lead generation. So get ready to pick the group that resonates with your goals and experience what it’s like to be the most efficient version of yourself with these productivity tools. Many of these groups also offer free trials, so don’t be afraid to try as many as you can to maximize your knowledge and exposure.",
+   "liveAccessPassCount": 89,
+   "livePageCount": 89,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_Vm5cCCwNR1C9V",
+    "name": "Business",
+    "route": "business"
+   }
+  },
+  {
+   "id": "mcat_GgD5pWxLaR7Ys",
+   "name": "Email",
+   "route": "email",
+   "level": 2,
+   "tagline": null,
+   "description": null,
+   "liveAccessPassCount": 6,
+   "livePageCount": 6,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_Vm5cCCwNR1C9V",
+    "name": "Business",
+    "route": "business"
+   }
+  },
+  {
+   "id": "mcat_x91ydT8UHEJwE",
+   "name": "General",
+   "route": "general",
+   "level": 2,
+   "tagline": null,
+   "description": null,
+   "liveAccessPassCount": 0,
+   "livePageCount": 0,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_znfMldF9JRFga",
+    "name": "Board Games",
+    "route": "board-games"
+   }
+  },
+  {
+   "id": "mcat_K6ZgYKunvqKlc",
+   "name": "General",
+   "route": "general",
+   "level": 2,
+   "tagline": null,
+   "description": null,
+   "liveAccessPassCount": 1,
+   "livePageCount": 1,
+   "displayOnHomepage": false,
+   "parentMarketplaceCategory": {
+    "id": "mcat_CmpjC6K7PSWuQ",
+    "name": "Art",
+    "route": "art"
+   }
+  }
+ ]
+}

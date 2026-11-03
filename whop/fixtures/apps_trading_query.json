@@ -1,0 +1,352 @@
+{
+ "totalCount": 7,
+ "pageInfo": {
+  "hasNextPage": false,
+  "endCursor": "Nw"
+ },
+ "nodes": [
+  {
+   "id": "app_N3S3muNGIbm3tQ",
+   "name": "TradingView",
+   "route": null,
+   "description": "Sell access to your TradingView Indicators.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1711409592,
+   "totalInstalls": 318,
+   "totalInstallsLast7Days": 85,
+   "totalInstallsLast30Days": 318,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 1263,
+    "wau": 6305,
+    "mau": 22315,
+    "timeSpentLast24HoursInSeconds": 57503
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-04-02/user_1227474_36ff3ab7-6313-4482-9632-82d88170643d.png"
+   },
+   "creator": {
+    "id": "user_q61ixyl8cVGff",
+    "username": "whopinc",
+    "name": "Whop"
+   },
+   "company": {
+    "id": "biz_onq67UUpnRyBg0",
+    "route": "a82e93fd-2ffa-4405-bf66-b1f044284d5e",
+    "title": "TradingView by Whop"
+   },
+   "accessPass": {
+    "id": "prod_7xXclgLO65Q0w",
+    "route": "tradingview-2",
+    "title": "TradingView",
+    "headline": "Unlock Premium TradingView Indicators",
+    "reviewsAverage": 2.38,
+    "publishedReviewsCount": 8,
+    "marketplaceCategory": {
+     "id": "mcat_2wi1DcDey18vq",
+     "name": "Trading",
+     "route": "trading"
+    }
+   }
+  },
+  {
+   "id": "app_CBnePu0MQNJPhb",
+   "name": "TradingView",
+   "route": null,
+   "description": "Manage, gate, and sell access to your TradingView indicators.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1772651984,
+   "totalInstalls": 91,
+   "totalInstallsLast7Days": 13,
+   "totalInstallsLast30Days": 91,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 118,
+    "wau": 486,
+    "mau": 2058,
+    "timeSpentLast24HoursInSeconds": 4390
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_233487/image/apps/2026-01-29/20facc7f-75a7-4432-b66a-33fb49ef7010.png"
+   },
+   "creator": {
+    "id": "user_pqIOfXuAWAydZ",
+    "username": "qlub99",
+    "name": "qlub99"
+   },
+   "company": {
+    "id": "biz_4V2Z7FGU2HtVB5",
+    "route": "qlub99",
+    "title": "qlub99"
+   },
+   "accessPass": {
+    "id": "prod_sVWJTP21Qzrjf",
+    "route": "tradingview-53",
+    "title": "TradingView",
+    "headline": null,
+    "reviewsAverage": 5.0,
+    "publishedReviewsCount": 12,
+    "marketplaceCategory": {
+     "id": "mcat_2wi1DcDey18vq",
+     "name": "Trading",
+     "route": "trading"
+    }
+   }
+  },
+  {
+   "id": "app_Rc1iPBjuqufQKg",
+   "name": "Trading Journal",
+   "route": null,
+   "description": "Give your community a trading journal personalized with your brand’s colors and logo",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1771599521,
+   "totalInstalls": 29,
+   "totalInstallsLast7Days": 4,
+   "totalInstallsLast30Days": 29,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 24,
+    "wau": 117,
+    "mau": 372,
+    "timeSpentLast24HoursInSeconds": 2073
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_8046473/image/apps/2025-08-20/d2494b55-465d-4c0f-9b6f-35bd66412244"
+   },
+   "creator": {
+    "id": "user_y66ndkLRiIGmY",
+    "username": "tradevipejournal",
+    "name": "Tradevipe Trading Journal"
+   },
+   "company": {
+    "id": "biz_m2woGSddOVEU4L",
+    "route": "tradevipe-trading-journal",
+    "title": "Tradevipe Trading Journal"
+   },
+   "accessPass": {
+    "id": "prod_P5sXF30gAgnUy",
+    "route": "tradevipe-trading-journal-96",
+    "title": "Tradevipe Trading Journal",
+    "headline": null,
+    "reviewsAverage": 3.75,
+    "publishedReviewsCount": 4,
+    "marketplaceCategory": {
+     "id": "mcat_2wi1DcDey18vq",
+     "name": "Trading",
+     "route": "trading"
+    }
+   }
+  },
+  {
+   "id": "app_p2HZ1SpwztuPwQ",
+   "name": "TradingAI",
+   "route": null,
+   "description": "Meet your 24/7 trading partner - an AI chatbot that analyzes markets, makes smart trades, and learns from every move.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1761245328,
+   "totalInstalls": 17,
+   "totalInstallsLast7Days": 4,
+   "totalInstallsLast30Days": 17,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 0,
+    "wau": 8,
+    "mau": 37,
+    "timeSpentLast24HoursInSeconds": 0
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_9380944/image/apps/2025-10-06/e5787d37-b3fc-4c11-a724-968eccefad07.png"
+   },
+   "creator": {
+    "id": "user_m8NzkasLSYeXg",
+    "username": "thesolohacker",
+    "name": "Nikhil Nelson"
+   },
+   "company": {
+    "id": "biz_zHRMDLlSrw1h4h",
+    "route": "streamline-04ca",
+    "title": "Streamline"
+   },
+   "accessPass": {
+    "id": "prod_fQv8nz1epby63",
+    "route": "tradingai-a7",
+    "title": "TradingAI",
+    "headline": null,
+    "reviewsAverage": 0.0,
+    "publishedReviewsCount": 0,
+    "marketplaceCategory": {
+     "id": "mcat_2wi1DcDey18vq",
+     "name": "Trading",
+     "route": "trading"
+    }
+   }
+  },
+  {
+   "id": "app_FEdyVTgprBINx1",
+   "name": "Cornix Signals Copy Trading",
+   "route": null,
+   "description": "Let your members automatically follow your trading Signals and earn as they trade",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1768985825,
+   "totalInstalls": 7,
+   "totalInstallsLast7Days": 1,
+   "totalInstallsLast30Days": 7,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 1,
+    "wau": 10,
+    "mau": 25,
+    "timeSpentLast24HoursInSeconds": 318
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_20467960/image/apps/2025-12-19/8d692ed0-1580-4eef-a877-bedf4cb3ef5f.png"
+   },
+   "creator": {
+    "id": "user_XSRETWU7J5W23",
+    "username": "cornix",
+    "name": "Cornix Automated Trading"
+   },
+   "company": {
+    "id": "biz_3eAWFDJ6PLfevd",
+    "route": "cornix",
+    "title": "Cornix - Automated Crypto Trading"
+   },
+   "accessPass": {
+    "id": "prod_RqWHhYhIK4o46",
+    "route": "cornix-copy-trading",
+    "title": "Cornix Copy Trading",
+    "headline": null,
+    "reviewsAverage": 5.0,
+    "publishedReviewsCount": 3,
+    "marketplaceCategory": {
+     "id": "mcat_2wi1DcDey18vq",
+     "name": "Trading",
+     "route": "trading"
+    }
+   }
+  },
+  {
+   "id": "app_ayTVE2o3ARWN0K",
+   "name": "Copy Trading",
+   "route": null,
+   "description": "Follow top traders - entries and exits copied instantly to your account",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": null,
+   "totalInstalls": 0,
+   "totalInstallsLast7Days": 0,
+   "totalInstallsLast30Days": 0,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 1,
+    "wau": 5,
+    "mau": 29,
+    "timeSpentLast24HoursInSeconds": 9
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_7036804/image/apps/2025-10-06/52ed0336-8d72-4eaa-a781-c37b2f7c134e.png"
+   },
+   "creator": {
+    "id": "user_xnIZfpo17E8Rw",
+    "username": "enhancedmarket",
+    "name": "EnhancedMarket™"
+   },
+   "company": {
+    "id": "biz_MDpDOUeOh7Mb5d",
+    "route": "alertsify",
+    "title": "Alertsify - Institutional-Speed Trading"
+   },
+   "accessPass": {
+    "id": "prod_9oDTf7fKE87xi",
+    "route": "alertsify-2-0",
+    "title": "Copy Trading",
+    "headline": "Profit Like Top Traders Instantly with fully Automated Copy Trading",
+    "reviewsAverage": 4.8,
+    "publishedReviewsCount": 254,
+    "marketplaceCategory": {
+     "id": "mcat_2wi1DcDey18vq",
+     "name": "Trading",
+     "route": "trading"
+    }
+   }
+  },
+  {
+   "id": "app_OlKCJOzwJ1bnep",
+   "name": "Blink Trading Terminal",
+   "route": null,
+   "description": "Blink is a trading terminal, built for paid groups, livestreamers and community owners within Whop. Chat with your audience and trade all in the same simple UI.   Get started today.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1759122483,
+   "totalInstalls": 2,
+   "totalInstallsLast7Days": 0,
+   "totalInstallsLast30Days": 2,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 0,
+    "wau": 0,
+    "mau": 5,
+    "timeSpentLast24HoursInSeconds": 0
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_16788752/image/apps/2025-09-29/10fd560f-5d55-4304-9715-6f456757fc50.png"
+   },
+   "creator": {
+    "id": "user_3wN9tzMEPwN0I",
+    "username": "iamjava",
+    "name": "Rishabh Java"
+   },
+   "company": {
+    "id": "biz_4sBVkR55Qfyv6Z",
+    "route": "viral-ai-tools",
+    "title": "Viral AI Tools"
+   },
+   "accessPass": {
+    "id": "prod_OPORKXIZUGA1u",
+    "route": "trading-terminal",
+    "title": "Trading Terminal",
+    "headline": null,
+    "reviewsAverage": 0.0,
+    "publishedReviewsCount": 0,
+    "marketplaceCategory": {
+     "id": "mcat_2wi1DcDey18vq",
+     "name": "Trading",
+     "route": "trading"
+    }
+   }
+  }
+ ]
+}

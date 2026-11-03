@@ -1,0 +1,744 @@
+{
+ "totalCount": 15,
+ "pageInfo": {
+  "hasNextPage": false,
+  "endCursor": "MTU"
+ },
+ "nodes": [
+  {
+   "id": "app_sDXrwzF3lUJCaW",
+   "name": "Youtube AI Video Clipper",
+   "route": null,
+   "description": "Easily clip youtube videos with AI.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1759819803,
+   "totalInstalls": 1404,
+   "totalInstallsLast7Days": 359,
+   "totalInstallsLast30Days": 1404,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 49,
+    "wau": 338,
+    "mau": 1236,
+    "timeSpentLast24HoursInSeconds": 1872
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_13368043/image/apps/2025-10-05/8c01c31d-6cf4-439e-bb19-cce0f58c18e9.png"
+   },
+   "creator": {
+    "id": "user_sLnadQkZiLs2u",
+    "username": "clarkden",
+    "name": "Clarkden"
+   },
+   "company": {
+    "id": "biz_QleSBC1OwozISU",
+    "route": "clark-9da9",
+    "title": "Ripple Society"
+   },
+   "accessPass": {
+    "id": "prod_UaOfgmjWL0iDC",
+    "route": "klyp-ai-video-clipper",
+    "title": "Klyp - AI Video Clipper",
+    "headline": null,
+    "reviewsAverage": 1.0,
+    "publishedReviewsCount": 1,
+    "marketplaceCategory": {
+     "id": "mcat_mgD3g5EDUZ3Uh",
+     "name": "AI",
+     "route": "ai"
+    }
+   }
+  },
+  {
+   "id": "app_s5id0QjAzMwUfC",
+   "name": "AI Chatbot for Your Community",
+   "route": null,
+   "description": "An AI chatbot that answers your members' questions 24/7, trained on your docs, products and forums.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1760574512,
+   "totalInstalls": 154,
+   "totalInstallsLast7Days": 34,
+   "totalInstallsLast30Days": 154,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 9,
+    "wau": 67,
+    "mau": 253,
+    "timeSpentLast24HoursInSeconds": 430
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_2021666/image/apps/2025-10-15/6c2f7a3c-67fe-450c-b43c-320194511017.png"
+   },
+   "creator": {
+    "id": "user_JaBeMFEqxHpwX",
+    "username": "harismlad",
+    "name": "Haris "
+   },
+   "company": {
+    "id": "biz_jpoAczvrP8oUDT",
+    "route": "spot-labs",
+    "title": "Spot Labs"
+   },
+   "accessPass": {
+    "id": "prod_wwn4mZ2eNrYnc",
+    "route": "ai-chatbot-de",
+    "title": "AI Chatbot",
+    "headline": null,
+    "reviewsAverage": 5.0,
+    "publishedReviewsCount": 1,
+    "marketplaceCategory": {
+     "id": "mcat_mgD3g5EDUZ3Uh",
+     "name": "AI",
+     "route": "ai"
+    }
+   }
+  },
+  {
+   "id": "app_DMugMqcSCcwyCz",
+   "name": "Coach AI",
+   "route": null,
+   "description": "Give members private access to an AI coach that thinks like you. Train it on your content and frameworks, set a natural reply delay for human-like pacing, and deliver context-rich answers inside a fully branded UI. Go live in minutes with Whop checkout, control usage, and monetize access—without hiring.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1757734553,
+   "totalInstalls": 101,
+   "totalInstallsLast7Days": 23,
+   "totalInstallsLast30Days": 101,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 10,
+    "wau": 102,
+    "mau": 400,
+    "timeSpentLast24HoursInSeconds": 460
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_14530323/image/apps/2025-08-30/78800bbc-6f3e-49d8-8bcd-fdbc74eb106d"
+   },
+   "creator": {
+    "id": "user_JNw1SM4Uuy8lT",
+    "username": "gregoirebourdin",
+    "name": "Gregoire"
+   },
+   "company": {
+    "id": "biz_zXWEYMokWgduvj",
+    "route": "whop-coach-ai",
+    "title": "Coach AI™"
+   },
+   "accessPass": {
+    "id": "prod_UVOLZZ7fWeAOC",
+    "route": "coach-ai-e6",
+    "title": "Coach AI",
+    "headline": null,
+    "reviewsAverage": 4.8,
+    "publishedReviewsCount": 5,
+    "marketplaceCategory": {
+     "id": "mcat_mgD3g5EDUZ3Uh",
+     "name": "AI",
+     "route": "ai"
+    }
+   }
+  },
+  {
+   "id": "app_aRCN7F5IlSMd2c",
+   "name": "ClipCap",
+   "route": null,
+   "description": "Clipping tool for bulk generating viral clips and adding subtitles. Creators Earn 20% commission for their members subscriptions. ",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1775604225,
+   "totalInstalls": 58,
+   "totalInstallsLast7Days": 18,
+   "totalInstallsLast30Days": 58,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 5,
+    "wau": 22,
+    "mau": 103,
+    "timeSpentLast24HoursInSeconds": 38
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_7141426/image/apps/2026-03-13/e3cbc92e-6b5c-4447-94cc-cac57b9b0504.png"
+   },
+   "creator": {
+    "id": "user_1ZQyNKxYe1Xg8",
+    "username": "nokoro",
+    "name": "Noah"
+   },
+   "company": {
+    "id": "biz_7ALQvcsQd7zvbX",
+    "route": "whopapp-1c59",
+    "title": "ClipCap"
+   },
+   "accessPass": {
+    "id": "prod_FuzMAf1U788lA",
+    "route": "clipcap",
+    "title": "Basic",
+    "headline": "",
+    "reviewsAverage": 0.0,
+    "publishedReviewsCount": 0,
+    "marketplaceCategory": {
+     "id": "mcat_mgD3g5EDUZ3Uh",
+     "name": "AI",
+     "route": "ai"
+    }
+   }
+  },
+  {
+   "id": "app_TNaDYdfCZHqGEP",
+   "name": "Boosta - AI clipping tool",
+   "route": null,
+   "description": "Cloud, Desktop & API. 🖥️☁️ Turn long videos into viral Shorts. 💸 WHOP OWNERS earn 30% Revenue Share",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1770256147,
+   "totalInstalls": 31,
+   "totalInstallsLast7Days": 11,
+   "totalInstallsLast30Days": 31,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 2,
+    "wau": 8,
+    "mau": 22,
+    "timeSpentLast24HoursInSeconds": 211
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_4585540/image/apps/2026-01-01/341c3011-2e72-496e-8121-ef32900ee2fe.png"
+   },
+   "creator": {
+    "id": "user_PwTaMEFKkrpJB",
+    "username": "hundevmode",
+    "name": "Hun"
+   },
+   "company": {
+    "id": "biz_zoZ73YUR7CM0PD",
+    "route": "boosta-2501",
+    "title": "Boosta"
+   },
+   "accessPass": {
+    "id": "prod_zJvPtPkr0cMEB",
+    "route": "boosta-74",
+    "title": "Boosta",
+    "headline": null,
+    "reviewsAverage": 0.0,
+    "publishedReviewsCount": 0,
+    "marketplaceCategory": {
+     "id": "mcat_mgD3g5EDUZ3Uh",
+     "name": "AI",
+     "route": "ai"
+    }
+   }
+  },
+  {
+   "id": "app_KHqcozSfEGNyhl",
+   "name": "AI Image Generator",
+   "route": null,
+   "description": "Create prompts that can transform your users photos.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1747775452,
+   "totalInstalls": 44,
+   "totalInstallsLast7Days": 7,
+   "totalInstallsLast30Days": 44,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 0,
+    "wau": 11,
+    "mau": 41,
+    "timeSpentLast24HoursInSeconds": 0
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_331/image/apps/2025-05-30/b4052a36-485d-4e1f-b8b1-798f88117773"
+   },
+   "creator": {
+    "id": "user_nrxHyu5XRFjkS",
+    "username": "s",
+    "name": "Steven Schwartz"
+   },
+   "company": {
+    "id": "biz_fsyAlxa8BZM1Ca",
+    "route": "steven",
+    "title": "Steven's whop"
+   },
+   "accessPass": {
+    "id": "prod_kd898alQR1D2G",
+    "route": "ai-image-generation-e1",
+    "title": "AI Image Generation",
+    "headline": null,
+    "reviewsAverage": 4.7,
+    "publishedReviewsCount": 100,
+    "marketplaceCategory": {
+     "id": "mcat_mgD3g5EDUZ3Uh",
+     "name": "AI",
+     "route": "ai"
+    }
+   }
+  },
+  {
+   "id": "app_IB7wgJ6Lw74sqV",
+   "name": "AI Suite",
+   "route": null,
+   "description": "A simple way to create AI Agents for your whop community.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1764497402,
+   "totalInstalls": 22,
+   "totalInstallsLast7Days": 5,
+   "totalInstallsLast30Days": 22,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 0,
+    "wau": 4,
+    "mau": 21,
+    "timeSpentLast24HoursInSeconds": 0
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_1878158/image/apps/2025-11-02/a4e64aa8-66a0-45fb-9e7b-45662ee869a5.png"
+   },
+   "creator": {
+    "id": "user_TexwElo3i6c1Q",
+    "username": "faustfuture",
+    "name": "Faust Future"
+   },
+   "company": {
+    "id": "biz_H95QPr9IxlP20A",
+    "route": "chess-blueprint",
+    "title": "Chess Blueprint"
+   },
+   "accessPass": {
+    "id": "prod_Gp5qMCGuBcXuT",
+    "route": "ai-suite",
+    "title": "AI Suite",
+    "headline": null,
+    "reviewsAverage": 1.0,
+    "publishedReviewsCount": 1,
+    "marketplaceCategory": {
+     "id": "mcat_mgD3g5EDUZ3Uh",
+     "name": "AI",
+     "route": "ai"
+    }
+   }
+  },
+  {
+   "id": "app_9m55N69IV1Spxr",
+   "name": "viral engine AI clipping tool",
+   "route": null,
+   "description": "BEST AI CLIPPING SOFTWARE",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1769546023,
+   "totalInstalls": 23,
+   "totalInstallsLast7Days": 5,
+   "totalInstallsLast30Days": 23,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 1,
+    "wau": 5,
+    "mau": 16,
+    "timeSpentLast24HoursInSeconds": 65
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_7817428/image/apps/2025-12-26/c6a6aa34-0cc1-4a3b-8e93-fc760c989731.png"
+   },
+   "creator": {
+    "id": "user_Yl8AaTT4Afcmy",
+    "username": "keatingisaac",
+    "name": "Isaac Keating"
+   },
+   "company": {
+    "id": "biz_ToH0uPyq4k2b72",
+    "route": "viralengine-ai",
+    "title": "ViralEngine AI"
+   },
+   "accessPass": {
+    "id": "prod_kNahYopnKpkyz",
+    "route": "viral-engine-ai-d1",
+    "title": "viral engine AI",
+    "headline": "viral clips made by ai",
+    "reviewsAverage": 0.0,
+    "publishedReviewsCount": 0,
+    "marketplaceCategory": {
+     "id": "mcat_mgD3g5EDUZ3Uh",
+     "name": "AI",
+     "route": "ai"
+    }
+   }
+  },
+  {
+   "id": "app_MfwK7l9Mh8bmW0",
+   "name": "Whopshop Beta",
+   "route": null,
+   "description": "Build your own Whop app",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1755540990,
+   "totalInstalls": 15,
+   "totalInstallsLast7Days": 3,
+   "totalInstallsLast30Days": 15,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 2,
+    "wau": 4,
+    "mau": 17,
+    "timeSpentLast24HoursInSeconds": 95
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_8444455/image/apps/2025-06-19/e718f980-5cae-40c8-bbd1-0e76f2d31ffe"
+   },
+   "creator": {
+    "id": "user_0hA7TPkmcBtXT",
+    "username": "l",
+    "name": "luka"
+   },
+   "company": {
+    "id": "biz_aiWHMLzz1Dg9yl",
+    "route": "whoplabs-main",
+    "title": "Whop Labs"
+   },
+   "accessPass": {
+    "id": "prod_3X7dPswUtzGAs",
+    "route": "whpsqrt",
+    "title": "Whpsqrt",
+    "headline": null,
+    "reviewsAverage": 4.46,
+    "publishedReviewsCount": 24,
+    "marketplaceCategory": {
+     "id": "mcat_mgD3g5EDUZ3Uh",
+     "name": "AI",
+     "route": "ai"
+    }
+   }
+  },
+  {
+   "id": "app_CFNV8jYnj4UUaz",
+   "name": "AI Coaches",
+   "route": null,
+   "description": "Give members private access to AI coaches trained on your expertise. Set your own prices and keep 85-95% of every purchase.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1767806639,
+   "totalInstalls": 10,
+   "totalInstallsLast7Days": 3,
+   "totalInstallsLast30Days": 10,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 1,
+    "wau": 6,
+    "mau": 12,
+    "timeSpentLast24HoursInSeconds": 5
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_19595183/image/apps/2025-12-08/f6838fa8-a6b6-4415-bb4b-2a30c7663294.svg"
+   },
+   "creator": {
+    "id": "user_spmWvXErIVADN",
+    "username": "emmanuelezeai",
+    "name": "Emmanuel Eze"
+   },
+   "company": {
+    "id": "biz_V8qUPfbG1xfLee",
+    "route": "whopflow",
+    "title": "Whopflow"
+   },
+   "accessPass": {
+    "id": "prod_USqjPpiHwv0hV",
+    "route": "ai-coaches-81",
+    "title": "AI Coaches",
+    "headline": null,
+    "reviewsAverage": 0.0,
+    "publishedReviewsCount": 0,
+    "marketplaceCategory": {
+     "id": "mcat_mgD3g5EDUZ3Uh",
+     "name": "AI",
+     "route": "ai"
+    }
+   }
+  },
+  {
+   "id": "app_BF6bE1cLYvwxUm",
+   "name": "Viral Content Analyzer",
+   "route": null,
+   "description": "Analyse spotting patterns, hooks, and trends.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1756489406,
+   "totalInstalls": 16,
+   "totalInstallsLast7Days": 2,
+   "totalInstallsLast30Days": 16,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 0,
+    "wau": 5,
+    "mau": 20,
+    "timeSpentLast24HoursInSeconds": 0
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_6684752/image/apps/2025-08-28/b139b918-72fc-4993-a2d6-e4d432ca3108"
+   },
+   "creator": {
+    "id": "user_0ncemJ2QSxIRZ",
+    "username": "celestius",
+    "name": "Celestius"
+   },
+   "company": {
+    "id": "biz_5YsKFsBjgyK2J5",
+    "route": "celestius",
+    "title": "Celestius Club"
+   },
+   "accessPass": {
+    "id": "prod_5aRU5M5TOtU6D",
+    "route": "content-analyzer",
+    "title": "Content Analyzer",
+    "headline": null,
+    "reviewsAverage": 4.0,
+    "publishedReviewsCount": 4,
+    "marketplaceCategory": {
+     "id": "mcat_mgD3g5EDUZ3Uh",
+     "name": "AI",
+     "route": "ai"
+    }
+   }
+  },
+  {
+   "id": "app_8NJpv8Ohp63cy5",
+   "name": "Go AI",
+   "route": null,
+   "description": "Cheapset AI on Whop( 9$ ). Mentor, Assistant and Chatbot. AI but All in One.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1761261641,
+   "totalInstalls": 1,
+   "totalInstallsLast7Days": 1,
+   "totalInstallsLast30Days": 1,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 39,
+    "wau": 99,
+    "mau": 208,
+    "timeSpentLast24HoursInSeconds": 6873
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_18119738/image/apps/2025-11-04/55eea189-7499-456c-81e4-bfadc0dadd38.avif"
+   },
+   "creator": {
+    "id": "user_8TkKKL6cR6AoX",
+    "username": "tsarp",
+    "name": "Andrew Weir"
+   },
+   "company": {
+    "id": "biz_ep95eFURTPVROr",
+    "route": "asgar",
+    "title": "GO AI APP"
+   },
+   "accessPass": {
+    "id": "prod_Y4AQbTZxbagKd",
+    "route": "test-51-4b84",
+    "title": "Test",
+    "headline": null,
+    "reviewsAverage": 5.0,
+    "publishedReviewsCount": 1,
+    "marketplaceCategory": {
+     "id": "mcat_mgD3g5EDUZ3Uh",
+     "name": "AI",
+     "route": "ai"
+    }
+   }
+  },
+  {
+   "id": "app_9COnd5mbOajwjD",
+   "name": "Skinny Studio AI",
+   "route": null,
+   "description": "Describe any visual idea and watch AI bring it to life—images, videos, and more.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1767313490,
+   "totalInstalls": 6,
+   "totalInstallsLast7Days": 1,
+   "totalInstallsLast30Days": 6,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 0,
+    "wau": 1,
+    "mau": 6,
+    "timeSpentLast24HoursInSeconds": 0
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_15414659/image/apps/2025-12-17/252ec4ad-e46c-482e-9526-7c1625d4e1a8.png"
+   },
+   "creator": {
+    "id": "user_MnquwmrvE7QOY",
+    "username": "hmndigital",
+    "name": "Henry Nicholson"
+   },
+   "company": {
+    "id": "biz_xqRQNo9WE4vfSj",
+    "route": "skinnystudios",
+    "title": "Skinny Studio"
+   },
+   "accessPass": {
+    "id": "prod_TsPwWPZXThHJ4",
+    "route": "skinny-studio-ai",
+    "title": "Skinny Studio AI",
+    "headline": null,
+    "reviewsAverage": 4.9,
+    "publishedReviewsCount": 10,
+    "marketplaceCategory": {
+     "id": "mcat_mgD3g5EDUZ3Uh",
+     "name": "AI",
+     "route": "ai"
+    }
+   }
+  },
+  {
+   "id": "app_RYbeE6o0xNPeQ6",
+   "name": "Welp Support",
+   "route": null,
+   "description": "AI Support Tickets, with ability to takeover with your team.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1759252292,
+   "totalInstalls": 3,
+   "totalInstallsLast7Days": 0,
+   "totalInstallsLast30Days": 3,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 0,
+    "wau": 0,
+    "mau": 3,
+    "timeSpentLast24HoursInSeconds": 0
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_12515179/image/apps/2025-09-22/4e2fe3ca-4a27-4ece-9008-1227ea82ff03"
+   },
+   "creator": {
+    "id": "user_HphXSMwCsPBV9",
+    "username": "zilver",
+    "name": "ZILVER"
+   },
+   "company": {
+    "id": "biz_vRo0IdJiAfqKbq",
+    "route": "welpai",
+    "title": "Welp"
+   },
+   "accessPass": {
+    "id": "prod_QA2u4gAhoxhfV",
+    "route": "gardasio-44",
+    "title": "Welp Support App",
+    "headline": "Welp Support App",
+    "reviewsAverage": 1.0,
+    "publishedReviewsCount": 1,
+    "marketplaceCategory": {
+     "id": "mcat_mgD3g5EDUZ3Uh",
+     "name": "AI",
+     "route": "ai"
+    }
+   }
+  },
+  {
+   "id": "app_qZwNBYXkTemdBu",
+   "name": "SUPER MOD",
+   "route": null,
+   "description": "“Turn your community on autopilot\". (SUPER MOD) answers questions, handles support, and keeps everything running 24/7*",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1784658173,
+   "totalInstalls": 4,
+   "totalInstallsLast7Days": 0,
+   "totalInstallsLast30Days": 4,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 0,
+    "wau": 1,
+    "mau": 6,
+    "timeSpentLast24HoursInSeconds": 0
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_12501784/image/apps/2026-05-04/e7982eed-16f2-4ca7-b056-53495ab75a66.png"
+   },
+   "creator": {
+    "id": "user_3gX6C9GZwk3mn",
+    "username": "arpxn",
+    "name": "A R P X N"
+   },
+   "company": {
+    "id": "biz_DRvvd9BjiKTNuo",
+    "route": "supermod",
+    "title": "SUPER MOD"
+   },
+   "accessPass": {
+    "id": "prod_X9HfkQm5jeMEE",
+    "route": "supermod",
+    "title": "SUPER MOD",
+    "headline": "\"SUPER MOD\" an AI-powered community assistant",
+    "reviewsAverage": 0.0,
+    "publishedReviewsCount": 0,
+    "marketplaceCategory": {
+     "id": "mcat_mgD3g5EDUZ3Uh",
+     "name": "AI",
+     "route": "ai"
+    }
+   }
+  }
+ ]
+}

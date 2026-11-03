@@ -1,0 +1,1664 @@
+{
+ "id": "biz_1ZH7VJrbsBzY1D",
+ "route": "emoney",
+ "title": "eMoney Reselling",
+ "reviews": {
+  "totalCount": 2919,
+  "pageInfo": {
+   "hasNextPage": true,
+   "endCursor": "NTA"
+  },
+  "nodes": [
+   {
+    "id": "rev_XKlssmjgC7Vexb",
+    "stars": 5,
+    "title": null,
+    "description": "good app the best deals ",
+    "createdAt": 1793670707,
+    "joinedAt": 1791482827,
+    "publishedAt": 1793670708,
+    "paidForProduct": true,
+    "upvotes": 0,
+    "replyCount": 0,
+    "featured": false,
+    "whopReviewed": false,
+    "userAccount": {
+     "id": "user_neVLYMg6gRkI9",
+     "username": "mikevillegasrod",
+     "name": null,
+     "profilePicture": {
+      "sourceUrl": "https://ui-avatars.com/api/?name=mikevillegasrod&background=535961&color=fff&format=png"
+     }
+    },
+    "accessPass": {
+     "id": "prod_rBr55Hspxof1I",
+     "route": "vip-membership-c1-fa4d",
+     "title": "VIP Membership"
+    },
+    "company": {
+     "id": "biz_1ZH7VJrbsBzY1D",
+     "route": "emoney",
+     "title": "eMoney Reselling"
+    },
+    "attachments": []
+   },
+   {
+    "id": "rev_0h27USQTuHj8er",
+    "stars": 5,
+    "title": null,
+    "description": "been with this group for years and i made over 1000$ in my first month before they had half of the great stuff they have now. had to take a long hiatus and now im back and am already making $ and im just getting started.. definitely worth the money..",
+    "createdAt": 1793616547,
+    "joinedAt": 1713903205,
+    "publishedAt": 1793616553,
+    "paidForProduct": true,
+    "upvotes": 0,
+    "replyCount": 0,
+    "featured": false,
+    "whopReviewed": false,
+    "userAccount": {
+     "id": "user_xXpVkCjqfOgoW",
+     "username": "nicholasblakegriffin",
+     "name": "Nicholas Griffin",
+     "profilePicture": {
+      "sourceUrl": "https://ui-avatars.com/api/?name=Nicholas%20Griffin&background=535961&color=fff&format=png"
+     }
+    },
+    "accessPass": {
+     "id": "prod_jshhxEws1lowZ",
+     "route": "emoney",
+     "title": "Premium Membership"
+    },
+    "company": {
+     "id": "biz_1ZH7VJrbsBzY1D",
+     "route": "emoney",
+     "title": "eMoney Reselling"
+    },
+    "attachments": []
+   },
+   {
+    "id": "rev_shcZmkdeWlXSyX",
+    "stars": 5,
+    "title": null,
+    "description": "I have been a reseller since 2000.  This has been a HUGE game changer to my business.  I love it and everyone is very helpful and cooperative.  Would highly recommend to anyone wanting to grow their online reselling business.\n",
+    "createdAt": 1793454607,
+    "joinedAt": 1793296272,
+    "publishedAt": 1793454608,
+    "paidForProduct": true,
+    "upvotes": 0,
+    "replyCount": 0,
+    "featured": false,
+    "whopReviewed": false,
+    "userAccount": {
+     "id": "user_fraEcKKN7jN9y",
+     "username": "modaltimbree0",
+     "name": null,
+     "profilePicture": {
+      "sourceUrl": "https://ui-avatars.com/api/?name=modaltimbree0&background=535961&color=fff&format=png"
+     }
+    },
+    "accessPass": {
+     "id": "prod_f1rB29sTxeU1y",
+     "route": "emoney-yearly-membership",
+     "title": "VIP Yearly Membership"
+    },
+    "company": {
+     "id": "biz_1ZH7VJrbsBzY1D",
+     "route": "emoney",
+     "title": "eMoney Reselling"
+    },
+    "attachments": []
+   },
+   {
+    "id": "rev_pJZlUbFlfy1t6w",
+    "stars": 5,
+    "title": null,
+    "description": "little bit of a learning curve but once you get it you get it. power shopper!",
+    "createdAt": 1793156061,
+    "joinedAt": 1793070922,
+    "publishedAt": 1793156062,
+    "paidForProduct": true,
+    "upvotes": 0,
+    "replyCount": 0,
+    "featured": false,
+    "whopReviewed": false,
+    "userAccount": {
+     "id": "user_wUR8EMc00YTCl",
+     "username": "twincitiestool",
+     "name": "Twincitiestool ",
+     "profilePicture": {
+      "sourceUrl": "https://ui-avatars.com/api/?name=Twincitiestool%20&background=535961&color=fff&format=png"
+     }
+    },
+    "accessPass": {
+     "id": "prod_d2veDFvKrtQfd",
+     "route": "elite-clearance-access",
+     "title": "Elite Clearance Access"
+    },
+    "company": {
+     "id": "biz_1ZH7VJrbsBzY1D",
+     "route": "emoney",
+     "title": "eMoney Reselling"
+    },
+    "attachments": []
+   },
+   {
+    "id": "rev_5SThirYcWiRYKM",
+    "stars": 5,
+    "title": null,
+    "description": "Good place to make money",
+    "createdAt": 1793120075,
+    "joinedAt": 1791747705,
+    "publishedAt": 1793120136,
+    "paidForProduct": true,
+    "upvotes": 0,
+    "replyCount": 0,
+    "featured": false,
+    "whopReviewed": false,
+    "userAccount": {
+     "id": "user_wQdQ1Oqjh17UB",
+     "username": "nvonscio",
+     "name": null,
+     "profilePicture": {
+      "sourceUrl": "https://ui-avatars.com/api/?name=nvonscio&background=535961&color=fff&format=png"
+     }
+    },
+    "accessPass": {
+     "id": "prod_jshhxEws1lowZ",
+     "route": "emoney",
+     "title": "Premium Membership"
+    },
+    "company": {
+     "id": "biz_1ZH7VJrbsBzY1D",
+     "route": "emoney",
+     "title": "eMoney Reselling"
+    },
+    "attachments": []
+   },
+   {
+    "id": "rev_B3CDsGrAD4oclE",
+    "stars": 5,
+    "title": null,
+    "description": "The elite clearance is nice and the group is great. I’ve found a lot of great deals it’s hard not keeping the stuff for myself!",
+    "createdAt": 1793093192,
+    "joinedAt": 1792457734,
+    "publishedAt": 1793093361,
+    "paidForProduct": true,
+    "upvotes": 0,
+    "replyCount": 0,
+    "featured": false,
+    "whopReviewed": false,
+    "userAccount": {
+     "id": "user_ma6KwsxVAgvdy",
+     "username": "letsgoforit",
+     "name": "Brandy ",
+     "profilePicture": {
+      "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-11-26/user_19814243_4f625866-228d-4ae0-974a-77c219595966.jpeg"
+     }
+    },
+    "accessPass": {
+     "id": "prod_d2veDFvKrtQfd",
+     "route": "elite-clearance-access",
+     "title": "Elite Clearance Access"
+    },
+    "company": {
+     "id": "biz_1ZH7VJrbsBzY1D",
+     "route": "emoney",
+     "title": "eMoney Reselling"
+    },
+    "attachments": []
+   },
+   {
+    "id": "rev_cp3VdZYEwJqC2w",
+    "stars": 4,
+    "title": null,
+    "description": "I am liking the platform. I am 64 and have never been on Discord before. It has taken me a bit of time to get used to things. I was informed of a huge clearance sale the first week.  I got about 2K worth of clothes for $300.  I was also notified of a 50% off sale where I got tons of stuff that I will put on FBM at Christmas time.\nIn addition I was able to purchase 6 sets of luggage at 50% off. I am selling it on FBM; lots of demand.  Lastly, I purchased 3 NFL Branded Super big Igloo coolers....massive. I have sold all at a profit and will check the dtock at the store to see if they have any more left.  \nthe best part though are the patient people who help you and want to see you succeed.\nThanks for a well designed system.\nFormer Elementary School Teacher",
+    "createdAt": 1793080969,
+    "joinedAt": 1792112493,
+    "publishedAt": 1793080970,
+    "paidForProduct": false,
+    "upvotes": 0,
+    "replyCount": 0,
+    "featured": false,
+    "whopReviewed": false,
+    "userAccount": {
+     "id": "user_WloBrH1R9wI3t",
+     "username": "olddragon",
+     "name": null,
+     "profilePicture": {
+      "sourceUrl": "https://ui-avatars.com/api/?name=olddragon&background=535961&color=fff&format=png"
+     }
+    },
+    "accessPass": {
+     "id": "prod_KspoWU1uYg7mD",
+     "route": "emoney-accelerator-p-copy",
+     "title": "eMoney Accelerator"
+    },
+    "company": {
+     "id": "biz_1ZH7VJrbsBzY1D",
+     "route": "emoney",
+     "title": "eMoney Reselling"
+    },
+    "attachments": []
+   },
+   {
+    "id": "rev_HjyKCSVGttrikX",
+    "stars": 5,
+    "title": null,
+    "description": "Man just watching all the information you guys put out there.I can't wait till I can access it.Five star rating for sure!!!",
+    "createdAt": 1792131151,
+    "joinedAt": 1791659719,
+    "publishedAt": 1792131155,
+    "paidForProduct": true,
+    "upvotes": 0,
+    "replyCount": 0,
+    "featured": false,
+    "whopReviewed": false,
+    "userAccount": {
+     "id": "user_WmhZg9Cq4uk7B",
+     "username": "cnichollsfc",
+     "name": null,
+     "profilePicture": {
+      "sourceUrl": "https://ui-avatars.com/api/?name=cnichollsfc&background=535961&color=fff&format=png"
+     }
+    },
+    "accessPass": {
+     "id": "prod_jshhxEws1lowZ",
+     "route": "emoney",
+     "title": "Premium Membership"
+    },
+    "company": {
+     "id": "biz_1ZH7VJrbsBzY1D",
+     "route": "emoney",
+     "title": "eMoney Reselling"
+    },
+    "attachments": []
+   },
+   {
+    "id": "rev_g79j6ApGBoHhuA",
+    "stars": 5,
+    "title": null,
+    "description": "This is a really great community! Everyone supports each other and it works around your schedule!",
+    "createdAt": 1792090286,
+    "joinedAt": 1790770106,
+    "publishedAt": 1792090297,
+    "paidForProduct": true,
+    "upvotes": 0,
+    "replyCount": 0,
+    "featured": false,
+    "whopReviewed": false,
+    "userAccount": {
+     "id": "user_gIIWHysnDAVd7",
+     "username": "princev81",
+     "name": "Joe",
+     "profilePicture": {
+      "sourceUrl": "https://ui-avatars.com/api/?name=Joe&background=535961&color=fff&format=png"
+     }
+    },
+    "accessPass": {
+     "id": "prod_0Q0WJYUUIhVCa",
+     "route": "emoney-pro-elite",
+     "title": "eMoney Pro Elite"
+    },
+    "company": {
+     "id": "biz_1ZH7VJrbsBzY1D",
+     "route": "emoney",
+     "title": "eMoney Reselling"
+    },
+    "attachments": []
+   },
+   {
+    "id": "rev_ZGVGEz8rmeqaCI",
+    "stars": 5,
+    "title": null,
+    "description": "The amount of information available can be a bit overwhelming but the team is there to help us make it a success!",
+    "createdAt": 1792025354,
+    "joinedAt": 1792004315,
+    "publishedAt": 1792026181,
+    "paidForProduct": false,
+    "upvotes": 0,
+    "replyCount": 0,
+    "featured": false,
+    "whopReviewed": false,
+    "userAccount": {
+     "id": "user_w3Jn7VnKxNYgf",
+     "username": "raginknight",
+     "name": "Douglas Moore",
+     "profilePicture": {
+      "sourceUrl": "https://ui-avatars.com/api/?name=Douglas%20Moore&background=535961&color=fff&format=png"
+     }
+    },
+    "accessPass": {
+     "id": "prod_V1lznBVc9KpbS",
+     "route": "emoney-accelerator-75",
+     "title": "eMoney Accelerator Program"
+    },
+    "company": {
+     "id": "biz_1ZH7VJrbsBzY1D",
+     "route": "emoney",
+     "title": "eMoney Reselling"
+    },
+    "attachments": []
+   },
+   {
+    "id": "rev_zK7VchomjbwTxS",
+    "stars": 4,
+    "title": null,
+    "description": "Offers tons of info and help with finding great deals. Can almost be a bit overwhelming, but better than not having the resources and opportunities available at all!",
+    "createdAt": 1791998164,
+    "joinedAt": 1737319229,
+    "publishedAt": 1791998164,
+    "paidForProduct": true,
+    "upvotes": 0,
+    "replyCount": 0,
+    "featured": false,
+    "whopReviewed": false,
+    "userAccount": {
+     "id": "user_xo7k4R6C0lGbA",
+     "username": "brittneyensley",
+     "name": "Britt E",
+     "profilePicture": {
+      "sourceUrl": "https://ui-avatars.com/api/?name=Britt%20E&background=535961&color=fff&format=png"
+     }
+    },
+    "accessPass": {
+     "id": "prod_jshhxEws1lowZ",
+     "route": "emoney",
+     "title": "Premium Membership"
+    },
+    "company": {
+     "id": "biz_1ZH7VJrbsBzY1D",
+     "route": "emoney",
+     "title": "eMoney Reselling"
+    },
+    "attachments": []
+   },
+   {
+    "id": "rev_sNuFWrLDRNXRR5",
+    "stars": 5,
+    "title": null,
+    "description": "Awesome server worth the investment ",
+    "createdAt": 1791995707,
+    "joinedAt": 1791404380,
+    "publishedAt": 1791995725,
+    "paidForProduct": true,
+    "upvotes": 0,
+    "replyCount": 0,
+    "featured": false,
+    "whopReviewed": false,
+    "userAccount": {
+     "id": "user_BaEfg5wyR1MR5",
+     "username": "nessecito",
+     "name": "Vanessa Fernandez",
+     "profilePicture": {
+      "sourceUrl": "https://ui-avatars.com/api/?name=Vanessa%20Fernandez&background=535961&color=fff&format=png"
+     }
+    },
+    "accessPass": {
+     "id": "prod_d2veDFvKrtQfd",
+     "route": "elite-clearance-access",
+     "title": "Elite Clearance Access"
+    },
+    "company": {
+     "id": "biz_1ZH7VJrbsBzY1D",
+     "route": "emoney",
+     "title": "eMoney Reselling"
+    },
+    "attachments": []
+   },
+   {
+    "id": "rev_BZC8jl6elqpsTe",
+    "stars": 5,
+    "title": null,
+    "description": "Awesome deals / Fast Links for easy checkouts! ",
+    "createdAt": 1791992212,
+    "joinedAt": 1791676209,
+    "publishedAt": 1791992308,
+    "paidForProduct": true,
+    "upvotes": 0,
+    "replyCount": 0,
+    "featured": false,
+    "whopReviewed": false,
+    "userAccount": {
+     "id": "user_QiqxBKThisIf7",
+     "username": "rickc",
+     "name": "Rick",
+     "profilePicture": {
+      "sourceUrl": "https://ui-avatars.com/api/?name=Rick&background=535961&color=fff&format=png"
+     }
+    },
+    "accessPass": {
+     "id": "prod_jshhxEws1lowZ",
+     "route": "emoney",
+     "title": "Premium Membership"
+    },
+    "company": {
+     "id": "biz_1ZH7VJrbsBzY1D",
+     "route": "emoney",
+     "title": "eMoney Reselling"
+    },
+    "attachments": []
+   },
+   {
+    "id": "rev_5Uxjqx4kolExXu",
+    "stars": 5,
+    "title": null,
+    "description": "Great deals & great opportunities to flip it and make $",
+    "createdAt": 1791990512,
+    "joinedAt": 1791744652,
+    "publishedAt": 1791990513,
+    "paidForProduct": true,
+    "upvotes": 0,
+    "replyCount": 0,
+    "featured": false,
+    "whopReviewed": false,
+    "userAccount": {
+     "id": "user_cClbKjbGWYqW9",
+     "username": "crissy1722",
+     "name": "Crissy",
+     "profilePicture": {
+      "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_20786069/image/users/2026-03-02/66985648-dfb8-4be9-bf1f-e85a824f87b8.png"
+     }
+    },
+    "accessPass": {
+     "id": "prod_OqBptSoYw3NYs",
+     "route": "home-depot-pro",
+     "title": "Clearance Pro"
+    },
+    "company": {
+     "id": "biz_1ZH7VJrbsBzY1D",
+     "route": "emoney",
+     "title": "eMoney Reselling"
+    },
+    "attachments": []
+   },
+   {
+    "id": "rev_bdWp3B85sVzaax",
+    "stars": 5,
+    "title": null,
+    "description": "Great support staff! Good opportunities here!",
+    "createdAt": 1791987504,
+    "joinedAt": 1791744056,
+    "publishedAt": 1791987505,
+    "paidForProduct": true,
+    "upvotes": 0,
+    "replyCount": 0,
+    "featured": false,
+    "whopReviewed": false,
+    "userAccount": {
+     "id": "user_5O27YLqywnw0w",
+     "username": "jopeg44",
+     "name": "Peggy Desrosiers ",
+     "profilePicture": {
+      "sourceUrl": "https://ui-avatars.com/api/?name=Peggy%20Desrosiers%20&background=535961&color=fff&format=png"
+     }
+    },
+    "accessPass": {
+     "id": "prod_d2veDFvKrtQfd",
+     "route": "elite-clearance-access",
+     "title": "Elite Clearance Access"
+    },
+    "company": {
+     "id": "biz_1ZH7VJrbsBzY1D",
+     "route": "emoney",
+     "title": "eMoney Reselling"
+    },
+    "attachments": []
+   },
+   {
+    "id": "rev_xMDkHm9X92JxFo",
+    "stars": 5,
+    "title": null,
+    "description": "Good place to make money ",
+    "createdAt": 1791986009,
+    "joinedAt": 1791681953,
+    "publishedAt": 1791986010,
+    "paidForProduct": true,
+    "upvotes": 0,
+    "replyCount": 0,
+    "featured": false,
+    "whopReviewed": false,
+    "userAccount": {
+     "id": "user_RwgRcYHbZrbNl",
+     "username": "mluise",
+     "name": "mluise",
+     "profilePicture": {
+      "sourceUrl": "https://ui-avatars.com/api/?name=mluise&background=535961&color=fff&format=png"
+     }
+    },
+    "accessPass": {
+     "id": "prod_jshhxEws1lowZ",
+     "route": "emoney",
+     "title": "Premium Membership"
+    },
+    "company": {
+     "id": "biz_1ZH7VJrbsBzY1D",
+     "route": "emoney",
+     "title": "eMoney Reselling"
+    },
+    "attachments": []
+   },
+   {
+    "id": "rev_3oxUpbb1TnDBHa",
+    "stars": 5,
+    "title": null,
+    "description": "Nice ",
+    "createdAt": 1791979120,
+    "joinedAt": 1789760359,
+    "publishedAt": 1791979121,
+    "paidForProduct": true,
+    "upvotes": 0,
+    "replyCount": 0,
+    "featured": false,
+    "whopReviewed": false,
+    "userAccount": {
+     "id": "user_RIANwTN0BeBeM",
+     "username": "somsgame247",
+     "name": "Somsgame247",
+     "profilePicture": {
+      "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2026-02-19/user_19318735_806fef81-7223-43aa-a774-c0f78de3921e.jpeg"
+     }
+    },
+    "accessPass": {
+     "id": "prod_jshhxEws1lowZ",
+     "route": "emoney",
+     "title": "Premium Membership"
+    },
+    "company": {
+     "id": "biz_1ZH7VJrbsBzY1D",
+     "route": "emoney",
+     "title": "eMoney Reselling"
+    },
+    "attachments": []
+   },
+   {
+    "id": "rev_uZnR6ARktGFawt",
+    "stars": 5,
+    "title": null,
+    "description": "GREAT SITE! LOVE THE GOOD STUFF IT HAS AND THE HELPING FRIENDS ALSO. THANKS GUYS",
+    "createdAt": 1791954594,
+    "joinedAt": 1791387301,
+    "publishedAt": 1791954595,
+    "paidForProduct": false,
+    "upvotes": 0,
+    "replyCount": 0,
+    "featured": false,
+    "whopReviewed": false,
+    "userAccount": {
+     "id": "user_3749Zgv8f5RoQ",
+     "username": "dw67f5",
+     "name": null,
+     "profilePicture": {
+      "sourceUrl": "https://ui-avatars.com/api/?name=dw67f5&background=535961&color=fff&format=png"
+     }
+    },
+    "accessPass": {
+     "id": "prod_V1lznBVc9KpbS",
+     "route": "emoney-accelerator-75",
+     "title": "eMoney Accelerator Program"
+    },
+    "company": {
+     "id": "biz_1ZH7VJrbsBzY1D",
+     "route": "emoney",
+     "title": "eMoney Reselling"
+    },
+    "attachments": []
+   },
+   {
+    "id": "rev_xMWMHODjpLzqx5",
+    "stars": 5,
+    "title": null,
+    "description": "It’s pretty good you get a lot of stuff that you can sell ",
+    "createdAt": 1791936422,
+    "joinedAt": 1791757831,
+    "publishedAt": 1791936423,
+    "paidForProduct": true,
+    "upvotes": 0,
+    "replyCount": 0,
+    "featured": false,
+    "whopReviewed": false,
+    "userAccount": {
+     "id": "user_1EcWQCS5qAygs",
+     "username": "hectorsanjo13",
+     "name": "Hector Cardenas",
+     "profilePicture": {
+      "sourceUrl": "https://ui-avatars.com/api/?name=Hector%20Cardenas&background=535961&color=fff&format=png"
+     }
+    },
+    "accessPass": {
+     "id": "prod_rBr55Hspxof1I",
+     "route": "vip-membership-c1-fa4d",
+     "title": "VIP Membership"
+    },
+    "company": {
+     "id": "biz_1ZH7VJrbsBzY1D",
+     "route": "emoney",
+     "title": "eMoney Reselling"
+    },
+    "attachments": []
+   },
+   {
+    "id": "rev_x9Eu4f45PlC64T",
+    "stars": 5,
+    "title": null,
+    "description": "This discord channel is by far the best way I’ve seen to find incredible deals on all kinds of merchandise. Not only that, but resellers can easily find comparable prices on places like eBay, or other reseller platforms. If you’ve ever thought about finding great discounted items at incredible, low prices, or buying things that you can resell at a profit, it absolutely can’t be beat.",
+    "createdAt": 1791932442,
+    "joinedAt": 1791409870,
+    "publishedAt": 1791932442,
+    "paidForProduct": true,
+    "upvotes": 0,
+    "replyCount": 0,
+    "featured": false,
+    "whopReviewed": false,
+    "userAccount": {
+     "id": "user_zpKeQ59qh1Zbd",
+     "username": "wndrflrobin",
+     "name": "Robin Austin",
+     "profilePicture": {
+      "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2026-01-29/user_13192197_74c65ca1-728f-4164-88c1-4d23ea01fe59.png"
+     }
+    },
+    "accessPass": {
+     "id": "prod_d2veDFvKrtQfd",
+     "route": "elite-clearance-access",
+     "title": "Elite Clearance Access"
+    },
+    "company": {
+     "id": "biz_1ZH7VJrbsBzY1D",
+     "route": "emoney",
+     "title": "eMoney Reselling"
+    },
+    "attachments": []
+   },
+   {
+    "id": "rev_IcEbq68BpCttTN",
+    "stars": 5,
+    "title": null,
+    "description": "Great Discord the only Discord i pay for to make money, try it yaself its worth every penny!.",
+    "createdAt": 1791930551,
+    "joinedAt": 1791220296,
+    "publishedAt": 1791930591,
+    "paidForProduct": true,
+    "upvotes": 0,
+    "replyCount": 0,
+    "featured": false,
+    "whopReviewed": false,
+    "userAccount": {
+     "id": "user_aVM6N0WKWI2p9",
+     "username": "nycjmc",
+     "name": "nycjmc",
+     "profilePicture": {
+      "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2026-10-15/badbd840-2ca3-4dbb-997a-2ccc76f10b2d/image.png"
+     }
+    },
+    "accessPass": {
+     "id": "prod_OqBptSoYw3NYs",
+     "route": "home-depot-pro",
+     "title": "Clearance Pro"
+    },
+    "company": {
+     "id": "biz_1ZH7VJrbsBzY1D",
+     "route": "emoney",
+     "title": "eMoney Reselling"
+    },
+    "attachments": []
+   },
+   {
+    "id": "rev_kElPHhfioVZx7l",
+    "stars": 5,
+    "title": null,
+    "description": "Been enjoying the hustle and bustle ",
+    "createdAt": 1791888909,
+    "joinedAt": 1789957032,
+    "publishedAt": 1791888910,
+    "paidForProduct": true,
+    "upvotes": 0,
+    "replyCount": 0,
+    "featured": false,
+    "whopReviewed": false,
+    "userAccount": {
+     "id": "user_58bIkQIkuOvjq",
+     "username": "isaverdes",
+     "name": "Isa  Verdes",
+     "profilePicture": {
+      "sourceUrl": "https://ui-avatars.com/api/?name=Isa%20%20Verdes&background=535961&color=fff&format=png"
+     }
+    },
+    "accessPass": {
+     "id": "prod_5QwBV9kbTK9H5",
+     "route": "elite-membership-f1-4b0c",
+     "title": "Elite Membership"
+    },
+    "company": {
+     "id": "biz_1ZH7VJrbsBzY1D",
+     "route": "emoney",
+     "title": "eMoney Reselling"
+    },
+    "attachments": []
+   },
+   {
+    "id": "rev_sV1DnyuhMMnNi2",
+    "stars": 5,
+    "title": null,
+    "description": "Love this! …but I inadvertently paid for two premium memberships, so I need to cancel one",
+    "createdAt": 1791868061,
+    "joinedAt": 1791362437,
+    "publishedAt": 1791868071,
+    "paidForProduct": true,
+    "upvotes": 0,
+    "replyCount": 0,
+    "featured": false,
+    "whopReviewed": false,
+    "userAccount": {
+     "id": "user_zpKeQ59qh1Zbd",
+     "username": "wndrflrobin",
+     "name": "Robin Austin",
+     "profilePicture": {
+      "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2026-01-29/user_13192197_74c65ca1-728f-4164-88c1-4d23ea01fe59.png"
+     }
+    },
+    "accessPass": {
+     "id": "prod_jshhxEws1lowZ",
+     "route": "emoney",
+     "title": "Premium Membership"
+    },
+    "company": {
+     "id": "biz_1ZH7VJrbsBzY1D",
+     "route": "emoney",
+     "title": "eMoney Reselling"
+    },
+    "attachments": []
+   },
+   {
+    "id": "rev_HoA5FuNhG0usUy",
+    "stars": 1,
+    "title": null,
+    "description": "I am unhappy with the service provided. The PennAI does not provide any actual penny items.",
+    "createdAt": 1791399278,
+    "joinedAt": 1790354499,
+    "publishedAt": 1791399303,
+    "paidForProduct": true,
+    "upvotes": 0,
+    "replyCount": 0,
+    "featured": false,
+    "whopReviewed": false,
+    "userAccount": {
+     "id": "user_aHoU8WtqvIeB9",
+     "username": "the1phantomx",
+     "name": "Ryan Villeneuve",
+     "profilePicture": {
+      "sourceUrl": "https://ui-avatars.com/api/?name=Ryan%20Villeneuve&background=535961&color=fff&format=png"
+     }
+    },
+    "accessPass": {
+     "id": "prod_rBr55Hspxof1I",
+     "route": "vip-membership-c1-fa4d",
+     "title": "VIP Membership"
+    },
+    "company": {
+     "id": "biz_1ZH7VJrbsBzY1D",
+     "route": "emoney",
+     "title": "eMoney Reselling"
+    },
+    "attachments": []
+   },
+   {
+    "id": "rev_YYFchS6CWKIU0G",
+    "stars": 1,
+    "title": null,
+    "description": "I didn't make a certain amount they promised and they said if you don't then you get a free refund but when I requested one I never got it. I don't recommend these people they just try to make money off you.",
+    "createdAt": 1791303405,
+    "joinedAt": 1788408737,
+    "publishedAt": 1791303636,
+    "paidForProduct": false,
+    "upvotes": 0,
+    "replyCount": 0,
+    "featured": false,
+    "whopReviewed": false,
+    "userAccount": {
+     "id": "user_huPS7ARblrhAa",
+     "username": "alexhalvorsen",
+     "name": "Alex ",
+     "profilePicture": {
+      "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2026-10-03/0a61d32f-9072-483b-95cb-0f6bf02db0d8/image.jpeg"
+     }
+    },
+    "accessPass": {
+     "id": "prod_xZT4rY9vUTYzg",
+     "route": "emoney-free-access",
+     "title": "eMoney Free Access"
+    },
+    "company": {
+     "id": "biz_1ZH7VJrbsBzY1D",
+     "route": "emoney",
+     "title": "eMoney Reselling"
+    },
+    "attachments": []
+   },
+   {
+    "id": "rev_rjsNrZ8z0NKMyP",
+    "stars": 5,
+    "title": null,
+    "description": "Love love ",
+    "createdAt": 1790771169,
+    "joinedAt": 1789842948,
+    "publishedAt": 1790771216,
+    "paidForProduct": true,
+    "upvotes": 0,
+    "replyCount": 0,
+    "featured": false,
+    "whopReviewed": false,
+    "userAccount": {
+     "id": "user_Ry3Y3lXT7Tdam",
+     "username": "joslos",
+     "name": "msjosylopez",
+     "profilePicture": {
+      "sourceUrl": "https://ui-avatars.com/api/?name=msjosylopez&background=535961&color=fff&format=png"
+     }
+    },
+    "accessPass": {
+     "id": "prod_5QwBV9kbTK9H5",
+     "route": "elite-membership-f1-4b0c",
+     "title": "Elite Membership"
+    },
+    "company": {
+     "id": "biz_1ZH7VJrbsBzY1D",
+     "route": "emoney",
+     "title": "eMoney Reselling"
+    },
+    "attachments": []
+   },
+   {
+    "id": "rev_IQQLloHTAHYIO3",
+    "stars": 5,
+    "title": null,
+    "description": "Love this group. ",
+    "createdAt": 1790739483,
+    "joinedAt": 1739842223,
+    "publishedAt": 1790739621,
+    "paidForProduct": false,
+    "upvotes": 0,
+    "replyCount": 0,
+    "featured": false,
+    "whopReviewed": false,
+    "userAccount": {
+     "id": "user_16nTfptI9IUIa",
+     "username": "momo90210",
+     "name": "Morgan Layton",
+     "profilePicture": {
+      "sourceUrl": "https://ui-avatars.com/api/?name=Morgan%20Layton&background=535961&color=fff&format=png"
+     }
+    },
+    "accessPass": {
+     "id": "prod_CzL8TDUzStrx5",
+     "route": "what-you-re-missing-out-on",
+     "title": "eMoney "
+    },
+    "company": {
+     "id": "biz_1ZH7VJrbsBzY1D",
+     "route": "emoney",
+     "title": "eMoney Reselling"
+    },
+    "attachments": []
+   },
+   {
+    "id": "rev_KDUZOP6X5yXgRJ",
+    "stars": 1,
+    "title": null,
+    "description": "I didn’t make any money from this group based on having no time to use any of the resources they have to offer and when I realized that I hadn’t canceled my membership they refuse to refund my money because I didn’t have any results to show ",
+    "createdAt": 1790682453,
+    "joinedAt": 1788029809,
+    "publishedAt": 1790682453,
+    "paidForProduct": true,
+    "upvotes": 0,
+    "replyCount": 0,
+    "featured": false,
+    "whopReviewed": false,
+    "userAccount": {
+     "id": "user_IyvFtR8GZZ8Qy",
+     "username": "bryanthompson",
+     "name": null,
+     "profilePicture": {
+      "sourceUrl": "https://ui-avatars.com/api/?name=bryanthompson&background=535961&color=fff&format=png"
+     }
+    },
+    "accessPass": {
+     "id": "prod_jshhxEws1lowZ",
+     "route": "emoney",
+     "title": "Premium Membership"
+    },
+    "company": {
+     "id": "biz_1ZH7VJrbsBzY1D",
+     "route": "emoney",
+     "title": "eMoney Reselling"
+    },
+    "attachments": []
+   },
+   {
+    "id": "rev_kurBkSzEbAjfaI",
+    "stars": 3,
+    "title": null,
+    "description": "just gitten started can't wate to git in on tsone of these deal n start making fips ta git that cash excited ",
+    "createdAt": 1790654897,
+    "joinedAt": 1790049792,
+    "publishedAt": 1790654898,
+    "paidForProduct": true,
+    "upvotes": 0,
+    "replyCount": 0,
+    "featured": false,
+    "whopReviewed": false,
+    "userAccount": {
+     "id": "user_PrioDjM5QXaFS",
+     "username": "cuzzj",
+     "name": null,
+     "profilePicture": {
+      "sourceUrl": "https://ui-avatars.com/api/?name=cuzzj&background=535961&color=fff&format=png"
+     }
+    },
+    "accessPass": {
+     "id": "prod_OqBptSoYw3NYs",
+     "route": "home-depot-pro",
+     "title": "Clearance Pro"
+    },
+    "company": {
+     "id": "biz_1ZH7VJrbsBzY1D",
+     "route": "emoney",
+     "title": "eMoney Reselling"
+    },
+    "attachments": []
+   },
+   {
+    "id": "rev_rKRdr7q2YGPgvF",
+    "stars": 5,
+    "title": null,
+    "description": "Made money already!!!!",
+    "createdAt": 1790620879,
+    "joinedAt": 1790276905,
+    "publishedAt": 1790620927,
+    "paidForProduct": true,
+    "upvotes": 0,
+    "replyCount": 0,
+    "featured": false,
+    "whopReviewed": false,
+    "userAccount": {
+     "id": "user_OYUnVAAJHzPfu",
+     "username": "jdreseller84",
+     "name": "JDizzle84",
+     "profilePicture": {
+      "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2026-10-06/e49af367-fcc6-4829-b010-75109ae6f4b3/image.jpeg"
+     }
+    },
+    "accessPass": {
+     "id": "prod_jshhxEws1lowZ",
+     "route": "emoney",
+     "title": "Premium Membership"
+    },
+    "company": {
+     "id": "biz_1ZH7VJrbsBzY1D",
+     "route": "emoney",
+     "title": "eMoney Reselling"
+    },
+    "attachments": []
+   },
+   {
+    "id": "rev_EDc2oL7xIGCtiL",
+    "stars": 5,
+    "title": null,
+    "description": "I have already started to absorb some of the information that I have learned so far in this venture. I do still have a long way to GO",
+    "createdAt": 1790497896,
+    "joinedAt": 1790229787,
+    "publishedAt": 1790498019,
+    "paidForProduct": true,
+    "upvotes": 0,
+    "replyCount": 0,
+    "featured": false,
+    "whopReviewed": false,
+    "userAccount": {
+     "id": "user_CpedZBAONfxym",
+     "username": "actualrebecca",
+     "name": "Rebecca Hollowell",
+     "profilePicture": {
+      "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_27281765/image/users/2026-09-22/0f19e4fa-6c62-43bf-9025-8267b1d801b2.jpeg"
+     }
+    },
+    "accessPass": {
+     "id": "prod_d2veDFvKrtQfd",
+     "route": "elite-clearance-access",
+     "title": "Elite Clearance Access"
+    },
+    "company": {
+     "id": "biz_1ZH7VJrbsBzY1D",
+     "route": "emoney",
+     "title": "eMoney Reselling"
+    },
+    "attachments": []
+   },
+   {
+    "id": "rev_kSoEsYEUIrQqJ9",
+    "stars": 5,
+    "title": null,
+    "description": "Money making app, takes you from novice to pro instantly 💪🏽💪🏽",
+    "createdAt": 1790082402,
+    "joinedAt": 1764365648,
+    "publishedAt": 1790082403,
+    "paidForProduct": false,
+    "upvotes": 0,
+    "replyCount": 0,
+    "featured": false,
+    "whopReviewed": false,
+    "userAccount": {
+     "id": "user_rw8aT55dzlPwB",
+     "username": "jerdiaz61",
+     "name": "Jermaine  Diaz",
+     "profilePicture": {
+      "sourceUrl": "https://ui-avatars.com/api/?name=Jermaine%20%20Diaz&background=535961&color=fff&format=png"
+     }
+    },
+    "accessPass": {
+     "id": "prod_xZT4rY9vUTYzg",
+     "route": "emoney-free-access",
+     "title": "eMoney Free Access"
+    },
+    "company": {
+     "id": "biz_1ZH7VJrbsBzY1D",
+     "route": "emoney",
+     "title": "eMoney Reselling"
+    },
+    "attachments": []
+   },
+   {
+    "id": "rev_j1HxatM7683T6c",
+    "stars": 5,
+    "title": null,
+    "description": "great info!!! team is always available when needed ",
+    "createdAt": 1789927706,
+    "joinedAt": 1777606359,
+    "publishedAt": 1789927707,
+    "paidForProduct": false,
+    "upvotes": 0,
+    "replyCount": 0,
+    "featured": false,
+    "whopReviewed": false,
+    "userAccount": {
+     "id": "user_ZbYF3elwZQlHw",
+     "username": "aeustaquios",
+     "name": "Andre Santos",
+     "profilePicture": {
+      "sourceUrl": "https://ui-avatars.com/api/?name=Andre%20Santos&background=535961&color=fff&format=png"
+     }
+    },
+    "accessPass": {
+     "id": "prod_xZT4rY9vUTYzg",
+     "route": "emoney-free-access",
+     "title": "eMoney Free Access"
+    },
+    "company": {
+     "id": "biz_1ZH7VJrbsBzY1D",
+     "route": "emoney",
+     "title": "eMoney Reselling"
+    },
+    "attachments": []
+   },
+   {
+    "id": "rev_NiZ0uqzoH2Ya8A",
+    "stars": 4,
+    "title": null,
+    "description": "Great Discord channel real money information ",
+    "createdAt": 1789690824,
+    "joinedAt": 1789687192,
+    "publishedAt": 1789690824,
+    "paidForProduct": false,
+    "upvotes": 0,
+    "replyCount": 0,
+    "featured": false,
+    "whopReviewed": false,
+    "userAccount": {
+     "id": "user_dX8oDMFzDl8KO",
+     "username": "craigmoney",
+     "name": "cperry8ae7",
+     "profilePicture": {
+      "sourceUrl": "https://ui-avatars.com/api/?name=cperry8ae7&background=535961&color=fff&format=png"
+     }
+    },
+    "accessPass": {
+     "id": "prod_V1lznBVc9KpbS",
+     "route": "emoney-accelerator-75",
+     "title": "eMoney Accelerator Program"
+    },
+    "company": {
+     "id": "biz_1ZH7VJrbsBzY1D",
+     "route": "emoney",
+     "title": "eMoney Reselling"
+    },
+    "attachments": []
+   },
+   {
+    "id": "rev_V6UNtjTv8iZSP7",
+    "stars": 5,
+    "title": null,
+    "description": "Great discord fire deals updates and make u feel welcomed even thoe big platform",
+    "createdAt": 1789572212,
+    "joinedAt": 1789410706,
+    "publishedAt": 1789572213,
+    "paidForProduct": true,
+    "upvotes": 0,
+    "replyCount": 0,
+    "featured": false,
+    "whopReviewed": false,
+    "userAccount": {
+     "id": "user_MgNjcoTXplPQw",
+     "username": "israelr562402",
+     "name": null,
+     "profilePicture": {
+      "sourceUrl": "https://ui-avatars.com/api/?name=israelr562402&background=535961&color=fff&format=png"
+     }
+    },
+    "accessPass": {
+     "id": "prod_jshhxEws1lowZ",
+     "route": "emoney",
+     "title": "Premium Membership"
+    },
+    "company": {
+     "id": "biz_1ZH7VJrbsBzY1D",
+     "route": "emoney",
+     "title": "eMoney Reselling"
+    },
+    "attachments": []
+   },
+   {
+    "id": "rev_BibFGrOzXgoRUf",
+    "stars": 5,
+    "title": null,
+    "description": "So far so good. Live the platform. ",
+    "createdAt": 1789570601,
+    "joinedAt": 1789322605,
+    "publishedAt": 1789570602,
+    "paidForProduct": true,
+    "upvotes": 0,
+    "replyCount": 0,
+    "featured": false,
+    "whopReviewed": false,
+    "userAccount": {
+     "id": "user_FEEEJxvMuuqCr",
+     "username": "johnnyck3",
+     "name": null,
+     "profilePicture": {
+      "sourceUrl": "https://ui-avatars.com/api/?name=johnnyck3&background=535961&color=fff&format=png"
+     }
+    },
+    "accessPass": {
+     "id": "prod_jshhxEws1lowZ",
+     "route": "emoney",
+     "title": "Premium Membership"
+    },
+    "company": {
+     "id": "biz_1ZH7VJrbsBzY1D",
+     "route": "emoney",
+     "title": "eMoney Reselling"
+    },
+    "attachments": []
+   },
+   {
+    "id": "rev_QmKcX8fLkLR2Av",
+    "stars": 4,
+    "title": null,
+    "description": "its good",
+    "createdAt": 1789564017,
+    "joinedAt": 1747787861,
+    "publishedAt": 1789564017,
+    "paidForProduct": false,
+    "upvotes": 0,
+    "replyCount": 0,
+    "featured": false,
+    "whopReviewed": false,
+    "userAccount": {
+     "id": "user_gXK9qW9PzMl2f",
+     "username": "eyumihretu",
+     "name": "eyu",
+     "profilePicture": {
+      "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-05-05/user_13838989_887328c4-da38-4145-89d9-da4900081dc8.jpeg"
+     }
+    },
+    "accessPass": {
+     "id": "prod_I1uv8xELXmQpp",
+     "route": "amazon-clipping",
+     "title": "AMAZON CLIPPING"
+    },
+    "company": {
+     "id": "biz_1ZH7VJrbsBzY1D",
+     "route": "emoney",
+     "title": "eMoney Reselling"
+    },
+    "attachments": []
+   },
+   {
+    "id": "rev_01Scje3imtJSmz",
+    "stars": 5,
+    "title": null,
+    "description": "I started out slow and then I have been getting the hang of it now but it has been great and the deals you get to sale and make money in all other kinds of ways too!!",
+    "createdAt": 1789539245,
+    "joinedAt": 1783558766,
+    "publishedAt": 1789539245,
+    "paidForProduct": true,
+    "upvotes": 0,
+    "replyCount": 0,
+    "featured": false,
+    "whopReviewed": false,
+    "userAccount": {
+     "id": "user_unwfuIFDWjbFA",
+     "username": "eyecandyowl",
+     "name": "elizabethmoseley",
+     "profilePicture": {
+      "sourceUrl": "https://ui-avatars.com/api/?name=elizabethmoseley&background=535961&color=fff&format=png"
+     }
+    },
+    "accessPass": {
+     "id": "prod_rBr55Hspxof1I",
+     "route": "vip-membership-c1-fa4d",
+     "title": "VIP Membership"
+    },
+    "company": {
+     "id": "biz_1ZH7VJrbsBzY1D",
+     "route": "emoney",
+     "title": "eMoney Reselling"
+    },
+    "attachments": []
+   },
+   {
+    "id": "rev_bftTvdY5srJjTm",
+    "stars": 5,
+    "title": null,
+    "description": "Definitely worth the money have been able to score on some pretty hard to find items",
+    "createdAt": 1789519446,
+    "joinedAt": 1784398559,
+    "publishedAt": 1789519447,
+    "paidForProduct": true,
+    "upvotes": 0,
+    "replyCount": 0,
+    "featured": false,
+    "whopReviewed": false,
+    "userAccount": {
+     "id": "user_cihrcAqyVYlO4",
+     "username": "knicks12345",
+     "name": "Shaun",
+     "profilePicture": {
+      "sourceUrl": "https://ui-avatars.com/api/?name=Shaun&background=535961&color=fff&format=png"
+     }
+    },
+    "accessPass": {
+     "id": "prod_jshhxEws1lowZ",
+     "route": "emoney",
+     "title": "Premium Membership"
+    },
+    "company": {
+     "id": "biz_1ZH7VJrbsBzY1D",
+     "route": "emoney",
+     "title": "eMoney Reselling"
+    },
+    "attachments": []
+   },
+   {
+    "id": "rev_3IWMRTKLlKsBix",
+    "stars": 5,
+    "title": null,
+    "description": "Good leads",
+    "createdAt": 1789449971,
+    "joinedAt": 1788370642,
+    "publishedAt": 1789449996,
+    "paidForProduct": true,
+    "upvotes": 0,
+    "replyCount": 0,
+    "featured": false,
+    "whopReviewed": false,
+    "userAccount": {
+     "id": "user_OYUnVAAJHzPfu",
+     "username": "jdreseller84",
+     "name": "JDizzle84",
+     "profilePicture": {
+      "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2026-10-06/e49af367-fcc6-4829-b010-75109ae6f4b3/image.jpeg"
+     }
+    },
+    "accessPass": {
+     "id": "prod_rBr55Hspxof1I",
+     "route": "vip-membership-c1-fa4d",
+     "title": "VIP Membership"
+    },
+    "company": {
+     "id": "biz_1ZH7VJrbsBzY1D",
+     "route": "emoney",
+     "title": "eMoney Reselling"
+    },
+    "attachments": []
+   },
+   {
+    "id": "rev_Xwo1nf9sZSa1hp",
+    "stars": 1,
+    "title": null,
+    "description": "I needed help with accessing the penny items and the other clearance stuff but I have not gotten any help from that so I am in the middle of 1 or 2 star so I put 1 for now",
+    "createdAt": 1789439867,
+    "joinedAt": 1787179306,
+    "publishedAt": 1789439867,
+    "paidForProduct": true,
+    "upvotes": 0,
+    "replyCount": 0,
+    "featured": false,
+    "whopReviewed": false,
+    "userAccount": {
+     "id": "user_Hv9qM7YiIGFpt",
+     "username": "ranaredin",
+     "name": null,
+     "profilePicture": {
+      "sourceUrl": "https://ui-avatars.com/api/?name=ranaredin&background=535961&color=fff&format=png"
+     }
+    },
+    "accessPass": {
+     "id": "prod_rBr55Hspxof1I",
+     "route": "vip-membership-c1-fa4d",
+     "title": "VIP Membership"
+    },
+    "company": {
+     "id": "biz_1ZH7VJrbsBzY1D",
+     "route": "emoney",
+     "title": "eMoney Reselling"
+    },
+    "attachments": []
+   },
+   {
+    "id": "rev_eza8RYriXmaXhl",
+    "stars": 5,
+    "title": null,
+    "description": "This place amazing ",
+    "createdAt": 1789128757,
+    "joinedAt": 1786939771,
+    "publishedAt": 1789128758,
+    "paidForProduct": true,
+    "upvotes": 0,
+    "replyCount": 0,
+    "featured": false,
+    "whopReviewed": false,
+    "userAccount": {
+     "id": "user_NgNub4FhezRFY",
+     "username": "slowocarina",
+     "name": "Georgette  Abdelmalak",
+     "profilePicture": {
+      "sourceUrl": "https://ui-avatars.com/api/?name=Georgette%20%20Abdelmalak&background=535961&color=fff&format=png"
+     }
+    },
+    "accessPass": {
+     "id": "prod_5QwBV9kbTK9H5",
+     "route": "elite-membership-f1-4b0c",
+     "title": "Elite Membership"
+    },
+    "company": {
+     "id": "biz_1ZH7VJrbsBzY1D",
+     "route": "emoney",
+     "title": "eMoney Reselling"
+    },
+    "attachments": []
+   },
+   {
+    "id": "rev_h9A39bOKvI6l9V",
+    "stars": 5,
+    "title": null,
+    "description": "There are some really great finds that are offered, thank you.",
+    "createdAt": 1789125385,
+    "joinedAt": 1788706402,
+    "publishedAt": 1789125386,
+    "paidForProduct": true,
+    "upvotes": 0,
+    "replyCount": 0,
+    "featured": false,
+    "whopReviewed": false,
+    "userAccount": {
+     "id": "user_NInFTu5y69Oxr",
+     "username": "alikemanor",
+     "name": null,
+     "profilePicture": {
+      "sourceUrl": "https://ui-avatars.com/api/?name=alikemanor&background=535961&color=fff&format=png"
+     }
+    },
+    "accessPass": {
+     "id": "prod_OqBptSoYw3NYs",
+     "route": "home-depot-pro",
+     "title": "Clearance Pro"
+    },
+    "company": {
+     "id": "biz_1ZH7VJrbsBzY1D",
+     "route": "emoney",
+     "title": "eMoney Reselling"
+    },
+    "attachments": []
+   },
+   {
+    "id": "rev_QpqzZmQQUuUDdW",
+    "stars": 1,
+    "title": null,
+    "description": "Not helpful, they just keep trying to upsell you into paying more",
+    "createdAt": 1789083177,
+    "joinedAt": 1770747956,
+    "publishedAt": 1789083190,
+    "paidForProduct": true,
+    "upvotes": 0,
+    "replyCount": 0,
+    "featured": false,
+    "whopReviewed": false,
+    "userAccount": {
+     "id": "user_o3bqY1pnHv0aF",
+     "username": "userb7a02573252",
+     "name": null,
+     "profilePicture": {
+      "sourceUrl": "https://ui-avatars.com/api/?name=userb7a02573252&background=535961&color=fff&format=png"
+     }
+    },
+    "accessPass": {
+     "id": "prod_rBr55Hspxof1I",
+     "route": "vip-membership-c1-fa4d",
+     "title": "VIP Membership"
+    },
+    "company": {
+     "id": "biz_1ZH7VJrbsBzY1D",
+     "route": "emoney",
+     "title": "eMoney Reselling"
+    },
+    "attachments": []
+   },
+   {
+    "id": "rev_XKnXODJjmZmiBU",
+    "stars": 5,
+    "title": null,
+    "description": "Great I love there extra services too like Amazon",
+    "createdAt": 1788907097,
+    "joinedAt": 1783708168,
+    "publishedAt": 1788907098,
+    "paidForProduct": true,
+    "upvotes": 0,
+    "replyCount": 0,
+    "featured": false,
+    "whopReviewed": false,
+    "userAccount": {
+     "id": "user_mb47784rRVnGL",
+     "username": "bijg",
+     "name": "Bg",
+     "profilePicture": {
+      "sourceUrl": "https://ui-avatars.com/api/?name=Bg&background=535961&color=fff&format=png"
+     }
+    },
+    "accessPass": {
+     "id": "prod_jshhxEws1lowZ",
+     "route": "emoney",
+     "title": "Premium Membership"
+    },
+    "company": {
+     "id": "biz_1ZH7VJrbsBzY1D",
+     "route": "emoney",
+     "title": "eMoney Reselling"
+    },
+    "attachments": []
+   },
+   {
+    "id": "rev_ldsKV4Rz2JDwFC",
+    "stars": 5,
+    "title": null,
+    "description": "Good deals to be found, just have to look!",
+    "createdAt": 1788887111,
+    "joinedAt": 1787604078,
+    "publishedAt": 1788887112,
+    "paidForProduct": false,
+    "upvotes": 0,
+    "replyCount": 0,
+    "featured": false,
+    "whopReviewed": false,
+    "userAccount": {
+     "id": "user_fvANP5xYphpfQ",
+     "username": "watchguy17",
+     "name": "Robert  Allen Dalton",
+     "profilePicture": {
+      "sourceUrl": "https://ui-avatars.com/api/?name=Robert%20%20Allen%20Dalton&background=535961&color=fff&format=png"
+     }
+    },
+    "accessPass": {
+     "id": "prod_5QwBV9kbTK9H5",
+     "route": "elite-membership-f1-4b0c",
+     "title": "Elite Membership"
+    },
+    "company": {
+     "id": "biz_1ZH7VJrbsBzY1D",
+     "route": "emoney",
+     "title": "eMoney Reselling"
+    },
+    "attachments": []
+   },
+   {
+    "id": "rev_b4znh0sTG3RA7J",
+    "stars": 5,
+    "title": null,
+    "description": "The eMoney community is very involved, helpful and driven to help you make money.  Honestly, the mount of information that comes at you any given day cane be overwhelming. Started out wanting to pursue the clearance reselling, but that didn't pan out for my area. Then I saw some limited edition online sale items suggested and finally was able to make some money. You can earn your subscription fees back with reselling and clipping! The team is always available to help and often offer more creative ways to help you earn.  ",
+    "createdAt": 1788886378,
+    "joinedAt": 1779331496,
+    "publishedAt": 1788886379,
+    "paidForProduct": true,
+    "upvotes": 0,
+    "replyCount": 0,
+    "featured": false,
+    "whopReviewed": false,
+    "userAccount": {
+     "id": "user_Lm1rZOmx0SoA3",
+     "username": "puresending",
+     "name": null,
+     "profilePicture": {
+      "sourceUrl": "https://ui-avatars.com/api/?name=puresending&background=535961&color=fff&format=png"
+     }
+    },
+    "accessPass": {
+     "id": "prod_jshhxEws1lowZ",
+     "route": "emoney",
+     "title": "Premium Membership"
+    },
+    "company": {
+     "id": "biz_1ZH7VJrbsBzY1D",
+     "route": "emoney",
+     "title": "eMoney Reselling"
+    },
+    "attachments": []
+   },
+   {
+    "id": "rev_3LncJS8Mu8cUC1",
+    "stars": 5,
+    "title": null,
+    "description": "finding some good stuff ",
+    "createdAt": 1788854392,
+    "joinedAt": 1788287120,
+    "publishedAt": 1788854394,
+    "paidForProduct": true,
+    "upvotes": 0,
+    "replyCount": 0,
+    "featured": false,
+    "whopReviewed": false,
+    "userAccount": {
+     "id": "user_kZpG2UAKfTV8G",
+     "username": "navalmodesty",
+     "name": null,
+     "profilePicture": {
+      "sourceUrl": "https://ui-avatars.com/api/?name=navalmodesty&background=535961&color=fff&format=png"
+     }
+    },
+    "accessPass": {
+     "id": "prod_rBr55Hspxof1I",
+     "route": "vip-membership-c1-fa4d",
+     "title": "VIP Membership"
+    },
+    "company": {
+     "id": "biz_1ZH7VJrbsBzY1D",
+     "route": "emoney",
+     "title": "eMoney Reselling"
+    },
+    "attachments": []
+   },
+   {
+    "id": "rev_u0bGEe46AUrHlL",
+    "stars": 1,
+    "title": null,
+    "description": "The discord is a mess and the customer service trying to explain the mess is a mess. Absolute disaster ",
+    "createdAt": 1788816962,
+    "joinedAt": 1781197978,
+    "publishedAt": 1788816965,
+    "paidForProduct": true,
+    "upvotes": 0,
+    "replyCount": 0,
+    "featured": false,
+    "whopReviewed": false,
+    "userAccount": {
+     "id": "user_ja6nKz8hwYjTw",
+     "username": "sincityresells",
+     "name": "R.J. ",
+     "profilePicture": {
+      "sourceUrl": "https://ui-avatars.com/api/?name=R.J.%20&background=535961&color=fff&format=png"
+     }
+    },
+    "accessPass": {
+     "id": "prod_jshhxEws1lowZ",
+     "route": "emoney",
+     "title": "Premium Membership"
+    },
+    "company": {
+     "id": "biz_1ZH7VJrbsBzY1D",
+     "route": "emoney",
+     "title": "eMoney Reselling"
+    },
+    "attachments": []
+   },
+   {
+    "id": "rev_3zb6qJCCGlUq2A",
+    "stars": 5,
+    "title": null,
+    "description": "Best ",
+    "createdAt": 1788541015,
+    "joinedAt": 1763405571,
+    "publishedAt": 1788541016,
+    "paidForProduct": false,
+    "upvotes": 0,
+    "replyCount": 0,
+    "featured": false,
+    "whopReviewed": false,
+    "userAccount": {
+     "id": "user_BQjeyhKSrpeIr",
+     "username": "ashtonburbank",
+     "name": "Ashton bur",
+     "profilePicture": {
+      "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_17693551/image/users/2026-03-02/268a8dd4-8d0b-41f8-b862-8f01316e55ba.png"
+     }
+    },
+    "accessPass": {
+     "id": "prod_xZT4rY9vUTYzg",
+     "route": "emoney-free-access",
+     "title": "eMoney Free Access"
+    },
+    "company": {
+     "id": "biz_1ZH7VJrbsBzY1D",
+     "route": "emoney",
+     "title": "eMoney Reselling"
+    },
+    "attachments": []
+   }
+  ]
+ }
+}

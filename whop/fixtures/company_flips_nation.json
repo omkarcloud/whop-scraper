@@ -1,0 +1,515 @@
+{
+ "id": "biz_eYoV4GW80c495B",
+ "title": "Flips Nation",
+ "route": "robsreview",
+ "verified": false,
+ "creatorPitch": "I’ve dedicated my expertise to guiding new Amazon sellers. By offering structured courses and personal support, I help you navigate the complexities of Amazon FBA and achieve success seamlessly.",
+ "businessDescription": null,
+ "businessType": "education",
+ "industryType": "amazon_fba_business_training",
+ "targetAudience": null,
+ "memberCount": 338,
+ "publishedReviewsCount": 11,
+ "reviewsAverage": 5.0,
+ "reviewCounts": [
+  11,
+  0,
+  0,
+  0,
+  0
+ ],
+ "cachedTotalViewsCount": 4877,
+ "usdGmv30Days": null,
+ "totalEarningsWithTransfersInUsd": null,
+ "createdAt": 1665018594,
+ "updatedAt": 1793322605,
+ "launched": true,
+ "hasGlobalAffiliatesEnabled": true,
+ "affiliateApplicationRequired": false,
+ "purchasesDisabled": null,
+ "disabledReason": null,
+ "features": [
+  "support_tickets",
+  "stablecoin_rails"
+ ],
+ "hubRoute": "biz_eYoV4GW80c495B",
+ "logo": {
+  "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-12-01/user_55280_0909b79c-d279-4caf-b556-23d8324afb24.png"
+ },
+ "bannerImage": {
+  "sourceUrl": "https://assets-2-prod.whop.com/public/bots/header_images/9036.original."
+ },
+ "ownerUser": {
+  "id": "user_lNmRfQ3CbAazB",
+  "username": "flipsnation",
+  "name": "lakersnation",
+  "bio": "",
+  "city": "Allen",
+  "country": "US",
+  "createdAt": 1638969654,
+  "followersCount": 8,
+  "verifiedAt": null,
+  "profilePicture": {
+   "sourceUrl": "https://ui-avatars.com/api/?name=lakersnation&background=535961&color=fff&format=png"
+  }
+ },
+ "socialLinks": [
+  {
+   "website": "instagram",
+   "url": "flipsnation24",
+   "title": null
+  },
+  {
+   "website": "x",
+   "url": "FlipsNationAMZ",
+   "title": null
+  },
+  {
+   "website": "youtube",
+   "url": "https://www.youtube.com/@flipsnation24",
+   "title": null
+  }
+ ],
+ "publicForumExperience": {
+  "id": "exp_Qi7fz0vCzTr8Cs",
+  "name": "Public forum"
+ },
+ "primaryExperience": null,
+ "storePageConfig": {
+  "accentColor": null,
+  "layout": null
+ },
+ "publicTeamMembers": {
+  "totalCount": 3,
+  "nodes": [
+   {
+    "id": "ausr_448Uyeu9Da4vi",
+    "role": "owner",
+    "user": {
+     "id": "user_lNmRfQ3CbAazB",
+     "username": "flipsnation",
+     "name": "lakersnation",
+     "followersCount": 8,
+     "verifiedAt": null,
+     "profilePicture": {
+      "sourceUrl": "https://ui-avatars.com/api/?name=lakersnation&background=535961&color=fff&format=png"
+     }
+    }
+   },
+   {
+    "id": "ausr_8EtF5FU7QeMmI",
+    "role": "moderator",
+    "user": {
+     "id": "user_wCUq3NQF1dAuM",
+     "username": "rinmakkyupal",
+     "name": "Rin Makku",
+     "followersCount": 0,
+     "verifiedAt": null,
+     "profilePicture": {
+      "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_2036313/image/users/2026-05-19/7bdfba17-374b-4eff-86a3-b4035db95afc.jpeg"
+     }
+    }
+   },
+   {
+    "id": "ausr_VrjojqRIsb08G",
+    "role": "admin",
+    "user": {
+     "id": "user_1lM06AmSTJLCM",
+     "username": "internationalwingman2686",
+     "name": "Kate Jed Crisostomo",
+     "followersCount": 0,
+     "verifiedAt": null,
+     "profilePicture": {
+      "sourceUrl": "https://ui-avatars.com/api/?name=Kate%20Jed%20Crisostomo&background=535961&color=fff&format=png"
+     }
+    }
+   }
+  ]
+ },
+ "visibleAccessPassesV2": [
+  {
+   "id": "pass_F8vWKiJ2ZDrSA",
+   "title": "Flips Nation Leads",
+   "route": "flips-nation-leads-monthly",
+   "headline": "Exclusive Leads for Amazon FBA Success",
+   "shortenedDescription": "Access 60 exclusive, profitable leads monthly to boost your Amazon FBA business. Enjoy beginner-friendly support and maintain high ROI with our small group strategy.",
+   "accessPassType": "regular",
+   "businessType": "education",
+   "industryType": "amazon_fba_business_training",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "whopRanking": null,
+   "activeUsersCount": 0,
+   "memberCount": 0,
+   "publishedReviewsCount": 11,
+   "reviewsAverage": 5.0,
+   "usdGmv": 0,
+   "last24HoursGmv": 0.0,
+   "hasFreeAvailablePlan": false,
+   "hasPaidAvailablePlan": false,
+   "globalAffiliatePercentage": 30.0,
+   "createdAt": 1665631087,
+   "discoverableAt": 1728329611,
+   "logo": null,
+   "images": [
+    {
+     "url": "https://assets-2-prod.whop.com/public/images/images/41485.original.png"
+    }
+   ],
+   "company": {
+    "id": "biz_eYoV4GW80c495B",
+    "route": "robsreview",
+    "title": "Flips Nation",
+    "verified": false
+   },
+   "defaultPlan": {
+    "id": "plan_JDYyfclGsKnjx",
+    "formattedPrice": "$99.00 / month",
+    "formattedPeriodV2": "/ month",
+    "rawInitialPrice": 0.0,
+    "rawRenewalPrice": 99.0,
+    "baseCurrency": "usd",
+    "planType": "renewal",
+    "billingPeriod": 30,
+    "releaseMethod": "buy_now",
+    "free": false,
+    "trialPeriodDays": 3
+   },
+   "visiblePlansCount": 1
+  },
+  {
+   "id": "pass_kJ0z3LEFnw9fV",
+   "title": "Flips Nation Leads",
+   "route": "group-leads-list",
+   "headline": "Exclusive Amazon Leads for Growth",
+   "shortenedDescription": "Access exclusive, high-quality Amazon leads 3 times a week. Enhance your business with 60 unique monthly leads, beginner-friendly support, and high ROI.",
+   "accessPassType": "regular",
+   "businessType": "education",
+   "industryType": "amazon_fba_business_training",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "whopRanking": null,
+   "activeUsersCount": 0,
+   "memberCount": 0,
+   "publishedReviewsCount": 11,
+   "reviewsAverage": 5.0,
+   "usdGmv": 0,
+   "last24HoursGmv": 0.0,
+   "hasFreeAvailablePlan": false,
+   "hasPaidAvailablePlan": true,
+   "globalAffiliatePercentage": 30.0,
+   "createdAt": 1665969110,
+   "discoverableAt": 1728329611,
+   "logo": null,
+   "images": [
+    {
+     "url": "https://assets-2-prod.whop.com/public/images/images/41485.original.png"
+    }
+   ],
+   "company": {
+    "id": "biz_eYoV4GW80c495B",
+    "route": "robsreview",
+    "title": "Flips Nation",
+    "verified": false
+   },
+   "defaultPlan": {
+    "id": "plan_1qn3wF6tE6N4k",
+    "formattedPrice": "$400.00 / month",
+    "formattedPeriodV2": "/ month",
+    "rawInitialPrice": 0.0,
+    "rawRenewalPrice": 400.0,
+    "baseCurrency": "usd",
+    "planType": "renewal",
+    "billingPeriod": 30,
+    "releaseMethod": "buy_now",
+    "free": false,
+    "trialPeriodDays": null
+   },
+   "visiblePlansCount": 1
+  },
+  {
+   "id": "pass_cLV3fP12sw28G",
+   "title": "Flips Nations Leads (Weekly)",
+   "route": "flips-nations-leads-weekly",
+   "headline": null,
+   "shortenedDescription": null,
+   "accessPassType": "regular",
+   "businessType": "education",
+   "industryType": "amazon_fba_business_training",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "whopRanking": null,
+   "activeUsersCount": 0,
+   "memberCount": 0,
+   "publishedReviewsCount": 11,
+   "reviewsAverage": 5.0,
+   "usdGmv": 0,
+   "last24HoursGmv": 0.0,
+   "hasFreeAvailablePlan": false,
+   "hasPaidAvailablePlan": true,
+   "globalAffiliatePercentage": 30.0,
+   "createdAt": 1666222545,
+   "discoverableAt": 1728329611,
+   "logo": null,
+   "images": [
+    {
+     "url": "https://assets-2-prod.whop.com/public/images/images/41485.original.png"
+    }
+   ],
+   "company": {
+    "id": "biz_eYoV4GW80c495B",
+    "route": "robsreview",
+    "title": "Flips Nation",
+    "verified": false
+   },
+   "defaultPlan": {
+    "id": "plan_q54lTIygJHEdK",
+    "formattedPrice": "$49.00 / week",
+    "formattedPeriodV2": "/ week",
+    "rawInitialPrice": 0.0,
+    "rawRenewalPrice": 49.0,
+    "baseCurrency": "usd",
+    "planType": "renewal",
+    "billingPeriod": 7,
+    "releaseMethod": "buy_now",
+    "free": false,
+    "trialPeriodDays": null
+   },
+   "visiblePlansCount": 1
+  },
+  {
+   "id": "pass_N6620TVSvmTrs",
+   "title": "UGC Video for Brand",
+   "route": "robsreview",
+   "headline": "Create a UGC Video for your Brand",
+   "shortenedDescription": "4K Videos by Canon EOS Mark II Camera\nAmazon Influencer Videos\nTikTok Shop Affiliate Videos\nProduct Demo and How-To’s\nProduct Hauls and Reviews\nHIGH Conversion Videos (15% CR)\n",
+   "accessPassType": "regular",
+   "businessType": "education",
+   "industryType": "amazon_fba_business_training",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "whopRanking": null,
+   "activeUsersCount": 2,
+   "memberCount": 2,
+   "publishedReviewsCount": 11,
+   "reviewsAverage": 5.0,
+   "usdGmv": 0,
+   "last24HoursGmv": 0.0,
+   "hasFreeAvailablePlan": false,
+   "hasPaidAvailablePlan": true,
+   "globalAffiliatePercentage": 30.0,
+   "createdAt": 1673846148,
+   "discoverableAt": 1728329611,
+   "logo": null,
+   "images": [
+    {
+     "url": "https://assets-2-prod.whop.com/public/uploads/2024-12-01/user_55280_4cae1b53-f359-4fb5-ac1a-1d8c39985f6a.jpeg"
+    }
+   ],
+   "company": {
+    "id": "biz_eYoV4GW80c495B",
+    "route": "robsreview",
+    "title": "Flips Nation",
+    "verified": false
+   },
+   "defaultPlan": {
+    "id": "plan_09YdrCBlXSSgl",
+    "formattedPrice": "$49.00",
+    "formattedPeriodV2": "one-time purchase",
+    "rawInitialPrice": 49.0,
+    "rawRenewalPrice": 0.0,
+    "baseCurrency": "usd",
+    "planType": "one_time",
+    "billingPeriod": null,
+    "releaseMethod": "buy_now",
+    "free": false,
+    "trialPeriodDays": null
+   },
+   "visiblePlansCount": 1
+  },
+  {
+   "id": "prod_E6YPoWnxRGMNu",
+   "title": "Flips Nation FBA Course",
+   "route": "flips-nation",
+   "headline": "Master Amazon FBA with Flips Nation",
+   "shortenedDescription": "Join Flips Nation for Amazon FBA success with comprehensive guidance on account setup, profitable leads, and ongoing support.",
+   "accessPassType": "regular",
+   "businessType": "education",
+   "industryType": "amazon_fba_business_training",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "whopRanking": null,
+   "activeUsersCount": 329,
+   "memberCount": 329,
+   "publishedReviewsCount": 11,
+   "reviewsAverage": 5.0,
+   "usdGmv": 0,
+   "last24HoursGmv": 0.0,
+   "hasFreeAvailablePlan": true,
+   "hasPaidAvailablePlan": false,
+   "globalAffiliatePercentage": 30.0,
+   "createdAt": 1698122823,
+   "discoverableAt": 1728329611,
+   "logo": null,
+   "images": [
+    {
+     "url": "https://assets-2-prod.whop.com/public/images/images/41485.original.png"
+    }
+   ],
+   "company": {
+    "id": "biz_eYoV4GW80c495B",
+    "route": "robsreview",
+    "title": "Flips Nation",
+    "verified": false
+   },
+   "defaultPlan": {
+    "id": "plan_CdQ0u6TLJU9wy",
+    "formattedPrice": "Free",
+    "formattedPeriodV2": "one-time purchase",
+    "rawInitialPrice": 0.0,
+    "rawRenewalPrice": 0.0,
+    "baseCurrency": "usd",
+    "planType": "one_time",
+    "billingPeriod": null,
+    "releaseMethod": "buy_now",
+    "free": true,
+    "trialPeriodDays": null
+   },
+   "visiblePlansCount": 1
+  }
+ ],
+ "experienceList": {
+  "experiences": [
+   {
+    "id": "exp_Qi7fz0vCzTr8Cs",
+    "name": "Public forum",
+    "description": null,
+    "isPublic": true,
+    "userCount": 3,
+    "app": {
+     "id": "app_dYfm2IdXhDMquv",
+     "name": "Forums"
+    },
+    "accessPasses": []
+   },
+   {
+    "id": "exp_194HfFWNmg6UU0",
+    "name": "Flips Nation Free Amazon FBA Course ",
+    "description": "Learn Amazon FBA essentials from account setup to profitable lead finding.",
+    "isPublic": false,
+    "userCount": 333,
+    "app": {
+     "id": "app_0vPZThfBpAwLo",
+     "name": "Courses"
+    },
+    "accessPasses": [
+     {
+      "id": "pass_N6620TVSvmTrs",
+      "route": "robsreview",
+      "title": "UGC Video for Brand"
+     },
+     {
+      "id": "prod_E6YPoWnxRGMNu",
+      "route": "flips-nation",
+      "title": "Flips Nation FBA Course"
+     }
+    ]
+   },
+   {
+    "id": "exp_39x343uHbWaYgf",
+    "name": "Free Chat",
+    "description": "Engage and connect with fellow members in our community chat.",
+    "isPublic": false,
+    "userCount": 331,
+    "app": {
+     "id": "app_xml5hbizmZPgUT",
+     "name": "Chat"
+    },
+    "accessPasses": [
+     {
+      "id": "prod_E6YPoWnxRGMNu",
+      "route": "flips-nation",
+      "title": "Flips Nation FBA Course"
+     }
+    ]
+   },
+   {
+    "id": "exp_M3XPfDxXT5bvZL",
+    "name": "Free Prizes",
+    "description": "Spin the wheel for a chance to win exciting prizes from Whop.",
+    "isPublic": false,
+    "userCount": 331,
+    "app": {
+     "id": "app_LAbg9HsFnrwX5f",
+     "name": "Whop Wheel"
+    },
+    "accessPasses": [
+     {
+      "id": "prod_E6YPoWnxRGMNu",
+      "route": "flips-nation",
+      "title": "Flips Nation FBA Course"
+     }
+    ]
+   },
+   {
+    "id": "exp_YXDPnGnEuAw8Y7",
+    "name": "Leads Weekly",
+    "description": null,
+    "isPublic": false,
+    "userCount": 3,
+    "app": {
+     "id": "app_sWtSR8DZsEGryg",
+     "name": "Discord"
+    },
+    "accessPasses": [
+     {
+      "id": "pass_cLV3fP12sw28G",
+      "route": "flips-nations-leads-weekly",
+      "title": "Flips Nations Leads (Weekly)"
+     }
+    ]
+   },
+   {
+    "id": "exp_oD9mkcFiacoR7B",
+    "name": "FBA OA/RA",
+    "description": "Gain exclusive access to 60 high-quality Amazon leads monthly on Discord.",
+    "isPublic": false,
+    "userCount": 333,
+    "app": {
+     "id": "app_sWtSR8DZsEGryg",
+     "name": "Discord"
+    },
+    "accessPasses": [
+     {
+      "id": "pass_kJ0z3LEFnw9fV",
+      "route": "group-leads-list",
+      "title": "Flips Nation Leads"
+     },
+     {
+      "id": "prod_E6YPoWnxRGMNu",
+      "route": "flips-nation",
+      "title": "Flips Nation FBA Course"
+     }
+    ]
+   },
+   {
+    "id": "exp_cd1UmlhNHhAuhQ",
+    "name": "Leads Red",
+    "description": "Access exclusive, high-quality leads in a private Discord group.",
+    "isPublic": false,
+    "userCount": 3,
+    "app": {
+     "id": "app_sWtSR8DZsEGryg",
+     "name": "Discord"
+    },
+    "accessPasses": [
+     {
+      "id": "pass_F8vWKiJ2ZDrSA",
+      "route": "flips-nation-leads-monthly",
+      "title": "Flips Nation Leads"
+     }
+    ]
+   }
+  ]
+ }
+}

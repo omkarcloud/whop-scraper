@@ -1,0 +1,1059 @@
+{
+ "totalCount": 74,
+ "pageInfo": {
+  "hasNextPage": true,
+  "endCursor": "NTA"
+ },
+ "nodes": [
+  {
+   "id": "biz_Y7Xui6TtEoN3YJ",
+   "title": "WhopX",
+   "route": "whopx",
+   "verified": true,
+   "creatorPitch": "A private network for Whop entrepreneurs.",
+   "businessType": "education",
+   "industryType": "mastermind_groups",
+   "memberCount": 11301,
+   "publishedReviewsCount": 31,
+   "reviewsAverage": 4.97,
+   "createdAt": 1780668205,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_6465932/image/bots/2026-06-09/91374b4e-42d2-4ba9-9e00-69380cd5c74d.png"
+   },
+   "ownerUser": {
+    "id": "user_TtyNMpaYmszSh",
+    "username": "zebra",
+    "name": "Jorge"
+   }
+  },
+  {
+   "id": "biz_CAKgtQ81vog69r",
+   "title": "Skinramp",
+   "route": "skinramp",
+   "verified": true,
+   "creatorPitch": "Marketplace to list and buy gaming skins. Reach active buyers and start selling today.",
+   "businessType": "platform",
+   "industryType": null,
+   "memberCount": 0,
+   "publishedReviewsCount": 0,
+   "reviewsAverage": null,
+   "createdAt": 1760621759,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_18216767/image/bots/2025-11-02/185408c1-b0e0-4f1c-b8c5-f60b1369cc8b.png"
+   },
+   "ownerUser": {
+    "id": "user_aFenoe24m01FM",
+    "username": "skinramp",
+    "name": "Skinramp"
+   }
+  },
+  {
+   "id": "biz_eajAvSEIQ07cBM",
+   "title": "Icybox",
+   "route": "icyboxapp",
+   "verified": true,
+   "creatorPitch": "Open digital boxes to reveal luxury watches from Rolex, Patek Philippe, Audemars Piguet & more. Keep it and ship it, or sell it back instantly. \n\nDownload on the App Store to get started (US only): https://icybox.onelink.me/BlwT/p6smr4mb\n",
+   "businessType": "ecommerce",
+   "industryType": null,
+   "memberCount": 7807,
+   "publishedReviewsCount": 1,
+   "reviewsAverage": 2.0,
+   "createdAt": 1778185504,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_27038761/image/bots/2026-07-30/74dc5032-a484-48b6-81ee-572609d68468.jpg"
+   },
+   "ownerUser": {
+    "id": "user_3HKOTroVxVUue",
+    "username": "nonb",
+    "name": "Non B"
+   }
+  },
+  {
+   "id": "biz_gV5BKumKsYlvmQ",
+   "title": "The City College of New York",
+   "route": "the-city-college-of-new-york",
+   "verified": true,
+   "creatorPitch": "Connect with other students building Whops at your campus, access training materials, and more!\n",
+   "businessType": "education",
+   "industryType": "no_code_training",
+   "memberCount": 1176,
+   "publishedReviewsCount": 0,
+   "reviewsAverage": null,
+   "createdAt": 1784828766,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_7850226/image/bots/2026-07-23/c33ddcb5-5e5e-4872-8f30-672d821749c2.jpeg"
+   },
+   "ownerUser": {
+    "id": "user_ElnOfcqwPpyBs",
+    "username": "kubescaled",
+    "name": "Griffin Kubicki "
+   }
+  },
+  {
+   "id": "biz_Ka9kp6nItsmrMu",
+   "title": "University of Salford",
+   "route": "university-of-salford",
+   "verified": true,
+   "creatorPitch": "Connect with other students building Whops at your campus, access training materials, and more!",
+   "businessType": "education",
+   "industryType": null,
+   "memberCount": 631,
+   "publishedReviewsCount": 0,
+   "reviewsAverage": null,
+   "createdAt": 1784828439,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_7850226/image/bots/2026-07-23/b04a181f-7e33-4b65-be5b-bc4a489eecdf.png"
+   },
+   "ownerUser": {
+    "id": "user_ElnOfcqwPpyBs",
+    "username": "kubescaled",
+    "name": "Griffin Kubicki "
+   }
+  },
+  {
+   "id": "biz_tKIUjgYiOOyUQh",
+   "title": "University of Utah",
+   "route": "university-of-utah",
+   "verified": true,
+   "creatorPitch": "Connect with other students building Whops at your campus, access training materials, and more!",
+   "businessType": "education",
+   "industryType": "mastermind_groups",
+   "memberCount": 465,
+   "publishedReviewsCount": 0,
+   "reviewsAverage": null,
+   "createdAt": 1784743468,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_7850226/image/bots/2026-07-22/e2f4f048-41a5-448c-a5d4-fc0b46924536.jpg"
+   },
+   "ownerUser": {
+    "id": "user_ElnOfcqwPpyBs",
+    "username": "kubescaled",
+    "name": "Griffin Kubicki "
+   }
+  },
+  {
+   "id": "biz_KrtoV3AJvrhvyy",
+   "title": "Thomas More University",
+   "route": "thomas-more-university",
+   "verified": true,
+   "creatorPitch": "Connect with other students building Whops at your campus, access training materials, and more!",
+   "businessType": "education",
+   "industryType": "business_growth_coaching",
+   "memberCount": 198,
+   "publishedReviewsCount": 1,
+   "reviewsAverage": 5.0,
+   "createdAt": 1784742927,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_7850226/image/bots/2026-07-22/32425856-1e88-4f80-b56e-452a6ef2a62f.jpg"
+   },
+   "ownerUser": {
+    "id": "user_ElnOfcqwPpyBs",
+    "username": "kubescaled",
+    "name": "Griffin Kubicki "
+   }
+  },
+  {
+   "id": "biz_ZtESVFxBfVY3UW",
+   "title": "Bowling Green State University",
+   "route": "bowling-green-state-university",
+   "verified": true,
+   "creatorPitch": "\nConnect with other students building Whops at your campus, access training materials, and more!\n",
+   "businessType": "education",
+   "industryType": null,
+   "memberCount": 214,
+   "publishedReviewsCount": 0,
+   "reviewsAverage": null,
+   "createdAt": 1784742348,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_7850226/image/bots/2026-07-22/1531f4d3-dbc9-4863-9b64-7aebbaf54f14.png"
+   },
+   "ownerUser": {
+    "id": "user_ElnOfcqwPpyBs",
+    "username": "kubescaled",
+    "name": "Griffin Kubicki "
+   }
+  },
+  {
+   "id": "biz_nxlQYkbcNPW2sN",
+   "title": "Regents University, London",
+   "route": "regents-university-london",
+   "verified": true,
+   "creatorPitch": "Connect with other students building Whops at your campus, access training materials, and more!",
+   "businessType": "education",
+   "industryType": "mastermind_groups",
+   "memberCount": 122,
+   "publishedReviewsCount": 0,
+   "reviewsAverage": null,
+   "createdAt": 1784741825,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_7850226/image/bots/2026-07-22/f9ec2908-6858-4f51-8e20-937f345cc157.jpeg"
+   },
+   "ownerUser": {
+    "id": "user_ElnOfcqwPpyBs",
+    "username": "kubescaled",
+    "name": "Griffin Kubicki "
+   }
+  },
+  {
+   "id": "biz_G3YqdH6wxBNk5E",
+   "title": "Liberty University",
+   "route": "liberty-university",
+   "verified": true,
+   "creatorPitch": "Connect with other students building Whops at your campus, access training materials, and more!\n",
+   "businessType": "education",
+   "industryType": "knowledge_business_training",
+   "memberCount": 108,
+   "publishedReviewsCount": 0,
+   "reviewsAverage": null,
+   "createdAt": 1784741422,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_7850226/image/bots/2026-07-22/d14ae30d-fe7b-4939-a050-25fad1ef975e.png"
+   },
+   "ownerUser": {
+    "id": "user_ElnOfcqwPpyBs",
+    "username": "kubescaled",
+    "name": "Griffin Kubicki "
+   }
+  },
+  {
+   "id": "biz_dX0xnR0VYzBxdq",
+   "title": "Universidade de São Paulo",
+   "route": "universidade-de-sao-paulo",
+   "verified": true,
+   "creatorPitch": "Connect with other students building Whops at your campus, access training materials, and more!",
+   "businessType": "education",
+   "industryType": "startup_founder_training",
+   "memberCount": 88,
+   "publishedReviewsCount": 0,
+   "reviewsAverage": null,
+   "createdAt": 1784740287,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_7850226/image/bots/2026-07-22/e41e212b-dee7-435d-92cb-b3bb4f4a7978.png"
+   },
+   "ownerUser": {
+    "id": "user_ElnOfcqwPpyBs",
+    "username": "kubescaled",
+    "name": "Griffin Kubicki "
+   }
+  },
+  {
+   "id": "biz_heA9nEgzmWSX4z",
+   "title": "Fort Hays State University",
+   "route": "fort-hays-state-university",
+   "verified": true,
+   "creatorPitch": "Connect with other students building Whops at your campus, access training materials, and more!\n",
+   "businessType": "education",
+   "industryType": "mastermind_groups",
+   "memberCount": 94,
+   "publishedReviewsCount": 1,
+   "reviewsAverage": 5.0,
+   "createdAt": 1784739439,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_7850226/image/bots/2026-07-22/0c4a7f53-48b1-4f44-94c6-e77cf0e7abcc.png"
+   },
+   "ownerUser": {
+    "id": "user_ElnOfcqwPpyBs",
+    "username": "kubescaled",
+    "name": "Griffin Kubicki "
+   }
+  },
+  {
+   "id": "biz_zxtBfVntwZuB4A",
+   "title": "Merrimack College",
+   "route": "merrimack-college",
+   "verified": true,
+   "creatorPitch": "Connect with other students building Whops at your campus, access training materials, and more!",
+   "businessType": "education",
+   "industryType": "saas_business_training",
+   "memberCount": 54,
+   "publishedReviewsCount": 0,
+   "reviewsAverage": null,
+   "createdAt": 1784738906,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_7850226/image/bots/2026-07-22/943b748b-8307-437b-a004-c88868c94d6e.png"
+   },
+   "ownerUser": {
+    "id": "user_ElnOfcqwPpyBs",
+    "username": "kubescaled",
+    "name": "Griffin Kubicki "
+   }
+  },
+  {
+   "id": "biz_oKovpheujmskXH",
+   "title": "West Valley College",
+   "route": "west-valley-college",
+   "verified": true,
+   "creatorPitch": "Connect with other students building Whops at your campus, access training materials, and more!\n",
+   "businessType": "education",
+   "industryType": "no_code_training",
+   "memberCount": 41,
+   "publishedReviewsCount": 0,
+   "reviewsAverage": null,
+   "createdAt": 1784731490,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_7850226/image/bots/2026-07-22/b8f85b90-c40d-4fce-85e0-6d32fdd2b7f5.jpg"
+   },
+   "ownerUser": {
+    "id": "user_ElnOfcqwPpyBs",
+    "username": "kubescaled",
+    "name": "Griffin Kubicki "
+   }
+  },
+  {
+   "id": "biz_OCiO25A6ZpDxmF",
+   "title": "Tennessee State University",
+   "route": "tennessee-state-university",
+   "verified": true,
+   "creatorPitch": "Connect with other students building Whops at your campus, access training materials, and more!\n",
+   "businessType": "education",
+   "industryType": "knowledge_business_training",
+   "memberCount": 12,
+   "publishedReviewsCount": 0,
+   "reviewsAverage": null,
+   "createdAt": 1784730944,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_7850226/image/bots/2026-07-22/2f2ebe07-c2b9-4969-99fd-cdd744a27ad6.webp"
+   },
+   "ownerUser": {
+    "id": "user_ElnOfcqwPpyBs",
+    "username": "kubescaled",
+    "name": "Griffin Kubicki "
+   }
+  },
+  {
+   "id": "biz_DW7Bh4Rr4rzMHy",
+   "title": "Monroe University",
+   "route": "monroe-university",
+   "verified": true,
+   "creatorPitch": "Connect with other students building Whops at your campus, access training materials, and more!\n",
+   "businessType": "education",
+   "industryType": "mastermind_groups",
+   "memberCount": 6,
+   "publishedReviewsCount": 0,
+   "reviewsAverage": null,
+   "createdAt": 1784730344,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_7850226/image/bots/2026-07-22/82dd0dd6-50c8-47ff-b50e-10bd4cdbfe1f.png"
+   },
+   "ownerUser": {
+    "id": "user_ElnOfcqwPpyBs",
+    "username": "kubescaled",
+    "name": "Griffin Kubicki "
+   }
+  },
+  {
+   "id": "biz_rnAWObOFzqhR3b",
+   "title": "Wayne State University",
+   "route": "wayne-state-university",
+   "verified": true,
+   "creatorPitch": "Connect with other students building Whops at your campus, access training materials, and more!",
+   "businessType": "education",
+   "industryType": "startup_founder_training",
+   "memberCount": 6,
+   "publishedReviewsCount": 0,
+   "reviewsAverage": null,
+   "createdAt": 1784728593,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_7850226/image/bots/2026-07-22/08a3b3ef-861e-4ade-a510-5c27ee494de1.webp"
+   },
+   "ownerUser": {
+    "id": "user_ElnOfcqwPpyBs",
+    "username": "kubescaled",
+    "name": "Griffin Kubicki "
+   }
+  },
+  {
+   "id": "biz_ERuhbthKuxiw06",
+   "title": "Bowen University",
+   "route": "bowen-university",
+   "verified": true,
+   "creatorPitch": "Connect with other students building Whops at your campus, access training materials, and more!",
+   "businessType": "education",
+   "industryType": "business_growth_coaching",
+   "memberCount": 5,
+   "publishedReviewsCount": 0,
+   "reviewsAverage": null,
+   "createdAt": 1784728000,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_7850226/image/bots/2026-07-22/be3fcb0c-195a-46b5-95a9-041f21852384.jpg"
+   },
+   "ownerUser": {
+    "id": "user_ElnOfcqwPpyBs",
+    "username": "kubescaled",
+    "name": "Griffin Kubicki "
+   }
+  },
+  {
+   "id": "biz_avS0mYSeqqYsvr",
+   "title": "University of Colorado Boulder",
+   "route": "university-of-colorado-boulder",
+   "verified": true,
+   "creatorPitch": null,
+   "businessType": "education",
+   "industryType": "no_code_training",
+   "memberCount": 7,
+   "publishedReviewsCount": 0,
+   "reviewsAverage": null,
+   "createdAt": 1772037120,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_7850226/image/bots/2026-02-25/fe13b65e-a03b-4ac1-b74c-487cedcf55e3.png"
+   },
+   "ownerUser": {
+    "id": "user_ElnOfcqwPpyBs",
+    "username": "kubescaled",
+    "name": "Griffin Kubicki "
+   }
+  },
+  {
+   "id": "biz_kdKcjifeR7tXHy",
+   "title": "Springfield College",
+   "route": "springfield-college",
+   "verified": true,
+   "creatorPitch": "The Official Whop of Springfield College",
+   "businessType": "education",
+   "industryType": "mastermind_groups",
+   "memberCount": 8,
+   "publishedReviewsCount": 0,
+   "reviewsAverage": null,
+   "createdAt": 1783257866,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_7850226/image/bots/2026-07-05/fae13f3c-1276-46c8-b730-1b4e34dd468f.png"
+   },
+   "ownerUser": {
+    "id": "user_ElnOfcqwPpyBs",
+    "username": "kubescaled",
+    "name": "Griffin Kubicki "
+   }
+  },
+  {
+   "id": "biz_KxcsJ96nzJckeJ",
+   "title": "Bennett College",
+   "route": "bennett-college",
+   "verified": true,
+   "creatorPitch": "The Official Whop of Bennett College!",
+   "businessType": "education",
+   "industryType": "mastermind_groups",
+   "memberCount": 5,
+   "publishedReviewsCount": 0,
+   "reviewsAverage": null,
+   "createdAt": 1783259984,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_7850226/image/bots/2026-07-05/35f8f982-ed28-4f80-84c6-4448c0c62ee4.png"
+   },
+   "ownerUser": {
+    "id": "user_ElnOfcqwPpyBs",
+    "username": "kubescaled",
+    "name": "Griffin Kubicki "
+   }
+  },
+  {
+   "id": "biz_8YVxCzNPPJrAfZ",
+   "title": "Kube Marketing ",
+   "route": "kube-marketing",
+   "verified": true,
+   "creatorPitch": "The Kube 1% Circle is a private community for young entrepreneurs who want to land clients, scale their agency, and actually make money online, not just “learn” about it. Not everyone gets it, just the 1%...",
+   "businessType": "education",
+   "industryType": "client_acquisition_training",
+   "memberCount": 230,
+   "publishedReviewsCount": 1,
+   "reviewsAverage": 5.0,
+   "createdAt": 1746371530,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_7850226/image/bots/2026-04-05/f1a991e3-7e48-4c39-b60a-81b8c9e105fe.png"
+   },
+   "ownerUser": {
+    "id": "user_ElnOfcqwPpyBs",
+    "username": "kubescaled",
+    "name": "Griffin Kubicki "
+   }
+  },
+  {
+   "id": "biz_OgjP61fw9fHmy9",
+   "title": "University at Albany",
+   "route": "university-at-albany",
+   "verified": true,
+   "creatorPitch": "Connect with other students building Whops at your campus, access training materials, and more",
+   "businessType": "education",
+   "industryType": null,
+   "memberCount": 6,
+   "publishedReviewsCount": 0,
+   "reviewsAverage": null,
+   "createdAt": 1779157856,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_7850226/image/bots/2026-05-19/d3710dd6-fb27-4ada-a082-6fac94b48efc.jpg"
+   },
+   "ownerUser": {
+    "id": "user_ElnOfcqwPpyBs",
+    "username": "kubescaled",
+    "name": "Griffin Kubicki "
+   }
+  },
+  {
+   "id": "biz_Dh6edzOZEfUbwC",
+   "title": "Bates College",
+   "route": "bates-college",
+   "verified": true,
+   "creatorPitch": "Connect with other students building Whops at your campus, access training materials, and more!",
+   "businessType": "education",
+   "industryType": "business_growth_coaching",
+   "memberCount": 6,
+   "publishedReviewsCount": 0,
+   "reviewsAverage": null,
+   "createdAt": 1784725848,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_7850226/image/bots/2026-07-22/def1adba-d5d5-4453-bb52-c9c0db6d00ce.jpg"
+   },
+   "ownerUser": {
+    "id": "user_ElnOfcqwPpyBs",
+    "username": "kubescaled",
+    "name": "Griffin Kubicki "
+   }
+  },
+  {
+   "id": "biz_FNvnJIPK23KQ1W",
+   "title": "Whop Nigeria",
+   "route": "whop-nigeria1",
+   "verified": true,
+   "creatorPitch": "Connect to the global economy",
+   "businessType": "other",
+   "industryType": null,
+   "memberCount": 1918,
+   "publishedReviewsCount": 0,
+   "reviewsAverage": null,
+   "createdAt": 1783664955,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_29286225/image/bots/2026-07-10/ff85cf9c-eb93-4798-9ca9-1c49749a3e4b.jpeg"
+   },
+   "ownerUser": {
+    "id": "user_4mrYiTgX1EPwC",
+    "username": "tp",
+    "name": "teepee"
+   }
+  },
+  {
+   "id": "biz_1juybXG1nHi7tt",
+   "title": "Whop México",
+   "route": "whop-mexico",
+   "verified": true,
+   "creatorPitch": "Conéctate a la economía global",
+   "businessType": "other",
+   "industryType": null,
+   "memberCount": 537,
+   "publishedReviewsCount": 0,
+   "reviewsAverage": null,
+   "createdAt": 1783568787,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_29286225/image/bots/2026-07-09/52b8acf9-e428-4cf9-994c-09ace4e4e6a7"
+   },
+   "ownerUser": {
+    "id": "user_4mrYiTgX1EPwC",
+    "username": "tp",
+    "name": "teepee"
+   }
+  },
+  {
+   "id": "biz_d8EOEpIlenzPUe",
+   "title": "Console Kings",
+   "route": "console-kings",
+   "verified": true,
+   "creatorPitch": "#1 Competitive Call of Duty Gaming Platform | ConsoleKings.com",
+   "businessType": "platform",
+   "industryType": null,
+   "memberCount": 47541,
+   "publishedReviewsCount": 85,
+   "reviewsAverage": 4.84,
+   "createdAt": 1764271911,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_20935202/image/bots/2026-02-28/75d33940-3bfc-42df-8af4-8ff7e3992c51.jpg"
+   },
+   "ownerUser": {
+    "id": "user_YJ2mtsM9U3s3W",
+    "username": "consolekings",
+    "name": "ConsoleKings"
+   }
+  },
+  {
+   "id": "biz_rvIH4lsGYVJYd0",
+   "title": "Whop Power Users",
+   "route": "product",
+   "verified": true,
+   "creatorPitch": "Whop Power Users. Full-stack marketing agents for email outbound, lead enrichment, and custom workflows.",
+   "businessType": "ecommerce",
+   "industryType": "official_merch_and_fan_gear",
+   "memberCount": 15000,
+   "publishedReviewsCount": 637,
+   "reviewsAverage": 4.87,
+   "createdAt": 1745882161,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-05-24/user_6129942_1dba6723-86a3-46b9-b2f7-166e87fff4cd.png"
+   },
+   "ownerUser": {
+    "id": "user_5nShhYzkTSYfA",
+    "username": "cam",
+    "name": "cameron zoub"
+   }
+  },
+  {
+   "id": "biz_fHrBNrnvQjaONz",
+   "title": "Sound Network",
+   "route": "soundnetwork",
+   "verified": true,
+   "creatorPitch": "The Network For The BEST Music Clipping Campaigns.",
+   "businessType": "platform",
+   "industryType": "affiliate_network",
+   "memberCount": 99970,
+   "publishedReviewsCount": 680,
+   "reviewsAverage": 4.71,
+   "createdAt": 1752681617,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-07-16/user_9023487_1859a6e5-f1f4-4ed8-96d1-47b2c630314e.png"
+   },
+   "ownerUser": {
+    "id": "user_r5MVItlFIQRiM",
+    "username": "evanxstanfield",
+    "name": "Evan Stanfield"
+   }
+  },
+  {
+   "id": "biz_DcVVKKEb2sp6tL",
+   "title": "The Quarterback Science Program",
+   "route": "qbs-program-2-0",
+   "verified": true,
+   "creatorPitch": "Former Wake Forest Quarterback, Current Texas Tech Quarterback 🌵",
+   "businessType": "education",
+   "industryType": "american_football",
+   "memberCount": 1665,
+   "publishedReviewsCount": 0,
+   "reviewsAverage": null,
+   "createdAt": 1719082976,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-06-16/user_4527005_a5785570-e541-4039-8ed1-6dc9cb72d8b2.png"
+   },
+   "ownerUser": {
+    "id": "user_Q65cSdfDYqJ8z",
+    "username": "quarterbackscience",
+    "name": "quarterbackscience"
+   }
+  },
+  {
+   "id": "biz_Tf8vA1fkyEG8M3",
+   "title": "ClyptAI",
+   "route": "clyptai",
+   "verified": true,
+   "creatorPitch": "AI-guided Crypto and Stock Perps on Hyperliquid: Trade Every Market Right without Blowing Up",
+   "businessType": "software",
+   "industryType": "trading_bot",
+   "memberCount": 2214,
+   "publishedReviewsCount": 7,
+   "reviewsAverage": 5.0,
+   "createdAt": 1762005500,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_19007097/image/bots/2026-03-23/9688143e-8ce8-4fe9-9c52-03d968bbce1e.png"
+   },
+   "ownerUser": {
+    "id": "user_djEIes3olBgGd",
+    "username": "clyptai",
+    "name": "ClyptAI"
+   }
+  },
+  {
+   "id": "biz_MDpDOUeOh7Mb5d",
+   "title": "Alertsify - Institutional-Speed Trading",
+   "route": "alertsify",
+   "verified": true,
+   "creatorPitch": "Alertsify delivers institutional-grade speed, automation, and transparency. Execute verified trade signals instantly in your own broker account, track real performance with fully audited stats, and run professional-level infrastructure built for serious traders.",
+   "businessType": "platform",
+   "industryType": null,
+   "memberCount": 0,
+   "publishedReviewsCount": 254,
+   "reviewsAverage": 4.8,
+   "createdAt": 1723087675,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_1112846/image/bots/2025-08-15/7988295e-247d-43ff-93c5-52e807705417"
+   },
+   "ownerUser": {
+    "id": "user_xnIZfpo17E8Rw",
+    "username": "enhancedmarket",
+    "name": "EnhancedMarket™"
+   }
+  },
+  {
+   "id": "biz_DXvDpVg3fgeEgJ",
+   "title": "NikeShoeBot",
+   "route": "nikeshoebot",
+   "verified": true,
+   "creatorPitch": "NSB helps you secure hyped sneakers, Pokémon cards, and collectibles at retail prices from Nike, Pokémon Center, Amazon, Best Buy, Adidas, Shopify stores, and more. Flip your purchases and build a profitable at-home side income.",
+   "businessType": "software",
+   "industryType": "resale_bots",
+   "memberCount": 9668,
+   "publishedReviewsCount": 482,
+   "reviewsAverage": 4.9,
+   "createdAt": 1690282331,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_93263/image/bots/2026-02-18/8de514d5-caaf-4aa2-a6a5-2b9c624fa5e3.png"
+   },
+   "ownerUser": {
+    "id": "user_zYzRuEEtt5PcX",
+    "username": "cypher24",
+    "name": "Cypher"
+   }
+  },
+  {
+   "id": "biz_IJAvEvTm8dRJi5",
+   "title": "Content Academy",
+   "route": "contentacademy",
+   "verified": true,
+   "creatorPitch": "We've now helped 100+ creators reach 10K followers on Instagram/TikTok and build full time careers in content creation!\n\nI've built a following of 500k+ followers on Instagram and 1.3M+ on TikTok. Now, I'm sharing my entire system to help you grow your brand and online business.",
+   "businessType": "education",
+   "industryType": "content_creator_training",
+   "memberCount": 31656,
+   "publishedReviewsCount": 164,
+   "reviewsAverage": 4.91,
+   "createdAt": 1706806087,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-12-09/user_826592_1c41af0b-9e4d-4b4a-b049-48c8016959c6.jpeg"
+   },
+   "ownerUser": {
+    "id": "user_yEqtQpHaei2dv",
+    "username": "mino",
+    "name": "Mino Lee"
+   }
+  },
+  {
+   "id": "biz_Ytro6weNGtevX0",
+   "title": "Mobile Apps",
+   "route": "viralappfounders",
+   "verified": true,
+   "creatorPitch": "A private founder-led community with the resources and support to help you scale your mobile app.",
+   "businessType": "services",
+   "industryType": "social_media_management",
+   "memberCount": 1265,
+   "publishedReviewsCount": 10,
+   "reviewsAverage": 3.2,
+   "createdAt": 1733472523,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_20876903/image/bots/2026-03-01/4ccd300f-e33c-47a5-9aaa-dc59d34a7356.png"
+   },
+   "ownerUser": {
+    "id": "user_JLOQ1jFIxn2ZJ",
+    "username": "josephkchoi",
+    "name": "Joseph Choi"
+   }
+  },
+  {
+   "id": "biz_a86CAR9xBE6nrL",
+   "title": "Petal & Post",
+   "route": "petal-post",
+   "verified": true,
+   "creatorPitch": "Premium same-day flower delivery to any address in the world. Subscriptions deliver at a random time (during that period) so the receiver never expects it.",
+   "businessType": "ecommerce",
+   "industryType": "florist",
+   "memberCount": 563,
+   "publishedReviewsCount": 1,
+   "reviewsAverage": 5.0,
+   "createdAt": 1771568441,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2026-02-20/6dbb4a17-16cc-45d4-8a3c-1fa7bea4133a/image.png"
+   },
+   "ownerUser": {
+    "id": "user_nrxHyu5XRFjkS",
+    "username": "s",
+    "name": "Steven Schwartz"
+   }
+  },
+  {
+   "id": "biz_huz9rKGhHJy4jp",
+   "title": "Whop Workforce",
+   "route": "whop-workforce",
+   "verified": true,
+   "creatorPitch": "Fulfill bounties and make money!",
+   "businessType": "platform",
+   "industryType": "field_task_marketplace",
+   "memberCount": 65264,
+   "publishedReviewsCount": 71,
+   "reviewsAverage": 4.96,
+   "createdAt": 1775670836,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_8065/image/bots/2026-05-07/624efcc8-35c6-454b-bd4a-27bfdead7ca2.png"
+   },
+   "ownerUser": {
+    "id": "user_4myxL2W4x2zUv",
+    "username": "jxnathanlee",
+    "name": "Jonathan Lee"
+   }
+  },
+  {
+   "id": "biz_Jh3ZTEL227w8I1",
+   "title": "PeloSwing",
+   "route": "peloswing",
+   "verified": true,
+   "creatorPitch": "Learn while you earn & stay ahead of the curve with timely alerts and expert analysis. With over a decade of experience in market analysis and stock trading, we wanted to build a platform that provides real-time alerts and insights to help traders make informed decisions, instead of the gambling! We've helped thousands already, and are ready to help more!",
+   "businessType": "education",
+   "industryType": "options_trading",
+   "memberCount": 24970,
+   "publishedReviewsCount": 443,
+   "reviewsAverage": 4.88,
+   "createdAt": 1688358593,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_1418595/image/bots/2026-07-06/103de0d9-2b14-4c28-8b1c-5f42492197f9.jpg"
+   },
+   "ownerUser": {
+    "id": "user_UuRGYdVBzTybq",
+    "username": "peloswing",
+    "name": "PeloSwing"
+   }
+  },
+  {
+   "id": "biz_TdWbD5vvKbDKm8",
+   "title": "Stellar AIO",
+   "route": "stellaraio",
+   "verified": true,
+   "creatorPitch": "Embrace the next generation of shopping, meticulously designed for collectors, resellers, and sneakerheads. \n\nExperience the benefits of blazing-fast checkouts, a decisive edge on limited drops, and the capability to handle multiple orders seamlessly. ",
+   "businessType": "software",
+   "industryType": "resale_bots",
+   "memberCount": 36462,
+   "publishedReviewsCount": 337,
+   "reviewsAverage": 4.67,
+   "createdAt": 1638768726,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/bots/images/45.original."
+   },
+   "ownerUser": {
+    "id": "user_lkAemAPmw4v2X",
+    "username": "stellar",
+    "name": "Stellar"
+   }
+  },
+  {
+   "id": "biz_akVtM371ILUYlW",
+   "title": "Hidden Society",
+   "route": "hidden-society",
+   "verified": true,
+   "creatorPitch": "The creator of Hidden Society built this community with a simple mission: to change lives. What started as a passion for reselling grew into a movement, empowering individuals to unlock financial freedom. With a deep understanding of markets and unmatched dedication, he proves that with the right mindset, tools, and community, anyone can achieve extraordinary success.",
+   "businessType": "education",
+   "industryType": "cook_groups",
+   "memberCount": 36330,
+   "publishedReviewsCount": 1512,
+   "reviewsAverage": 4.97,
+   "createdAt": 1660857116,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/access_passes/images/16220.original."
+   },
+   "ownerUser": {
+    "id": "user_Op2lfyrShMKEJ",
+    "username": "topkek",
+    "name": "topkek"
+   }
+  },
+  {
+   "id": "biz_pn9Fq67uJNjgj1",
+   "title": "Potion Alpha",
+   "route": "potion-alpha",
+   "verified": true,
+   "creatorPitch": "Potion Alpha, the #1 online crypto platform where over 110,000 members collaborate to master blockchain trading. Whether you're a beginner or an experienced trader, our entire team at Potion Alpha is focused on helping you win with real-time tools, memecoin scanning, and exclusive bots. Join us, and let’s grow together!",
+   "businessType": "education",
+   "industryType": "crypto_trading",
+   "memberCount": 124390,
+   "publishedReviewsCount": 393,
+   "reviewsAverage": 4.77,
+   "createdAt": 1720547468,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-02-28/user_3556163_4100ea73-ef42-4d2c-a057-d094a8295055.png"
+   },
+   "ownerUser": {
+    "id": "user_25wL2Yv3yp1BH",
+    "username": "movimentum",
+    "name": "Movimentum"
+   }
+  },
+  {
+   "id": "biz_D9eMPfn3JvXUbF",
+   "title": "Life Index",
+   "route": "life-index",
+   "verified": true,
+   "creatorPitch": "Discover your life number, unlock what this year holds, and get personalized guidance on what to do — and what to avoid. Numerology readings by Chloe.",
+   "businessType": "education",
+   "industryType": "astrology",
+   "memberCount": 57,
+   "publishedReviewsCount": 0,
+   "reviewsAverage": null,
+   "createdAt": 1771984278,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2026-02-25/20e124dc-2a28-45e3-8c37-72e0f20262d4/image.png"
+   },
+   "ownerUser": {
+    "id": "user_pmkL36svZT0Pi",
+    "username": "chlomoneyy",
+    "name": "Chloe Chloe"
+   }
+  },
+  {
+   "id": "biz_IQjx5bPgQNQqpm",
+   "title": "Divine",
+   "route": "divine",
+   "verified": true,
+   "creatorPitch": "The largest paid ecommerce community & reseller software platform on the internet. Helped over 100,000 ecommerce sellers since 2019.",
+   "businessType": "education",
+   "industryType": "cook_groups",
+   "memberCount": 56601,
+   "publishedReviewsCount": 4616,
+   "reviewsAverage": 4.97,
+   "createdAt": 1652207175,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-06-26/user_3735610_e7cf4489-20d1-4d61-a106-52e5c6ed8908.gif"
+   },
+   "ownerUser": {
+    "id": "user_VpQqvqHEFq6qQ",
+    "username": "gutt",
+    "name": "Divine"
+   }
+  },
+  {
+   "id": "biz_5Z8CVpZVZ4zRYK",
+   "title": "Jordan's Library",
+   "route": "jordans-library",
+   "verified": true,
+   "creatorPitch": null,
+   "businessType": "education",
+   "industryType": "dropshipping_business_training",
+   "memberCount": 49368,
+   "publishedReviewsCount": 81,
+   "reviewsAverage": 4.54,
+   "createdAt": 1684529192,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-12-19/user_899305_a211ed18-842d-48e7-9cb8-8a113386fafc.png"
+   },
+   "ownerUser": {
+    "id": "user_PZckKZGOoWHU5",
+    "username": "jordanslibrary",
+    "name": "jordan bown"
+   }
+  },
+  {
+   "id": "biz_xVzNX6saY1gnhM",
+   "title": "Black Box",
+   "route": "blackbox",
+   "verified": true,
+   "creatorPitch": "Most people waste time chasing expired deals and overcrowded opportunities. Black Box is a private community for people who want a competitive advantage. Get access to Hidden Clearances, real-time price errors, and thousands of members sharing what's working right now. Stop guessing, stop chasing expired deals, and start finding opportunities before everyone else.",
+   "businessType": "education",
+   "industryType": "cook_groups",
+   "memberCount": 0,
+   "publishedReviewsCount": 4280,
+   "reviewsAverage": 4.96,
+   "createdAt": 1652496202,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_401714/image/bots/2026-01-08/fbba3286-a881-42bb-95a1-85f31313b673.png"
+   },
+   "ownerUser": {
+    "id": "user_lQlbsBbqSTPra",
+    "username": "riostoriches",
+    "name": "Rios"
+   }
+  },
+  {
+   "id": "biz_e6OBl0aJxWHNfx",
+   "title": "Kalshi",
+   "route": "kalshi",
+   "verified": true,
+   "creatorPitch": "Trade on anything in all 50 states: politics, sports, entertainment, crypto, weather, and so much more.",
+   "businessType": "platform",
+   "industryType": null,
+   "memberCount": 5500,
+   "publishedReviewsCount": 9,
+   "reviewsAverage": 4.11,
+   "createdAt": 1746208507,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-05-02/user_13767650_b2779bdb-2f6c-441e-95ac-f104fefe0f4c.jpeg"
+   },
+   "ownerUser": {
+    "id": "user_jViTFpSvCy6pP",
+    "username": "kalshi",
+    "name": "Kalshi"
+   }
+  },
+  {
+   "id": "biz_tJSVgNuVqWTqtI",
+   "title": "Polymarket",
+   "route": "polymarket",
+   "verified": true,
+   "creatorPitch": "The World's Largest Prediction Market. Trade politics, news, crypto, culture, sports, tech, & more. Discord: http://polymarket.com/r/discord",
+   "businessType": "services",
+   "industryType": "video_editing",
+   "memberCount": 8716,
+   "publishedReviewsCount": 9,
+   "reviewsAverage": 3.67,
+   "createdAt": 1746113066,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-05-01/user_13702272_c1ce6da7-6345-482a-90f0-34bb56c1fa8e.webp"
+   },
+   "ownerUser": {
+    "id": "user_yTFTxQ0X7RfzA",
+    "username": "polymarketmike",
+    "name": "Polymarket Mike"
+   }
+  },
+  {
+   "id": "biz_0aKa6QFDXOCnEe",
+   "title": "nelk",
+   "route": "nelk-clipping",
+   "verified": true,
+   "creatorPitch": "We prank people sometimes.\n\nToronto, Canada",
+   "businessType": "education",
+   "industryType": "video_clipping_training",
+   "memberCount": 10136,
+   "publishedReviewsCount": 7,
+   "reviewsAverage": 4.0,
+   "createdAt": 1743637233,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-04-09/user_12803387_5935ef5d-b6ba-420c-ad99-5bcd90848a68.jpeg"
+   },
+   "ownerUser": {
+    "id": "user_UhezVJYRkBWx9",
+    "username": "fullsend",
+    "name": "Nelk Boys"
+   }
+  },
+  {
+   "id": "biz_pPkKqAxz3iQeOr",
+   "title": "Druski",
+   "route": "druski",
+   "verified": true,
+   "creatorPitch": null,
+   "businessType": "education",
+   "industryType": "video_clipping_training",
+   "memberCount": 66758,
+   "publishedReviewsCount": 115,
+   "reviewsAverage": 4.79,
+   "createdAt": 1742664540,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-03-25/user_9454822_def5c8be-b3e9-45de-bf0f-7c8dbd11ee12.jpeg"
+   },
+   "ownerUser": {
+    "id": "user_ZiZmzTiUmEwDO",
+    "username": "druski",
+    "name": "druski"
+   }
+  },
+  {
+   "id": "biz_qwyTIqmDzIQZdI",
+   "title": "Monetise",
+   "route": "monetise",
+   "verified": true,
+   "creatorPitch": "Let Our AI System Build You A Profitable Digital Product Business (without experience or showing your face)",
+   "businessType": "education",
+   "industryType": "digital_product_business_training",
+   "memberCount": 0,
+   "publishedReviewsCount": 4399,
+   "reviewsAverage": 4.85,
+   "createdAt": 1737063615,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2026-08-28/4c36d479-6f0b-4695-8bc5-a2a284d8ec20/image.webp"
+   },
+   "ownerUser": {
+    "id": "user_7mF5rtfrmSCf6",
+    "username": "imangadzhi",
+    "name": "Iman Gadzhi"
+   }
+  }
+ ]
+}

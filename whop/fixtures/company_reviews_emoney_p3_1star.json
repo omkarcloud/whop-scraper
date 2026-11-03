@@ -1,0 +1,13 @@
+{
+ "id": "biz_1ZH7VJrbsBzY1D",
+ "route": "emoney",
+ "title": "eMoney Reselling",
+ "reviews": {
+  "totalCount": 74,
+  "pageInfo": {
+   "hasNextPage": false,
+   "endCursor": null
+  },
+  "nodes": []
+ }
+}

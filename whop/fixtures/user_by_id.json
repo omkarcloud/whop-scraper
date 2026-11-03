@@ -1,0 +1,447 @@
+{
+ "id": "user_lNmRfQ3CbAazB",
+ "username": "flipsnation",
+ "name": "lakersnation",
+ "bio": "",
+ "city": "Allen",
+ "country": "US",
+ "countryName": "United States",
+ "createdAt": 1638969654,
+ "lastSeenAt": 1793648395,
+ "verifiedAt": null,
+ "isSuspended": false,
+ "followersCount": 8,
+ "followingCount": 0,
+ "roles": [],
+ "averageResponseTimeInSeconds": null,
+ "primaryUserReferralCount": 0,
+ "profilePicture": {
+  "sourceUrl": "https://ui-avatars.com/api/?name=lakersnation&background=535961&color=fff&format=png"
+ },
+ "banner": null,
+ "socialLinks": {
+  "nodes": []
+ },
+ "userStat": {
+  "moneyEarnedLifetime": 480.7
+ },
+ "userPreferences": {
+  "showEarnings": true,
+  "showOwnedWhops": true,
+  "showJoinedWhops": true,
+  "showLocation": true
+ },
+ "ownedWhops": {
+  "totalCount": 1,
+  "nodes": [
+   {
+    "id": "biz_eYoV4GW80c495B",
+    "title": "Flips Nation",
+    "route": "robsreview",
+    "verified": false,
+    "creatorPitch": "I’ve dedicated my expertise to guiding new Amazon sellers. By offering structured courses and personal support, I help you navigate the complexities of Amazon FBA and achieve success seamlessly.",
+    "businessType": "education",
+    "industryType": "amazon_fba_business_training",
+    "memberCount": 338,
+    "publishedReviewsCount": 11,
+    "reviewsAverage": 5.0,
+    "createdAt": 1665018594,
+    "logo": {
+     "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-12-01/user_55280_0909b79c-d279-4caf-b556-23d8324afb24.png"
+    },
+    "ownerUser": {
+     "id": "user_lNmRfQ3CbAazB",
+     "username": "flipsnation",
+     "name": "lakersnation"
+    },
+    "totalEarningsWithTransfersInUsd": null
+   }
+  ]
+ },
+ "joinedWhops": {
+  "totalCount": 18,
+  "nodes": [
+   {
+    "id": "biz_TdWbD5vvKbDKm8",
+    "title": "Stellar AIO",
+    "route": "stellaraio",
+    "verified": true,
+    "creatorPitch": "Embrace the next generation of shopping, meticulously designed for collectors, resellers, and sneakerheads. \n\nExperience the benefits of blazing-fast checkouts, a decisive edge on limited drops, and the capability to handle multiple orders seamlessly. ",
+    "businessType": "software",
+    "industryType": "resale_bots",
+    "memberCount": 36462,
+    "publishedReviewsCount": 337,
+    "reviewsAverage": 4.67,
+    "createdAt": 1638768726,
+    "logo": {
+     "sourceUrl": "https://assets-2-prod.whop.com/public/bots/images/45.original."
+    },
+    "ownerUser": {
+     "id": "user_lkAemAPmw4v2X",
+     "username": "stellar",
+     "name": "Stellar"
+    }
+   },
+   {
+    "id": "biz_96kmQ2ewxrYREI",
+    "title": "PolarAIO",
+    "route": "polar-aio",
+    "verified": false,
+    "creatorPitch": "Retail Bot | Supports Pokemon Center US/CA, Target, & Walmart",
+    "businessType": "software",
+    "industryType": "resale_bots",
+    "memberCount": 2199,
+    "publishedReviewsCount": 223,
+    "reviewsAverage": 4.96,
+    "createdAt": 1768458035,
+    "logo": {
+     "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_196985/image/bots/2026-05-26/14b5f4b3-dd69-4a5a-984f-68c6814d0016.png"
+    },
+    "ownerUser": {
+     "id": "user_cUoMWrmaMpd2c",
+     "username": "solecity",
+     "name": "solecity"
+    }
+   },
+   {
+    "id": "biz_kCiVLQ28GCylqP",
+    "title": "Polar Chefs",
+    "route": "polarchefs",
+    "verified": false,
+    "creatorPitch": "Polar Chefs simplifies making money both online and in-store. \n\nOur exclusive Discord community offers daily income opportunities for sneaker enthusiasts, streetwear collectors, pop culture fans, sports card collectors, and more. \n\nExplore sports betting, stock/crypto trading, deals, price errors, hidden clearances, and beyond. Polar Chefs is your comprehensive resource for boosting your earnings ",
+    "businessType": "education",
+    "industryType": "cook_groups",
+    "memberCount": 7244,
+    "publishedReviewsCount": 711,
+    "reviewsAverage": 4.98,
+    "createdAt": 1634606782,
+    "logo": {
+     "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-11-15/user_2169_7dbc804d-f7d2-405e-b3b5-61df22955854.png"
+    },
+    "ownerUser": {
+     "id": "user_cUoMWrmaMpd2c",
+     "username": "solecity",
+     "name": "solecity"
+    }
+   },
+   {
+    "id": "biz_eYoV4GW80c495B",
+    "title": "Flips Nation",
+    "route": "robsreview",
+    "verified": false,
+    "creatorPitch": "I’ve dedicated my expertise to guiding new Amazon sellers. By offering structured courses and personal support, I help you navigate the complexities of Amazon FBA and achieve success seamlessly.",
+    "businessType": "education",
+    "industryType": "amazon_fba_business_training",
+    "memberCount": 338,
+    "publishedReviewsCount": 11,
+    "reviewsAverage": 5.0,
+    "createdAt": 1665018594,
+    "logo": {
+     "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-12-01/user_55280_0909b79c-d279-4caf-b556-23d8324afb24.png"
+    },
+    "ownerUser": {
+     "id": "user_lNmRfQ3CbAazB",
+     "username": "flipsnation",
+     "name": "lakersnation"
+    }
+   },
+   {
+    "id": "biz_gdSBfcK70R5qSU",
+    "title": "Whop AI",
+    "route": "whop-ai",
+    "verified": true,
+    "creatorPitch": "Internal Whop AI company. We make generalist agents that help automate your experience on Whop. For all other support inquiries, please use standard customer support.",
+    "businessType": "software",
+    "industryType": "ai_agents",
+    "memberCount": 1567783,
+    "publishedReviewsCount": 2,
+    "reviewsAverage": 5.0,
+    "createdAt": 1768924875,
+    "logo": {
+     "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_1/image/bots/2026-02-25/2308fd99-df13-4957-ac63-81f2be923a49.png"
+    },
+    "ownerUser": {
+     "id": "user_v9KUoZvTGp6ID",
+     "username": "j",
+     "name": "Jordan"
+    }
+   },
+   {
+    "id": "biz_PR2H2FqchwG1OZ",
+    "title": "Arcana ",
+    "route": "arcana-ltd",
+    "verified": false,
+    "creatorPitch": "I’m Yazzzz, the creator of Arcana, a community designed for collectors and resellers to profit from their passions. With years of experience in NFTs, sports cards, and ticket reselling, I built Arcana to share real-time insights and strategies with those looking to capitalize on market trends and price errors.",
+    "businessType": "education",
+    "industryType": "cook_groups",
+    "memberCount": 977,
+    "publishedReviewsCount": 101,
+    "reviewsAverage": 4.98,
+    "createdAt": 1660675644,
+    "logo": {
+     "sourceUrl": "https://assets-2-prod.whop.com/public/access_passes/images/15585.original."
+    },
+    "ownerUser": {
+     "id": "user_82U9imrZbGyr9",
+     "username": "yazzzz",
+     "name": null
+    }
+   },
+   {
+    "id": "biz_4CJUC0iweNIrtz",
+    "title": "WMAPMD Medi 2",
+    "route": "wmapmd-medi-2",
+    "verified": false,
+    "creatorPitch": "Virtual medical consultations with licensed providers — fast, private, and on your schedule.",
+    "businessType": "services",
+    "industryType": "primary_care",
+    "memberCount": 952,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": null,
+    "createdAt": 1783028748,
+    "logo": {
+     "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_30414815/image/ai_prompts/2026-07-02/51fe113a-af21-4fdf-89ba-78b61487b962.png"
+    },
+    "ownerUser": {
+     "id": "user_KPfD5ZbqolsVr",
+     "username": "aueomijkr",
+     "name": null
+    }
+   },
+   {
+    "id": "biz_vhX2kNFFZVBj3m",
+    "title": "Fitness Gym Course",
+    "route": "fitness-gym-course-43cb",
+    "verified": false,
+    "creatorPitch": "Premium fitness coaching and gym training courses. Transform your body with expert-led programs, personalized workout plans, and a supportive community.",
+    "businessType": "education",
+    "industryType": null,
+    "memberCount": 12401,
+    "publishedReviewsCount": 6,
+    "reviewsAverage": 4.67,
+    "createdAt": 1779405510,
+    "logo": {
+     "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_27602814/image/ai_prompts/2026-05-22/a1676708-7244-4ee5-b897-91e9e74694d4.png"
+    },
+    "ownerUser": {
+     "id": "user_wZ45PkAORtZpW",
+     "username": "ifxroykq",
+     "name": null
+    }
+   },
+   {
+    "id": "biz_8DnZy1OdaF4jn4",
+    "title": "KosherPlug",
+    "route": "whop-creators-ugc",
+    "verified": false,
+    "creatorPitch": "Generated Billions of views across social media. Managing content @ whop",
+    "businessType": "education",
+    "industryType": "literature_and_reading",
+    "memberCount": 1124175,
+    "publishedReviewsCount": 2464,
+    "reviewsAverage": 4.67,
+    "createdAt": 1716833945,
+    "logo": {
+     "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2026-08-21/ace44b7c-a350-4658-b529-b4c21a64ea6e/image.png"
+    },
+    "ownerUser": {
+     "id": "user_8i8n67EhkHZEh",
+     "username": "kosher",
+     "name": "Kosher Plug"
+    }
+   },
+   {
+    "id": "biz_BoH2p7UKkdICkj",
+    "title": "Hidden AIO [Public]",
+    "route": "hiddenaiopublic",
+    "verified": false,
+    "creatorPitch": "HiddenAIO wasn’t built to follow trends, it was built to set them. Created by the team behind Hidden Society, it pushes the limits of automation. This isn’t just about software, it’s about outpacing competition, turning speed into opportunity, and making every millisecond count. HiddenAIO is the result of obsession, experience, and never settling for second place.",
+    "businessType": "software",
+    "industryType": "resale_bots",
+    "memberCount": 18556,
+    "publishedReviewsCount": 5,
+    "reviewsAverage": 4.8,
+    "createdAt": 1751398041,
+    "logo": {
+     "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-07-01/user_419898_b6ad6cbf-9b24-4667-98c0-7b73df44f4ab.png"
+    },
+    "ownerUser": {
+     "id": "user_Op2lfyrShMKEJ",
+     "username": "topkek",
+     "name": "topkek"
+    }
+   },
+   {
+    "id": "biz_0PLH0KWDluCZqN",
+    "title": "Crypto Signals with Auto-Trading by Crypto Inside",
+    "route": "cryptoinsidesignals",
+    "verified": false,
+    "creatorPitch": "Crypto signals with auto-trading via Cornix. BTC and altcoin signals for spot and futures, with entry, take-profit and stop-loss on every signal. Join 46,000+ traders.",
+    "businessType": "education",
+    "industryType": "crypto_trading",
+    "memberCount": 48530,
+    "publishedReviewsCount": 5179,
+    "reviewsAverage": 4.99,
+    "createdAt": 1721319002,
+    "logo": {
+     "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2026-10-24/01f9a5ef-b2d5-4fe3-9c2c-2f91e7c4490f/image.jpeg"
+    },
+    "ownerUser": {
+     "id": "user_lOCt6AY8k1Uat",
+     "username": "cibtrading",
+     "name": "BTC & Altcoin: Auto-Trading Signals by Crypto Inside"
+    }
+   },
+   {
+    "id": "biz_4QQDqWjk2uwnjN",
+    "title": "FlipAlert",
+    "route": "flipalert",
+    "verified": false,
+    "creatorPitch": "FlipAlert is brought to you by a small founding team: Saul has purchased over $1,000,000 worth of A2A products to sell on Amazon and has taught thousands of sellers how to get started. Co-Owner of The Buy Box and host of the A2A Challenge everything he has learned about A2A has gone into making FlipAlert. And Jack has been developing software for Amazon sellers for over 5 years. ",
+    "businessType": "software",
+    "industryType": "ecommerce_product_research",
+    "memberCount": 989,
+    "publishedReviewsCount": 8,
+    "reviewsAverage": 5.0,
+    "createdAt": 1704213638,
+    "logo": {
+     "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-02-19/user_506999_16e0e84f-1971-4e4e-9e72-3dcd83c0d4ea.png"
+    },
+    "ownerUser": {
+     "id": "user_g6zAOlJclmZI1",
+     "username": "tbbwags",
+     "name": "FlipAlert"
+    }
+   },
+   {
+    "id": "biz_jJboGqu0uOaWot",
+    "title": "Stay Viral",
+    "route": "stay-viral",
+    "verified": false,
+    "creatorPitch": "We’re here to help you become a TikTok pro with our proven formula. Join Stay Viral for exclusive access to our A-Z course, brand connections, and expert guidance to reach $10k/month in no time.",
+    "businessType": "education",
+    "industryType": "affiliate_marketing_training",
+    "memberCount": 4553,
+    "publishedReviewsCount": 42,
+    "reviewsAverage": 4.79,
+    "createdAt": 1705511529,
+    "logo": {
+     "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-01-20/user_763263_636225c6-9f6b-45f9-905a-62758dca91a7.png"
+    },
+    "ownerUser": {
+     "id": "user_CanSx2tFF6Z9R",
+     "username": "ryanrigney",
+     "name": "Stay Viral"
+    }
+   },
+   {
+    "id": "biz_HqQxAtOfnbSQuE",
+    "title": "TikGrowth",
+    "route": "tikgrowth",
+    "verified": false,
+    "creatorPitch": "I've transformed my career by mastering TikTok monetization and building a supportive creator community. My passion is helping others achieve financial freedom through TikTok Shop, and I'm excited to share my knowledge and insights with you.",
+    "businessType": "education",
+    "industryType": "affiliate_marketing_training",
+    "memberCount": 5407,
+    "publishedReviewsCount": 103,
+    "reviewsAverage": 4.86,
+    "createdAt": 1700525436,
+    "logo": {
+     "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-07-09/user_2219507_f82743c1-36d4-4a80-aadd-8cca138038f3.jpeg"
+    },
+    "ownerUser": {
+     "id": "user_lYUZWV70hdffL",
+     "username": "tiktokgrowthhub",
+     "name": "Harun Arli"
+    }
+   },
+   {
+    "id": "biz_zFrO4GrZ81xLHG",
+    "title": "Social Club Academy",
+    "route": "socialclubacademy",
+    "verified": false,
+    "creatorPitch": "Social Club is a short-form content affiliate academy and community.\nWe teach new and experienced creators how to make quality TikToks, Shorts, Reels, that will connect them to the top brands and skyrocket their potential to make sales.",
+    "businessType": "education",
+    "industryType": "affiliate_marketing_training",
+    "memberCount": 4065,
+    "publishedReviewsCount": 143,
+    "reviewsAverage": 4.93,
+    "createdAt": 1712270606,
+    "logo": {
+     "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-06-06/user_2818073_f1aecfba-a4aa-412f-8a8b-0761b7518a7d.png"
+    },
+    "ownerUser": {
+     "id": "user_Yj2f2KqLvAWhC",
+     "username": "social-club",
+     "name": "Joey Moh"
+    }
+   },
+   {
+    "id": "biz_oPdNOg0sPPLoBS",
+    "title": "Beami",
+    "route": "beami",
+    "verified": false,
+    "creatorPitch": null,
+    "businessType": "education",
+    "industryType": "content_creator_training",
+    "memberCount": 2320,
+    "publishedReviewsCount": 84,
+    "reviewsAverage": 4.9,
+    "createdAt": 1695866840,
+    "logo": {
+     "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-03-22/user_2587086_d275b415-c055-48a0-9bfc-5f0583f0c42e.jpeg"
+    },
+    "ownerUser": {
+     "id": "user_iMb2AkILST2gi",
+     "username": "aala",
+     "name": "aala"
+    }
+   },
+   {
+    "id": "biz_ErU5FsLFZNdox9",
+    "title": "Profit Pursuit",
+    "route": "profit-pursuit-io",
+    "verified": false,
+    "creatorPitch": "I’ve dedicated my career to helping entrepreneurs thrive in e-commerce. With years of experience in Amazon FBA and e-commerce innovation, I’m passionate about guiding others to achieve financial empowerment and success.",
+    "businessType": "education",
+    "industryType": "cook_groups",
+    "memberCount": 247,
+    "publishedReviewsCount": 13,
+    "reviewsAverage": 4.85,
+    "createdAt": 1691201473,
+    "logo": {
+     "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-04-01/user_22235_7dc74cfb-56a0-4d25-be05-cb1149de40a9.png"
+    },
+    "ownerUser": {
+     "id": "user_UdOirgptudFDU",
+     "username": "pinkpantherr",
+     "name": "Pink Panther"
+    }
+   },
+   {
+    "id": "biz_akVtM371ILUYlW",
+    "title": "Hidden Society",
+    "route": "hidden-society",
+    "verified": true,
+    "creatorPitch": "The creator of Hidden Society built this community with a simple mission: to change lives. What started as a passion for reselling grew into a movement, empowering individuals to unlock financial freedom. With a deep understanding of markets and unmatched dedication, he proves that with the right mindset, tools, and community, anyone can achieve extraordinary success.",
+    "businessType": "education",
+    "industryType": "cook_groups",
+    "memberCount": 36330,
+    "publishedReviewsCount": 1512,
+    "reviewsAverage": 4.97,
+    "createdAt": 1660857116,
+    "logo": {
+     "sourceUrl": "https://assets-2-prod.whop.com/public/access_passes/images/16220.original."
+    },
+    "ownerUser": {
+     "id": "user_Op2lfyrShMKEJ",
+     "username": "topkek",
+     "name": "topkek"
+    }
+   }
+  ]
+ },
+ "reviews": {
+  "totalCount": 1
+ }
+}

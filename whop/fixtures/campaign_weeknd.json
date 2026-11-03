@@ -1,0 +1,342 @@
+{
+ "card": {
+  "banner": "8caa4416-8b1b-5ec8-8fe0-6593859bb2d3/campaigns/thumbnails/12432947-e68c-4e0e-99c0-a5856310c904.webp",
+  "budgetCents": 150000,
+  "categories": [
+   {
+    "id": "music",
+    "name": "Music"
+   }
+  ],
+  "cpmMaxRateCents": 150,
+  "cpmMinRateCents": 150,
+  "createdAt": "2026-11-02T10:32:07.000Z",
+  "description": "Get paid per view to clip The Weeknd's Hong Kong performance on TikTok + IG. Cut the best moments from the official performance video, hook in 2s. Must add the official sound (muted) + #TheWeeknd #fayewong. Multiple posts allowed. Read brief below. Max Pay $200+",
+  "featuredScore": 349343,
+  "geoPriced": false,
+  "id": "4c7d1ede-2fca-406a-971d-f651880168aa",
+  "launchDate": "2026-11-02T10:32:42.000Z",
+  "listedAt": "2026-11-02T10:32:42.000Z",
+  "metrics": {
+   "approvedSubmissionCount": 0,
+   "budgetProgressBps": 0,
+   "budgetSpentCents": 0,
+   "chartPoints": [
+    {
+     "approvedSubmissionCount": 0,
+     "bucket": "2026-10-04T00:00:00.000Z",
+     "totalViews": 0
+    },
+    {
+     "approvedSubmissionCount": 0,
+     "bucket": "2026-10-05T00:00:00.000Z",
+     "totalViews": 0
+    },
+    {
+     "approvedSubmissionCount": 0,
+     "bucket": "2026-10-06T00:00:00.000Z",
+     "totalViews": 0
+    },
+    {
+     "approvedSubmissionCount": 0,
+     "bucket": "2026-10-07T00:00:00.000Z",
+     "totalViews": 0
+    },
+    {
+     "approvedSubmissionCount": 0,
+     "bucket": "2026-10-08T00:00:00.000Z",
+     "totalViews": 0
+    },
+    {
+     "approvedSubmissionCount": 0,
+     "bucket": "2026-10-09T00:00:00.000Z",
+     "totalViews": 0
+    },
+    {
+     "approvedSubmissionCount": 0,
+     "bucket": "2026-10-10T00:00:00.000Z",
+     "totalViews": 0
+    },
+    {
+     "approvedSubmissionCount": 0,
+     "bucket": "2026-10-11T00:00:00.000Z",
+     "totalViews": 0
+    },
+    {
+     "approvedSubmissionCount": 0,
+     "bucket": "2026-10-12T00:00:00.000Z",
+     "totalViews": 0
+    },
+    {
+     "approvedSubmissionCount": 0,
+     "bucket": "2026-10-13T00:00:00.000Z",
+     "totalViews": 0
+    },
+    {
+     "approvedSubmissionCount": 0,
+     "bucket": "2026-10-14T00:00:00.000Z",
+     "totalViews": 0
+    },
+    {
+     "approvedSubmissionCount": 0,
+     "bucket": "2026-10-15T00:00:00.000Z",
+     "totalViews": 0
+    },
+    {
+     "approvedSubmissionCount": 0,
+     "bucket": "2026-10-16T00:00:00.000Z",
+     "totalViews": 0
+    },
+    {
+     "approvedSubmissionCount": 0,
+     "bucket": "2026-10-17T00:00:00.000Z",
+     "totalViews": 0
+    },
+    {
+     "approvedSubmissionCount": 0,
+     "bucket": "2026-10-18T00:00:00.000Z",
+     "totalViews": 0
+    },
+    {
+     "approvedSubmissionCount": 0,
+     "bucket": "2026-10-19T00:00:00.000Z",
+     "totalViews": 0
+    },
+    {
+     "approvedSubmissionCount": 0,
+     "bucket": "2026-10-20T00:00:00.000Z",
+     "totalViews": 0
+    },
+    {
+     "approvedSubmissionCount": 0,
+     "bucket": "2026-10-21T00:00:00.000Z",
+     "totalViews": 0
+    },
+    {
+     "approvedSubmissionCount": 0,
+     "bucket": "2026-10-22T00:00:00.000Z",
+     "totalViews": 0
+    },
+    {
+     "approvedSubmissionCount": 0,
+     "bucket": "2026-10-23T00:00:00.000Z",
+     "totalViews": 0
+    },
+    {
+     "approvedSubmissionCount": 0,
+     "bucket": "2026-10-24T00:00:00.000Z",
+     "totalViews": 0
+    },
+    {
+     "approvedSubmissionCount": 0,
+     "bucket": "2026-10-25T00:00:00.000Z",
+     "totalViews": 0
+    },
+    {
+     "approvedSubmissionCount": 0,
+     "bucket": "2026-10-26T00:00:00.000Z",
+     "totalViews": 0
+    },
+    {
+     "approvedSubmissionCount": 0,
+     "bucket": "2026-10-27T00:00:00.000Z",
+     "totalViews": 0
+    },
+    {
+     "approvedSubmissionCount": 0,
+     "bucket": "2026-10-28T00:00:00.000Z",
+     "totalViews": 0
+    },
+    {
+     "approvedSubmissionCount": 0,
+     "bucket": "2026-10-29T00:00:00.000Z",
+     "totalViews": 0
+    },
+    {
+     "approvedSubmissionCount": 0,
+     "bucket": "2026-10-30T00:00:00.000Z",
+     "totalViews": 0
+    },
+    {
+     "approvedSubmissionCount": 0,
+     "bucket": "2026-10-31T00:00:00.000Z",
+     "totalViews": 0
+    },
+    {
+     "approvedSubmissionCount": 0,
+     "bucket": "2026-11-01T00:00:00.000Z",
+     "totalViews": 0
+    },
+    {
+     "approvedSubmissionCount": 0,
+     "bucket": "2026-11-02T00:00:00.000Z",
+     "totalViews": 0
+    },
+    {
+     "approvedSubmissionCount": 0,
+     "bucket": "2026-11-03T00:00:00.000Z",
+     "totalViews": 0
+    }
+   ],
+   "creatorCount": 0,
+   "metricsUpdatedAt": "2026-11-03T10:20:17.000Z",
+   "paidOutCents": 0,
+   "topClips": [],
+   "topEarners": [],
+   "totalViews": 0
+  },
+  "name": "The Weeknd - Hong Kong Performance Clipping",
+  "organizationExperienceId": "exp_6z7XkoY9ESnz2i",
+  "organizationId": "8caa4416-8b1b-5ec8-8fe0-6593859bb2d3",
+  "organizationLogoUrl": "organizations/8caa4416-8b1b-5ec8-8fe0-6593859bb2d3/logo/8caa4416-8b1b-5ec8-8fe0-6593859bb2d3.2f79fc627a.png",
+  "organizationName": "Artist Influence",
+  "organizationProfileHandle": "artist-influence",
+  "organizationVerified": true,
+  "payouts": [
+   {
+    "maxPayoutCents": 15000,
+    "minPayoutCents": 150,
+    "payoutType": "cpm",
+    "platform": "tiktok",
+    "rateCents": 150
+   },
+   {
+    "maxPayoutCents": 15000,
+    "minPayoutCents": 150,
+    "payoutType": "cpm",
+    "platform": "instagram",
+    "rateCents": 150
+   }
+  ],
+  "payoutType": "cpm",
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "primaryPayoutCents": 150,
+  "private": false,
+  "referenceMaterials": [],
+  "requiresApplication": false,
+  "retainerSpotsTotal": 0,
+  "status": "active",
+  "updatedAt": "2026-11-03T10:20:20.000Z",
+  "briefCounts": {
+   "contentRules": 0,
+   "creatorRequirements": 1,
+   "references": 2
+  }
+ },
+ "record": {
+  "banner": "8caa4416-8b1b-5ec8-8fe0-6593859bb2d3/campaigns/thumbnails/12432947-e68c-4e0e-99c0-a5856310c904.webp",
+  "createdAt": "2026-11-02T10:31:54.000Z",
+  "description": "Get paid per view to clip The Weeknd's Hong Kong performance on TikTok + IG. Cut the best moments from the official performance video, hook in 2s. Must add the official sound (muted) + #TheWeeknd #fayewong. Multiple posts allowed. Read brief below. Max Pay $200+",
+  "feeSchedule": "standard",
+  "id": "4c7d1ede-2fca-406a-971d-f651880168aa",
+  "launchDate": "2026-11-02T10:32:42.000Z",
+  "metrics": {
+   "approvedSubmissionCount": 0,
+   "budgetProgressBps": 0,
+   "budgetSpentCents": 0,
+   "creatorCount": 0,
+   "paidOutCents": 0,
+   "totalViews": 0
+  },
+  "name": "The Weeknd - Hong Kong Performance Clipping",
+  "organization": {
+   "logoUrl": "organizations/8caa4416-8b1b-5ec8-8fe0-6593859bb2d3/logo/8caa4416-8b1b-5ec8-8fe0-6593859bb2d3.2f79fc627a.png",
+   "name": "Artist Influence",
+   "profileHandle": "artist-influence",
+   "verified": true
+  },
+  "organizationId": "8caa4416-8b1b-5ec8-8fe0-6593859bb2d3",
+  "private": false,
+  "requiresApplication": false,
+  "showBeforeLaunch": false,
+  "showOnDiscover": true,
+  "status": "active",
+  "statusChangedAt": "2026-11-02T10:32:41.610Z",
+  "statusReason": "funded",
+  "updatedAt": "2026-11-02T10:32:41.000Z",
+  "configuration": {
+   "content": {
+    "contentCategories": [
+     {
+      "id": "music",
+      "name": "Music"
+     }
+    ],
+    "contentTypes": [
+     {
+      "id": "clipping",
+      "name": "Clipping"
+     },
+     {
+      "id": "ugc-with-face",
+      "name": "UGC (With Face)"
+     },
+     {
+      "id": "ugc-faceless",
+      "name": "UGC (Faceless)"
+     },
+     {
+      "id": "sound",
+      "name": "Sound"
+     },
+     {
+      "id": "reposting",
+      "name": "Reposting"
+     }
+    ]
+   },
+   "creator": {
+    "creatorTypes": [
+     {
+      "id": "influencer",
+      "name": "Influencer"
+     },
+     {
+      "id": "clipper",
+      "name": "Clipper"
+     },
+     {
+      "id": "ugc",
+      "name": "UGC Creator"
+     },
+     {
+      "id": "editor",
+      "name": "Video Editor"
+     }
+    ]
+   },
+   "display": {
+    "hiddenCreatorSubmissions": true,
+    "topPerformers": true
+   },
+   "fee": 800,
+   "requirement": {
+    "preApproval": false
+   },
+   "budget": 150000,
+   "payoutModel": [
+    {
+     "maxPayout": 15000,
+     "minPayout": 150,
+     "platform": "tiktok",
+     "rate": 150
+    },
+    {
+     "maxPayout": 15000,
+     "minPayout": 150,
+     "platform": "instagram",
+     "rate": 150
+    }
+   ]
+  },
+  "type": "cpm",
+  "briefCounts": {
+   "contentRules": 0,
+   "creatorRequirements": 1,
+   "references": 2
+  }
+ }
+}

@@ -1,0 +1,1409 @@
+{
+ "leaderboardType": "top_rated",
+ "totalCount": 23,
+ "results": [
+  {
+   "currentRank": 1,
+   "previousRank": null,
+   "currentScore": 11.0,
+   "previousScore": null,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_1I3a0eGwnV89m",
+    "title": "QuantBy Membership",
+    "route": "quantby-membership",
+    "headline": "Verified algorithmic strategies. Automated execution.",
+    "shortenedDescription": "Get real-time copy trade signals, live strategy updates, and direct access to the QuantBy trading community. No experience required — just follow the trades and execute alongside our verified quant strategies.",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "long_term_investing",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 1097,
+    "memberCount": 1097,
+    "publishedReviewsCount": 674,
+    "reviewsAverage": 4.81,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": true,
+    "hasPaidAvailablePlan": false,
+    "globalAffiliatePercentage": 20.0,
+    "createdAt": 1782297679,
+    "discoverableAt": 1783362632,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/user_29727466/image/bots/2026-06-24/4cc98162-aa68-4336-89f5-75b3b16ec490.png"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/user_29727466/image/bots/2026-06-24/8f828867-e2bd-4929-9fda-b91b7e50d273.png"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/user_29727466/image/bots/2026-06-24/fb8fc455-99a1-475f-92ba-dff683f3ebfc.png"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/user_29727466/image/bots/2026-06-24/632544cc-0fb6-4920-858d-ab954a2213c3.png"
+     }
+    ],
+    "company": {
+     "id": "biz_ZUE4hw7TdvYrv5",
+     "route": "quantby",
+     "title": "QuantBy",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_kI9f4q4ByIILW",
+     "formattedPrice": "Free",
+     "formattedPeriodV2": "one-time purchase",
+     "rawInitialPrice": 0.0,
+     "rawRenewalPrice": 0.0,
+     "baseCurrency": "usd",
+     "planType": "one_time",
+     "billingPeriod": null,
+     "releaseMethod": "buy_now",
+     "free": true,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 2,
+   "previousRank": 3,
+   "currentScore": 9.0,
+   "previousScore": 5.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_Gq5OktWc3hGNK",
+    "title": "Clip Farm",
+    "route": "clip-farm-d5",
+    "headline": "Join the #1 Clipping Community on Whop, by Airrack.",
+    "shortenedDescription": "The #1 Clipping Community on Whop\n\nJoin the premiere group of content creators and clippers, brought to you by Airrack. \n\nIn this community, you will be taught everything you need to know about content, clipping, going viral, and making money using those skills.\n\nYou also will gain access to Clip Farm exclusive campaigns, such as Stake, Party Next Door, Airrack, and many others coming soon.\n\nIf you want to get into clipping but don't know where to start, or already have clipping experience and want a community of like-minded creators, then Clip Farm is the place for you.",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "video_clipping_training",
+    "marketplaceStatus": "live_marketplace",
+    "verified": true,
+    "whopRanking": null,
+    "activeUsersCount": 561571,
+    "memberCount": 561571,
+    "publishedReviewsCount": 5232,
+    "reviewsAverage": 4.57,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": true,
+    "hasPaidAvailablePlan": false,
+    "globalAffiliatePercentage": 0.0,
+    "createdAt": 1754532758,
+    "discoverableAt": 1755737933,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-08-19/user_2427402_4c0f9df1-73c1-4165-ac79-1c1f4e4989cd.mp4"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-08-18/user_2427402_72071b51-e71d-4f0a-87f7-378de66d27e5.jpeg"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-08-17/user_9171196_92e211c5-c820-4a26-a6bc-66866302862f.jpeg"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-08-17/user_9171196_856f9748-ed10-4c4b-8416-a96fa270afb1.jpeg"
+     }
+    ],
+    "company": {
+     "id": "biz_11XCiCYU5NQqLk",
+     "route": "clip-farm-official",
+     "title": "Clip Farm",
+     "verified": true
+    },
+    "defaultPlan": {
+     "id": "plan_QLorm0YvUbPPv",
+     "formattedPrice": "Free",
+     "formattedPeriodV2": "one-time purchase",
+     "rawInitialPrice": 0.0,
+     "rawRenewalPrice": 0.0,
+     "baseCurrency": "usd",
+     "planType": "one_time",
+     "billingPeriod": null,
+     "releaseMethod": "buy_now",
+     "free": true,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 3,
+   "previousRank": null,
+   "currentScore": 6.0,
+   "previousScore": null,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_2GPsFoXlrFVJs",
+    "title": "MOON LIFETIME(50% OFF⚠️)",
+    "route": "moon-lifetime",
+    "headline": "All-Inclusive Stock Trading: Real-Time Alerts & Premium Tools",
+    "shortenedDescription": "Live stocks & options trading, unusual flow, alerts, and a real trading floor. Built for traders who want real edge.",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "options_trading",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 81,
+    "memberCount": 81,
+    "publishedReviewsCount": 86,
+    "reviewsAverage": 4.95,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 30.0,
+    "createdAt": 1791243271,
+    "discoverableAt": 1791243982,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2026-10-06/1b3c1d09-ae6d-4462-8863-f967d46af464/image.jpeg"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2026-10-08/d4e3f17c-e80c-4752-a992-ff126943534d/image.jpeg"
+     }
+    ],
+    "company": {
+     "id": "biz_8NKYyPeaej6Mr1",
+     "route": "trading-29fd",
+     "title": "Moon Trades Vip",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_L0pXUXxCZZxS5",
+     "formattedPrice": "$299.99",
+     "formattedPeriodV2": "one-time purchase",
+     "rawInitialPrice": 299.99,
+     "rawRenewalPrice": 0.0,
+     "baseCurrency": "usd",
+     "planType": "one_time",
+     "billingPeriod": null,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 3,
+   "previousRank": null,
+   "currentScore": 6.0,
+   "previousScore": null,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_xrorOBzXw93aH",
+    "title": "MOON VIP",
+    "route": "moon-vip",
+    "headline": "All-Inclusive Stock Trading: Real-Time Alerts & Premium Tools",
+    "shortenedDescription": "Live stocks & options trading, unusual flow, alerts, and a real trading floor. Built for traders who want real edge.\n\n",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "options_trading",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 302,
+    "memberCount": 302,
+    "publishedReviewsCount": 86,
+    "reviewsAverage": 4.95,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 50.0,
+    "createdAt": 1791243179,
+    "discoverableAt": 1791660273,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2026-10-06/a8cac0cf-2e6c-4eef-9c53-4bcb59236246/image.jpeg"
+     }
+    ],
+    "company": {
+     "id": "biz_8NKYyPeaej6Mr1",
+     "route": "trading-29fd",
+     "title": "Moon Trades Vip",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_pELJuDrlrVICs",
+     "formattedPrice": "$49.99 / month",
+     "formattedPeriodV2": "/ month",
+     "rawInitialPrice": 0.0,
+     "rawRenewalPrice": 49.99,
+     "baseCurrency": "usd",
+     "planType": "renewal",
+     "billingPeriod": 30,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 4,
+   "previousRank": null,
+   "currentScore": 5.0,
+   "previousScore": null,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_sgmktjunYQelR",
+    "title": "Owls Free Access",
+    "route": "owls-options-traders-free",
+    "headline": "Elevate Your Trading with Expert Insights",
+    "shortenedDescription": "Join our trading community for basic educational resources, 24/7 customer support. \n\n",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "options_trading",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 19310,
+    "memberCount": 19310,
+    "publishedReviewsCount": 2122,
+    "reviewsAverage": 4.93,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": true,
+    "hasPaidAvailablePlan": false,
+    "globalAffiliatePercentage": 15.0,
+    "createdAt": 1701655137,
+    "discoverableAt": 1732284900,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2026-09-07/d51e39fe-791b-44f4-a99c-ecafebaf20ea/image.png"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2024-11-22/user_6083186_1f74a5b6-76d6-47f0-8d34-9e56207c231e.qt"
+     }
+    ],
+    "company": {
+     "id": "biz_ND1OyxcwzRsQq6",
+     "route": "owls-options-traders",
+     "title": "Owls Options Traders",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_JwapwhZcxINce",
+     "formattedPrice": "Free",
+     "formattedPeriodV2": "one-time purchase",
+     "rawInitialPrice": 0.0,
+     "rawRenewalPrice": 0.0,
+     "baseCurrency": "usd",
+     "planType": "one_time",
+     "billingPeriod": null,
+     "releaseMethod": "buy_now",
+     "free": true,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 5,
+   "previousRank": null,
+   "currentScore": 3.0,
+   "previousScore": null,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_KBFeNDMuEoedZ",
+    "title": "Diamond 💎",
+    "route": "get-diamond",
+    "headline": "All You Need to Build, Launch & Scale Etsy and Shopify Dropshipping Stores",
+    "shortenedDescription": "📌 Course Last Updated: October 30th, 2026\n- New & Improved Etsy Ban Evasion Methods\n- New Anti-AI Image Detection Method\n- Complete Etsy & Shopify Dropshipping A-Z Courses\n- Complete Etsy Digital A-Z Course (13 Playbooks)\n- Advanced Etsy & Shopify Scaling Strategies\n- Exclusive Software & Tools, Including Etsy Listing Studio & Chrome Extension\n- Weekly LIVE Etsy & Shopify Calls\n- Private 1:1 Ticket Support & Store Audits\n- Exclusive Weekly Product Drops\n- SOPs, Templates & Resources\n- Limited-Time Monthly Diamond 1:1 Calls\n- Continuous Updates, New Lessons & So Much More",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "etsy_business_training",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 0,
+    "memberCount": 0,
+    "publishedReviewsCount": 69,
+    "reviewsAverage": 4.87,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 30.0,
+    "createdAt": 1786027365,
+    "discoverableAt": 1789388296,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2026-10-30/c73ff5c7-1108-48e1-b686-a68ecbd77567/image.png"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2026-09-16/9e50172f-8ba0-4a1c-a2d5-e448d95ac9e7/image.png"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2026-09-16/82fd4186-f7aa-4a28-a709-a6e6ad14ed3a/image.png"
+     }
+    ],
+    "company": {
+     "id": "biz_tXbCXmZhHB7CmV",
+     "route": "etsymafia",
+     "title": "Etsy Mafia",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_sq7Y7KtOFPY0q",
+     "formattedPrice": "£70.00 / month",
+     "formattedPeriodV2": "/ month",
+     "rawInitialPrice": 0.0,
+     "rawRenewalPrice": 70.0,
+     "baseCurrency": "gbp",
+     "planType": "renewal",
+     "billingPeriod": 30,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 5,
+   "previousRank": 1,
+   "currentScore": 3.0,
+   "previousScore": 13.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_Xr0lRBB6Ih8Lx",
+    "title": "Wolves Of Wealth VIP Store",
+    "route": "wolves-of-wealth-vip-access",
+    "headline": "Join Wolves of Wealth to learn from top traders",
+    "shortenedDescription": "Achieve financial freedom with Wolves University: exclusive watchlists, expert videos, and a thriving community to boost your trading skills.\n\nALL MEMBERSHIPS 50% OFF\n\n5 LIFETIME AVAILABLE WITH PAYMENT PLAN\n\nLAST CHANCE FOR LIFETIME MEMBERSHIPS\n50% OFF ALL NEXT MEMBERSHIPS SOLD 48 HOURS\n\nDISCOUNT APPLIED BEFORE CHECKOUT: NO CODE NEEDED (THE PRICE YOU SEE IS DISCOUNTED)",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "options_trading",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 1772,
+    "memberCount": 1772,
+    "publishedReviewsCount": 424,
+    "reviewsAverage": 4.93,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 50.0,
+    "createdAt": 1680287368,
+    "discoverableAt": 1763832005,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2024-09-25/user_149783_b6d47feb-0288-4bb5-b38c-0fece2773c29.png"
+     }
+    ],
+    "company": {
+     "id": "biz_0z7GtX2cI9W2ZZ",
+     "route": "wolves-of-wealth",
+     "title": "Wolves Of Wealth",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_o0zN8omtn6IBG",
+     "formattedPrice": "$100.00 / month",
+     "formattedPeriodV2": "/ month",
+     "rawInitialPrice": 0.0,
+     "rawRenewalPrice": 100.0,
+     "baseCurrency": "usd",
+     "planType": "renewal",
+     "billingPeriod": 30,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 5,
+   "previousRank": 5,
+   "currentScore": 3.0,
+   "previousScore": 3.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_B2212ff3peAWm",
+    "title": "BloxClips",
+    "route": "bloxclips-19",
+    "headline": "#1 Gaming Clipping Platform! ",
+    "shortenedDescription": "Clip for Gaming !",
+    "accessPassType": "regular",
+    "businessType": "services",
+    "industryType": "influencer_marketing",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 154136,
+    "memberCount": 154136,
+    "publishedReviewsCount": 1423,
+    "reviewsAverage": 4.77,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": true,
+    "hasPaidAvailablePlan": false,
+    "globalAffiliatePercentage": 30.0,
+    "createdAt": 1771118085,
+    "discoverableAt": 1771118386,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/user_6089921/image/bots/2026-05-12/0491204c-670f-4f11-ad0e-93bc43710bfe.png"
+     }
+    ],
+    "company": {
+     "id": "biz_kahKgVc4yCcDae",
+     "route": "bloxclips",
+     "title": "BloxClips",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_hoszzWIv3uFzu",
+     "formattedPrice": "Free",
+     "formattedPeriodV2": "one-time purchase",
+     "rawInitialPrice": 0.0,
+     "rawRenewalPrice": 0.0,
+     "baseCurrency": "usd",
+     "planType": "one_time",
+     "billingPeriod": null,
+     "releaseMethod": "buy_now",
+     "free": true,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 5,
+   "previousRank": null,
+   "currentScore": 3.0,
+   "previousScore": null,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_e0gViXliKTiki",
+    "title": "CET Picks financing",
+    "route": "cet-picks-financing",
+    "headline": "“Built Different. Paid Different 💙",
+    "shortenedDescription": "📊 Daily NBA & NFL Picks\n\t•\t💰 Unit-Based Strategy\n\t•\t🔥 Locked-In Plays Only\n\t•\t🪜 Ladder challenges \n\nAll sales are final once payment is completed.\nDue to the nature of our digital service and instant access to premium content, analytics, and community features, we do not offer refunds, cancellations, or chargebacks.\nPlease read all details carefully before joining.",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "sports_betting_picks",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 0,
+    "memberCount": 0,
+    "publishedReviewsCount": 74,
+    "reviewsAverage": 4.8,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 30.0,
+    "createdAt": 1771042645,
+    "discoverableAt": 1789623691,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/user_14197069/image/bots/2026-02-14/c2d126b9-3f3c-4580-a6a3-cbd2ac558eb9.jpeg"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/user_14197069/image/bots/2026-02-14/cdc24d5f-eefe-44c4-a0fe-5490e22dd626.jpeg"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/user_14197069/image/bots/2026-02-14/77140361-8e20-4768-889f-da4345c596cc.jpeg"
+     }
+    ],
+    "company": {
+     "id": "biz_RjG34oYvkHF8Mg",
+     "route": "cet-picks",
+     "title": "Cet Picks",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_Y78q32AbI8cDG",
+     "formattedPrice": "$15.00 / 14 days",
+     "formattedPeriodV2": "/ 2 weeks",
+     "rawInitialPrice": 0.0,
+     "rawRenewalPrice": 15.0,
+     "baseCurrency": "usd",
+     "planType": "renewal",
+     "billingPeriod": 14,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 5,
+   "previousRank": 5,
+   "currentScore": 3.0,
+   "previousScore": 3.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_zqBf4n22Oo0zg",
+    "title": "Content Rewards",
+    "route": "join-content-rewards-hub",
+    "headline": "The Operating System for the World's Marketing Spend",
+    "shortenedDescription": "Brands and artists fund campaigns here. 500,000+ clippers get paid for the views they create. Pick a campaign, post your clip, earn per view. New campaigns drop daily.",
+    "accessPassType": "regular",
+    "businessType": "platform",
+    "industryType": "clipping_campaign_marketplace",
+    "marketplaceStatus": "live_marketplace",
+    "verified": true,
+    "whopRanking": null,
+    "activeUsersCount": 615302,
+    "memberCount": 615302,
+    "publishedReviewsCount": 4951,
+    "reviewsAverage": 4.79,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": true,
+    "hasPaidAvailablePlan": false,
+    "globalAffiliatePercentage": 30.0,
+    "createdAt": 1764365791,
+    "discoverableAt": 1764740481,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2026-08-30/2ed7df98-fd05-4f2a-86c7-1c5ec3ed31ff/image.png"
+     }
+    ],
+    "company": {
+     "id": "biz_4TU9rSTro4AgNa",
+     "route": "contentrewards",
+     "title": "Content Rewards",
+     "verified": true
+    },
+    "defaultPlan": {
+     "id": "plan_nxzEOgrTX3EtR",
+     "formattedPrice": "Free",
+     "formattedPeriodV2": "one-time purchase",
+     "rawInitialPrice": 0.0,
+     "rawRenewalPrice": 0.0,
+     "baseCurrency": "usd",
+     "planType": "one_time",
+     "billingPeriod": null,
+     "releaseMethod": "buy_now",
+     "free": true,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 5,
+   "previousRank": null,
+   "currentScore": 3.0,
+   "previousScore": null,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_a7A5nnLYdeK4J",
+    "title": "Interactive Roblox TikTok LIVE",
+    "route": "avatar-rating-control",
+    "headline": "Interactive Roblox TikTok LIVE",
+    "shortenedDescription": "🎮 **Interactive Roblox TikTok LIVE Competition**\n\nTurn your TikTok LIVE into an interactive Roblox experience with **LIVEFORGE!**\n\nViewers submit Roblox usernames in chat, receive random avatar ratings and compete for the top spot!\n\n✨ **Features**\n- Random avatar ratings & leaderboards\n- Roses: queue priority 🌹\n- Donuts: avatar glow ✨\n- Bouquets (20 diamonds): bigger avatars 🎁\n- Live dashboard to manage contestants\n- Easy Windows desktop app\n\n🚀 I grew my TikTok account to **2,000 followers in 4 days** using this concept! Results vary.\n\n📦 **Includes:** LIVEFORGE app, Roblox game, TikTok integration, dashboard, gift effects and support.\n\n💻 **Requirements:** Windows 10/11, Roblox, TikTok LIVE access and internet. No Node.js needed!\n\n🔗 **Setup:** https://nikita12122.github.io/avatar-rating-guide/\n\n🎮 **Game:** https://www.roblox.com/games/105330993261126/interactive-2\n\n❤️ **Support:** Discord `imtheonebeach`\n\nSend your Roblox username to get whitelisted.\n\n**LIVEFORGE — Tools made for creators.**",
+    "accessPassType": "regular",
+    "businessType": "software",
+    "industryType": "live_stream_production",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 12,
+    "memberCount": 12,
+    "publishedReviewsCount": 3,
+    "reviewsAverage": 5.0,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 30.0,
+    "createdAt": 1791884068,
+    "discoverableAt": 1792839399,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2026-10-13/88430672-c1bc-4c4b-a282-bd38313e03a4/image.png"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2026-10-23/760bcf5e-a2cf-4eab-bbf4-f4fd9e92651a/image.png"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2026-10-23/669427ff-885a-405d-aa7d-cbc1fa5394ae/image.png"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2026-10-23/1c5fd304-86cb-433b-886c-476cd320a7ab/image.png"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2026-10-13/2dd9459d-dce5-4a24-aa25-7ca8a63f56d6/image.png"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2026-10-13/4a3c19ad-9f0b-4f6f-a367-8ef7bb121deb/video.mp4"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2026-10-13/5f73440f-980b-4cf9-bb8f-7b63b3816f66/image.png"
+     }
+    ],
+    "company": {
+     "id": "biz_RqJy1X8u4NxUY7",
+     "route": "liveforge",
+     "title": "LiveForge",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_yMew2WH43Ve6R",
+     "formattedPrice": "$7.00",
+     "formattedPeriodV2": "one-time purchase",
+     "rawInitialPrice": 7.0,
+     "rawRenewalPrice": 0.0,
+     "baseCurrency": "usd",
+     "planType": "one_time",
+     "billingPeriod": null,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 5,
+   "previousRank": null,
+   "currentScore": 3.0,
+   "previousScore": null,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_CAEhisd8cBcTp",
+    "title": "MOON Community",
+    "route": "moon-community",
+    "headline": "All-Inclusive Stock Trading: Real-Time Alerts & Premium Tools",
+    "shortenedDescription": "Live stocks & options trading, unusual flow, alerts, and a real trading floor. Built for traders who want real edge.",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "options_trading",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 111,
+    "memberCount": 111,
+    "publishedReviewsCount": 86,
+    "reviewsAverage": 4.95,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 30.0,
+    "createdAt": 1791451534,
+    "discoverableAt": 1793583673,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2026-10-08/36037b9a-a152-4619-aa01-cadaf4b56dd8/image.jpeg"
+     }
+    ],
+    "company": {
+     "id": "biz_8NKYyPeaej6Mr1",
+     "route": "trading-29fd",
+     "title": "Moon Trades Vip",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_W2H3ISkxdW2tF",
+     "formattedPrice": "$15.00 / week",
+     "formattedPeriodV2": "/ week",
+     "rawInitialPrice": 0.0,
+     "rawRenewalPrice": 15.0,
+     "baseCurrency": "usd",
+     "planType": "renewal",
+     "billingPeriod": 7,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 6,
+   "previousRank": null,
+   "currentScore": 2.0,
+   "previousScore": null,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_sHjNvsMOSN8j9",
+    "title": "Owls Full Access",
+    "route": "owls-options-traders",
+    "headline": "All-Inclusive Stock Trading: Real-Time Alerts & Premium Tools",
+    "shortenedDescription": "Live stocks &amp; options trading, unusual flow, alerts, and a real trading floor. Built for traders who want real edge.",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "options_trading",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 2947,
+    "memberCount": 2947,
+    "publishedReviewsCount": 2122,
+    "reviewsAverage": 4.93,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 15.0,
+    "createdAt": 1685939315,
+    "discoverableAt": 1733081664,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/user_18097050/video/bots/2026-06-25/0be67448-7ca5-4a46-a4bc-653a41b08441.mp4"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2026-09-07/a79ed1a7-8ad2-43a0-b748-c1e33e39b4a3/image.png"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2026-09-07/522e71aa-11dc-412f-b823-3469d70a1694/image.png"
+     }
+    ],
+    "company": {
+     "id": "biz_ND1OyxcwzRsQq6",
+     "route": "owls-options-traders",
+     "title": "Owls Options Traders",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_LqG0AiQbGFFFr",
+     "formattedPrice": "$59.99 / 28 days",
+     "formattedPeriodV2": "/ 4 weeks",
+     "rawInitialPrice": 0.0,
+     "rawRenewalPrice": 59.99,
+     "baseCurrency": "usd",
+     "planType": "renewal",
+     "billingPeriod": 28,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 6,
+   "previousRank": null,
+   "currentScore": 2.0,
+   "previousScore": null,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_pOJsDr9I8SmIR",
+    "title": "ClipHouse ",
+    "route": "cliphouse-5c",
+    "headline": "Join ClipHouse To Start Earning Money Today!",
+    "shortenedDescription": "**Turn Content Into Cash with ClipHouse**    \n\n\nJoin the **#1 Clipping Community** built for creators who want to get paid for posting content.\n\nAt ClipHouse, we don’t just teach clipping — we give you **real campaigns, real content, and real opportunities to earn.** Work with top creators and brands by turning their best moments into viral clips across TikTok and Instagram.    \n\n\n**What You Get:**\n\n- 📦 **Active Campaigns** – Access ready-to-clip content from active clients\n- 💰 **Performance-Based Earnings** – Get rewarded for views and engagement\n- 🧠 **Proven Clip Strategies** – Learn what actually goes viral\n- 🤝 **Active Community** – Connect with other clippers, share wins, and improve fast  \n\n\nWhether you're just starting or already clipping, ClipHouse gives you the **system, volume, and support** to scale.    \n\n\nStart clipping. Start earning. 🚀",
+    "accessPassType": "regular",
+    "businessType": "services",
+    "industryType": "managed_clipping_campaigns",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 26393,
+    "memberCount": 26393,
+    "publishedReviewsCount": 194,
+    "reviewsAverage": 4.6,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": true,
+    "hasPaidAvailablePlan": false,
+    "globalAffiliatePercentage": 0.0,
+    "createdAt": 1777614647,
+    "discoverableAt": 1777671224,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/user_20298161/image/bots/2026-05-12/bc3ef729-acd4-400e-9662-6a1532428a71.jpeg"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/user_20298161/image/bots/2026-05-01/19fd21c4-5f1f-484b-99b6-6c3802896a1d.jpeg"
+     }
+    ],
+    "company": {
+     "id": "biz_AXadO5izvB1S23",
+     "route": "the-cliphouse",
+     "title": "ClipHouse",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_exsu8o2ZlnhAx",
+     "formattedPrice": "Free",
+     "formattedPeriodV2": "one-time purchase",
+     "rawInitialPrice": 0.0,
+     "rawRenewalPrice": 0.0,
+     "baseCurrency": "usd",
+     "planType": "one_time",
+     "billingPeriod": null,
+     "releaseMethod": "buy_now",
+     "free": true,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 6,
+   "previousRank": null,
+   "currentScore": 2.0,
+   "previousScore": null,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_tmryvTHWxArS5",
+    "title": "KEEZYLOCKS PREMIUM",
+    "route": "keezylocks-premium",
+    "headline": "DAILY DATA-BACKED PLAYS  FULL SLIPS + THE COMPLETE SYSTEM",
+    "shortenedDescription": "UNLOCK THE FULL SYSTEM 💎\n\nDaily plays, full slips, and detailed research from me + our Discord analyst team.\n\nKnow what we’re taking, why we’re taking it, and how we’re playing it.\n\n📈 No red month in our tracked results to date.\nDaily audits showing wins, losses, and net units.\n\n💎 WHAT YOU GET\n\n🎯 10+ Daily Plays + Full Slips\nPrimary plays, alternate lines, and complete builds with unit guidance.\n\n📊 Detailed Breakdowns\nRelevant stats, matchup analysis, and price comparisons.\n\n🧠 Discord Analyst Team\nAdditional plays, multiple perspectives, and direct access to me + the team.\n\n🌎 All-Sport Coverage\nWe follow the value across sports, leagues, and markets.\n\n🚨 Live Alerts\nUpdates as injuries, news, and lines change.\n\n📈 Transparent Daily Audits\nWins, losses, voids, and net units tracked.\n\n🔥 STRUCTURE BEHIND THE SLIPS\n\nGet “How I’m Playing It” guidance, bankroll management, and help choosing straights versus parlays. Learn when to take a play, adjust, or pass.\n\nFREE: SELECTED PLAYS\nPREMIUM: FULL SLIPS, RESEARCH + TEAM ACCESS\n\n🔒 FOUNDERS PRICING • LIMITED SPOTS\n\nJoin before pricing increases for new members. Keep your founders rate while your subscription stays active.\n\nJOIN KEEZYLOCKS PREMIUM\n10% OFF WITH CODE “KEEZY” 📈\n\nBetting carries risk. Past results do not guarantee future performance.",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "sports_betting_picks",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 0,
+    "memberCount": 0,
+    "publishedReviewsCount": 101,
+    "reviewsAverage": 4.96,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 0.0,
+    "createdAt": 1774167070,
+    "discoverableAt": 1774168208,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2026-10-02/e5653dd5-8533-41e0-b24d-cf3da6173217/image.png"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2026-10-02/696ec4eb-0e22-4674-9674-e8a4d16c28d9/image.png"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2026-10-06/8505ab7a-8c09-400f-b94f-aa72720ff98d/image.png"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2026-10-06/cfa42615-a863-4b66-92da-71d78c8d4b9e/image.png"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2026-10-02/22d256cb-6fb1-49f2-8e7d-c9d05ddb52bf/image.png"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2026-10-02/0e3bbbad-4ff2-45fc-9ac4-fcc80fd43993/image.png"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2026-10-02/194b89b4-c8d2-4668-a77a-1d1093b06af9/image.png"
+     }
+    ],
+    "company": {
+     "id": "biz_5V0gLrxCmN9X3o",
+     "route": "keezylocks-ebc6",
+     "title": "keezylocks",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_tHzEpeYuanpxc",
+     "formattedPrice": "$19.99 / week",
+     "formattedPeriodV2": "/ week",
+     "rawInitialPrice": 0.0,
+     "rawRenewalPrice": 19.99,
+     "baseCurrency": "usd",
+     "planType": "renewal",
+     "billingPeriod": 7,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 6,
+   "previousRank": null,
+   "currentScore": 2.0,
+   "previousScore": null,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_HfxINmmNxCwC7",
+    "title": "TraxNYC",
+    "route": "traxnyc",
+    "headline": "Make Money Clipping TraxNYC",
+    "shortenedDescription": "TraxNYC has produced thousands of hours of content, now available for monetized redistribution. By sharing this content online, you can earn money while helping promote the TraxNYC",
+    "accessPassType": "regular",
+    "businessType": "services",
+    "industryType": "video_editing",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 9977,
+    "memberCount": 9977,
+    "publishedReviewsCount": 68,
+    "reviewsAverage": 4.65,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": true,
+    "hasPaidAvailablePlan": false,
+    "globalAffiliatePercentage": 6.0,
+    "createdAt": 1747754424,
+    "discoverableAt": 1747863204,
+    "logo": {
+     "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_1055661/image/access_passes/2025-05-20/48a0f91b-6750-4c55-9a2a-d164bd2b060d"
+    },
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-05-21/user_1055661_c4ef9ee3-c896-45e0-a348-a921e6404ec4.jpeg"
+     }
+    ],
+    "company": {
+     "id": "biz_ji6HY5f77Pl3gF",
+     "route": "traxnyc",
+     "title": "TraxNYC",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_Q570SMV09drbQ",
+     "formattedPrice": "Free",
+     "formattedPeriodV2": "one-time purchase",
+     "rawInitialPrice": 0.0,
+     "rawRenewalPrice": 0.0,
+     "baseCurrency": "usd",
+     "planType": "one_time",
+     "billingPeriod": null,
+     "releaseMethod": "buy_now",
+     "free": true,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 6,
+   "previousRank": null,
+   "currentScore": 2.0,
+   "previousScore": null,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_II9F5VcYGQnDD",
+    "title": "Join Chart Hackers!!",
+    "route": "the-chart-hackers",
+    "headline": "Get the crypto entry, sell the top, take the profit",
+    "shortenedDescription": "Get access to Dylan's (AKA: the Lord of Entry) private Discord and Telegram trading communities. Powered by Indicators and Automated trading Bots to help you win. Sign up today!",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "crypto_trading",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 570,
+    "memberCount": 570,
+    "publishedReviewsCount": 197,
+    "reviewsAverage": 4.95,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 20.0,
+    "createdAt": 1741368364,
+    "discoverableAt": 1744728566,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-03-07/user_4131425_d5d08f2d-054f-4419-9f46-6c51d1e677b9.jpeg"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/user_2952131/video/bots/2026-03-12/d10db54a-4ba3-4fd7-9ddf-087072800b56.mp4"
+     }
+    ],
+    "company": {
+     "id": "biz_H7MHVCuwetsaog",
+     "route": "the-chart-hackers",
+     "title": "Chart Hackers",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_k9HtvGxsg9Lm5",
+     "formattedPrice": "$99.00 / month",
+     "formattedPeriodV2": "/ month",
+     "rawInitialPrice": 0.0,
+     "rawRenewalPrice": 99.0,
+     "baseCurrency": "usd",
+     "planType": "renewal",
+     "billingPeriod": 30,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 6,
+   "previousRank": null,
+   "currentScore": 2.0,
+   "previousScore": null,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_scEdNiFJ9tqWy",
+    "title": "Join 338+ members already learning inside Kroxier Trading Mentorship Program!",
+    "route": "kroxier",
+    "headline": "🔥 CARIBBEAN LAUNCH SPECIAL — LIMITED PROMOTIONAL SPOTS",
+    "shortenedDescription": "Kroxier Trading is opening its doors to aspiring traders across the Caribbean!\n\nFor a limited promotional period, secure lifetime access to our complete trading mentorship program at an exclusive 95% discounted price.\n\nInside you'll receive:\n\n- 500+ trading education videos.\n- Monday–Thursday live group calls.\n- Private VIP Discord community.\n- VIP WhatsApp community.\n- Study Rooms \n- Market structure and MT5 setup guidance.\n- Beginner-to-advanced trading education.\n\nIMPORTANT Promotional pricing is only available while the allocated promotional spots remain. Once they're gone, this special offer will close.\n\nDon't wait until the next opportunity. Secure your access today!",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "forex_trading",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 338,
+    "memberCount": 338,
+    "publishedReviewsCount": 100,
+    "reviewsAverage": 4.88,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 10.0,
+    "createdAt": 1732943624,
+    "discoverableAt": 1772173328,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2026-09-07/20b5677e-708c-45aa-8e2d-46feb457fdad/image.png"
+     }
+    ],
+    "company": {
+     "id": "biz_s1d74ceaXZQMk6",
+     "route": "kroxier",
+     "title": "Kroxier ",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_dQKQQfvkVUDwk",
+     "formattedPrice": "$99.00 / month",
+     "formattedPeriodV2": "/ month",
+     "rawInitialPrice": 0.0,
+     "rawRenewalPrice": 99.0,
+     "baseCurrency": "usd",
+     "planType": "renewal",
+     "billingPeriod": 30,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 6,
+   "previousRank": null,
+   "currentScore": 2.0,
+   "previousScore": null,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_VTRphdhCXcgn6",
+    "title": "Trading Coach – Mentorship",
+    "route": "trading-mit-der-rq-strategie",
+    "headline": "Trading with a system, not on a hunch.",
+    "shortenedDescription": "The Insider Island Mentorship: work with me directly and learn trading with one clear process instead of guesswork.\n\nWhat's inside:\n• RQ Strat Deep Dive — my complete strategy in 30 chapters with 31 videos, right here on Whop\n• Weekly live trading — watch me trade and ask questions live\n• My private number — a direct line to me\n• Personal feedback on your trades\n• Journal reviews — we find your mistakes together\n• All my other trading courses: ICT, ICC, SMT, Wyckoff, Order Flow, Scalping, Prop Firms, Futures Foundations, Trading Plan & Journal\n• Everything in the Free Zone included\n• Risk and money management, trading psychology\n• Private mentorship area on Discord\n\nNot ready yet? Start with the free RQ Strat Introduction in the Free Zone.\n\n€74.99 per month incl. VAT · cancel anytime in your Whop account · access in seconds after you connect Discord.\n\nRisk disclosure: Trading involves a substantial risk of loss and is not suitable for everyone. All content is for education only and is not financial or investment advice. Past results are no guarantee of future success.",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "forex_trading",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 0,
+    "memberCount": 0,
+    "publishedReviewsCount": 6,
+    "reviewsAverage": 5.0,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 30.0,
+    "createdAt": 1791813408,
+    "discoverableAt": 1792165897,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2026-10-24/8c1507c3-53ff-40b1-8866-ecbac45ea46b/image.png"
+     }
+    ],
+    "company": {
+     "id": "biz_BvffugyUTWocn4",
+     "route": "insiderisland",
+     "title": "Insider Island",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_zSQPQqsdGm0c1",
+     "formattedPrice": "€74.99 / month",
+     "formattedPeriodV2": "/ month",
+     "rawInitialPrice": 0.0,
+     "rawRenewalPrice": 74.99,
+     "baseCurrency": "eur",
+     "planType": "renewal",
+     "billingPeriod": 30,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 6,
+   "previousRank": null,
+   "currentScore": 2.0,
+   "previousScore": null,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_en93gNaDzqB28",
+    "title": "Trade the NY Open With Me. Learn the Process Behind Every Decision.",
+    "route": "joe-trades-futures-founding-member",
+    "headline": "Real Trading. Real Decisions. Real Discipline.",
+    "shortenedDescription": "**REAL TRADING. REAL DECISIONS. REAL DISCIPLINE.**\n\nTrading isn't about being in the market every day. It's about knowing when opportunity shows up — and when to walk away.\n\nJoin me live every morning at the New York open as I navigate NQ and ES futures. Watch my setups, confirmations, order flow, risk management, and real-time decisions.\n\n**The wins. The losses. The no-trade days. All of it.**\n\nNo signals. No hype. No promises of overnight success.\n\nJust real trading education built around three pillars:\n\n**PATIENCE. CONFIRMATION. EXECUTION.**\n\n**WHAT'S INSIDE:**\n\n- **Live NY Open:** Real-time trading, market analysis, and decision-making.\n- **Can't Make It Live?** Every session is recorded. Learn on your schedule, even after work.\n- **Trading Education:** Bookmap, order flow, liquidity, absorption, opening-range setups, and risk management.\n- **Q&A & Debriefs:** Learn the WHY behind every decision.\n- **Community:** Traders focused on discipline, accountability, and protecting capital.\n\n**WHO'S THIS FOR?**\n\nTraders who want to understand the process, not chase signals.\n\nWhether you're live at the open or studying replays after work, the goal is the same:\n\n**Become a better decision-maker. Protect your capital. Trust your process.**\n\nWe're not chasing home runs. We're learning to take disciplined base hits and walk away when the market doesn't give us an opportunity.\n\n*Educational only. Futures trading involves substantial risk. No results guaranteed.*",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "futures_trading",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 41,
+    "memberCount": 41,
+    "publishedReviewsCount": 6,
+    "reviewsAverage": 5.0,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 30.0,
+    "createdAt": 1790045530,
+    "discoverableAt": 1790815283,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2026-10-30/8c243ad3-0152-4a30-a53d-e91c4173e437/video.mp4"
+     }
+    ],
+    "company": {
+     "id": "biz_ZxN1TXsi3HDYEH",
+     "route": "instagram-2575",
+     "title": "Joe Trades Futures",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_PLwFwNwGRPDNv",
+     "formattedPrice": "$97.00 / month",
+     "formattedPeriodV2": "/ month",
+     "rawInitialPrice": 0.0,
+     "rawRenewalPrice": 97.0,
+     "baseCurrency": "usd",
+     "planType": "renewal",
+     "billingPeriod": 30,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 7,
+   "previousRank": 5,
+   "currentScore": 1.0,
+   "previousScore": 3.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_GzP2T7mQi1cPY",
+    "title": "ClipCash by Artist Influence",
+    "route": "clipcashai",
+    "headline": "Post Content. Stack Cash. | Earn up to $3 per 1k Views",
+    "shortenedDescription": "[ClipCash.ai](http://ClipCash.ai) the premier creator monetization network powered by Artist Influence, one of the music industry's leading digital marketing agencies. We pay video creators real money to clip and post short-form content for major artists and labels,  no minimum following required.  \n\nPick up a campaign, clip official artist content, post to TikTok, Reels, or Shorts, and earn up to $3 per 1,000 views. Every approved clip is tracked and paid out automatically. No chasing payments, no guesswork.  \n\nOn top of base payouts, we run monthly cash bonuses, contests, giveaways, and exclusive high-paying campaigns for top performers. The more you post, the more you unlock.  \n\nA phone. A social account. That's all you need to start.  \n\nClip it. Post it. Get paid.",
+    "accessPassType": "regular",
+    "businessType": "services",
+    "industryType": "music_promotion",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 57169,
+    "memberCount": 57169,
+    "publishedReviewsCount": 1087,
+    "reviewsAverage": 4.66,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": true,
+    "hasPaidAvailablePlan": false,
+    "globalAffiliatePercentage": 0.0,
+    "createdAt": 1757438602,
+    "discoverableAt": 1757438604,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/user_17377956/image/bots/2026-04-27/6682fd00-91ac-4177-9f2a-86e38baeecf1.png"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/user_17377956/video/bots/2026-06-20/c4e76059-e6ae-4238-8b09-51aaf3b51cf7.mp4"
+     },
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-09-09/user_17377956_01423d58-c587-4034-8569-c39299e23758.mp4"
+     }
+    ],
+    "company": {
+     "id": "biz_JqTXNPGfAejUcA",
+     "route": "artist-influence",
+     "title": "Artist Influence",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_EkOFNdPsw9ix1",
+     "formattedPrice": "Free",
+     "formattedPeriodV2": "one-time purchase",
+     "rawInitialPrice": 0.0,
+     "rawRenewalPrice": 0.0,
+     "baseCurrency": "usd",
+     "planType": "one_time",
+     "billingPeriod": null,
+     "releaseMethod": "buy_now",
+     "free": true,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 7,
+   "previousRank": 5,
+   "currentScore": 1.0,
+   "previousScore": 3.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_LrE9b9rtCR8Q8",
+    "title": "Become a Whale!!!",
+    "route": "the-whale-room",
+    "headline": "Outsmart 99% of the market with Whale Room",
+    "shortenedDescription": "Get full access into Kyle's Discord And Telegram group, where you'll find all of our premium content!\n\n",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "crypto_trading",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 1348,
+    "memberCount": 1348,
+    "publishedReviewsCount": 417,
+    "reviewsAverage": 4.77,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 15.0,
+    "createdAt": 1749647516,
+    "discoverableAt": 1762153790,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2025-06-26/user_2964411_165402b8-df21-4a02-9b0b-bf522ce0cc6e.jpeg"
+     }
+    ],
+    "company": {
+     "id": "biz_eldrlBMG0uDQxU",
+     "route": "the-whale-room",
+     "title": " Whale Room",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_ns1aZsluoRs4m",
+     "formattedPrice": "$189.00 / month",
+     "formattedPeriodV2": "/ month",
+     "rawInitialPrice": 0.0,
+     "rawRenewalPrice": 189.0,
+     "baseCurrency": "usd",
+     "planType": "renewal",
+     "billingPeriod": 30,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  },
+  {
+   "currentRank": 7,
+   "previousRank": 6,
+   "currentScore": 1.0,
+   "previousScore": 2.0,
+   "isFakeRank": false,
+   "accessPass": {
+    "id": "prod_G8CNtn0islY7h",
+    "title": "KingCapSports Full Access",
+    "route": "fullaccesscheckout",
+    "headline": "The Best Premium Sports Information Available",
+    "shortenedDescription": "3000+ 5 Star Reviews ⭐️⭐️⭐️⭐️⭐️  \nProviding the best premium sports information since 2012. Follow @KingCap702 on Instagram for FREE daily insight!",
+    "accessPassType": "regular",
+    "businessType": "education",
+    "industryType": "sports_betting_picks",
+    "marketplaceStatus": "live_marketplace",
+    "verified": false,
+    "whopRanking": null,
+    "activeUsersCount": 994,
+    "memberCount": 994,
+    "publishedReviewsCount": 3966,
+    "reviewsAverage": 4.78,
+    "usdGmv": 0,
+    "last24HoursGmv": 0.0,
+    "hasFreeAvailablePlan": false,
+    "hasPaidAvailablePlan": true,
+    "globalAffiliatePercentage": 0.0,
+    "createdAt": 1716396689,
+    "discoverableAt": 1752772075,
+    "logo": null,
+    "images": [
+     {
+      "url": "https://assets-2-prod.whop.com/public/uploads/2024-12-25/user_2257209_bceff3e6-6e4a-4012-b875-5ed689ef80e1.mp4"
+     }
+    ],
+    "company": {
+     "id": "biz_Cv6mip3HVc2iIQ",
+     "route": "kingcapsports",
+     "title": "KingCapSports",
+     "verified": false
+    },
+    "defaultPlan": {
+     "id": "plan_1Ifrf5QCxb8dg",
+     "formattedPrice": "$50.00",
+     "formattedPeriodV2": "for 1 day",
+     "rawInitialPrice": 50.0,
+     "rawRenewalPrice": 0.0,
+     "baseCurrency": "usd",
+     "planType": "one_time",
+     "billingPeriod": null,
+     "releaseMethod": "buy_now",
+     "free": false,
+     "trialPeriodDays": null
+    }
+   },
+   "user": null
+  }
+ ]
+}

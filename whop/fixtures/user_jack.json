@@ -1,0 +1,1096 @@
+{
+ "id": "user_RLK3ZmTdSpbQ8",
+ "username": "jack",
+ "name": "Jack Sharkey",
+ "bio": "I write the code that powers this platform! ping me if you have ideas or need any help. ",
+ "city": "Lima",
+ "country": "PE",
+ "countryName": "Peru",
+ "createdAt": 1609448400,
+ "lastSeenAt": 1793410132,
+ "verifiedAt": 1772002193,
+ "isSuspended": false,
+ "followersCount": 816,
+ "followingCount": 6,
+ "roles": [
+  "admin",
+  "developer",
+  "global_mode"
+ ],
+ "averageResponseTimeInSeconds": null,
+ "primaryUserReferralCount": 2918,
+ "profilePicture": {
+  "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-11-02/user_331_f7251b4a-2b4c-47e7-9e32-41efe9d65a4a.jpeg"
+ },
+ "banner": {
+  "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-06-15/user_331_652a782a-d658-4176-8e0d-541f0d0b0b80.jpeg"
+ },
+ "socialLinks": {
+  "nodes": []
+ },
+ "userStat": {
+  "moneyEarnedLifetime": 30918.83
+ },
+ "userPreferences": {
+  "showEarnings": true,
+  "showOwnedWhops": true,
+  "showJoinedWhops": false,
+  "showLocation": true
+ },
+ "ownedWhops": {
+  "totalCount": 162,
+  "nodes": [
+   {
+    "id": "biz_81DmrpXEeixuLD",
+    "title": "Whop",
+    "route": "7cbf4d8f-a314-4187-98ff-57e81ec7d803",
+    "verified": false,
+    "creatorPitch": null,
+    "businessType": "software",
+    "industryType": "community_platform",
+    "memberCount": 2572313,
+    "publishedReviewsCount": 38,
+    "reviewsAverage": 4.18,
+    "createdAt": 1695083382,
+    "logo": {
+     "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2023-11-10/user_42648_6eda25b5-97fa-4ba4-8475-7c697345037d.png"
+    },
+    "ownerUser": {
+     "id": "user_RLK3ZmTdSpbQ8",
+     "username": "jack",
+     "name": "Jack Sharkey"
+    },
+    "totalEarningsWithTransfersInUsd": null
+   },
+   {
+    "id": "biz_jthfktrItTuW8a",
+    "title": "Whop",
+    "route": "cooking-whop",
+    "verified": false,
+    "creatorPitch": "Hi i’m a good whopper",
+    "businessType": "platform",
+    "industryType": null,
+    "memberCount": 16938,
+    "publishedReviewsCount": 6,
+    "reviewsAverage": 5.0,
+    "createdAt": 1609108312,
+    "logo": {
+     "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-10-16/user_331_30b8eb0d-7a49-4a90-a2af-5b917c7424c6.jpeg"
+    },
+    "ownerUser": {
+     "id": "user_HnuiP9Q0acNzX",
+     "username": "cam123",
+     "name": "Cameron Zoubdsfsdf"
+    },
+    "totalEarningsWithTransfersInUsd": null
+   },
+   {
+    "id": "biz_PGJNLBob5Fui43",
+    "title": "Whop Labs",
+    "route": "labs",
+    "verified": true,
+    "creatorPitch": "This official home for builders and developers on Whop.",
+    "businessType": "software",
+    "industryType": "banking_infrastructure",
+    "memberCount": 2515,
+    "publishedReviewsCount": 91,
+    "reviewsAverage": 4.9,
+    "createdAt": 1716413020,
+    "logo": {
+     "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2026-08-26/9a6ec1c3-562d-488a-9036-fca82f1dda2d/image.png"
+    },
+    "ownerUser": {
+     "id": "user_v9KUoZvTGp6ID",
+     "username": "j",
+     "name": "Jordan"
+    },
+    "totalEarningsWithTransfersInUsd": null
+   },
+   {
+    "id": "biz_nOC02O5zKoorF8",
+    "title": "Sharkey's whop",
+    "route": "sharkey",
+    "verified": false,
+    "creatorPitch": null,
+    "businessType": "education",
+    "industryType": "creator_fan_community",
+    "memberCount": 761,
+    "publishedReviewsCount": 3,
+    "reviewsAverage": 5.0,
+    "createdAt": 1637005704,
+    "logo": {
+     "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-04-08/user_331_b25673a6-cd5c-4cef-823f-9b7bc5f19cc2.jpeg"
+    },
+    "ownerUser": {
+     "id": "user_RLK3ZmTdSpbQ8",
+     "username": "jack",
+     "name": "Jack Sharkey"
+    },
+    "totalEarningsWithTransfersInUsd": null
+   },
+   {
+    "id": "biz_ORfc7sQ6RodQpL",
+    "title": "https://yahoo.com",
+    "route": "reselling-20",
+    "verified": false,
+    "creatorPitch": null,
+    "businessType": "education",
+    "industryType": null,
+    "memberCount": 91,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": null,
+    "createdAt": 1647833993,
+    "logo": {
+     "sourceUrl": "https://assets-2-prod.whop.com/public/bots/images/2300.original."
+    },
+    "ownerUser": {
+     "id": "user_RLK3ZmTdSpbQ8",
+     "username": "jack",
+     "name": "Jack Sharkey"
+    },
+    "totalEarningsWithTransfersInUsd": null
+   },
+   {
+    "id": "biz_3bQR32r9y8UGsH",
+    "title": "Payments AI - Demo",
+    "route": "payments-ai-demo",
+    "verified": false,
+    "creatorPitch": null,
+    "businessType": "software",
+    "industryType": null,
+    "memberCount": 64,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": null,
+    "createdAt": 1764863156,
+    "logo": null,
+    "ownerUser": {
+     "id": "user_sGodFmAR65yBg",
+     "username": "todddickerson",
+     "name": "Todd Dickerson"
+    },
+    "totalEarningsWithTransfersInUsd": null
+   },
+   {
+    "id": "biz_jr9YWqBDdXNDtU",
+    "title": "Yete NYC",
+    "route": "yete-nyc-events",
+    "verified": false,
+    "creatorPitch": "NYC's third space for Yerba Mate🧉",
+    "businessType": "ecommerce",
+    "industryType": "coffee_and_tea",
+    "memberCount": 37,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": null,
+    "createdAt": 1776215589,
+    "logo": {
+     "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_25490206/image/bots/2026-04-15/f1eae1e1-6107-42a5-a740-37db1f57b5a5.png"
+    },
+    "ownerUser": {
+     "id": "user_sBbhlnFCjJzpg",
+     "username": "ddanzger2016",
+     "name": "Dan Danzger"
+    },
+    "totalEarningsWithTransfersInUsd": null
+   },
+   {
+    "id": "biz_cWn0fADVRX8lil",
+    "title": "batman",
+    "route": "mastermind-52",
+    "verified": false,
+    "creatorPitch": "I've dedicated my career to mastering e-commerce, from launching successful online stores to mentoring aspiring entrepreneurs. My passion lies in sharing knowledge and empowering others to succeed in the digital marketplace.",
+    "businessType": "education",
+    "industryType": "gaming_fandom",
+    "memberCount": 34,
+    "publishedReviewsCount": 1,
+    "reviewsAverage": 5.0,
+    "createdAt": 1633461359,
+    "logo": {
+     "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2023-12-03/user_331_6104db5d-3d83-44f8-8578-fdbbe2b40ecb.png"
+    },
+    "ownerUser": {
+     "id": "user_T1h3xycVulUVN",
+     "username": "stripetestt",
+     "name": "test userblaze"
+    },
+    "totalEarningsWithTransfersInUsd": null
+   },
+   {
+    "id": "biz_XnuHUVq3uOdiTj",
+    "title": "Jack Sharkey Official Company",
+    "route": "dfbfa8ca-c00c-4a3a-971e-484a81fc834c",
+    "verified": false,
+    "creatorPitch": null,
+    "businessType": "software",
+    "industryType": null,
+    "memberCount": 24,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": null,
+    "createdAt": 1682887954,
+    "logo": null,
+    "ownerUser": {
+     "id": "user_RLK3ZmTdSpbQ8",
+     "username": "jack",
+     "name": "Jack Sharkey"
+    },
+    "totalEarningsWithTransfersInUsd": null
+   },
+   {
+    "id": "biz_IzJBlzA2wn3gUA",
+    "title": "Sharkey's Whop",
+    "route": "sharkey-s-whop",
+    "verified": false,
+    "creatorPitch": null,
+    "businessType": "software",
+    "industryType": "crm",
+    "memberCount": 22,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": null,
+    "createdAt": 1740349491,
+    "logo": {
+     "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-02-24/user_331_3f9bd0f3-9107-4435-8488-8bc67d0a79ef.png"
+    },
+    "ownerUser": {
+     "id": "user_RLK3ZmTdSpbQ8",
+     "username": "jack",
+     "name": "Jack Sharkey"
+    },
+    "totalEarningsWithTransfersInUsd": null
+   },
+   {
+    "id": "biz_Y4nET9IVih4FM2",
+    "title": "The Mets Mob",
+    "route": "mets",
+    "verified": false,
+    "creatorPitch": "Max Wiener is the spirit of Mets fandom, sparking rallies and bringing nonstop energy to every game. Now, fans can unite, rally together, and celebrate the Mets.",
+    "businessType": "education",
+    "industryType": "golf",
+    "memberCount": 20,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": null,
+    "createdAt": 1745881512,
+    "logo": {
+     "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-04-29/user_4482081_423a3cde-d43e-47b1-89fe-bbfa4d5add25.png"
+    },
+    "ownerUser": {
+     "id": "user_qh3jW7cKNvePP",
+     "username": "maxisawiener",
+     "name": "Wiener"
+    },
+    "totalEarningsWithTransfersInUsd": null
+   },
+   {
+    "id": "biz_JnYNm9PC7kZVqb",
+    "title": "Whop Board",
+    "route": "whop-board",
+    "verified": false,
+    "creatorPitch": null,
+    "businessType": "education",
+    "industryType": null,
+    "memberCount": 18,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": null,
+    "createdAt": 1743021436,
+    "logo": null,
+    "ownerUser": {
+     "id": "user_YEWrnrjTRqKnX",
+     "username": "laurellee",
+     "name": "Laurel Lee"
+    },
+    "totalEarningsWithTransfersInUsd": null
+   },
+   {
+    "id": "biz_eFzXOXOFCSXh57",
+    "title": "Jordan's Bets",
+    "route": "discord-b7",
+    "verified": false,
+    "creatorPitch": null,
+    "businessType": "software",
+    "industryType": "sports_betting_analytics",
+    "memberCount": 18,
+    "publishedReviewsCount": 3,
+    "reviewsAverage": 4.67,
+    "createdAt": 1694805758,
+    "logo": {
+     "sourceUrl": "https://assets-2-prod.whop.com/public/bots/images/50245.original.jpeg"
+    },
+    "ownerUser": {
+     "id": "user_RLK3ZmTdSpbQ8",
+     "username": "jack",
+     "name": "Jack Sharkey"
+    },
+    "totalEarningsWithTransfersInUsd": null
+   },
+   {
+    "id": "biz_rQWEMQ0yIrtNuR",
+    "title": "qwewqe",
+    "route": "qwewqe",
+    "verified": false,
+    "creatorPitch": null,
+    "businessType": "software",
+    "industryType": "game_server_hosting",
+    "memberCount": 17,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": null,
+    "createdAt": 1663595208,
+    "logo": {
+     "sourceUrl": "https://assets-2-prod.whop.com/public/bots/images/7961.original."
+    },
+    "ownerUser": {
+     "id": "user_RLK3ZmTdSpbQ8",
+     "username": "jack",
+     "name": "Jack Sharkey"
+    },
+    "totalEarningsWithTransfersInUsd": null
+   },
+   {
+    "id": "biz_lmCJBLkUieNtJB",
+    "title": "BigQuery",
+    "route": "bigquery",
+    "verified": false,
+    "creatorPitch": "Run serverless, highly scalable, and cost-effective cloud data warehouse queries with BigQuery.",
+    "businessType": "software",
+    "industryType": "databases",
+    "memberCount": 11,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": null,
+    "createdAt": 1774287318,
+    "logo": {
+     "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2026-03-23/cc7f48ea-aa38-4f05-a82d-d8abf3dceadc/image.png"
+    },
+    "ownerUser": {
+     "id": "user_v9KUoZvTGp6ID",
+     "username": "j",
+     "name": "Jordan"
+    },
+    "totalEarningsWithTransfersInUsd": null
+   },
+   {
+    "id": "biz_cP7yzpRhccF85P",
+    "title": "CodeMentor Academy",
+    "route": "codementor-academy-28d7",
+    "verified": false,
+    "creatorPitch": null,
+    "businessType": "education",
+    "industryType": null,
+    "memberCount": 8,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": null,
+    "createdAt": 1757530210,
+    "logo": null,
+    "ownerUser": {
+     "id": "user_RLK3ZmTdSpbQ8",
+     "username": "jack",
+     "name": "Jack Sharkey"
+    },
+    "totalEarningsWithTransfersInUsd": null
+   },
+   {
+    "id": "biz_AclAw7izIguid2",
+    "title": "ewrwer",
+    "route": "9c449a56-0ded-48cc-a3dc-f314ac90482e",
+    "verified": false,
+    "creatorPitch": null,
+    "businessType": "software",
+    "industryType": null,
+    "memberCount": 7,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": null,
+    "createdAt": 1666879286,
+    "logo": null,
+    "ownerUser": {
+     "id": "user_RLK3ZmTdSpbQ8",
+     "username": "jack",
+     "name": "Jack Sharkey"
+    },
+    "totalEarningsWithTransfersInUsd": null
+   },
+   {
+    "id": "biz_9w55HXwQwGN2ls",
+    "title": "batman",
+    "route": "batman-1",
+    "verified": false,
+    "creatorPitch": null,
+    "businessType": "software",
+    "industryType": "knowledge_base",
+    "memberCount": 6,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": null,
+    "createdAt": 1658938479,
+    "logo": null,
+    "ownerUser": {
+     "id": "user_RLK3ZmTdSpbQ8",
+     "username": "jack",
+     "name": "Jack Sharkey"
+    },
+    "totalEarningsWithTransfersInUsd": null
+   },
+   {
+    "id": "biz_DrIh0gl8OLkk6H",
+    "title": "AI Workflow Masters",
+    "route": "ai-workflow-masters",
+    "verified": false,
+    "creatorPitch": "Transform the way you work with comprehensive AI integration coaching and resources. Our monthly SaaS membership provides you direct access to cutting-edge AI strategies, personalized one-on-one coaching sessions, and a supportive community of professionals leveraging artificial intelligence. You'll receive practical tools, step-by-step implementation guides, exclusive video training, and live workshops designed to help you seamlessly integrate AI into your daily workflow. Whether you're a freelancer, entrepreneur, or corporate professional, our program demystifies AI technologies and empowers you to boost efficiency, creativity, and competitive advantage. Stay ahead of the curve with continuously updated content, emerging AI trends, and actionable insights tailored to your specific industry and professional goals. Gain the knowledge and confidence to harness AI's potential, automate routine tasks, enhance decision-making, and drive meaningful innovation in your work.",
+    "businessType": "education",
+    "industryType": null,
+    "memberCount": 6,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": null,
+    "createdAt": 1768595513,
+    "logo": {
+     "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2026-01-16/5188b388-4520-4ecb-8952-5e6f8064a6a3/image.png"
+    },
+    "ownerUser": {
+     "id": "user_RLK3ZmTdSpbQ8",
+     "username": "jack",
+     "name": "Jack Sharkey"
+    },
+    "totalEarningsWithTransfersInUsd": null
+   },
+   {
+    "id": "biz_hr2cMfZAfqcxPD",
+    "title": "Whop Eng Interview",
+    "route": "whop-eng-interview",
+    "verified": false,
+    "creatorPitch": null,
+    "businessType": "other",
+    "industryType": null,
+    "memberCount": 6,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": null,
+    "createdAt": 1731959213,
+    "logo": null,
+    "ownerUser": {
+     "id": "user_RLK3ZmTdSpbQ8",
+     "username": "jack",
+     "name": "Jack Sharkey"
+    },
+    "totalEarningsWithTransfersInUsd": null
+   },
+   {
+    "id": "biz_TpqkJsMamlbRak",
+    "title": "Whop App Components",
+    "route": "bdf77ff0-4aaa-4004-a0f2-df443ee40841",
+    "verified": false,
+    "creatorPitch": null,
+    "businessType": "software",
+    "industryType": "no_code_app_builder",
+    "memberCount": 6,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": null,
+    "createdAt": 1705430938,
+    "logo": {
+     "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-01-16/user_929273_fd396cb0-dead-499a-a7b9-cfd87f0c645f.png"
+    },
+    "ownerUser": {
+     "id": "user_v9KUoZvTGp6ID",
+     "username": "j",
+     "name": "Jordan"
+    },
+    "totalEarningsWithTransfersInUsd": null
+   },
+   {
+    "id": "biz_R4RML70VoUknRm",
+    "title": "Whop Engineering",
+    "route": "course-e0",
+    "verified": false,
+    "creatorPitch": null,
+    "businessType": "software",
+    "industryType": "coding_tools",
+    "memberCount": 5,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": null,
+    "createdAt": 1664038233,
+    "logo": {
+     "sourceUrl": "https://assets-2-prod.whop.com/public/bots/images/8329.original."
+    },
+    "ownerUser": {
+     "id": "user_Upi9FsHVBAO65",
+     "username": "fjc",
+     "name": "fjc"
+    },
+    "totalEarningsWithTransfersInUsd": null
+   },
+   {
+    "id": "biz_Zrqo3yGLfwil8b",
+    "title": "Said Indian Company",
+    "route": "said-indian-company",
+    "verified": false,
+    "creatorPitch": null,
+    "businessType": "other",
+    "industryType": null,
+    "memberCount": 5,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": null,
+    "createdAt": 1668113786,
+    "logo": {
+     "sourceUrl": "https://assets-2-prod.whop.com/public/bots/images/11299.original."
+    },
+    "ownerUser": {
+     "id": "user_RLK3ZmTdSpbQ8",
+     "username": "jack",
+     "name": "Jack Sharkey"
+    },
+    "totalEarningsWithTransfersInUsd": null
+   },
+   {
+    "id": "biz_HTyczBTWI1spgt",
+    "title": "Ready",
+    "route": "tryready",
+    "verified": false,
+    "creatorPitch": null,
+    "businessType": "software",
+    "industryType": "messaging_marketing",
+    "memberCount": 4,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": null,
+    "createdAt": 1790560631,
+    "logo": {
+     "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2026-10-01/bb61286c-b6ff-4f93-9546-8f9cfd147ce5/image.png"
+    },
+    "ownerUser": {
+     "id": "user_RLK3ZmTdSpbQ8",
+     "username": "jack",
+     "name": "Jack Sharkey"
+    },
+    "totalEarningsWithTransfersInUsd": null
+   },
+   {
+    "id": "biz_M7CwxpqcGQunW7",
+    "title": "Jack Sharkey",
+    "route": "jack-sharkey-5cc2",
+    "verified": false,
+    "creatorPitch": null,
+    "businessType": "education",
+    "industryType": "philosophy",
+    "memberCount": 4,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": null,
+    "createdAt": 1770217835,
+    "logo": null,
+    "ownerUser": {
+     "id": "user_RLK3ZmTdSpbQ8",
+     "username": "jack",
+     "name": "Jack Sharkey"
+    },
+    "totalEarningsWithTransfersInUsd": null
+   },
+   {
+    "id": "biz_17ylJzAj6PMoGV",
+    "title": "Girls Girls Club (ARCHIVED)",
+    "route": "girls-girls-club",
+    "verified": false,
+    "creatorPitch": "I've dedicated my life to creating spaces where women can dream big, build confidence, and lead with purpose. The Girls Girls Club is my passion project, aimed at fostering a supportive community that inspires personal and professional growth. Through our all-access membership, I bring together a wealth of resources, mentorship, and opportunities for women ready to embrace their potential.",
+    "businessType": "education",
+    "industryType": "mindset_coaching",
+    "memberCount": 4,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": null,
+    "createdAt": 1730485116,
+    "logo": {
+     "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-11-01/user_6470948_727693cd-660e-4958-9032-cc15381b53a2.jpeg"
+    },
+    "ownerUser": {
+     "id": "user_SNymqvyi05tHL",
+     "username": "dylangreenberg14",
+     "name": null
+    },
+    "totalEarningsWithTransfersInUsd": null
+   },
+   {
+    "id": "biz_CAnZVDDdPjWa4Y",
+    "title": "My Test Company",
+    "route": "0222dccd-8be6-4b9d-b44e-f46965714622",
+    "verified": false,
+    "creatorPitch": null,
+    "businessType": "software",
+    "industryType": null,
+    "memberCount": 4,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": null,
+    "createdAt": 1697304466,
+    "logo": null,
+    "ownerUser": {
+     "id": "user_RLK3ZmTdSpbQ8",
+     "username": "jack",
+     "name": "Jack Sharkey"
+    },
+    "totalEarningsWithTransfersInUsd": null
+   },
+   {
+    "id": "biz_m5EwwUM5atF40K",
+    "title": "JackSharkey",
+    "route": "jacksharkey",
+    "verified": false,
+    "creatorPitch": null,
+    "businessType": null,
+    "industryType": null,
+    "memberCount": 3,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": null,
+    "createdAt": 1766059792,
+    "logo": {
+     "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2026-03-05/1374f88c-1265-46cf-bdba-f7cd1f693882/image.png"
+    },
+    "ownerUser": {
+     "id": "user_RLK3ZmTdSpbQ8",
+     "username": "jack",
+     "name": "Jack Sharkey"
+    },
+    "totalEarningsWithTransfersInUsd": null
+   },
+   {
+    "id": "biz_CxoYgUJjITO2Sy",
+    "title": "Wyatt's Telegram Channel",
+    "route": "wyatt-s-telegram-channel",
+    "verified": false,
+    "creatorPitch": null,
+    "businessType": "education",
+    "industryType": null,
+    "memberCount": 2,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": null,
+    "createdAt": 1677854160,
+    "logo": null,
+    "ownerUser": {
+     "id": "user_RLK3ZmTdSpbQ8",
+     "username": "jack",
+     "name": "Jack Sharkey"
+    },
+    "totalEarningsWithTransfersInUsd": null
+   },
+   {
+    "id": "biz_DGYTzcCkbHdu2I",
+    "title": "Sharkey Testing",
+    "route": "testing-whop-l",
+    "verified": false,
+    "creatorPitch": null,
+    "businessType": "other",
+    "industryType": null,
+    "memberCount": 2,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": null,
+    "createdAt": 1663687580,
+    "logo": null,
+    "ownerUser": {
+     "id": "user_RLK3ZmTdSpbQ8",
+     "username": "jack",
+     "name": "Jack Sharkey"
+    },
+    "totalEarningsWithTransfersInUsd": null
+   },
+   {
+    "id": "biz_7bWI4nCzsV2TXC",
+    "title": "Hiijdjd",
+    "route": "ceb58a05-7a7a-4c6b-b16d-f6f3c3572856",
+    "verified": false,
+    "creatorPitch": null,
+    "businessType": "other",
+    "industryType": null,
+    "memberCount": 2,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": null,
+    "createdAt": 1713361594,
+    "logo": null,
+    "ownerUser": {
+     "id": "user_RLK3ZmTdSpbQ8",
+     "username": "jack",
+     "name": "Jack Sharkey"
+    },
+    "totalEarningsWithTransfersInUsd": null
+   },
+   {
+    "id": "biz_v6xYZgr6CGjrUs",
+    "title": "FJC43242342",
+    "route": "fjc43242342",
+    "verified": false,
+    "creatorPitch": null,
+    "businessType": "education",
+    "industryType": null,
+    "memberCount": 1,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": null,
+    "createdAt": 1717792420,
+    "logo": null,
+    "ownerUser": {
+     "id": "user_RLK3ZmTdSpbQ8",
+     "username": "jack",
+     "name": "Jack Sharkey"
+    },
+    "totalEarningsWithTransfersInUsd": null
+   },
+   {
+    "id": "biz_YYAy4NJsojR7id",
+    "title": "Coding Bootcamp",
+    "route": "coding-bootcamp-23",
+    "verified": false,
+    "creatorPitch": null,
+    "businessType": "education",
+    "industryType": "web_development_training",
+    "memberCount": 1,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": null,
+    "createdAt": 1691519883,
+    "logo": {
+     "sourceUrl": "https://assets-2-prod.whop.com/public/bots/images/44970.original.png"
+    },
+    "ownerUser": {
+     "id": "user_RLK3ZmTdSpbQ8",
+     "username": "jack",
+     "name": "Jack Sharkey"
+    },
+    "totalEarningsWithTransfersInUsd": null
+   },
+   {
+    "id": "biz_1qKiHyrS5K3VHD",
+    "title": "NEW ONBOARDING",
+    "route": "new-onboarding",
+    "verified": false,
+    "creatorPitch": "Having worked in HR for over a decade, I've seen the challenges of onboarding first-hand. I created the NEW ONBOARDING Pass to streamline the process, making it efficient and engaging for both new hires and HR teams.",
+    "businessType": "education",
+    "industryType": "career_coaching",
+    "memberCount": 1,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": null,
+    "createdAt": 1668184362,
+    "logo": null,
+    "ownerUser": {
+     "id": "user_RLK3ZmTdSpbQ8",
+     "username": "jack",
+     "name": "Jack Sharkey"
+    },
+    "totalEarningsWithTransfersInUsd": null
+   },
+   {
+    "id": "biz_bITj8JORmieF86",
+    "title": "Maker",
+    "route": "maker",
+    "verified": false,
+    "creatorPitch": null,
+    "businessType": "software",
+    "industryType": null,
+    "memberCount": 1,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": null,
+    "createdAt": 1705975880,
+    "logo": {
+     "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-01-23/user_331_888feb57-5775-4a26-8743-80ceae3cda53.png"
+    },
+    "ownerUser": {
+     "id": "user_RLK3ZmTdSpbQ8",
+     "username": "jack",
+     "name": "Jack Sharkey"
+    },
+    "totalEarningsWithTransfersInUsd": null
+   },
+   {
+    "id": "biz_L7H0iRW69WkZPe",
+    "title": "Sharkey's Apartments",
+    "route": "sharkey-s-apartments",
+    "verified": false,
+    "creatorPitch": null,
+    "businessType": "services",
+    "industryType": "property_management",
+    "memberCount": 1,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": null,
+    "createdAt": 1775786623,
+    "logo": null,
+    "ownerUser": {
+     "id": "user_RLK3ZmTdSpbQ8",
+     "username": "jack",
+     "name": "Jack Sharkey"
+    },
+    "totalEarningsWithTransfersInUsd": null
+   },
+   {
+    "id": "biz_QJd20mKn2Xwk09",
+    "title": "BodyMindBreath",
+    "route": "bodymindbreath",
+    "verified": false,
+    "creatorPitch": null,
+    "businessType": "other",
+    "industryType": null,
+    "memberCount": 1,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": null,
+    "createdAt": 1788563184,
+    "logo": null,
+    "ownerUser": {
+     "id": "user_RLK3ZmTdSpbQ8",
+     "username": "jack",
+     "name": "Jack Sharkey"
+    },
+    "totalEarningsWithTransfersInUsd": null
+   },
+   {
+    "id": "biz_gfwuRYWZQ7LNqc",
+    "title": "jack's account",
+    "route": "jack-s-account",
+    "verified": false,
+    "creatorPitch": null,
+    "businessType": "other",
+    "industryType": null,
+    "memberCount": 1,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": null,
+    "createdAt": 1789882551,
+    "logo": null,
+    "ownerUser": {
+     "id": "user_RLK3ZmTdSpbQ8",
+     "username": "jack",
+     "name": "Jack Sharkey"
+    },
+    "totalEarningsWithTransfersInUsd": null
+   },
+   {
+    "id": "biz_RyyWq0cLrReJWK",
+    "title": "Yete NYC",
+    "route": "yetemate",
+    "verified": false,
+    "creatorPitch": "Building connection through Yerba Mate. Handmade mates from Buenos Aires, small-batch organic yerba, and mate experiences across New York City.",
+    "businessType": "ecommerce",
+    "industryType": "coffee_and_tea",
+    "memberCount": 1,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": null,
+    "createdAt": 1787854819,
+    "logo": {
+     "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2026-08-27/fa151784-3fe5-4695-af73-a01bfde073f8/image.png"
+    },
+    "ownerUser": {
+     "id": "user_RLK3ZmTdSpbQ8",
+     "username": "jack",
+     "name": "Jack Sharkey"
+    },
+    "totalEarningsWithTransfersInUsd": null
+   },
+   {
+    "id": "biz_U8ZNTLa30iwHpX",
+    "title": "MY NEW ORG",
+    "route": "my-new-org",
+    "verified": false,
+    "creatorPitch": null,
+    "businessType": "other",
+    "industryType": null,
+    "memberCount": 0,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": null,
+    "createdAt": 1731428720,
+    "logo": null,
+    "ownerUser": {
+     "id": "user_RLK3ZmTdSpbQ8",
+     "username": "jack",
+     "name": "Jack Sharkey"
+    },
+    "totalEarningsWithTransfersInUsd": null
+   },
+   {
+    "id": "biz_8l5NGwK3uL5fHi",
+    "title": "Sharkey's Content",
+    "route": "sharkey-s-content",
+    "verified": false,
+    "creatorPitch": null,
+    "businessType": "education",
+    "industryType": "content_creator_training",
+    "memberCount": 0,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": null,
+    "createdAt": 1723831508,
+    "logo": null,
+    "ownerUser": {
+     "id": "user_RLK3ZmTdSpbQ8",
+     "username": "jack",
+     "name": "Jack Sharkey"
+    },
+    "totalEarningsWithTransfersInUsd": null
+   },
+   {
+    "id": "biz_VPtVzYv7E6XWfS",
+    "title": "Kotlin Lessons",
+    "route": "685db49d-f9f5-4598-b920-030a372210a1",
+    "verified": false,
+    "creatorPitch": null,
+    "businessType": null,
+    "industryType": null,
+    "memberCount": 0,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": null,
+    "createdAt": 1726526287,
+    "logo": null,
+    "ownerUser": {
+     "id": "user_RLK3ZmTdSpbQ8",
+     "username": "jack",
+     "name": "Jack Sharkey"
+    },
+    "totalEarningsWithTransfersInUsd": null
+   },
+   {
+    "id": "biz_zbuC7RZGyFQHRs",
+    "title": "testing123",
+    "route": "04b04c43-b70a-4505-a649-7f3d0c372ef0",
+    "verified": false,
+    "creatorPitch": null,
+    "businessType": "other",
+    "industryType": null,
+    "memberCount": 0,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": null,
+    "createdAt": 1712675447,
+    "logo": null,
+    "ownerUser": {
+     "id": "user_RLK3ZmTdSpbQ8",
+     "username": "jack",
+     "name": "Jack Sharkey"
+    },
+    "totalEarningsWithTransfersInUsd": null
+   },
+   {
+    "id": "biz_4zR8RM9fsohbpQ",
+    "title": "rewrewrw",
+    "route": "rewrewrw",
+    "verified": false,
+    "creatorPitch": null,
+    "businessType": "education",
+    "industryType": null,
+    "memberCount": 0,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": null,
+    "createdAt": 1668189628,
+    "logo": null,
+    "ownerUser": {
+     "id": "user_RLK3ZmTdSpbQ8",
+     "username": "jack",
+     "name": "Jack Sharkey"
+    },
+    "totalEarningsWithTransfersInUsd": null
+   },
+   {
+    "id": "biz_0OPkNqPMC6RPPo",
+    "title": "rr",
+    "route": "b83d271c-a274-46bb-87d2-9b6ab748736e",
+    "verified": false,
+    "creatorPitch": null,
+    "businessType": "other",
+    "industryType": null,
+    "memberCount": 0,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": null,
+    "createdAt": 1730554837,
+    "logo": null,
+    "ownerUser": {
+     "id": "user_RLK3ZmTdSpbQ8",
+     "username": "jack",
+     "name": "Jack Sharkey"
+    },
+    "totalEarningsWithTransfersInUsd": null
+   },
+   {
+    "id": "biz_2xy36RnKPmw2tl",
+    "title": "test123",
+    "route": "test123-7b",
+    "verified": false,
+    "creatorPitch": null,
+    "businessType": "other",
+    "industryType": null,
+    "memberCount": 0,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": null,
+    "createdAt": 1731424960,
+    "logo": null,
+    "ownerUser": {
+     "id": "user_RLK3ZmTdSpbQ8",
+     "username": "jack",
+     "name": "Jack Sharkey"
+    },
+    "totalEarningsWithTransfersInUsd": null
+   },
+   {
+    "id": "biz_gY6hXe1K7RPL2d",
+    "title": "kjhkl",
+    "route": "kjhkl",
+    "verified": false,
+    "creatorPitch": null,
+    "businessType": "other",
+    "industryType": null,
+    "memberCount": 0,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": null,
+    "createdAt": 1731513751,
+    "logo": null,
+    "ownerUser": {
+     "id": "user_RLK3ZmTdSpbQ8",
+     "username": "jack",
+     "name": "Jack Sharkey"
+    },
+    "totalEarningsWithTransfersInUsd": null
+   },
+   {
+    "id": "biz_krfL8GcNseK1lH",
+    "title": "new org",
+    "route": "new-org-33",
+    "verified": false,
+    "creatorPitch": null,
+    "businessType": "other",
+    "industryType": null,
+    "memberCount": 0,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": null,
+    "createdAt": 1731595064,
+    "logo": null,
+    "ownerUser": {
+     "id": "user_RLK3ZmTdSpbQ8",
+     "username": "jack",
+     "name": "Jack Sharkey"
+    },
+    "totalEarningsWithTransfersInUsd": null
+   },
+   {
+    "id": "biz_BRDmgwIiVlNwUR",
+    "title": "Milestone Test",
+    "route": "milestone-test-10",
+    "verified": false,
+    "creatorPitch": null,
+    "businessType": "other",
+    "industryType": null,
+    "memberCount": 0,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": null,
+    "createdAt": 1731615268,
+    "logo": null,
+    "ownerUser": {
+     "id": "user_RLK3ZmTdSpbQ8",
+     "username": "jack",
+     "name": "Jack Sharkey"
+    },
+    "totalEarningsWithTransfersInUsd": null
+   },
+   {
+    "id": "biz_SD8qcVp1MQJNk4",
+    "title": "asdasdada",
+    "route": "asdasdada",
+    "verified": false,
+    "creatorPitch": null,
+    "businessType": "other",
+    "industryType": null,
+    "memberCount": 0,
+    "publishedReviewsCount": 0,
+    "reviewsAverage": null,
+    "createdAt": 1731615227,
+    "logo": null,
+    "ownerUser": {
+     "id": "user_RLK3ZmTdSpbQ8",
+     "username": "jack",
+     "name": "Jack Sharkey"
+    },
+    "totalEarningsWithTransfersInUsd": null
+   }
+  ]
+ },
+ "joinedWhops": {
+  "totalCount": 0,
+  "nodes": []
+ },
+ "reviews": {
+  "totalCount": 4
+ }
+}

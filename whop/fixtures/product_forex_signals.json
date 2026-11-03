@@ -1,0 +1,190 @@
+{
+ "id": "prod_sDgVBTchRVAMo",
+ "title": "Forex Signals",
+ "route": "forex-signals-d6",
+ "headline": "Win more trades with elite forex signals",
+ "shortenedDescription": "Daily forex signals, live market analysis, and trade breakdowns. Get entries, exits, and risk management for every trade.",
+ "description": null,
+ "creatorPitch": null,
+ "accessPassType": "regular",
+ "businessType": "education",
+ "industryType": "forex_trading",
+ "marketplaceStatus": "live_marketplace",
+ "verified": false,
+ "labels": [],
+ "whopRanking": null,
+ "activeUsersCount": 0,
+ "memberCount": 0,
+ "publishedReviewsCount": 0,
+ "reviewsAverage": 0.0,
+ "reviewCounts": [
+  0,
+  0,
+  0,
+  0,
+  0
+ ],
+ "averageReviewRating": 0.0,
+ "usdGmv": 0,
+ "last24HoursGmv": 0.0,
+ "likeCount": 37,
+ "shareCount": 14,
+ "totalBountyAmount": 0.0,
+ "hasFreeAvailablePlan": false,
+ "hasPaidAvailablePlan": true,
+ "isFreeAndJoinableWithoutRequirements": false,
+ "globalAffiliateStatus": "enabled",
+ "globalAffiliatePercentage": 30.0,
+ "memberAffiliateStatus": "disabled",
+ "memberAffiliatePercentage": 0.0,
+ "customCta": "join",
+ "customCtaUrl": null,
+ "redirectPurchaseUrl": null,
+ "directLink": "https://whop.com/forex-signals-d6?pass=prod_sDgVBTchRVAMo",
+ "showMemberCount": true,
+ "showReviewsDtc": true,
+ "collectShippingAddress": false,
+ "visiblePlansCount": 1,
+ "createdAt": 1780578520,
+ "firstApprovedAt": 1780578821,
+ "discoverableAt": 1780578821,
+ "updatedAt": 1780578821,
+ "logo": null,
+ "bannerImage": null,
+ "galleryImages": [
+  {
+   "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_28432728/image/ai_prompts/2026-06-04/d01f7068-8320-498b-9761-ea3c8802fc0e.png"
+  }
+ ],
+ "images": [
+  {
+   "url": "https://assets-2-prod.whop.com/public/uploads/user_28432728/image/ai_prompts/2026-06-04/d01f7068-8320-498b-9761-ea3c8802fc0e.png"
+  }
+ ],
+ "marketplaceCategory": null,
+ "subcategory": null,
+ "productTaxCode": null,
+ "company": {
+  "id": "biz_ezvXzKil5OtchC",
+  "route": "winnerscircle-e956",
+  "title": "WinnersCircle",
+  "verified": false,
+  "memberCount": 1,
+  "publishedReviewsCount": 0,
+  "reviewsAverage": null,
+  "logo": {
+   "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_28432728/image/ai_prompts/2026-06-04/ff8b677f-6339-48d5-9c25-2824a82ce9f7.png"
+  }
+ },
+ "ownerUser": {
+  "id": "user_L45c2e2YJrbUC",
+  "username": "jordyplum",
+  "name": "Jord plummsta",
+  "followersCount": 1,
+  "verifiedAt": null,
+  "profilePicture": {
+   "sourceUrl": "https://ui-avatars.com/api/?name=Jord%20plummsta&background=535961&color=fff&format=png"
+  }
+ },
+ "defaultPlan": {
+  "id": "plan_ho4A2ZcH4qXsF",
+  "title": null,
+  "description": null,
+  "formattedPrice": "$32.00 / month",
+  "formattedPeriodV2": "/ month",
+  "priceTag": "$32.00",
+  "rawInitialPrice": 0.0,
+  "rawInitialPriceUsd": 0.0,
+  "rawRenewalPrice": 32.0,
+  "rawRenewalPriceUsd": 32.0,
+  "initialPriceDueInCents": 3200,
+  "strikeThroughInitialPrice": null,
+  "strikeThroughRenewalPrice": null,
+  "baseCurrency": "usd",
+  "planType": "renewal",
+  "billingPeriod": 30,
+  "releaseMethod": "buy_now",
+  "free": false,
+  "trialPeriodDays": null,
+  "expirationDays": null,
+  "stock": null,
+  "unlimitedStock": true,
+  "inStock": true,
+  "lowStockWarning": null,
+  "visibility": "visible",
+  "directLink": "https://whop.com/checkout/plan_ho4A2ZcH4qXsF",
+  "createdAt": 1780578521,
+  "allowMultipleQuantity": false,
+  "splitPayRequiredPayments": null,
+  "acceptedPaymentMethods": [
+   "multi_psp"
+  ]
+ },
+ "visiblePlans": {
+  "totalCount": 1,
+  "nodes": [
+   {
+    "id": "plan_ho4A2ZcH4qXsF",
+    "title": null,
+    "description": null,
+    "formattedPrice": "$32.00 / month",
+    "formattedPeriodV2": "/ month",
+    "priceTag": "$32.00",
+    "rawInitialPrice": 0.0,
+    "rawInitialPriceUsd": 0.0,
+    "rawRenewalPrice": 32.0,
+    "rawRenewalPriceUsd": 32.0,
+    "initialPriceDueInCents": 3200,
+    "strikeThroughInitialPrice": null,
+    "strikeThroughRenewalPrice": null,
+    "baseCurrency": "usd",
+    "planType": "renewal",
+    "billingPeriod": 30,
+    "releaseMethod": "buy_now",
+    "free": false,
+    "trialPeriodDays": null,
+    "expirationDays": null,
+    "stock": null,
+    "unlimitedStock": true,
+    "inStock": true,
+    "lowStockWarning": null,
+    "visibility": "visible",
+    "directLink": "https://whop.com/checkout/plan_ho4A2ZcH4qXsF",
+    "createdAt": 1780578521,
+    "allowMultipleQuantity": false,
+    "splitPayRequiredPayments": null,
+    "acceptedPaymentMethods": [
+     "multi_psp"
+    ]
+   }
+  ]
+ },
+ "faq": [],
+ "productHighlights": {
+  "nodes": []
+ },
+ "experiences": [
+  {
+   "id": "exp_bcal2UQs6zCzrr",
+   "name": "Signals Chat",
+   "description": null,
+   "isPublic": false,
+   "app": {
+    "id": "app_xml5hbizmZPgUT",
+    "name": "Chat"
+   }
+  },
+  {
+   "id": "exp_ucF0C3PmhoUoZO",
+   "name": "Trade Updates",
+   "description": null,
+   "isPublic": false,
+   "app": {
+    "id": "app_mmjPLOxIgL1qxe",
+    "name": "Content"
+   }
+  }
+ ],
+ "socialLinks": [],
+ "mostRecentReview": null
+}

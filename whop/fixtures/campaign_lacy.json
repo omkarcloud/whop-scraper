@@ -1,0 +1,494 @@
+{
+ "card": {
+  "banner": "fe520411-733d-5812-a383-b56f9575d049/campaigns/thumbnails/b9fc9813-6720-4914-841f-ad8e95bad2ab.webp",
+  "budgetCents": 2500000,
+  "categories": [
+   {
+    "id": "streamer",
+    "name": "Streamer"
+   },
+   {
+    "id": "personal-brand",
+    "name": "Personal Brand"
+   }
+  ],
+  "createdAt": "2026-10-20T21:11:56.000Z",
+  "description": "Clip content from Lacy's social media accounts\n\n(TikTok, IG, YT)\n\nREAD THE RULES AND REQUIREMENTS HERE: \nhttps://reachclipping.com/Lacy",
+  "featuredScore": 1033036,
+  "geoPriced": false,
+  "group": {
+   "campaignIds": [
+    "4479e5e2-9a00-489e-8b0c-345834f37cc7",
+    "20b7c977-8d0c-4bd0-b9b0-2db9200f405b"
+   ],
+   "cover": "organizations/fe520411-733d-5812-a383-b56f9575d049/campaign-groups/covers/71e1af75-7a00-45f8-a798-3c4c1aa25367.webp",
+   "description": "Lacy Clippers",
+   "id": "6d9223d5-e666-41b4-b6ba-1366a88bfdc2",
+   "name": "$30,000 LACY 30 DAY CAMPAIGN"
+  },
+  "id": "4479e5e2-9a00-489e-8b0c-345834f37cc7",
+  "launchDate": "2026-10-20T22:15:03.000Z",
+  "listedAt": "2026-10-20T22:15:03.000Z",
+  "metrics": {
+   "approvedSubmissionCount": 24467,
+   "budgetProgressBps": 0,
+   "budgetSpentCents": 0,
+   "chartPoints": [
+    {
+     "approvedSubmissionCount": 0,
+     "bucket": "2026-10-04T00:00:00.000Z",
+     "totalViews": 0
+    },
+    {
+     "approvedSubmissionCount": 0,
+     "bucket": "2026-10-05T00:00:00.000Z",
+     "totalViews": 0
+    },
+    {
+     "approvedSubmissionCount": 0,
+     "bucket": "2026-10-06T00:00:00.000Z",
+     "totalViews": 0
+    },
+    {
+     "approvedSubmissionCount": 0,
+     "bucket": "2026-10-07T00:00:00.000Z",
+     "totalViews": 0
+    },
+    {
+     "approvedSubmissionCount": 0,
+     "bucket": "2026-10-08T00:00:00.000Z",
+     "totalViews": 0
+    },
+    {
+     "approvedSubmissionCount": 0,
+     "bucket": "2026-10-09T00:00:00.000Z",
+     "totalViews": 0
+    },
+    {
+     "approvedSubmissionCount": 0,
+     "bucket": "2026-10-10T00:00:00.000Z",
+     "totalViews": 0
+    },
+    {
+     "approvedSubmissionCount": 0,
+     "bucket": "2026-10-11T00:00:00.000Z",
+     "totalViews": 0
+    },
+    {
+     "approvedSubmissionCount": 0,
+     "bucket": "2026-10-12T00:00:00.000Z",
+     "totalViews": 0
+    },
+    {
+     "approvedSubmissionCount": 0,
+     "bucket": "2026-10-13T00:00:00.000Z",
+     "totalViews": 0
+    },
+    {
+     "approvedSubmissionCount": 0,
+     "bucket": "2026-10-14T00:00:00.000Z",
+     "totalViews": 0
+    },
+    {
+     "approvedSubmissionCount": 0,
+     "bucket": "2026-10-15T00:00:00.000Z",
+     "totalViews": 0
+    },
+    {
+     "approvedSubmissionCount": 0,
+     "bucket": "2026-10-16T00:00:00.000Z",
+     "totalViews": 0
+    },
+    {
+     "approvedSubmissionCount": 0,
+     "bucket": "2026-10-17T00:00:00.000Z",
+     "totalViews": 0
+    },
+    {
+     "approvedSubmissionCount": 0,
+     "bucket": "2026-10-18T00:00:00.000Z",
+     "totalViews": 0
+    },
+    {
+     "approvedSubmissionCount": 0,
+     "bucket": "2026-10-19T00:00:00.000Z",
+     "totalViews": 0
+    },
+    {
+     "approvedSubmissionCount": 0,
+     "bucket": "2026-10-20T00:00:00.000Z",
+     "totalViews": 9673
+    },
+    {
+     "approvedSubmissionCount": 378,
+     "bucket": "2026-10-21T00:00:00.000Z",
+     "totalViews": 5378864
+    },
+    {
+     "approvedSubmissionCount": 417,
+     "bucket": "2026-10-22T00:00:00.000Z",
+     "totalViews": 11756068
+    },
+    {
+     "approvedSubmissionCount": 969,
+     "bucket": "2026-10-23T00:00:00.000Z",
+     "totalViews": 9330475
+    },
+    {
+     "approvedSubmissionCount": 562,
+     "bucket": "2026-10-24T00:00:00.000Z",
+     "totalViews": 18041272
+    },
+    {
+     "approvedSubmissionCount": 6331,
+     "bucket": "2026-10-25T00:00:00.000Z",
+     "totalViews": 10260464
+    },
+    {
+     "approvedSubmissionCount": 1315,
+     "bucket": "2026-10-26T00:00:00.000Z",
+     "totalViews": 19030282
+    },
+    {
+     "approvedSubmissionCount": 2407,
+     "bucket": "2026-10-27T00:00:00.000Z",
+     "totalViews": 9044633
+    },
+    {
+     "approvedSubmissionCount": 2265,
+     "bucket": "2026-10-28T00:00:00.000Z",
+     "totalViews": 17901437
+    },
+    {
+     "approvedSubmissionCount": 1699,
+     "bucket": "2026-10-29T00:00:00.000Z",
+     "totalViews": 16281331
+    },
+    {
+     "approvedSubmissionCount": 1570,
+     "bucket": "2026-10-30T00:00:00.000Z",
+     "totalViews": 10727102
+    },
+    {
+     "approvedSubmissionCount": 1535,
+     "bucket": "2026-10-31T00:00:00.000Z",
+     "totalViews": 9238509
+    },
+    {
+     "approvedSubmissionCount": 3271,
+     "bucket": "2026-11-01T00:00:00.000Z",
+     "totalViews": 8573474
+    },
+    {
+     "approvedSubmissionCount": 1627,
+     "bucket": "2026-11-02T00:00:00.000Z",
+     "totalViews": 6343341
+    },
+    {
+     "approvedSubmissionCount": 121,
+     "bucket": "2026-11-03T00:00:00.000Z",
+     "totalViews": 3507959
+    }
+   ],
+   "creatorCount": 2694,
+   "metricsUpdatedAt": "2026-11-03T10:20:22.000Z",
+   "paidOutCents": 0,
+   "poolSplit": {
+    "creatorCount": 3273,
+    "otherShareBps": 4525,
+    "topShareBps": [
+     1751,
+     1126,
+     1065,
+     818,
+     715
+    ],
+    "final": false
+   },
+   "topClips": [
+    {
+     "platform": "youtube",
+     "postUrl": "https://www.youtube.com/watch?v=WEiKyTlH-Cw",
+     "rank": 1,
+     "submissionId": "b9760272-d39a-4224-8ae2-e65396970317",
+     "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/e0b043c5-0160-4f0b-b1ed-0f7d5f0e966d/youtube_WEiKyTlH-Cw_thumb.webp",
+     "title": "Lacy Got Hit With A $12,000 Restaurant Bill 😭💸",
+     "totalViews": 7279655,
+     "userId": "d77b62bf-e62f-4cf1-971d-71318ec34c50",
+     "username": "Richard Gibson",
+     "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/e0b043c5-0160-4f0b-b1ed-0f7d5f0e966d/youtube_WEiKyTlH-Cw.mp4"
+    },
+    {
+     "platform": "tiktok",
+     "postUrl": "https://www.tiktok.com/@rjclippedu/video/7700741189527407894",
+     "rank": 2,
+     "submissionId": "851db462-1d57-47a5-986f-a41047694611",
+     "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/58ee3ba0-2ec7-41aa-82b2-b647a31f7dad/tiktok_7700741189527407894_thumb.webp",
+     "title": "Lacy is not Batman #lacy #marlon",
+     "totalViews": 3400000,
+     "userId": "55a33937-b7b2-4485-a08f-29b084897170",
+     "username": "jakerobinsone4",
+     "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/58ee3ba0-2ec7-41aa-82b2-b647a31f7dad/tiktok_7700741189527407894.mp4"
+    },
+    {
+     "platform": "youtube",
+     "postUrl": "https://www.youtube.com/watch?v=rl6uyAxXzos",
+     "rank": 3,
+     "submissionId": "b3c157a9-2c03-45d2-8fd9-00976c06d163",
+     "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/da435861-b667-4c25-b6f8-f05ffda43b9a/youtube_rl6uyAxXzos_thumb.webp",
+     "title": "Lacy pays for $12,000 worth of food in Japan",
+     "totalViews": 3362492,
+     "userId": "387bcce6-ad77-4def-a94d-969a85491690",
+     "username": "Zemmy Rico",
+     "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/da435861-b667-4c25-b6f8-f05ffda43b9a/youtube_rl6uyAxXzos.mp4"
+    },
+    {
+     "platform": "youtube",
+     "postUrl": "https://www.youtube.com/watch?v=jDIWWIwNIHE",
+     "rank": 4,
+     "submissionId": "ba694b30-a73e-4ee3-9b3c-f762ee62bfc8",
+     "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/3656f43c-eae7-46af-85f1-7baab91065be/youtube_jDIWWIwNIHE_thumb.webp",
+     "title": "Lacy Accidentally Took A Fortnite Gift Card 😭🎮",
+     "totalViews": 3323751,
+     "userId": "d77b62bf-e62f-4cf1-971d-71318ec34c50",
+     "username": "Richard Gibson",
+     "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/3656f43c-eae7-46af-85f1-7baab91065be/youtube_jDIWWIwNIHE.mp4"
+    },
+    {
+     "platform": "tiktok",
+     "postUrl": "https://www.tiktok.com/@boombasticclips/video/7701774753249414414",
+     "rank": 5,
+     "submissionId": "22546aff-3d7a-4edd-b31e-44caa28ae70b",
+     "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/23fdb0e8-d3eb-4ada-bbea-1bee38356b67/tiktok_7701774753249414414_thumb.webp",
+     "title": "Lacy has to pay for $12,000 worth of food in Japan #lacy #core",
+     "totalViews": 3100000,
+     "userId": "387bcce6-ad77-4def-a94d-969a85491690",
+     "username": "Zemmy Rico",
+     "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/23fdb0e8-d3eb-4ada-bbea-1bee38356b67/tiktok_7701774753249414414.mp4"
+    },
+    {
+     "platform": "youtube",
+     "postUrl": "https://www.youtube.com/watch?v=ZiPt6AWaohc",
+     "rank": 6,
+     "submissionId": "00695013-3fdb-4b26-aea4-8819f047cb2a",
+     "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/7d14c385-be06-4951-8e34-1b1524f1f091/youtube_ZiPt6AWaohc_thumb.webp",
+     "title": "Lacy got SCAMMED💔",
+     "totalViews": 2933152,
+     "userId": "e711eaf9-bade-4d63-8c5a-09c87aa527b8",
+     "username": "3kjacobb",
+     "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/7d14c385-be06-4951-8e34-1b1524f1f091/youtube_ZiPt6AWaohc.mp4"
+    },
+    {
+     "platform": "instagram",
+     "postUrl": "https://www.instagram.com/reel/DfAWvsQTQEd/",
+     "rank": 7,
+     "submissionId": "df0fa448-9c9c-4bee-b9f4-7434d009fe72",
+     "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/5415c216-32e4-44e8-82c5-86fe24e1da11/instagram_DfAWvsQTQEd_thumb.webp",
+     "title": "Twitch: Lacy #lacy #mar3lg #twitch #instagramreels #looksmaxxing",
+     "totalViews": 2541596,
+     "userId": "21709da3-7b49-4c8a-8a9d-a7a3443e568e",
+     "username": "moggers.looks_",
+     "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/5415c216-32e4-44e8-82c5-86fe24e1da11/instagram_DfAWvsQTQEd.mp4"
+    },
+    {
+     "platform": "tiktok",
+     "postUrl": "https://www.tiktok.com/@everythingkc3/video/7701589510022352158",
+     "rank": 8,
+     "submissionId": "a6e81639-6872-449f-8099-752c95296049",
+     "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/74999f64-91cd-4d6a-b0d0-ab4d3a2d4a71/tiktok_7701589510022352158_thumb.webp",
+     "title": "#lacy #darla #fyp #viral @Lacy",
+     "totalViews": 2336545,
+     "userId": "3e9c20af-d38b-4e05-a44f-832b4f8bcd99",
+     "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/74999f64-91cd-4d6a-b0d0-ab4d3a2d4a71/tiktok_7701589510022352158.mp4"
+    },
+    {
+     "platform": "tiktok",
+     "postUrl": "https://www.tiktok.com/@core_fx_/video/7701906350757940502",
+     "rank": 9,
+     "submissionId": "33098133-ff13-4998-9f6c-ec23c9843e4d",
+     "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/ab2d0437-07c1-48ed-b49c-5351d5d079c4/tiktok_7701906350757940502_thumb.webp",
+     "title": "Lacy Got Hit With A $12,000 Restaurant Bill 😭💸 #lacy #core",
+     "totalViews": 2230343,
+     "userId": "d77b62bf-e62f-4cf1-971d-71318ec34c50",
+     "username": "Richard Gibson",
+     "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/ab2d0437-07c1-48ed-b49c-5351d5d079c4/tiktok_7701906350757940502.mp4"
+    },
+    {
+     "platform": "tiktok",
+     "postUrl": "https://www.tiktok.com/@everythingkc3/video/7700743750720474398",
+     "rank": 10,
+     "submissionId": "df4ffddc-87ba-49a4-a05d-2cc0eaa290ff",
+     "thumbnailUrl": "https://cdn.contentrewards.com/downloaded-videos/46ce4342-5a54-4079-91c7-6f50781dfac0/tiktok_7700743750720474398_thumb.webp",
+     "title": "#lacy #marlon #fyp #viral @Lacy @Marlon",
+     "totalViews": 2220623,
+     "userId": "3e9c20af-d38b-4e05-a44f-832b4f8bcd99",
+     "videoUrl": "https://cdn.contentrewards.com/downloaded-videos/46ce4342-5a54-4079-91c7-6f50781dfac0/tiktok_7700743750720474398.mp4"
+    }
+   ],
+   "topEarners": [
+    {
+     "approvedSubmissionCount": 27,
+     "earnedCents": 0,
+     "rank": 1,
+     "totalViews": 20393287,
+     "userId": "d77b62bf-e62f-4cf1-971d-71318ec34c50",
+     "username": "Richard Gibson",
+     "whopUsername": "northparking4e"
+    },
+    {
+     "approvedSubmissionCount": 345,
+     "earnedCents": 0,
+     "rank": 2,
+     "totalViews": 13109730,
+     "userId": "24cdeb02-d1b4-4296-b065-eb11857af752",
+     "username": "qctrls",
+     "whopUsername": "qctrls"
+    },
+    {
+     "approvedSubmissionCount": 214,
+     "earnedCents": 0,
+     "rank": 3,
+     "totalViews": 12405766,
+     "userId": "3e9c20af-d38b-4e05-a44f-832b4f8bcd99",
+     "whopUsername": "daniatet91"
+    }
+   ],
+   "totalViews": 155424884
+  },
+  "name": "$25,000 Lacy 30 Day Campaign",
+  "organizationExperienceId": "exp_6DJh0DkDMhATvG",
+  "organizationId": "fe520411-733d-5812-a383-b56f9575d049",
+  "organizationLogoUrl": "organizations/fe520411-733d-5812-a383-b56f9575d049/logo/fe520411-733d-5812-a383-b56f9575d049.05c048630f.png",
+  "organizationName": "Reach",
+  "organizationProfileHandle": "reach",
+  "organizationVerified": true,
+  "payouts": [
+   {
+    "payoutType": "pool",
+    "platform": "tiktok"
+   },
+   {
+    "payoutType": "pool",
+    "platform": "instagram"
+   },
+   {
+    "payoutType": "pool",
+    "platform": "youtube"
+   }
+  ],
+  "payoutType": "pool",
+  "platforms": [
+   "instagram",
+   "tiktok",
+   "youtube"
+  ],
+  "primaryPayoutCents": 0,
+  "private": false,
+  "referenceMaterials": [],
+  "requiresApplication": false,
+  "retainerSpotsTotal": 0,
+  "status": "active",
+  "updatedAt": "2026-11-03T10:20:24.000Z",
+  "briefCounts": {
+   "contentRules": 0,
+   "creatorRequirements": 1,
+   "references": 4
+  }
+ },
+ "record": {
+  "banner": "fe520411-733d-5812-a383-b56f9575d049/campaigns/thumbnails/b9fc9813-6720-4914-841f-ad8e95bad2ab.webp",
+  "createdAt": "2026-10-20T21:11:43.000Z",
+  "description": "Clip content from Lacy's social media accounts\n\n(TikTok, IG, YT)\n\nREAD THE RULES AND REQUIREMENTS HERE: \nhttps://reachclipping.com/Lacy",
+  "feeSchedule": "standard",
+  "id": "4479e5e2-9a00-489e-8b0c-345834f37cc7",
+  "launchDate": "2026-10-20T22:15:03.000Z",
+  "metrics": {
+   "approvedSubmissionCount": 24467,
+   "budgetProgressBps": 0,
+   "budgetSpentCents": 0,
+   "creatorCount": 2694,
+   "paidOutCents": 0,
+   "poolSplit": {
+    "creatorCount": 3273,
+    "otherShareBps": 4525,
+    "topShareBps": [
+     1751,
+     1126,
+     1065,
+     818,
+     715
+    ],
+    "final": false
+   },
+   "totalViews": 155424884
+  },
+  "name": "$25,000 Lacy 30 Day Campaign",
+  "organization": {
+   "logoUrl": "organizations/fe520411-733d-5812-a383-b56f9575d049/logo/fe520411-733d-5812-a383-b56f9575d049.05c048630f.png",
+   "name": "Reach",
+   "profileHandle": "reach",
+   "verified": true
+  },
+  "organizationId": "fe520411-733d-5812-a383-b56f9575d049",
+  "private": false,
+  "requiresApplication": false,
+  "showBeforeLaunch": false,
+  "showOnDiscover": true,
+  "status": "active",
+  "statusChangedAt": "2026-10-20T22:15:03.493Z",
+  "statusReason": "funded",
+  "updatedAt": "2026-10-20T22:15:03.000Z",
+  "configuration": {
+   "content": {
+    "contentCategories": [
+     {
+      "id": "streamer",
+      "name": "Streamer"
+     }
+    ],
+    "contentTypes": [
+     {
+      "id": "clipping",
+      "name": "Clipping"
+     }
+    ]
+   },
+   "creator": {
+    "creatorTypes": [
+     {
+      "id": "clipper",
+      "name": "Clipper"
+     }
+    ]
+   },
+   "display": {
+    "hiddenCreatorSubmissions": true,
+    "topPerformers": true
+   },
+   "fee": 800,
+   "requirement": {
+    "preApproval": false
+   },
+   "budget": 2500000,
+   "minClipViews": 1,
+   "minCreatorViews": 1000000,
+   "payoutModel": [
+    {
+     "platform": "tiktok"
+    },
+    {
+     "platform": "instagram"
+    },
+    {
+     "platform": "youtube"
+    }
+   ]
+  },
+  "type": "pool",
+  "briefCounts": {
+   "contentRules": 0,
+   "creatorRequirements": 1,
+   "references": 4
+  }
+ }
+}

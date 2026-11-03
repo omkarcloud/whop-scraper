@@ -1,0 +1,1056 @@
+{
+ "found": 226,
+ "accessPasses": [],
+ "companies": [
+  {
+   "id": "biz_zh2Uiu0fXhimUj",
+   "title": "Elite Options Trader",
+   "route": "elite-options",
+   "verified": false,
+   "creatorPitch": "Hi, I'm Brando. I've been trading the markets for over 15 years and have spent the past 8 years educating tens of thousands of traders. Elite Options is an educational community where I teach trading strategies, risk management, and market analysis through live sessions, educational content, and real trade examples to help traders build consistency and confidence.",
+   "businessType": "education",
+   "industryType": "options_trading",
+   "memberCount": 25142,
+   "publishedReviewsCount": 1453,
+   "reviewsAverage": 4.88,
+   "createdAt": 1726538940,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-12-11/user_6575470_4b7d7846-a2a6-4d64-8b5a-970fb1e8888f.jpeg"
+   },
+   "ownerUser": {
+    "id": "user_cvD61LbN6zuuE",
+    "username": "eliteoptionstrader",
+    "name": "Elite Options Trader - Brando Le"
+   }
+  },
+  {
+   "id": "biz_QjrRut72S3H0R6",
+   "title": "Dr. Profit Premium",
+   "route": "drprofit-trading",
+   "verified": false,
+   "creatorPitch": "Join DrProfit premium and gain exclusive access to the world’s biggest crypto and trading channel. Participate in live signals, get deep insider market insights, and explore curated educational content designed to accelerate your trading journey. Connect with a community of like-minded traders and take your skills to the next level",
+   "businessType": "education",
+   "industryType": "crypto_trading",
+   "memberCount": 14046,
+   "publishedReviewsCount": 1596,
+   "reviewsAverage": 4.83,
+   "createdAt": 1721413421,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_5858940/image/bots/2025-09-27/9fa7fbfd-44fd-4eec-8fee-f23d2e7b7b88.png"
+   },
+   "ownerUser": {
+    "id": "user_eBmGItC2Lwjub",
+    "username": "drprofitmember",
+    "name": "Dr. Profit"
+   }
+  },
+  {
+   "id": "biz_5zhqnmmtF3OO7w",
+   "title": "MEROV",
+   "route": "merov",
+   "verified": false,
+   "creatorPitch": null,
+   "businessType": "education",
+   "industryType": "crypto_trading",
+   "memberCount": 0,
+   "publishedReviewsCount": 7,
+   "reviewsAverage": 4.43,
+   "createdAt": 1768563386,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_21484965/image/bots/2026-01-16/659fc40a-207e-4aff-8f9b-a3577de72a24.jpg"
+   },
+   "ownerUser": {
+    "id": "user_VYnuZtN50yPzn",
+    "username": "merovteam",
+    "name": "Merov Team"
+   }
+  },
+  {
+   "id": "biz_JpZKXtEOk1jdgX",
+   "title": "Skylit",
+   "route": "heatseeker",
+   "verified": false,
+   "creatorPitch": "https://skylit.ai/whop\n\nTrade the markets with hyperintelligence.",
+   "businessType": "education",
+   "industryType": "options_trading",
+   "memberCount": 3636,
+   "publishedReviewsCount": 573,
+   "reviewsAverage": 4.87,
+   "createdAt": 1746796624,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2026-09-26/05bfd4b7-36e1-4380-8b80-84cb8d471b7c/image.png"
+   },
+   "ownerUser": {
+    "id": "user_S5DJEfzBFi44h",
+    "username": "glitchspx",
+    "name": "glitchspx"
+   }
+  },
+  {
+   "id": "biz_0tXTxxxrWbJJrT",
+   "title": "Stock Talk Insiders Trading Club",
+   "route": "stocktalk",
+   "verified": false,
+   "creatorPitch": "Stock Talk Insiders is a professional trading & investing community built by @stocktalkweekly on X/Twitter. Every entry, exit & weighting shared transparently. Followed by Elon Musk and several Fortune 500 CEOs & U.S. congresspeople.\n\nOur expert team of traders & investors has over 50 years of combined experience. We offer the best trade ideas and stock market analysis in the industry, bar none.",
+   "businessType": "education",
+   "industryType": "stock_trading",
+   "memberCount": 7177,
+   "publishedReviewsCount": 753,
+   "reviewsAverage": 4.85,
+   "createdAt": 1678831653,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/bots/images/23231.original.jpeg"
+   },
+   "ownerUser": {
+    "id": "user_eJ2Eq5y5YheVJ",
+    "username": "stocktalkweekly",
+    "name": "Stock Talk"
+   }
+  },
+  {
+   "id": "biz_mc6XEKDkpPRlaj",
+   "title": "Wealth Group",
+   "route": "wealthgroup",
+   "verified": true,
+   "creatorPitch": "Wealth Group is a premier network for individuals serious about capital growth across crypto, equities, prediction markets, and sports betting. Gain access to elite insights, private live sessions, real-time intelligence, and curated education. Join a disciplined, high-level community focused on precision, performance, and maximizing opportunities across global markets and emerging industries.",
+   "businessType": "education",
+   "industryType": "crypto_trading",
+   "memberCount": 11594,
+   "publishedReviewsCount": 1995,
+   "reviewsAverage": 4.89,
+   "createdAt": 1683556964,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_6083186/image/bots/2025-08-25/c56b980d-a049-4656-ba31-f2b88f776ed5"
+   },
+   "ownerUser": {
+    "id": "user_x9uDbc7S6KJ0U",
+    "username": "cryptogodjohn",
+    "name": "Johnny"
+   }
+  },
+  {
+   "id": "biz_DwsyX7ipNJ25vA",
+   "title": "PJ Trades",
+   "route": "pjtradespremium",
+   "verified": false,
+   "creatorPitch": "With ten years of hands on experience navigating the fast paced world of financial markets, PJ Trades is a seasoned day trader specializing in futures. Known for a disciplined approach to trading, PJ Trades combines technical analysis, market research, and risk management to consistently identify high probability setups and deliver results.",
+   "businessType": "education",
+   "industryType": "futures_trading",
+   "memberCount": 52800,
+   "publishedReviewsCount": 2691,
+   "reviewsAverage": 4.96,
+   "createdAt": 1734090014,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-06-27/user_7691008_8619adfa-cac3-47be-bb64-8dddb6778c97.png"
+   },
+   "ownerUser": {
+    "id": "user_l0GyIShS2gdQi",
+    "username": "pjtradesofficial",
+    "name": "PJ Trades"
+   }
+  },
+  {
+   "id": "biz_ihFXce0csDW4jB",
+   "title": "THE KINGDM",
+   "route": "livewithmamba",
+   "verified": false,
+   "creatorPitch": "I've mastered the Forex market, turning trades into triumphs. Join me as I guide you through live sessions and exclusive strategies to become a successful trader!",
+   "businessType": "education",
+   "industryType": "forex_trading",
+   "memberCount": 102561,
+   "publishedReviewsCount": 1190,
+   "reviewsAverage": 4.86,
+   "createdAt": 1702366998,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_15779767/image/bots/2025-10-14/e91c94aa-fff9-4c36-b902-bd08de91fb77"
+   },
+   "ownerUser": {
+    "id": "user_dMqCY96ch6RGK",
+    "username": "mambafx",
+    "name": "mambafx"
+   }
+  },
+  {
+   "id": "biz_PVJTSAZ7YgXHlu",
+   "title": "Ecomwarts",
+   "route": "vip-access-7d",
+   "verified": false,
+   "creatorPitch": "The #1 Ecom Academy In Asia",
+   "businessType": "education",
+   "industryType": "dropshipping_business_training",
+   "memberCount": 10643,
+   "publishedReviewsCount": 119,
+   "reviewsAverage": 4.66,
+   "createdAt": 1714752415,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2026-09-07/94d4fda1-6495-4ba5-8370-67cf984137e2/image.jpg"
+   },
+   "ownerUser": {
+    "id": "user_uMrlXC3TtVoFi",
+    "username": "raystonheem",
+    "name": "Rayston"
+   }
+  },
+  {
+   "id": "biz_tLavDuymJ6Mw0S",
+   "title": "The Society",
+   "route": "thesocietytrading",
+   "verified": false,
+   "creatorPitch": "Learn the exact TTP Model I use to trade Nasdaq futures. This model is focused on specific ICT concepts on an intraday based level.",
+   "businessType": "education",
+   "industryType": "futures_trading",
+   "memberCount": 2720,
+   "publishedReviewsCount": 132,
+   "reviewsAverage": 4.99,
+   "createdAt": 1750358171,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-06-19/user_5825049_21184483-091d-49d2-a02c-344cc3da260f.png"
+   },
+   "ownerUser": {
+    "id": "user_CHfNeVEL7AQtB",
+    "username": "evankrutchik",
+    "name": "Evan"
+   }
+  },
+  {
+   "id": "biz_5gWSCxzmQr9mrT",
+   "title": "CTG Capital",
+   "route": "ctg-capital",
+   "verified": false,
+   "creatorPitch": "Colin Gladman is the owner of CTG Capital, where he leads a dynamic trading community focused on market success. As a dedicated stock trader, Colin's expertise and strategic insights have helped many traders achieve their financial goals. Outside of the trading world, he cherishes time with his family, training martial arts and teaching technical analysis. ",
+   "businessType": "education",
+   "industryType": "stock_trading",
+   "memberCount": 637,
+   "publishedReviewsCount": 104,
+   "reviewsAverage": 4.64,
+   "createdAt": 1719434751,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-06-27/user_4131425_abf8cbb0-be07-4c23-b452-12e9e3ad2c6d.jpeg"
+   },
+   "ownerUser": {
+    "id": "user_ecqr1zipsMemn",
+    "username": "colingladman",
+    "name": "Colin Gladman"
+   }
+  },
+  {
+   "id": "biz_3quTwInFu0MUZM",
+   "title": "The Kevin Estate",
+   "route": "thekevinestate",
+   "verified": false,
+   "creatorPitch": "Billionaire's (otw)",
+   "businessType": "services",
+   "industryType": "info_business_scaling",
+   "memberCount": 0,
+   "publishedReviewsCount": 0,
+   "reviewsAverage": null,
+   "createdAt": 1767121435,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_15650965/image/bots/2026-07-23/3c2c13b2-9b85-4cdf-823c-6fdfe504a766.jpeg"
+   },
+   "ownerUser": {
+    "id": "user_GPvWGCuW6LDvw",
+    "username": "kevindawood",
+    "name": "Kevin Dawood"
+   }
+  },
+  {
+   "id": "biz_xBuyUIPFo74byD",
+   "title": "Blue Edge Financial",
+   "route": "blue-edge-financial",
+   "verified": false,
+   "creatorPitch": "AI execution, proven strategies & mentorship to help you win with prop firms.",
+   "businessType": "education",
+   "industryType": "forex_trading",
+   "memberCount": 580,
+   "publishedReviewsCount": 1,
+   "reviewsAverage": 5.0,
+   "createdAt": 1761147277,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_1282796/image/bots/2026-05-10/63decc0e-73da-432d-a99b-3ee9b0d60bff.png"
+   },
+   "ownerUser": {
+    "id": "user_aQRp1rnta1NIA",
+    "username": "blueedgefinancial",
+    "name": "Adam Wenig"
+   }
+  },
+  {
+   "id": "biz_ND1OyxcwzRsQq6",
+   "title": "Owls Options Traders",
+   "route": "owls-options-traders",
+   "verified": false,
+   "creatorPitch": "OWLS gives you access to 9 professional analysts trading live every market day across stocks, options, swings, momentum, SPX, and unusual flow. You get the Alerts, education & more!",
+   "businessType": "education",
+   "industryType": "options_trading",
+   "memberCount": 22670,
+   "publishedReviewsCount": 2122,
+   "reviewsAverage": 4.93,
+   "createdAt": 1685939290,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_18097050/image/bots/2026-06-25/c22e5173-cabc-46ff-9dbe-93ef1efcc434.png"
+   },
+   "ownerUser": {
+    "id": "user_FKdvlLWrmMUt2",
+    "username": "kiantrades23",
+    "name": "Kian "
+   }
+  },
+  {
+   "id": "biz_9t3DLq8tBxikN4",
+   "title": "Altori Research",
+   "route": "altori",
+   "verified": false,
+   "creatorPitch": "The official Altori Research community. Real-time trade alerts, daily setups, and institutional-grade research from full-time traders. Options and equities coverage with clear entries, trims, and exits. Built for traders who want signal, not noise.",
+   "businessType": "education",
+   "industryType": "options_trading",
+   "memberCount": 3072,
+   "publishedReviewsCount": 188,
+   "reviewsAverage": 4.85,
+   "createdAt": 1742539635,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_1206709/image/bots/2026-05-06/6293ac5c-c540-4f08-a4aa-785d4dc1a680"
+   },
+   "ownerUser": {
+    "id": "user_7RKdYwAldxyRL",
+    "username": "clintoptions",
+    "name": "Clint "
+   }
+  },
+  {
+   "id": "biz_UFQpIxbPPdcaOK",
+   "title": "Trinity Trading Partners",
+   "route": "trinity-trading-partners",
+   "verified": false,
+   "creatorPitch": "Trinity Trading Partners was formed through friendship and a mutual passion for options trading. Remzi, Tito, and Omar have been actively trading together for almost 5 years through bull and bear markets. TTP's mission is to provide an options trading service that enables new traders to achieve profitability and give seasoned traders more edge.",
+   "businessType": "education",
+   "industryType": "options_trading",
+   "memberCount": 7007,
+   "publishedReviewsCount": 1368,
+   "reviewsAverage": 4.87,
+   "createdAt": 1731261018,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-11-10/user_7152020_c6e349f9-68de-49be-935e-fa8c8ac7ee9e.jpeg"
+   },
+   "ownerUser": {
+    "id": "user_2cdHlOFbXpKWk",
+    "username": "trinitytradingpartners",
+    "name": "Trinity Trading Partners"
+   }
+  },
+  {
+   "id": "biz_yojLvswMvXa1z1",
+   "title": "Market Pulse",
+   "route": "marketpulse",
+   "verified": false,
+   "creatorPitch": "Get the inside look at how Ariel Hernandez, Nick Drendel, and other top traders break down the market each day. From curated watchlists and real-time trade ideas to live Q&A and strategy deep-dives — this isn’t a course, it’s a trading university.",
+   "businessType": "education",
+   "industryType": "stock_trading",
+   "memberCount": 1473,
+   "publishedReviewsCount": 128,
+   "reviewsAverage": 4.93,
+   "createdAt": 1743379376,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-04-03/user_12554455_21ec33aa-71c2-4d39-aaf3-9bab305045c8.webp"
+   },
+   "ownerUser": {
+    "id": "user_LlTP6ck2M5yck",
+    "username": "marketpulse",
+    "name": "MarketPulse"
+   }
+  },
+  {
+   "id": "biz_cNd8l9kV7nwCNZ",
+   "title": "Momentum.",
+   "route": "joinmomentum",
+   "verified": false,
+   "creatorPitch": "Most traders fail because they lack a clear plan and real-time data. Momentum changes that. We provide a professional-grade ecosystem designed to turn the complexity of the stock market into actionable opportunities.\n\nWhether you are a seasoned pro or just starting your journey, our community is engineered to help you find your edge and maintain it.",
+   "businessType": "education",
+   "industryType": "stock_trading",
+   "memberCount": 2595,
+   "publishedReviewsCount": 513,
+   "reviewsAverage": 4.81,
+   "createdAt": 1677628954,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/bots/images/21740.original.png"
+   },
+   "ownerUser": {
+    "id": "user_xuqrsTJ43aja8",
+    "username": "officialkev",
+    "name": "KEV"
+   }
+  },
+  {
+   "id": "biz_sa0UwkSASsPCPU",
+   "title": "Team2Trading",
+   "route": "team2trading",
+   "verified": false,
+   "creatorPitch": "I have created a simple & effective trading system that is now used by thousands of traders worldwide! Come join the Team2 family where you can learn and grow with real time education!",
+   "businessType": "education",
+   "industryType": "options_trading",
+   "memberCount": 4848,
+   "publishedReviewsCount": 280,
+   "reviewsAverage": 4.85,
+   "createdAt": 1692399729,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/bots/images/46331.original.jpeg"
+   },
+   "ownerUser": {
+    "id": "user_bvH3kEx4rpvlp",
+    "username": "team2trading",
+    "name": "Casey"
+   }
+  },
+  {
+   "id": "biz_xAaKzpzchB91a0",
+   "title": "CRYPTO POWER ACADEMY",
+   "route": "cpacademy",
+   "verified": false,
+   "creatorPitch": "Crypto Power Academy",
+   "businessType": "education",
+   "industryType": "crypto_trading",
+   "memberCount": 1739,
+   "publishedReviewsCount": 12,
+   "reviewsAverage": 4.83,
+   "createdAt": 1760115599,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_6123946/image/bots/2025-10-22/3114b486-c8c3-40c0-8832-f6368d00dad7.png"
+   },
+   "ownerUser": {
+    "id": "user_4g3OkTZ61oPKi",
+    "username": "cpacademy",
+    "name": "CRYPTO POWER ACADEMY"
+   }
+  },
+  {
+   "id": "biz_72lXMWby8BJoUk",
+   "title": "Tradevisor.ai",
+   "route": "tradevisor",
+   "verified": false,
+   "creatorPitch": "At TradeVisor, we empower traders with cutting-edge tools and insights to stay ahead in the market. Access premium indicators, expert signals, and 24/7 support to make smarter, more confident trading decisions. Join now and unlock all current and future TradeVisor features!\n\n\n\n\n\n\n",
+   "businessType": "software",
+   "industryType": "trading_indicators",
+   "memberCount": 4702,
+   "publishedReviewsCount": 202,
+   "reviewsAverage": 3.93,
+   "createdAt": 1732782016,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-04-20/user_604842_f9c114f9-27bf-4be1-b5c7-ff7770b5b6cf.png"
+   },
+   "ownerUser": {
+    "id": "user_WS544uaWtAjKI",
+    "username": "tradevisor",
+    "name": "Tradevisor"
+   }
+  },
+  {
+   "id": "biz_kab6ALKNRXeVd1",
+   "title": "The Haven",
+   "route": "thehaven",
+   "verified": true,
+   "creatorPitch": "Meet our Analysts: UB (@CryptoUB), Pierre (@pierre_crypt0), Krillin (@LSDinmycoffee), Loma (@LomahCrypto), CBS (@ColdBloodShill), and Mayne (@Tradermayne). Step into The Haven, and elevate your trading to the next level!",
+   "businessType": "education",
+   "industryType": "crypto_trading",
+   "memberCount": 9118,
+   "publishedReviewsCount": 439,
+   "reviewsAverage": 4.92,
+   "createdAt": 1636127817,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_40640/image/bots/2025-12-01/c7e7e9f4-2c8d-4a00-a774-6afeb6aef92d.png"
+   },
+   "ownerUser": {
+    "id": "user_XcZ2etaSIiezr",
+    "username": "ub",
+    "name": "The Haven"
+   }
+  },
+  {
+   "id": "biz_8HkawBb01VUY7j",
+   "title": "Ram Zone",
+   "route": "ramzone",
+   "verified": false,
+   "creatorPitch": "Education and Analysis on another level.\nOver 1.8 Million dollars done in student payouts (WITH PROOF). \nMultiple 6 figure traders created. \nOver 55 Five Figure Traders created.",
+   "businessType": "education",
+   "industryType": "futures_trading",
+   "memberCount": 0,
+   "publishedReviewsCount": 224,
+   "reviewsAverage": 4.96,
+   "createdAt": 1771625093,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_22851400/image/bots/2026-03-01/d8f1c093-25c1-4bf4-bfcd-b9ac930b5313"
+   },
+   "ownerUser": {
+    "id": "user_C7cHsGqmBgmvO",
+    "username": "rammytrades",
+    "name": "Rammy Trades"
+   }
+  },
+  {
+   "id": "biz_G0to4UCQhVQVHb",
+   "title": "247 Research",
+   "route": "247research",
+   "verified": false,
+   "creatorPitch": "247 Research, is a passionate trading community dedicated to providing valuable insights, strategies, and support for traders of all levels. Our mission is to create an engaging and collaborative environment where members can learn, share, and grow together. Join us on this exciting journey to navigate the world of trading and receive free access to the 247 Terminal!",
+   "businessType": "education",
+   "industryType": "crypto_trading",
+   "memberCount": 0,
+   "publishedReviewsCount": 258,
+   "reviewsAverage": 4.88,
+   "createdAt": 1705314510,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_2667221/image/bots/2026-05-06/f8673c84-617e-45b2-81d4-1d7f81671292.jpeg"
+   },
+   "ownerUser": {
+    "id": "user_4kMZvZnRSd42x",
+    "username": "thumbsrup",
+    "name": "Boost Me Up!"
+   }
+  },
+  {
+   "id": "biz_CplNKCV0wdyDV0",
+   "title": "Dodgy's Dungeon",
+   "route": "dodgys-dungeon",
+   "verified": false,
+   "creatorPitch": "I'm Dodgy, a passionate trader who specializes in ICT concepts. I trade live every day, sharing my market insights and helping others master gap and imbalance analysis for better trades. My goal is to make traders self-sufficient using the best strategies in the game.",
+   "businessType": "education",
+   "industryType": "futures_trading",
+   "memberCount": 59535,
+   "publishedReviewsCount": 789,
+   "reviewsAverage": 4.77,
+   "createdAt": 1711499558,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-03-27/user_3164476_c1ee557b-963a-483c-9877-060d70246657.webp"
+   },
+   "ownerUser": {
+    "id": "user_4Ib8fEQf8tUhH",
+    "username": "dodgysddoffical",
+    "name": "Dodgy"
+   }
+  },
+  {
+   "id": "biz_c89dmdaVJJbIAS",
+   "title": "The Traveling Trader",
+   "route": "thetravelingtrader",
+   "verified": false,
+   "creatorPitch": "I started The Traveling Trader to create the most comprehensive trading education platform. With a passion for stocks, options, and futures, I wanted a community where traders can learn and grow together. Our Mastermind Access offers lifetime learning, live sessions, and a vibrant community.",
+   "businessType": "education",
+   "industryType": "stock_trading",
+   "memberCount": 0,
+   "publishedReviewsCount": 456,
+   "reviewsAverage": 4.88,
+   "createdAt": 1691298948,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/bots/images/44631.original.png"
+   },
+   "ownerUser": {
+    "id": "user_UfIWpHJTj1uCy",
+    "username": "surrealistchangeca2a",
+    "name": "thetravelingtrader"
+   }
+  },
+  {
+   "id": "biz_RcVodrc9wOPXwQ",
+   "title": "Trade With Insight",
+   "route": "tradewithinsight",
+   "verified": false,
+   "creatorPitch": "We’re a team of veteran traders with 40+ years of combined experience, dedicated to shortening your learning curve. For 7 years, PandaOptions, Spacemonkey and TWI have helped traders refine their skills and achieve their goals. We’re setting the standard for what a trading community should be.. and now we’re here to show you what it can be. Thank you for letting us be part of your trading journey!",
+   "businessType": "education",
+   "industryType": "options_trading",
+   "memberCount": 13719,
+   "publishedReviewsCount": 405,
+   "reviewsAverage": 4.8,
+   "createdAt": 1735597938,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-03-13/user_7906225_9a14cf31-3b9d-43e3-a792-0a5e07ac627e.webp"
+   },
+   "ownerUser": {
+    "id": "user_JqTlRHG4O8osF",
+    "username": "tradewithinsight",
+    "name": "Trade With Insight"
+   }
+  },
+  {
+   "id": "biz_2AvRzQG5gfT44n",
+   "title": "Jonah's Stocks & Options Group",
+   "route": "jonahs-stocks-and-options-group-7",
+   "verified": false,
+   "creatorPitch": null,
+   "businessType": "education",
+   "industryType": "long_term_investing",
+   "memberCount": 1501,
+   "publishedReviewsCount": 418,
+   "reviewsAverage": 4.11,
+   "createdAt": 1752093037,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-07-09/user_487277_8ad26c04-9651-4895-8f7b-7b8cd923234c.png"
+   },
+   "ownerUser": {
+    "id": "user_9bt8wS8nHZFYB",
+    "username": "plo",
+    "name": "Jonah"
+   }
+  },
+  {
+   "id": "biz_R1h6c5yMDJn2lD",
+   "title": "Stock Levels University ",
+   "route": "stock-levels-university",
+   "verified": false,
+   "creatorPitch": "I've dedicated my career to guiding traders through the complexities of stock options. With my mentorship, you'll gain practical skills, insights, and the confidence to excel in the market. Together, we'll navigate the challenges and celebrate the victories of trading. Join me to transform your trading journey into a rewarding experience.",
+   "businessType": "education",
+   "industryType": "options_trading",
+   "memberCount": 12826,
+   "publishedReviewsCount": 626,
+   "reviewsAverage": 4.92,
+   "createdAt": 1702071073,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2023-12-21/user_1722225_311e7e0f-6ada-427a-a7c9-617274381064.png"
+   },
+   "ownerUser": {
+    "id": "user_lQEpir5IH2rLj",
+    "username": "jrgreatness",
+    "name": "JRGREATNESS"
+   }
+  },
+  {
+   "id": "biz_sNyQIuVI9f9J4h",
+   "title": "Global Wealth Concierge ",
+   "route": "gwc",
+   "verified": false,
+   "creatorPitch": "GWC guides members toward financial freedom by equipping them with essential trading knowledge and tools. Catering to all levels, we offer membership tiers that include daily watchlists, strategic insights, automated alerts, and a supportive community. Our mission is to empower individuals by fostering a collaborative approach to achieving financial independence.",
+   "businessType": "education",
+   "industryType": "options_trading",
+   "memberCount": 350,
+   "publishedReviewsCount": 119,
+   "reviewsAverage": 5.0,
+   "createdAt": 1722892067,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-08-08/user_3164476_c72d339b-24ac-401a-bc0c-73a32b79922d.png"
+   },
+   "ownerUser": {
+    "id": "user_ggTNv8rYN1UOA",
+    "username": "tanned",
+    "name": "Mohammad Chaudhry"
+   }
+  },
+  {
+   "id": "biz_0z7GtX2cI9W2ZZ",
+   "title": "Wolves Of Wealth",
+   "route": "wolves-of-wealth",
+   "verified": false,
+   "creatorPitch": "After Trading for 14+ years and finding a system that works I have now dedicated my life to teaching and helping others in the stock market. \n\nBuilding and growing small accounts.",
+   "businessType": "education",
+   "industryType": "options_trading",
+   "memberCount": 4076,
+   "publishedReviewsCount": 424,
+   "reviewsAverage": 4.93,
+   "createdAt": 1680287315,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/bots/images/25367.original.jpeg"
+   },
+   "ownerUser": {
+    "id": "user_RHSVXtdm3lcdO",
+    "username": "supportww",
+    "name": "WOLVES OF WEALTH SUPPORT"
+   }
+  },
+  {
+   "id": "biz_YJpMo9gW6wWRRn",
+   "title": "The Options Cartel",
+   "route": "the-options-cartel",
+   "verified": false,
+   "creatorPitch": "I've spent years mastering the art of trading, and I'm passionate about sharing my insights and strategies with others. My mission is to help aspiring traders become profitable by providing them the tools and support they need. With The Options Cartel, I've created a community where traders can thrive together, learning from each other and growing their skills in a supportive environment.",
+   "businessType": "education",
+   "industryType": "options_trading",
+   "memberCount": 22491,
+   "publishedReviewsCount": 570,
+   "reviewsAverage": 4.8,
+   "createdAt": 1682818407,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-06-30/user_1128187_fe627b76-7bf0-4f0e-b8bb-79bd84b4e027.png"
+   },
+   "ownerUser": {
+    "id": "user_nmkOwdL60lA2j",
+    "username": "seanrechtman",
+    "name": "Sean Trades"
+   }
+  },
+  {
+   "id": "biz_Dc88SFrUdlbKuU",
+   "title": "Swift Algo",
+   "route": "swift-algo",
+   "verified": false,
+   "creatorPitch": "The Official Swift Algo Indicator. Disclaimer: Swift Algo supports analysis and does not guarantee results. Trading involves risk. Not financial advice.",
+   "businessType": "software",
+   "industryType": "trading_indicators",
+   "memberCount": 1481,
+   "publishedReviewsCount": 137,
+   "reviewsAverage": 4.8,
+   "createdAt": 1701595258,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2026-09-14/65fa5ee7-0bef-4775-9c60-b50ede8ea115/image.png"
+   },
+   "ownerUser": {
+    "id": "user_2IT7kFtThZcgM",
+    "username": "swiftalgonet",
+    "name": "Swift Algo Indicator"
+   }
+  },
+  {
+   "id": "biz_26lmeJ936Kew4U",
+   "title": "Winter Trades",
+   "route": "winter-trades-66be",
+   "verified": false,
+   "creatorPitch": "Winter Capital Group is a trading community for all traders with signals, daily bias callouts, daily analysis & more from a 7 figure trader with over two years of market variance.",
+   "businessType": "education",
+   "industryType": "futures_trading",
+   "memberCount": 770,
+   "publishedReviewsCount": 38,
+   "reviewsAverage": 5.0,
+   "createdAt": 1782544513,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_19236081/image/access_passes/2026-07-03/927a7b0d-0b86-4e64-b0c1-668492438feb.jpeg"
+   },
+   "ownerUser": {
+    "id": "user_WScr495uih2Ya",
+    "username": "winterbrawlstars",
+    "name": "Winter Trades"
+   }
+  },
+  {
+   "id": "biz_kpR1kfJ9HzvRYN",
+   "title": "SuperLuckeee Trading",
+   "route": "superluckeee",
+   "verified": false,
+   "creatorPitch": "Aevitas Partners, LLC, founded in 2018 by proprietary traders Michael Luu and Esther Cho, aims to be a global leader in trading education. They provide real-time guidance, actionable trade ideas, and mentorship to a diverse student base, including professionals, retirees, parents, entrepreneurs, and students, helping them succeed in the US capital markets.",
+   "businessType": "education",
+   "industryType": "options_trading",
+   "memberCount": 5180,
+   "publishedReviewsCount": 362,
+   "reviewsAverage": 4.82,
+   "createdAt": 1718677088,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-06-19/user_4131425_cc5c7ebb-5f1d-410f-8549-5a87afc0df0f.png"
+   },
+   "ownerUser": {
+    "id": "user_MR3pR9GmGLoTX",
+    "username": "michaelsuperbloom",
+    "name": ""
+   }
+  },
+  {
+   "id": "biz_MJplm3VvNtMqIn",
+   "title": "Her Trading Community ",
+   "route": "her-trading-mentorship",
+   "verified": false,
+   "creatorPitch": "Futures day trader | Trading educator | Community builder.\nOffering exclusive trading insights, daily chart markups, and mentorship for those ready to trade with confidence. Let’s lock in 🔒 ",
+   "businessType": "education",
+   "industryType": "futures_trading",
+   "memberCount": 6452,
+   "publishedReviewsCount": 512,
+   "reviewsAverage": 4.71,
+   "createdAt": 1727456681,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-05-22/user_6637897_f878a740-2bce-474c-9933-de2667a62cbd.heic"
+   },
+   "ownerUser": {
+    "id": "user_cVjcCBeEC9e7Z",
+    "username": "hertrading97",
+    "name": "Camilia Harris"
+   }
+  },
+  {
+   "id": "biz_4q4XI3lNDBmOgO",
+   "title": "Options Action",
+   "route": "optionsaction",
+   "verified": false,
+   "creatorPitch": "I've dedicated my career to empowering traders with the tools and community they need to succeed. With Options Action, I bring together cutting-edge technology and a supportive network to help you thrive in the trading world.",
+   "businessType": "education",
+   "industryType": "options_trading",
+   "memberCount": 662,
+   "publishedReviewsCount": 14,
+   "reviewsAverage": 5.0,
+   "createdAt": 1725574376,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-01-01/user_1761593_71e25591-1dbd-471a-9db6-41fec05ef651.jpeg"
+   },
+   "ownerUser": {
+    "id": "user_nBkUF3olAw327",
+    "username": "billfanter",
+    "name": "billfanter"
+   }
+  },
+  {
+   "id": "biz_FqH6nYdYwtMKmX",
+   "title": "Miles High Club",
+   "route": "miles-high-club",
+   "verified": false,
+   "creatorPitch": "My name is Miles Deutscher and I'm a crypto analyst and investor. I've been investing in crypto for over 5 years and have a deep passion for crypto, DeFi and personal finance that I'd love to share with you.\n",
+   "businessType": "education",
+   "industryType": "crypto_trading",
+   "memberCount": 8567,
+   "publishedReviewsCount": 224,
+   "reviewsAverage": 4.91,
+   "createdAt": 1709709563,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-03-23/user_80102_0130aa3f-f9ce-47f1-b988-2e67c60e20dc.jpeg"
+   },
+   "ownerUser": {
+    "id": "user_CLD0rQt2wnVoI",
+    "username": "milesdeutscher",
+    "name": null
+   }
+  },
+  {
+   "id": "biz_7FAo7vSO4Ni40L",
+   "title": "Team Bull Trading",
+   "route": "team-bull-trading",
+   "verified": false,
+   "creatorPitch": "I'm Jacob (JDUN Trades), founder of Team Bull Trading. 10 years trading. Built on Discipline Over Dopamine. I trade LIVE daily",
+   "businessType": "education",
+   "industryType": "futures_trading",
+   "memberCount": 35155,
+   "publishedReviewsCount": 503,
+   "reviewsAverage": 4.66,
+   "createdAt": 1682365711,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/bots/images/29051.original."
+   },
+   "ownerUser": {
+    "id": "user_ZAvZbJrVXKzWJ",
+    "username": "teambulltrading",
+    "name": "Jdun Trades"
+   }
+  },
+  {
+   "id": "biz_FTesaeScPzlidS",
+   "title": "Options Insider",
+   "route": "options-insider",
+   "verified": false,
+   "creatorPitch": "If you know me, you know I take a no B.S approach to this game. Our community is built for focused traders who want real-time insights, structured learning, and a supportive environment. Join us as we navigate the markets together, focusing on emotional control and risk management.",
+   "businessType": "education",
+   "industryType": "options_trading",
+   "memberCount": 17939,
+   "publishedReviewsCount": 755,
+   "reviewsAverage": 4.82,
+   "createdAt": 1705077389,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-01-12/user_80102_3cb059ac-5cf0-405a-b663-d386fe60ab49.jpeg"
+   },
+   "ownerUser": {
+    "id": "user_pyjw2cIuMNbQy",
+    "username": "desitrade",
+    "name": "Vincent Desiano"
+   }
+  },
+  {
+   "id": "biz_RDqw60o1R0kgul",
+   "title": "west peak",
+   "route": "the-sales-guys",
+   "verified": false,
+   "creatorPitch": "Teaching you the basics, everything from A-Z with a strategy that has a 80% win rate",
+   "businessType": "education",
+   "industryType": "stock_trading",
+   "memberCount": 92,
+   "publishedReviewsCount": 0,
+   "reviewsAverage": null,
+   "createdAt": 1754937246,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_16731421/image/access_passes/2026-07-22/5fea9f12-5b1e-4b4f-8e60-344e35914170.jpeg"
+   },
+   "ownerUser": {
+    "id": "user_PGuwYYQm4byPg",
+    "username": "thesalesguys",
+    "name": "The Sales Guys LLC"
+   }
+  },
+  {
+   "id": "biz_KjN2tq12hNTYHl",
+   "title": "MIKES TRADING",
+   "route": "mikestrading",
+   "verified": false,
+   "creatorPitch": "I'VE BEEN TRADING FULL TIME NOW EVERY DAY FOR OVER 12 YEARS AND SPENT THE YEARS MASTERING THE TRADING WORLD AND UNDERSTANDING TO THE DOT EVERY ASPECT OF IT. WITH MIKES TRADING, I OFFER PERSONAL MENTORSHIP, DALY ALERTS, ACCOUNT CHALLENGES, WATCHLISTS AND SO MUCH MORE TO HELP MAXIMIZE YOUR FULL TRADING POTENTIAL",
+   "businessType": "education",
+   "industryType": "options_trading",
+   "memberCount": 4346,
+   "publishedReviewsCount": 490,
+   "reviewsAverage": 4.67,
+   "createdAt": 1689131498,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2023-12-28/user_1464741_3bc1253d-a74c-4d83-b490-6782c8fd36c5.png"
+   },
+   "ownerUser": {
+    "id": "user_UjPxZHNjEHsw4",
+    "username": "mikeinvesting",
+    "name": "Mike Investing"
+   }
+  },
+  {
+   "id": "biz_xoQQhEYpCMa1tS",
+   "title": "NPZ Trading",
+   "route": "npz-trading-new",
+   "verified": false,
+   "creatorPitch": "NPZ Trading is built on the vision of empowering traders to succeed through expert guidance, real-time signals, and engaging educational content. With live sessions multiple times a day, educational resources, and the trading expertise, we foster an environment where traders of all levels can grow, learn, and master the art of trading.",
+   "businessType": "education",
+   "industryType": "forex_trading",
+   "memberCount": 7209,
+   "publishedReviewsCount": 432,
+   "reviewsAverage": 4.91,
+   "createdAt": 1755544201,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_16894490/image/bots/2025-09-04/513c3eaa-2088-44d6-b34e-d4756bae9bd3"
+   },
+   "ownerUser": {
+    "id": "user_uw72I0kQ5IEdc",
+    "username": "npztrading1",
+    "name": "NPZ"
+   }
+  },
+  {
+   "id": "biz_cJa9EDNOzwjrdL",
+   "title": "Tage Alerts",
+   "route": "tage-alerts",
+   "verified": false,
+   "creatorPitch": "Tage Alerts is a premium SPY/options trading community focused on live alerts, clean setups, and disciplined trading.\n\nBuilt from the rapid growth and success of publicly posted live callouts, currently sitting around a 90% win rate.\n\nMembers get access to:\n• Live SPY/options alerts  \n• Real-time entries during market hours  \n• Daily recaps & performance breakdowns  \n• Private Discord access",
+   "businessType": "education",
+   "industryType": "options_trading",
+   "memberCount": 468,
+   "publishedReviewsCount": 148,
+   "reviewsAverage": 4.88,
+   "createdAt": 1778527049,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_8622667/image/access_passes/2026-05-11/dbfc7a88-ea58-48e9-9cff-94226e89560d.png"
+   },
+   "ownerUser": {
+    "id": "user_A1WeXemCtSr75",
+    "username": "ihytage",
+    "name": "tage"
+   }
+  },
+  {
+   "id": "biz_mfhK8uSAgrmrAd",
+   "title": "PlayBit",
+   "route": "playbit",
+   "verified": false,
+   "creatorPitch": "Education First, Profit Second.",
+   "businessType": "education",
+   "industryType": "futures_trading",
+   "memberCount": 24400,
+   "publishedReviewsCount": 1041,
+   "reviewsAverage": 4.96,
+   "createdAt": 1699070670,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_87579/image/bots/2025-08-22/c1028bb1-277a-4697-b1af-78575f03b533"
+   },
+   "ownerUser": {
+    "id": "user_SvlWakFIL83ok",
+    "username": "playbit",
+    "name": "PlayBit"
+   }
+  },
+  {
+   "id": "biz_KAyFSTERX7hTWN",
+   "title": "Tribal Trades Training LLC",
+   "route": "tribal-trades",
+   "verified": false,
+   "creatorPitch": null,
+   "businessType": "education",
+   "industryType": "crypto_trading",
+   "memberCount": 982,
+   "publishedReviewsCount": 109,
+   "reviewsAverage": 4.79,
+   "createdAt": 1738013844,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_6096972/image/access_passes/2026-05-20/c7d4a2c4-29f3-4179-b290-3b6a0fa5d885.png"
+   },
+   "ownerUser": {
+    "id": "user_3BAa1rfzLA3WD",
+    "username": "webperformance",
+    "name": "Tribal Trades Training LLC"
+   }
+  },
+  {
+   "id": "biz_qvMx4jme0l1woJ",
+   "title": "Platinum Edge",
+   "route": "platinumedge",
+   "verified": false,
+   "creatorPitch": "Danny and Nigel founded Platinum Edge to share the hard-earned insights they’ve gained from years of real-world trading. They’ve faced the market’s challenges, developed proven strategies, and achieved consistent results. Now, they’re passionate about helping others avoid common pitfalls and fast-track their success. With Platinum Edge, you’ll learn practical skills from the experts.",
+   "businessType": "education",
+   "industryType": "forex_trading",
+   "memberCount": 821,
+   "publishedReviewsCount": 217,
+   "reviewsAverage": 4.9,
+   "createdAt": 1730846852,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-11-28/user_7078102_5a4ee144-5a2d-4aa9-9605-d0a518425838.png"
+   },
+   "ownerUser": {
+    "id": "user_w41vVcNP0C1UH",
+    "username": "platinumedge",
+    "name": "Dan David "
+   }
+  },
+  {
+   "id": "biz_jKOWFSFivL9EXy",
+   "title": "BH Insights",
+   "route": "bhinsights",
+   "verified": false,
+   "creatorPitch": "Private trading community focusing on asymmetric trades across every asset class. We help you trade with conviction and access top deal flow in private markets.\n",
+   "businessType": "education",
+   "industryType": "crypto_trading",
+   "memberCount": 475,
+   "publishedReviewsCount": 55,
+   "reviewsAverage": 4.8,
+   "createdAt": 1667418528,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/bots/images/10751.original.jpeg"
+   },
+   "ownerUser": {
+    "id": "user_ihSGypZhuhp87",
+    "username": "brandonkhong",
+    "name": "Brandon Hong"
+   }
+  },
+  {
+   "id": "biz_aKJfhHQCcu75aa",
+   "title": "NQuarters",
+   "route": "thenquarters",
+   "verified": false,
+   "creatorPitch": null,
+   "businessType": "education",
+   "industryType": "futures_trading",
+   "memberCount": 1655,
+   "publishedReviewsCount": 251,
+   "reviewsAverage": 4.74,
+   "createdAt": 1763174366,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2026-10-29/b21d130c-da6d-47d9-9171-73f3c86af7b0/image.png"
+   },
+   "ownerUser": {
+    "id": "user_SEhmaVUFRgtRY",
+    "username": "poboytrades",
+    "name": "Poboy"
+   }
+  },
+  {
+   "id": "biz_NegWyXqvqVgoKw",
+   "title": "Shocked",
+   "route": "shocked",
+   "verified": false,
+   "creatorPitch": "Know about every drop, deal and trade before everyone else.\n\nDaily drops, retail monitors, auto-checkout and trading analysts in one place.",
+   "businessType": "education",
+   "industryType": null,
+   "memberCount": 16266,
+   "publishedReviewsCount": 943,
+   "reviewsAverage": 4.96,
+   "createdAt": 1666723769,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_2448036/image/bots/2026-05-01/b9628cc5-3d9e-44e1-bdf2-41fa0d273058.png"
+   },
+   "ownerUser": {
+    "id": "user_ggkR6yMQqQlSB",
+    "username": "shockedjs",
+    "name": "JS"
+   }
+  }
+ ]
+}

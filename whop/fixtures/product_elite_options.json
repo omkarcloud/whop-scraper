@@ -1,0 +1,392 @@
+{
+ "id": "prod_UzIpfrCaGvdqD",
+ "title": "Elite Options Pro",
+ "route": "elite-options",
+ "headline": "Master Day Trading with Elite Strategies and Insights",
+ "shortenedDescription": "Unlock your full potential in options trading with exclusive insights, expert strategies, and a supportive community aimed at maximizing your success.",
+ "description": null,
+ "creatorPitch": "I am a day trading veteran with over 14 years of experience. I've taught thousands of students over the past 6 years. \nI've alerted over 6200 trades with a 70% win rate. I educate and help guide traders on a weekly basis. Join us if you want to become a part of a successful trading community.",
+ "accessPassType": "regular",
+ "businessType": "education",
+ "industryType": "options_trading",
+ "marketplaceStatus": "live_marketplace",
+ "verified": false,
+ "labels": [],
+ "whopRanking": null,
+ "activeUsersCount": 1466,
+ "memberCount": 1466,
+ "publishedReviewsCount": 1453,
+ "reviewsAverage": 4.88,
+ "reviewCounts": [
+  552,
+  33,
+  6,
+  3,
+  11
+ ],
+ "averageReviewRating": 4.84,
+ "usdGmv": 0,
+ "last24HoursGmv": 0.0,
+ "likeCount": 37,
+ "shareCount": 14,
+ "totalBountyAmount": 0.0,
+ "hasFreeAvailablePlan": false,
+ "hasPaidAvailablePlan": true,
+ "isFreeAndJoinableWithoutRequirements": false,
+ "globalAffiliateStatus": "enabled",
+ "globalAffiliatePercentage": 10.0,
+ "memberAffiliateStatus": "disabled",
+ "memberAffiliatePercentage": 0.0,
+ "customCta": "join",
+ "customCtaUrl": null,
+ "redirectPurchaseUrl": "https://calendly.com/d/dtpr-wvy-9gq/elite-options-onboarding-call",
+ "directLink": "https://whop.com/elite-options?pass=prod_UzIpfrCaGvdqD",
+ "showMemberCount": true,
+ "showReviewsDtc": true,
+ "collectShippingAddress": false,
+ "visiblePlansCount": 2,
+ "createdAt": 1726540122,
+ "firstApprovedAt": 1733782112,
+ "discoverableAt": 1758050526,
+ "updatedAt": 1793692460,
+ "logo": null,
+ "bannerImage": null,
+ "galleryImages": [
+  {
+   "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-02-25/user_6575470_bf9d6bd0-5d44-4dfe-9c21-a89f8408f809.mp4"
+  },
+  {
+   "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-12-09/user_6575470_b729f8aa-54d3-409e-a3e5-2d402eb29e30.mp4"
+  },
+  {
+   "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-12-11/user_6575470_33f9da82-a7b5-440b-90f1-b7d94d32e1ca.mp4"
+  },
+  {
+   "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-12-11/user_6575470_29a1e60a-3440-41a9-94c8-c97a343fa7a6.mp4"
+  },
+  {
+   "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-12-11/user_6575470_4ac469c0-2ecf-47d0-9f3e-476a6f7755e4.mp4"
+  },
+  {
+   "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-12-11/user_6575470_2fb56d69-1d13-41ac-8f57-a5ebe04a83d0.mp4"
+  },
+  {
+   "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-12-11/user_6575470_612d8149-6dc8-4673-af96-6edeba6c1bf8.mp4"
+  },
+  {
+   "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-12-11/user_6575470_df7d67ad-70ee-4388-8095-eeeb05b82912.mp4"
+  }
+ ],
+ "images": [
+  {
+   "url": "https://assets-2-prod.whop.com/public/uploads/2025-02-25/user_6575470_bf9d6bd0-5d44-4dfe-9c21-a89f8408f809.mp4"
+  },
+  {
+   "url": "https://assets-2-prod.whop.com/public/uploads/2024-12-09/user_6575470_b729f8aa-54d3-409e-a3e5-2d402eb29e30.mp4"
+  },
+  {
+   "url": "https://assets-2-prod.whop.com/public/uploads/2024-12-11/user_6575470_33f9da82-a7b5-440b-90f1-b7d94d32e1ca.mp4"
+  },
+  {
+   "url": "https://assets-2-prod.whop.com/public/uploads/2024-12-11/user_6575470_29a1e60a-3440-41a9-94c8-c97a343fa7a6.mp4"
+  },
+  {
+   "url": "https://assets-2-prod.whop.com/public/uploads/2024-12-11/user_6575470_4ac469c0-2ecf-47d0-9f3e-476a6f7755e4.mp4"
+  },
+  {
+   "url": "https://assets-2-prod.whop.com/public/uploads/2024-12-11/user_6575470_2fb56d69-1d13-41ac-8f57-a5ebe04a83d0.mp4"
+  },
+  {
+   "url": "https://assets-2-prod.whop.com/public/uploads/2024-12-11/user_6575470_612d8149-6dc8-4673-af96-6edeba6c1bf8.mp4"
+  },
+  {
+   "url": "https://assets-2-prod.whop.com/public/uploads/2024-12-11/user_6575470_df7d67ad-70ee-4388-8095-eeeb05b82912.mp4"
+  }
+ ],
+ "marketplaceCategory": {
+  "id": "mcat_lkjDDW8wBZzQU",
+  "name": "Trading",
+  "route": "trading"
+ },
+ "subcategory": null,
+ "productTaxCode": {
+  "name": "Non Taxable",
+  "productType": "digital"
+ },
+ "company": {
+  "id": "biz_zh2Uiu0fXhimUj",
+  "route": "elite-options",
+  "title": "Elite Options Trader",
+  "verified": false,
+  "memberCount": 25142,
+  "publishedReviewsCount": 1453,
+  "reviewsAverage": 4.88,
+  "logo": {
+   "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-12-11/user_6575470_4b7d7846-a2a6-4d64-8b5a-970fb1e8888f.jpeg"
+  }
+ },
+ "ownerUser": {
+  "id": "user_cvD61LbN6zuuE",
+  "username": "eliteoptionstrader",
+  "name": "Elite Options Trader - Brando Le",
+  "followersCount": 513,
+  "verifiedAt": null,
+  "profilePicture": {
+   "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-07-10/user_6523306_17f94ce8-d2e3-479e-8918-e106d0569e0b.png"
+  }
+ },
+ "defaultPlan": {
+  "id": "plan_7dRK7eAvsc0vQ",
+  "title": null,
+  "description": null,
+  "formattedPrice": "$189.00 / month",
+  "formattedPeriodV2": "/ month",
+  "priceTag": "$189.00",
+  "rawInitialPrice": 0.0,
+  "rawInitialPriceUsd": 0.0,
+  "rawRenewalPrice": 189.0,
+  "rawRenewalPriceUsd": 189.0,
+  "initialPriceDueInCents": 18900,
+  "strikeThroughInitialPrice": null,
+  "strikeThroughRenewalPrice": null,
+  "baseCurrency": "usd",
+  "planType": "renewal",
+  "billingPeriod": 30,
+  "releaseMethod": "buy_now",
+  "free": false,
+  "trialPeriodDays": null,
+  "expirationDays": null,
+  "stock": null,
+  "unlimitedStock": true,
+  "inStock": true,
+  "lowStockWarning": null,
+  "visibility": "visible",
+  "directLink": "https://whop.com/checkout/plan_7dRK7eAvsc0vQ",
+  "createdAt": 1727847124,
+  "allowMultipleQuantity": false,
+  "splitPayRequiredPayments": null,
+  "acceptedPaymentMethods": [
+   "multi_psp"
+  ]
+ },
+ "visiblePlans": {
+  "totalCount": 2,
+  "nodes": [
+   {
+    "id": "plan_7dRK7eAvsc0vQ",
+    "title": null,
+    "description": null,
+    "formattedPrice": "$189.00 / month",
+    "formattedPeriodV2": "/ month",
+    "priceTag": "$189.00",
+    "rawInitialPrice": 0.0,
+    "rawInitialPriceUsd": 0.0,
+    "rawRenewalPrice": 189.0,
+    "rawRenewalPriceUsd": 189.0,
+    "initialPriceDueInCents": 18900,
+    "strikeThroughInitialPrice": null,
+    "strikeThroughRenewalPrice": null,
+    "baseCurrency": "usd",
+    "planType": "renewal",
+    "billingPeriod": 30,
+    "releaseMethod": "buy_now",
+    "free": false,
+    "trialPeriodDays": null,
+    "expirationDays": null,
+    "stock": null,
+    "unlimitedStock": true,
+    "inStock": true,
+    "lowStockWarning": null,
+    "visibility": "visible",
+    "directLink": "https://whop.com/checkout/plan_7dRK7eAvsc0vQ",
+    "createdAt": 1727847124,
+    "allowMultipleQuantity": false,
+    "splitPayRequiredPayments": null,
+    "acceptedPaymentMethods": [
+     "multi_psp"
+    ]
+   },
+   {
+    "id": "plan_ghIybGu6hijp3",
+    "title": null,
+    "description": "Yearly Membership for Pro Membership!",
+    "formattedPrice": "$1,999.00 / year",
+    "formattedPeriodV2": "/ year",
+    "priceTag": "$1,999.00",
+    "rawInitialPrice": 0.0,
+    "rawInitialPriceUsd": 0.0,
+    "rawRenewalPrice": 1999.0,
+    "rawRenewalPriceUsd": 1999.0,
+    "initialPriceDueInCents": 199900,
+    "strikeThroughInitialPrice": null,
+    "strikeThroughRenewalPrice": null,
+    "baseCurrency": "usd",
+    "planType": "renewal",
+    "billingPeriod": 365,
+    "releaseMethod": "buy_now",
+    "free": false,
+    "trialPeriodDays": null,
+    "expirationDays": null,
+    "stock": null,
+    "unlimitedStock": true,
+    "inStock": true,
+    "lowStockWarning": null,
+    "visibility": "visible",
+    "directLink": "https://whop.com/checkout/plan_ghIybGu6hijp3",
+    "createdAt": 1749529637,
+    "allowMultipleQuantity": false,
+    "splitPayRequiredPayments": null,
+    "acceptedPaymentMethods": [
+     "multi_psp"
+    ]
+   }
+  ]
+ },
+ "faq": [
+  {
+   "id": "faq_7JAKdIKujiI1VV",
+   "question": "Do you offer a trial?",
+   "answer": "Yes, we offer a Two-Day Risk-Free trial. If you are not satisfied within two days you will be fully refunded."
+  },
+  {
+   "id": "faq_euNP87UqWQoWOM",
+   "question": "Do you share entries and exits?",
+   "answer": "Yes, all entries and exits are shared via discord."
+  },
+  {
+   "id": "faq_3eX1SQzm4xUlU8",
+   "question": "How many trades do you alert per week?",
+   "answer": "Between 10-20 trades depending on the opportunities."
+  },
+  {
+   "id": "faq_wCMFmG5afiUEQ9",
+   "question": "What should I expect from this subscription service?",
+   "answer": "Expect a dedicated team of traders that are available at any time to help and guide you to improve your trading."
+  }
+ ],
+ "productHighlights": {
+  "nodes": []
+ },
+ "experiences": [
+  {
+   "id": "exp_FdEq0Bno8CUwBL",
+   "name": "Education",
+   "description": "Educational Material To Guide Traders Toward Success With Clear And Actionable Insights",
+   "isPublic": false,
+   "app": {
+    "id": "app_5UWRrs7haZZeiQ",
+    "name": "Files"
+   }
+  },
+  {
+   "id": "exp_jAjDRxxny19PuR",
+   "name": "ELITE Community Access",
+   "description": "Access Our Exclusive Discord Server And Connect With A Thriving, Engaged Trading Community",
+   "isPublic": false,
+   "app": {
+    "id": "app_sWtSR8DZsEGryg",
+    "name": "Discord"
+   }
+  },
+  {
+   "id": "exp_wkL1zcNaEsD2Un",
+   "name": "Chartbook",
+   "description": "Brando & Shoof Share Weekly Charts With Top Setups To Help You Prepare For The Week Ahead",
+   "isPublic": false,
+   "app": {
+    "id": "app_dYfm2IdXhDMquv",
+    "name": "Forums"
+   }
+  },
+  {
+   "id": "exp_rBotUGNCFdQUDk",
+   "name": "Market Synopsis",
+   "description": "Weekly Videos To Help Traders Prepare And Plan For The Week Ahead With Confidence",
+   "isPublic": false,
+   "app": {
+    "id": "app_0vPZThfBpAwLo",
+    "name": "Courses"
+   }
+  },
+  {
+   "id": "exp_WHxNKkBbmOFbsj",
+   "name": "Trade Log",
+   "description": "Review Our Weekly Trade Log With All Trades Listed And Detailed Percent Gains For Each",
+   "isPublic": false,
+   "app": {
+    "id": "app_dYfm2IdXhDMquv",
+    "name": "Forums"
+   }
+  },
+  {
+   "id": "exp_f7s3txm1FuJgru",
+   "name": "Elite Rundown",
+   "description": "Live end-of-day stream breaking down key trades & setups for tomorrow’s market action. 🚀📈",
+   "isPublic": false,
+   "app": {
+    "id": "app_WykcI6ivb5fOlz",
+    "name": "Livestreaming"
+   }
+  },
+  {
+   "id": "exp_EYmNG7Tx3Axkjn",
+   "name": "Ufunded - Instant Funding for Equities -",
+   "description": "https://drive.google.com/file/d/1jrnDsqbIFTYF8Hdnj4CJ9ryNiSRLHtYQ/view",
+   "isPublic": false,
+   "app": {
+    "id": "app_dYfm2IdXhDMquv",
+    "name": "Forums"
+   }
+  }
+ ],
+ "socialLinks": [
+  {
+   "website": "instagram",
+   "url": "https://instagram.com/eliteoptionstrader2",
+   "title": null
+  },
+  {
+   "website": "x",
+   "url": "https://x.com/EliteOptions2",
+   "title": null
+  },
+  {
+   "website": "youtube",
+   "url": "https://www.youtube.com/@Eliteoptions2",
+   "title": null
+  }
+ ],
+ "mostRecentReview": {
+  "id": "rev_zHRnRynEPoRQDo",
+  "stars": 5,
+  "title": null,
+  "description": "In this community you get to follow one of the best traders in the world, Brando, live. A trader who has verified turning $6K into 8 figures. He gives a live alert for every trade, so you can literally watch how he thinks and trades in real time. But don’t get me wrong: even if Brando were literally whispering in your ear what to do, it takes an enormous amount of mental discipline to actually do what he does. He has a phenomenal appetite for risk and sees things that I - and probably most people - simply don’t see. And that’s exactly what allows him to make some absolutely massive trades, with a win rate of well over 70% based on my own meticulous tracking of his trades in an spreadsheet.\nEventually you realize that you have to develop your own trading style, because you’re not Brando. And that may be one of the most important lessons of all. He encourages everyone to think independently and develop their own style. He teaches you not only the universal principles of trading, but in many ways also the universal principles of living a good life.\n\nI also don’t want to leave out his right-hand man, trader Shoof. He’s often remarkably in sync with Brando, while at the same time bringing his own perspective and a wide range of trading ideas to the table. A lot of members have had great success with his ideas. Perhaps most importantly of all: the community itself. I’ve been around for quite a while, but Elite Options is one of the best things I’ve come across along the way. It’s an incredible mix of experienced, highly successful traders, intermediate traders, and beginners, all encouraging, helping, and learning from one another. The group dynamic is something special: tons of knowledge, a genuine willingness to help each other, and above all, a lot of humor. And as a European, I personally also draw a lot of energy from the contagious, American optimism within this group. Honestly, at this point, I’m not sure what I would do without this community.",
+  "createdAt": 1793528107,
+  "joinedAt": 1763396839,
+  "publishedAt": 1793528107,
+  "paidForProduct": true,
+  "upvotes": 0,
+  "replyCount": 0,
+  "featured": false,
+  "whopReviewed": false,
+  "userAccount": {
+   "id": "user_4Jq8kZGbffG9E",
+   "username": "peterbeckmann020",
+   "name": "PeterB",
+   "profilePicture": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_19533630/image/users/2026-03-02/1434934b-fe49-440d-8870-7b9f09952fd1.png"
+   }
+  },
+  "accessPass": {
+   "id": "prod_UzIpfrCaGvdqD",
+   "route": "elite-options",
+   "title": "Elite Options Pro"
+  },
+  "company": {
+   "id": "biz_zh2Uiu0fXhimUj",
+   "route": "elite-options",
+   "title": "Elite Options Trader"
+  },
+  "attachments": []
+ }
+}

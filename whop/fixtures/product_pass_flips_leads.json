@@ -1,0 +1,254 @@
+{
+ "id": "pass_F8vWKiJ2ZDrSA",
+ "title": "Flips Nation Leads",
+ "route": "flips-nation-leads-monthly",
+ "headline": "Exclusive Leads for Amazon FBA Success",
+ "shortenedDescription": "Access 60 exclusive, profitable leads monthly to boost your Amazon FBA business. Enjoy beginner-friendly support and maintain high ROI with our small group strategy.",
+ "description": null,
+ "creatorPitch": "I've dedicated myself to providing Amazon sellers with exclusive, high-quality leads. With years of experience, I understand the challenges you face, and I'm here to help you overcome them with valuable leads and personal support.",
+ "accessPassType": "regular",
+ "businessType": "education",
+ "industryType": "amazon_fba_business_training",
+ "marketplaceStatus": "live_marketplace",
+ "verified": false,
+ "labels": [],
+ "whopRanking": null,
+ "activeUsersCount": 0,
+ "memberCount": 0,
+ "publishedReviewsCount": 11,
+ "reviewsAverage": 5.0,
+ "reviewCounts": [
+  6,
+  0,
+  0,
+  0,
+  0
+ ],
+ "averageReviewRating": 5.0,
+ "usdGmv": 0,
+ "last24HoursGmv": 0.0,
+ "likeCount": 37,
+ "shareCount": 14,
+ "totalBountyAmount": 0.0,
+ "hasFreeAvailablePlan": false,
+ "hasPaidAvailablePlan": false,
+ "isFreeAndJoinableWithoutRequirements": false,
+ "globalAffiliateStatus": "enabled",
+ "globalAffiliatePercentage": 30.0,
+ "memberAffiliateStatus": "disabled",
+ "memberAffiliatePercentage": 0.0,
+ "customCta": "join",
+ "customCtaUrl": null,
+ "redirectPurchaseUrl": null,
+ "directLink": "https://whop.com/flips-nation-leads-monthly?pass=pass_F8vWKiJ2ZDrSA",
+ "showMemberCount": false,
+ "showReviewsDtc": true,
+ "collectShippingAddress": false,
+ "visiblePlansCount": 1,
+ "createdAt": 1665631087,
+ "firstApprovedAt": 1684305131,
+ "discoverableAt": 1728329611,
+ "updatedAt": 1752457092,
+ "logo": null,
+ "bannerImage": null,
+ "galleryImages": [
+  {
+   "sourceUrl": "https://assets-2-prod.whop.com/public/images/images/41485.original.png"
+  }
+ ],
+ "images": [
+  {
+   "url": "https://assets-2-prod.whop.com/public/images/images/41485.original.png"
+  }
+ ],
+ "marketplaceCategory": {
+  "id": "mcat_NOkEDUjnGp4PH",
+  "name": "E-Commerce",
+  "route": "ecommerce"
+ },
+ "subcategory": null,
+ "productTaxCode": null,
+ "company": {
+  "id": "biz_eYoV4GW80c495B",
+  "route": "robsreview",
+  "title": "Flips Nation",
+  "verified": false,
+  "memberCount": 338,
+  "publishedReviewsCount": 11,
+  "reviewsAverage": 5.0,
+  "logo": {
+   "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-12-01/user_55280_0909b79c-d279-4caf-b556-23d8324afb24.png"
+  }
+ },
+ "ownerUser": {
+  "id": "user_lNmRfQ3CbAazB",
+  "username": "flipsnation",
+  "name": "lakersnation",
+  "followersCount": 8,
+  "verifiedAt": null,
+  "profilePicture": {
+   "sourceUrl": "https://ui-avatars.com/api/?name=lakersnation&background=535961&color=fff&format=png"
+  }
+ },
+ "defaultPlan": {
+  "id": "plan_JDYyfclGsKnjx",
+  "title": null,
+  "description": null,
+  "formattedPrice": "$99.00 / month",
+  "formattedPeriodV2": "/ month",
+  "priceTag": "$99.00",
+  "rawInitialPrice": 0.0,
+  "rawInitialPriceUsd": 0.0,
+  "rawRenewalPrice": 99.0,
+  "rawRenewalPriceUsd": 99.0,
+  "initialPriceDueInCents": 0,
+  "strikeThroughInitialPrice": null,
+  "strikeThroughRenewalPrice": null,
+  "baseCurrency": "usd",
+  "planType": "renewal",
+  "billingPeriod": 30,
+  "releaseMethod": "buy_now",
+  "free": false,
+  "trialPeriodDays": 3,
+  "expirationDays": null,
+  "stock": null,
+  "unlimitedStock": false,
+  "inStock": false,
+  "lowStockWarning": null,
+  "visibility": "visible",
+  "directLink": "https://whop.com/checkout/plan_JDYyfclGsKnjx",
+  "createdAt": 1665631087,
+  "allowMultipleQuantity": false,
+  "splitPayRequiredPayments": null,
+  "acceptedPaymentMethods": []
+ },
+ "visiblePlans": {
+  "totalCount": 1,
+  "nodes": [
+   {
+    "id": "plan_JDYyfclGsKnjx",
+    "title": null,
+    "description": null,
+    "formattedPrice": "$99.00 / month",
+    "formattedPeriodV2": "/ month",
+    "priceTag": "$99.00",
+    "rawInitialPrice": 0.0,
+    "rawInitialPriceUsd": 0.0,
+    "rawRenewalPrice": 99.0,
+    "rawRenewalPriceUsd": 99.0,
+    "initialPriceDueInCents": 0,
+    "strikeThroughInitialPrice": null,
+    "strikeThroughRenewalPrice": null,
+    "baseCurrency": "usd",
+    "planType": "renewal",
+    "billingPeriod": 30,
+    "releaseMethod": "buy_now",
+    "free": false,
+    "trialPeriodDays": 3,
+    "expirationDays": null,
+    "stock": null,
+    "unlimitedStock": false,
+    "inStock": false,
+    "lowStockWarning": null,
+    "visibility": "visible",
+    "directLink": "https://whop.com/checkout/plan_JDYyfclGsKnjx",
+    "createdAt": 1665631087,
+    "allowMultipleQuantity": false,
+    "splitPayRequiredPayments": null,
+    "acceptedPaymentMethods": []
+   }
+  ]
+ },
+ "faq": [
+  {
+   "id": "faq_9W4iPHlebgMpNa",
+   "question": "How many leads will I receive per month?",
+   "answer": "We offer 60 Leads a month, given by 15 a week. Leads are posted for only those that are paying inside the Discord Group."
+  },
+  {
+   "id": "faq_m221dz7G0wJq0V",
+   "question": "What are the lead criteria?",
+   "answer": "We strive for realistic leads with ROI at least 30%, good sales volume, and not saturated."
+  },
+  {
+   "id": "faq_yIJSYurQqGnzis",
+   "question": "Does everyone in the group see the leads?",
+   "answer": "NO. We mitigate chances of any listing tanking by keeping the leads list exclusive to 6 people per list."
+  },
+  {
+   "id": "faq_1giAQRHXoFTvHS",
+   "question": "Are the Leads beginner friendly?",
+   "answer": "Yes, I will personally provide support and help you find the correct location for an invoice."
+  },
+  {
+   "id": "faq_erkj8poL3hNytw",
+   "question": "I just started selling on Amazon FBA. Do you offer support?",
+   "answer": "With your monthly lead subscription, I will be available. Just open a ticket for any Amazon FBA questions."
+  }
+ ],
+ "productHighlights": {
+  "nodes": []
+ },
+ "experiences": [
+  {
+   "id": "exp_cd1UmlhNHhAuhQ",
+   "name": "Leads Red",
+   "description": "Access exclusive, high-quality leads in a private Discord group.",
+   "isPublic": false,
+   "app": {
+    "id": "app_sWtSR8DZsEGryg",
+    "name": "Discord"
+   }
+  }
+ ],
+ "socialLinks": [
+  {
+   "website": "instagram",
+   "url": "flipsnation24",
+   "title": null
+  },
+  {
+   "website": "x",
+   "url": "FlipsNationAMZ",
+   "title": null
+  },
+  {
+   "website": "youtube",
+   "url": "https://www.youtube.com/@flipsnation24",
+   "title": null
+  }
+ ],
+ "mostRecentReview": {
+  "id": "rev_xRnYVKtnUP9AYv",
+  "stars": 5,
+  "title": null,
+  "description": "My coaching call focused on product authenticity violation removal. Rob paid close attention to every little detail when it came to dealing with authenticity violations. I was seriously impressed by how thorough he was in tackling each aspect of the problem. I was particularly impressed by his plan of action that he thoroughly went over that has helped him get rid of a few authenticity violations in the past. \nWhat really stood out to me was his dedication to my progress. He never rushed our conversations and made sure there was plently of time for us to chat. He answered every single question I had and he did it in a way that was super easy to understand. one of the realest in the ecommerce game!\nThanks to him, I now have a much better grasp on how to handle authenticity violations and feel confident if I get hit with this violation in the future. ",
+  "createdAt": 1686933393,
+  "joinedAt": 1686875322,
+  "publishedAt": 1687014832,
+  "paidForProduct": true,
+  "upvotes": 0,
+  "replyCount": 0,
+  "featured": false,
+  "whopReviewed": false,
+  "userAccount": {
+   "id": "user_iSTA3CyDpoVFp",
+   "username": "user1cd31027235",
+   "name": "Prerak Patel",
+   "profilePicture": {
+    "sourceUrl": "https://ui-avatars.com/api/?name=Prerak%20Patel&background=535961&color=fff&format=png"
+   }
+  },
+  "accessPass": {
+   "id": "prod_0QffCPw2ulYzC",
+   "route": "coaching-call",
+   "title": "COACHING CALL"
+  },
+  "company": {
+   "id": "biz_eYoV4GW80c495B",
+   "route": "robsreview",
+   "title": "Flips Nation"
+  },
+  "attachments": []
+ }
+}

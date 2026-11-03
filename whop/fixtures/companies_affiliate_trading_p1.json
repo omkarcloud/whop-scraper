@@ -1,0 +1,1259 @@
+{
+ "totalCount": 377,
+ "pageInfo": {
+  "hasNextPage": true,
+  "endCursor": "NTA"
+ },
+ "nodes": [
+  {
+   "id": "biz_MDpDOUeOh7Mb5d",
+   "title": "Alertsify - Institutional-Speed Trading",
+   "route": "alertsify",
+   "verified": true,
+   "creatorPitch": "Alertsify delivers institutional-grade speed, automation, and transparency. Execute verified trade signals instantly in your own broker account, track real performance with fully audited stats, and run professional-level infrastructure built for serious traders.",
+   "businessType": "platform",
+   "industryType": null,
+   "memberCount": 0,
+   "publishedReviewsCount": 254,
+   "reviewsAverage": 4.8,
+   "createdAt": 1723087675,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_1112846/image/bots/2025-08-15/7988295e-247d-43ff-93c5-52e807705417"
+   },
+   "ownerUser": {
+    "id": "user_xnIZfpo17E8Rw",
+    "username": "enhancedmarket",
+    "name": "EnhancedMarket™"
+   },
+   "affiliateTotalEarned": 968256.15,
+   "affiliateTotalClicks": 28046,
+   "affiliateTotalConversions": 4277,
+   "hasGlobalAffiliatesEnabled": true
+  },
+  {
+   "id": "biz_0tXTxxxrWbJJrT",
+   "title": "Stock Talk Insiders Trading Club",
+   "route": "stocktalk",
+   "verified": false,
+   "creatorPitch": "Stock Talk Insiders is a professional trading & investing community built by @stocktalkweekly on X/Twitter. Every entry, exit & weighting shared transparently. Followed by Elon Musk and several Fortune 500 CEOs & U.S. congresspeople.\n\nOur expert team of traders & investors has over 50 years of combined experience. We offer the best trade ideas and stock market analysis in the industry, bar none.",
+   "businessType": "education",
+   "industryType": "stock_trading",
+   "memberCount": 7177,
+   "publishedReviewsCount": 753,
+   "reviewsAverage": 4.85,
+   "createdAt": 1678831653,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/bots/images/23231.original.jpeg"
+   },
+   "ownerUser": {
+    "id": "user_eJ2Eq5y5YheVJ",
+    "username": "stocktalkweekly",
+    "name": "Stock Talk"
+   },
+   "affiliateTotalEarned": 573902.06,
+   "affiliateTotalClicks": 24359,
+   "affiliateTotalConversions": 5510,
+   "hasGlobalAffiliatesEnabled": true
+  },
+  {
+   "id": "biz_7FAo7vSO4Ni40L",
+   "title": "Team Bull Trading",
+   "route": "team-bull-trading",
+   "verified": false,
+   "creatorPitch": "I'm Jacob (JDUN Trades), founder of Team Bull Trading. 10 years trading. Built on Discipline Over Dopamine. I trade LIVE daily",
+   "businessType": "education",
+   "industryType": "futures_trading",
+   "memberCount": 35155,
+   "publishedReviewsCount": 503,
+   "reviewsAverage": 4.66,
+   "createdAt": 1682365711,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/bots/images/29051.original."
+   },
+   "ownerUser": {
+    "id": "user_ZAvZbJrVXKzWJ",
+    "username": "teambulltrading",
+    "name": "Jdun Trades"
+   },
+   "affiliateTotalEarned": 452232.44,
+   "affiliateTotalClicks": 28734,
+   "affiliateTotalConversions": 63653,
+   "hasGlobalAffiliatesEnabled": true
+  },
+  {
+   "id": "biz_y3Ykd121PDcAL9",
+   "title": "New Age Trading",
+   "route": "newagetrading",
+   "verified": false,
+   "creatorPitch": "I’ve spent years mastering the art of trading and educating others. My mission is to transform aspiring traders into profitable ones through mentorship, community, and real-time insights. At New Age Trading, we make the complex simple and guide you every step of the way.",
+   "businessType": "education",
+   "industryType": "options_trading",
+   "memberCount": 45637,
+   "publishedReviewsCount": 407,
+   "reviewsAverage": 4.76,
+   "createdAt": 1682562209,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-03-07/user_1108021_7c24d865-a6c8-413a-afff-3868b61f97ff.png"
+   },
+   "ownerUser": {
+    "id": "user_Y59R1z1IbZH6O",
+    "username": "newagetradingteam",
+    "name": "PBInvesting"
+   },
+   "affiliateTotalEarned": 161379.8,
+   "affiliateTotalClicks": 8919,
+   "affiliateTotalConversions": 71673,
+   "hasGlobalAffiliatesEnabled": true
+  },
+  {
+   "id": "biz_rvmHgzux0KNBX8",
+   "title": "American Dream Trading LLC",
+   "route": "adt",
+   "verified": false,
+   "creatorPitch": "Learn stocks, options, futures and day trading with daily live coaching from a 34-year market veteran. Join 11,000+ members for live trading sessions, real-time market analysis, and structured trading education. Beginner-friendly courses, advanced strategies, and a 13-mentor support team. Stocks, options, futures, and crypto tracks available. 5.0 stars with 500+ reviews. Start free today.",
+   "businessType": "education",
+   "industryType": "options_trading",
+   "memberCount": 12138,
+   "publishedReviewsCount": 531,
+   "reviewsAverage": 4.94,
+   "createdAt": 1686518230,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-07-21/user_1818627_682302fe-8cfa-4f8b-bb52-00f3f86ff1c2.png"
+   },
+   "ownerUser": {
+    "id": "user_UsyEEI5mlADfE",
+    "username": "coachcwc",
+    "name": "Chad Christian"
+   },
+   "affiliateTotalEarned": 136478.94,
+   "affiliateTotalClicks": 2435,
+   "affiliateTotalConversions": 13456,
+   "hasGlobalAffiliatesEnabled": false
+  },
+  {
+   "id": "biz_evPI0Ex2dXL1Jg",
+   "title": "Bravo Six Trades | Futures Trading",
+   "route": "bravosixtrades",
+   "verified": false,
+   "creatorPitch": "🔗 𝘣𝘳𝘢𝘷𝘰𝘴𝘪𝘹𝘱𝘪𝘤𝘬𝘴.𝘤𝘰𝘮/𝘵𝘳𝘢𝘥𝘦𝘴\n✔️ 𝗧𝗿𝗮𝗱𝗲 𝗔𝗹𝗲𝗿𝘁𝘀\n✔️ 𝗧𝗿𝗮𝗱𝗶𝗻𝗴 𝗟𝗶𝘃𝗲𝘀𝘁𝗿𝗲𝗮𝗺𝘀",
+   "businessType": "education",
+   "industryType": "stock_trading",
+   "memberCount": 11405,
+   "publishedReviewsCount": 1218,
+   "reviewsAverage": 5.0,
+   "createdAt": 1711274674,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_3353962/image/bots/2026-07-21/826f3e28-413b-40ad-9120-185139bc3f3f.png"
+   },
+   "ownerUser": {
+    "id": "user_z5rTdVS7V74Ps",
+    "username": "bravosixtrades",
+    "name": "Bravo Six Trades | Futures Trading"
+   },
+   "affiliateTotalEarned": 133815.67,
+   "affiliateTotalClicks": 27378,
+   "affiliateTotalConversions": 11054,
+   "hasGlobalAffiliatesEnabled": true
+  },
+  {
+   "id": "biz_IaEdKJ2EkPfM4p",
+   "title": "SAR Trading",
+   "route": "sar-trading",
+   "verified": false,
+   "creatorPitch": "I've dedicated my life to mastering the art of trading and helping others succeed. With SAR Trading, you'll gain access to proven strategies and a supportive community. Our Discord is your ultimate resource for real-time alerts, private chat, and custom tools to ensure your trading success.",
+   "businessType": "education",
+   "industryType": "stock_trading",
+   "memberCount": 4521,
+   "publishedReviewsCount": 75,
+   "reviewsAverage": 4.71,
+   "createdAt": 1666899897,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/access_passes/images/26293.original.png"
+   },
+   "ownerUser": {
+    "id": "user_3NDQf28qONpVr",
+    "username": "morganhope",
+    "name": "Morgan"
+   },
+   "affiliateTotalEarned": 130165.09,
+   "affiliateTotalClicks": 2678,
+   "affiliateTotalConversions": 795,
+   "hasGlobalAffiliatesEnabled": true
+  },
+  {
+   "id": "biz_jpifEMNmtghRCY",
+   "title": "Oasis Trading Group",
+   "route": "oasisalerts",
+   "verified": false,
+   "creatorPitch": "Inside the VIP Discord, you’ll see Champ & Britt's DAILY LIVE TRADING, key levels, live execution, and how trades are managed as they happen... wins, losses, decision-making, and all. Nothing is hidden. You’re not getting delayed recaps or cherry-picked results. You’re watching the process unfold live.",
+   "businessType": "education",
+   "industryType": "futures_trading",
+   "memberCount": 4114,
+   "publishedReviewsCount": 277,
+   "reviewsAverage": 4.6,
+   "createdAt": 1688654853,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_1452121/image/bots/2026-06-28/973a47fe-2209-4e68-bfdb-97b48ba46a24.png"
+   },
+   "ownerUser": {
+    "id": "user_E1FWWVozEI1vv",
+    "username": "cassockedconsumer2c2f",
+    "name": "thetradingchamp"
+   },
+   "affiliateTotalEarned": 78736.44,
+   "affiliateTotalClicks": 8825,
+   "affiliateTotalConversions": 2203,
+   "hasGlobalAffiliatesEnabled": true
+  },
+  {
+   "id": "biz_vKx95yKf6yMcbl",
+   "title": "Aurora Trading",
+   "route": "professional-zones-supply-and-demand-indicator",
+   "verified": false,
+   "creatorPitch": "At Aurora, we are revolutionizing the way stock market discord servers are perceived with consistent results and ground-breaking education. We take pride in not just pushing out buy/sell alerts to members and expecting a sheep-like following, but instead equipping YOU with the necessary tools, strategies, and confidence required to lay the ground-work for success. View disclaimer in Discord.",
+   "businessType": "education",
+   "industryType": "options_trading",
+   "memberCount": 2342,
+   "publishedReviewsCount": 132,
+   "reviewsAverage": 4.95,
+   "createdAt": 1687641690,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/bots/images/38334.original.png"
+   },
+   "ownerUser": {
+    "id": "user_3HpjYI8c4PPm7",
+    "username": "user5e4a1398567",
+    "name": "Aurora Trading"
+   },
+   "affiliateTotalEarned": 77783.05,
+   "affiliateTotalClicks": 2388,
+   "affiliateTotalConversions": 3776,
+   "hasGlobalAffiliatesEnabled": true
+  },
+  {
+   "id": "biz_yklFdIvqlp4z3i",
+   "title": "DemonTrading",
+   "route": "demontrading",
+   "verified": false,
+   "creatorPitch": "As the creator of DemonTrading, I bring you exclusive tools and education to elevate your trading game. With years of experience, I'm here to provide mentorship and access to high-win-rate strategies, ensuring your success in the trading world.",
+   "businessType": "education",
+   "industryType": "options_trading",
+   "memberCount": 2876,
+   "publishedReviewsCount": 291,
+   "reviewsAverage": 4.76,
+   "createdAt": 1681276707,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/bots/images/27392.original.png"
+   },
+   "ownerUser": {
+    "id": "user_xLldZYt7yK4DO",
+    "username": "demonoptions",
+    "name": "Demon 😈"
+   },
+   "affiliateTotalEarned": 66221.38,
+   "affiliateTotalClicks": 2852,
+   "affiliateTotalConversions": 1617,
+   "hasGlobalAffiliatesEnabled": true
+  },
+  {
+   "id": "biz_xoQQhEYpCMa1tS",
+   "title": "NPZ Trading",
+   "route": "npz-trading-new",
+   "verified": false,
+   "creatorPitch": "NPZ Trading is built on the vision of empowering traders to succeed through expert guidance, real-time signals, and engaging educational content. With live sessions multiple times a day, educational resources, and the trading expertise, we foster an environment where traders of all levels can grow, learn, and master the art of trading.",
+   "businessType": "education",
+   "industryType": "forex_trading",
+   "memberCount": 7209,
+   "publishedReviewsCount": 432,
+   "reviewsAverage": 4.91,
+   "createdAt": 1755544201,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_16894490/image/bots/2025-09-04/513c3eaa-2088-44d6-b34e-d4756bae9bd3"
+   },
+   "ownerUser": {
+    "id": "user_uw72I0kQ5IEdc",
+    "username": "npztrading1",
+    "name": "NPZ"
+   },
+   "affiliateTotalEarned": 65300.3,
+   "affiliateTotalClicks": 19802,
+   "affiliateTotalConversions": 1770,
+   "hasGlobalAffiliatesEnabled": true
+  },
+  {
+   "id": "biz_R88hNWtuY9LmuF",
+   "title": "Platinum Trading",
+   "route": "premium-membership-54",
+   "verified": false,
+   "creatorPitch": "I've dedicated my career to demystifying trading for everyone. Platinum Trading Premium is designed to provide you with expert guidance, live signals, and a supportive community to ensure you succeed on your trading journey.",
+   "businessType": "education",
+   "industryType": "options_trading",
+   "memberCount": 18363,
+   "publishedReviewsCount": 123,
+   "reviewsAverage": 4.67,
+   "createdAt": 1680420145,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_926993/image/bots/2026-06-18/b8c7f643-59b7-4c7f-9fbf-787c026e3702.png"
+   },
+   "ownerUser": {
+    "id": "user_pPqYXaggUBAY0",
+    "username": "nitrotradesdiscord",
+    "name": "Mike Babayan"
+   },
+   "affiliateTotalEarned": 64877.73,
+   "affiliateTotalClicks": 3859,
+   "affiliateTotalConversions": 4046,
+   "hasGlobalAffiliatesEnabled": true
+  },
+  {
+   "id": "biz_FEbkLCYH8RQcjy",
+   "title": "Boka Trading ",
+   "route": "jonnyoptions",
+   "verified": false,
+   "creatorPitch": "Hey i’m Jonny a trader and mentor who helps people build freedom through trading.\n\nI went from failing high school and being broke to creating a life built on discipline and consistency.\n\nNow i help traders learn a proven strategy develop structure and build the confidence to finally start winning in the markets",
+   "businessType": "education",
+   "industryType": "options_trading",
+   "memberCount": 13161,
+   "publishedReviewsCount": 230,
+   "reviewsAverage": 4.8,
+   "createdAt": 1711641828,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-09-09/user_1227643_5206b376-40fb-4600-a310-c7d477db5d44.gif"
+   },
+   "ownerUser": {
+    "id": "user_4djkLfpY9ba2s",
+    "username": "jonnyoptions",
+    "name": "JonnyOptions "
+   },
+   "affiliateTotalEarned": 63938.22,
+   "affiliateTotalClicks": 3928,
+   "affiliateTotalConversions": 1303,
+   "hasGlobalAffiliatesEnabled": true
+  },
+  {
+   "id": "biz_37ZXtdSEordi7n",
+   "title": "Chroma Trading",
+   "route": "chroma-trading",
+   "verified": false,
+   "creatorPitch": "Develop your edge. Become consistently profitable. Make life-changing money. Unlock your trading potential today\n——————————————————————————————\nWelcome to Chroma Trading ",
+   "businessType": "education",
+   "industryType": "crypto_trading",
+   "memberCount": 643,
+   "publishedReviewsCount": 248,
+   "reviewsAverage": 4.95,
+   "createdAt": 1656544675,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_353640/image/bots/2025-08-03/36800ac4-7037-4d9c-a5c9-230d35dd56d3"
+   },
+   "ownerUser": {
+    "id": "user_6NoQbCEvAgplz",
+    "username": "follis",
+    "name": "Follis"
+   },
+   "affiliateTotalEarned": 52596.37,
+   "affiliateTotalClicks": 3266,
+   "affiliateTotalConversions": 759,
+   "hasGlobalAffiliatesEnabled": true
+  },
+  {
+   "id": "biz_4G0TRSZ4HdEx34",
+   "title": "Top Floor Trading ",
+   "route": "topfloortrading1",
+   "verified": false,
+   "creatorPitch": "I've spent over 7 years mastering day trading and simplifying complex strategies. \n\nMy goal is to help you become an independent trader, navigating the markets with ease and confidence.",
+   "businessType": "education",
+   "industryType": "futures_trading",
+   "memberCount": 8485,
+   "publishedReviewsCount": 328,
+   "reviewsAverage": 4.96,
+   "createdAt": 1669223610,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_570959/image/bots/2026-04-03/75aa41f1-36d5-44e1-9f40-d6ec38d0fc71.png"
+   },
+   "ownerUser": {
+    "id": "user_W7sZCMicOQFBu",
+    "username": "itsjohnny",
+    "name": "Johnny"
+   },
+   "affiliateTotalEarned": 51484.07,
+   "affiliateTotalClicks": 4224,
+   "affiliateTotalConversions": 3680,
+   "hasGlobalAffiliatesEnabled": true
+  },
+  {
+   "id": "biz_kpR1kfJ9HzvRYN",
+   "title": "SuperLuckeee Trading",
+   "route": "superluckeee",
+   "verified": false,
+   "creatorPitch": "Aevitas Partners, LLC, founded in 2018 by proprietary traders Michael Luu and Esther Cho, aims to be a global leader in trading education. They provide real-time guidance, actionable trade ideas, and mentorship to a diverse student base, including professionals, retirees, parents, entrepreneurs, and students, helping them succeed in the US capital markets.",
+   "businessType": "education",
+   "industryType": "options_trading",
+   "memberCount": 5180,
+   "publishedReviewsCount": 362,
+   "reviewsAverage": 4.82,
+   "createdAt": 1718677088,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-06-19/user_4131425_cc5c7ebb-5f1d-410f-8549-5a87afc0df0f.png"
+   },
+   "ownerUser": {
+    "id": "user_MR3pR9GmGLoTX",
+    "username": "michaelsuperbloom",
+    "name": ""
+   },
+   "affiliateTotalEarned": 49383.8,
+   "affiliateTotalClicks": 12883,
+   "affiliateTotalConversions": 2434,
+   "hasGlobalAffiliatesEnabled": true
+  },
+  {
+   "id": "biz_NLhFNczFWr0DVG",
+   "title": "Diamond Trading!",
+   "route": "diamondtrading",
+   "verified": false,
+   "creatorPitch": null,
+   "businessType": "education",
+   "industryType": "options_trading",
+   "memberCount": 3159,
+   "publishedReviewsCount": 167,
+   "reviewsAverage": 4.82,
+   "createdAt": 1685905477,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/bots/images/35291.original.png"
+   },
+   "ownerUser": {
+    "id": "user_NpnMLp6Ynx2VF",
+    "username": "prophitcy",
+    "name": "Prophitcy"
+   },
+   "affiliateTotalEarned": 48485.75,
+   "affiliateTotalClicks": 4820,
+   "affiliateTotalConversions": 896,
+   "hasGlobalAffiliatesEnabled": true
+  },
+  {
+   "id": "biz_5ZmRv9NqeOi9KA",
+   "title": "Huracan Trading",
+   "route": "huracan-trading",
+   "verified": false,
+   "creatorPitch": "We’ve been through the charts, the wins, and the drawdowns. Now we deliver clear, no-fluff signals backed by strategy – so you can trade smarter, not harder.",
+   "businessType": "education",
+   "industryType": "forex_trading",
+   "memberCount": 2353,
+   "publishedReviewsCount": 96,
+   "reviewsAverage": 4.72,
+   "createdAt": 1684618096,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_1235253/image/bots/2026-03-02/e7abb7c4-25f6-4a34-9335-56d98a8f048f"
+   },
+   "ownerUser": {
+    "id": "user_nEx4qU3vtMHka",
+    "username": "huracantrading",
+    "name": "Huracan Trading"
+   },
+   "affiliateTotalEarned": 40209.72,
+   "affiliateTotalClicks": 7705,
+   "affiliateTotalConversions": 1633,
+   "hasGlobalAffiliatesEnabled": true
+  },
+  {
+   "id": "biz_mDlKFwL2ws5XPq",
+   "title": "THE ULTIMATE TRADING ARENA",
+   "route": "tradingarena",
+   "verified": false,
+   "creatorPitch": "I’m Doc, creator of an elite trading arena where top traders, our Gladiators, share daily high-accuracy signals. Each month, members vote for their favorite Gladiator, who wins prizes based on trading volume, boosting competition and motivation. Join for exclusive access to expert insights and a dynamic community. After joining, you’ll get a unique link to enter the Arena.\n",
+   "businessType": "education",
+   "industryType": "crypto_trading",
+   "memberCount": 2720,
+   "publishedReviewsCount": 483,
+   "reviewsAverage": 4.8,
+   "createdAt": 1724767566,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-08-27/user_4493631_bde722da-ce31-4d84-bfaa-5f562b57127c.jpeg"
+   },
+   "ownerUser": {
+    "id": "user_eBmGItC2Lwjub",
+    "username": "drprofitmember",
+    "name": "Dr. Profit"
+   },
+   "affiliateTotalEarned": 39956.8,
+   "affiliateTotalClicks": 4673,
+   "affiliateTotalConversions": 1706,
+   "hasGlobalAffiliatesEnabled": true
+  },
+  {
+   "id": "biz_gbZ605JmF4rpJH",
+   "title": "Trading Profit Path",
+   "route": "tradingprofitpath",
+   "verified": false,
+   "creatorPitch": "Teaching you how to become a profitable trader; $1k to $100k months.",
+   "businessType": "education",
+   "industryType": "options_trading",
+   "memberCount": 1705,
+   "publishedReviewsCount": 337,
+   "reviewsAverage": 4.76,
+   "createdAt": 1760454053,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_18169760/image/bots/2025-10-23/cc0c4a2c-420e-4e71-86f4-39832dc74faa.png"
+   },
+   "ownerUser": {
+    "id": "user_OWAvxnMlQlrDn",
+    "username": "tradingprofitpath",
+    "name": "Trading Profit Path"
+   },
+   "affiliateTotalEarned": 38963.57,
+   "affiliateTotalClicks": 5852,
+   "affiliateTotalConversions": 580,
+   "hasGlobalAffiliatesEnabled": true
+  },
+  {
+   "id": "biz_l8GgiP9ihCczhV",
+   "title": "Derivatives Trading",
+   "route": "derivatives-trading",
+   "verified": false,
+   "creatorPitch": "With over 17 years of experience on professional trading desks, I have developed the expertise to guide others in mastering economics, geopolitics, market finance, law, and derivatives. I teach using the same advanced tools as industry professionals to help you excel in options and futures trading.",
+   "businessType": "education",
+   "industryType": "options_trading",
+   "memberCount": 215,
+   "publishedReviewsCount": 185,
+   "reviewsAverage": 4.96,
+   "createdAt": 1710607954,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-05-11/user_233487_253f2cb2-de31-4c13-a01e-0e0a24a91cb3.png"
+   },
+   "ownerUser": {
+    "id": "user_uVts0RPefovSb",
+    "username": "screwyouusa",
+    "name": "derivativestrading "
+   },
+   "affiliateTotalEarned": 37327.99,
+   "affiliateTotalClicks": 4613,
+   "affiliateTotalConversions": 832,
+   "hasGlobalAffiliatesEnabled": true
+  },
+  {
+   "id": "biz_nFhAGHZ13Dhm8T",
+   "title": "Baron Trading",
+   "route": "baron-trades-premium",
+   "verified": false,
+   "creatorPitch": "Since I was 18 I've been investing in stocks and for the last 4 years I've been day trading. In the last 2 years I've taken over $750,000 in payouts from prop firms. People have reached out to me asking for me to help them pass challenges and get funded accounts.",
+   "businessType": "education",
+   "industryType": "futures_trading",
+   "memberCount": 3631,
+   "publishedReviewsCount": 123,
+   "reviewsAverage": 4.87,
+   "createdAt": 1738017062,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_8400210/image/bots/2025-09-15/bb21d0c5-092a-4738-b1e7-d12d0f2150a2"
+   },
+   "ownerUser": {
+    "id": "user_nhoLk1mzO0HZE",
+    "username": "barontrading1",
+    "name": "Baron Paterson"
+   },
+   "affiliateTotalEarned": 35913.59,
+   "affiliateTotalClicks": 5259,
+   "affiliateTotalConversions": 2664,
+   "hasGlobalAffiliatesEnabled": true
+  },
+  {
+   "id": "biz_9pORLorjc8TaIH",
+   "title": "SPY Day Trading",
+   "route": "sdt-lifetime-member",
+   "verified": false,
+   "creatorPitch": null,
+   "businessType": "education",
+   "industryType": "options_trading",
+   "memberCount": 798,
+   "publishedReviewsCount": 75,
+   "reviewsAverage": 4.99,
+   "createdAt": 1702752060,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-02-18/user_2402072_bbf06a32-b0c4-4a43-bafb-55e3a86be83c.png"
+   },
+   "ownerUser": {
+    "id": "user_WResmjtzqno01",
+    "username": "spydaytrading",
+    "name": "SPY Day Trading"
+   },
+   "affiliateTotalEarned": 34761.74,
+   "affiliateTotalClicks": 6114,
+   "affiliateTotalConversions": 448,
+   "hasGlobalAffiliatesEnabled": true
+  },
+  {
+   "id": "biz_oXANuF5KgzJb79",
+   "title": "Team 100K Trading Group",
+   "route": "team-100k",
+   "verified": false,
+   "creatorPitch": "I've spent years mastering the art of trading futures and stock options. My goal is to share my strategies and insights with you, whether you're a novice or a seasoned trader. Join our community for courses, live training, and expert guidance to elevate your trading game.",
+   "businessType": "education",
+   "industryType": "options_trading",
+   "memberCount": 0,
+   "publishedReviewsCount": 151,
+   "reviewsAverage": 4.83,
+   "createdAt": 1713973329,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-04-24/user_2051323_aa2c0a0b-a9ee-44a5-87a9-3421d7b0c776.webp"
+   },
+   "ownerUser": {
+    "id": "user_RNwJmWwGM7vMY",
+    "username": "callme100k",
+    "name": "Kev  P"
+   },
+   "affiliateTotalEarned": 33323.6,
+   "affiliateTotalClicks": 6159,
+   "affiliateTotalConversions": 1097,
+   "hasGlobalAffiliatesEnabled": true
+  },
+  {
+   "id": "biz_D4wd0pV1shJCmX",
+   "title": "FirstStepTrading",
+   "route": "firststeptrading",
+   "verified": false,
+   "creatorPitch": "Our motto is learn and earn.\n\nWe are here to help you unlock your full potential and achieve consistent profitability. \n\nYour time is  NOW!",
+   "businessType": "education",
+   "industryType": "options_trading",
+   "memberCount": 0,
+   "publishedReviewsCount": 933,
+   "reviewsAverage": 4.8,
+   "createdAt": 1684877559,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_1167926/image/bots/2025-09-21/9d7ba0f0-758c-4b86-8100-eadb8c47b927"
+   },
+   "ownerUser": {
+    "id": "user_90wYl31axQbVS",
+    "username": "felonytrades",
+    "name": "Felony"
+   },
+   "affiliateTotalEarned": 32552.32,
+   "affiliateTotalClicks": 4840,
+   "affiliateTotalConversions": 1207,
+   "hasGlobalAffiliatesEnabled": true
+  },
+  {
+   "id": "biz_UFQpIxbPPdcaOK",
+   "title": "Trinity Trading Partners",
+   "route": "trinity-trading-partners",
+   "verified": false,
+   "creatorPitch": "Trinity Trading Partners was formed through friendship and a mutual passion for options trading. Remzi, Tito, and Omar have been actively trading together for almost 5 years through bull and bear markets. TTP's mission is to provide an options trading service that enables new traders to achieve profitability and give seasoned traders more edge.",
+   "businessType": "education",
+   "industryType": "options_trading",
+   "memberCount": 7007,
+   "publishedReviewsCount": 1368,
+   "reviewsAverage": 4.87,
+   "createdAt": 1731261018,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-11-10/user_7152020_c6e349f9-68de-49be-935e-fa8c8ac7ee9e.jpeg"
+   },
+   "ownerUser": {
+    "id": "user_2cdHlOFbXpKWk",
+    "username": "trinitytradingpartners",
+    "name": "Trinity Trading Partners"
+   },
+   "affiliateTotalEarned": 30260.54,
+   "affiliateTotalClicks": 7617,
+   "affiliateTotalConversions": 4261,
+   "hasGlobalAffiliatesEnabled": true
+  },
+  {
+   "id": "biz_7IUg8zw3nouf6h",
+   "title": "Trading Alphas",
+   "route": "trading-alphas",
+   "verified": false,
+   "creatorPitch": "Trading Alphas has helped members earn over $100M in profits with momentum plays averaging around 100% per trade. Learn from traders with 10+ years of experience through live trading, real-time alerts, and step-by-step education. Whether you’re flipping small accounts or scaling up, we give you the tools to win fast and trade with confidence.",
+   "businessType": "education",
+   "industryType": "options_trading",
+   "memberCount": 2046,
+   "publishedReviewsCount": 322,
+   "reviewsAverage": 4.86,
+   "createdAt": 1692807324,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_1711401/image/access_passes/2025-11-14/7410e3a9-8bfa-4389-9069-a324fed19db1.png"
+   },
+   "ownerUser": {
+    "id": "user_Zn0tVfywjF6nz",
+    "username": "rigprints",
+    "name": "Rigprints"
+   },
+   "affiliateTotalEarned": 29888.2,
+   "affiliateTotalClicks": 4407,
+   "affiliateTotalConversions": 1322,
+   "hasGlobalAffiliatesEnabled": true
+  },
+  {
+   "id": "biz_BHJJLpBqYRv8XY",
+   "title": "GIFT of Trading",
+   "route": "options-academy-zero-to-pro-6",
+   "verified": false,
+   "creatorPitch": "Whether you're brand new to the markets or looking to sharpen your edge, GIFT of Trading gives you everything you need to go from confused beginner to confident trader.\n\nWith over 4,300 members and 121 reviews, this is one of the most trusted trading education communities on Whop. We break down options trading, stock market fundamentals, and proven day trading strategies in a way that works.",
+   "businessType": "education",
+   "industryType": "options_trading",
+   "memberCount": 0,
+   "publishedReviewsCount": 129,
+   "reviewsAverage": 4.96,
+   "createdAt": 1680814394,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-07-04/user_974221_7d0159ca-dcf5-475e-8907-a243a9c665ac.png"
+   },
+   "ownerUser": {
+    "id": "user_vc3wrVIoL0sMG",
+    "username": "giftoftrading",
+    "name": "GIFT of Trading"
+   },
+   "affiliateTotalEarned": 25664.55,
+   "affiliateTotalClicks": 368,
+   "affiliateTotalConversions": 828,
+   "hasGlobalAffiliatesEnabled": true
+  },
+  {
+   "id": "biz_C4e9Aox2J34iCy",
+   "title": "CB Trading Academy",
+   "route": "cb-trading-investing-academy",
+   "verified": false,
+   "creatorPitch": "Elite trading community established in 2020. Daily live sessions with 6 professional traders covering Crypto, Indices, Commodities & FX. AI-powered analysis bots scanning 25+ pairs 24/7 with institutional-grade confluence models. 2,000+ members. Hundreds of funded prop traders.",
+   "businessType": "education",
+   "industryType": "crypto_trading",
+   "memberCount": 217,
+   "publishedReviewsCount": 40,
+   "reviewsAverage": 4.98,
+   "createdAt": 1738590978,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_8167570/image/bots/2026-05-17/232bb26d-4694-456d-826a-72637f44b9c8.png"
+   },
+   "ownerUser": {
+    "id": "user_ZRpd5bnFaCZrg",
+    "username": "cbtradingconsultancy",
+    "name": "CB Trading Consultancy"
+   },
+   "affiliateTotalEarned": 25047.91,
+   "affiliateTotalClicks": 1176,
+   "affiliateTotalConversions": 351,
+   "hasGlobalAffiliatesEnabled": true
+  },
+  {
+   "id": "biz_yrKnef3LRY1jAF",
+   "title": "Botos Trading Academy",
+   "route": "botostrading",
+   "verified": false,
+   "creatorPitch": "Been trading for years and got tired of seeing people get burned by fake gurus. Created BTA to keep it simple - just real trade alerts and a community that wins together. No BS courses or long videos, just pure plays and sports picks that actually hit.",
+   "businessType": "education",
+   "industryType": "options_trading",
+   "memberCount": 4300,
+   "publishedReviewsCount": 157,
+   "reviewsAverage": 4.97,
+   "createdAt": 1711299633,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-02-19/user_2018647_6a201579-ba21-4b08-8f4c-6612afe922b8.jpeg"
+   },
+   "ownerUser": {
+    "id": "user_ms0kqi9oAbYoM",
+    "username": "botostradingacademy",
+    "name": "Erik Botos"
+   },
+   "affiliateTotalEarned": 24150.49,
+   "affiliateTotalClicks": 4965,
+   "affiliateTotalConversions": 4014,
+   "hasGlobalAffiliatesEnabled": true
+  },
+  {
+   "id": "biz_MnL0SFmEDEJUgz",
+   "title": "The Champagne Room - Options Trading",
+   "route": "the-champagne-room",
+   "verified": false,
+   "creatorPitch": "We're passionate about trading and teaching others to succeed with profitable strategies. In the Champagne Room, we didn't just want to be another Discord room that keeps you dependent upon alerts, we share valuable insights and strategies to help you navigate the complexities surrounding options trading. The unique styles each mod has will enhance your ability to identify a variety of setups!",
+   "businessType": "education",
+   "industryType": "options_trading",
+   "memberCount": 334,
+   "publishedReviewsCount": 42,
+   "reviewsAverage": 4.74,
+   "createdAt": 1689056549,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-05-14/user_1459598_ead7c8fc-be46-45b5-86ea-a264c7460eac.png"
+   },
+   "ownerUser": {
+    "id": "user_qSjuCdBNSwenM",
+    "username": "the-champagne-room",
+    "name": "The Champagne Room "
+   },
+   "affiliateTotalEarned": 23290.38,
+   "affiliateTotalClicks": 15281,
+   "affiliateTotalConversions": 176,
+   "hasGlobalAffiliatesEnabled": true
+  },
+  {
+   "id": "biz_2IhU7ppptaTF7y",
+   "title": "The Trading Ranch",
+   "route": "thetradingranch",
+   "verified": false,
+   "creatorPitch": "The Trading Ranch. Trade futures live with me during New York & Asia sessions, Monday–Friday. Learn breakout setups, risk management & disciplined execution. Futures, forex & options: NQ/NAS100, YM/US30 & GC/XAUUSD. Approximately $1M in reported student prop firm payouts. See members’ profits and payout posts in our free channels.",
+   "businessType": "education",
+   "industryType": "futures_trading",
+   "memberCount": 6817,
+   "publishedReviewsCount": 122,
+   "reviewsAverage": 4.8,
+   "createdAt": 1701824784,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2026-09-21/564c099b-8512-40ff-bcbe-f688b020e079/image.png"
+   },
+   "ownerUser": {
+    "id": "user_XyL6lvch63GBu",
+    "username": "someplacepeninsula1a49",
+    "name": "CowboyFx"
+   },
+   "affiliateTotalEarned": 23226.85,
+   "affiliateTotalClicks": 9024,
+   "affiliateTotalConversions": 1057,
+   "hasGlobalAffiliatesEnabled": true
+  },
+  {
+   "id": "biz_3btRVPnjw8PRcx",
+   "title": "Patience Trading",
+   "route": "vip-membership-c6",
+   "verified": false,
+   "creatorPitch": "Our mission is to make trading accessible and effective for everyone. We focus on providing a space where traders receive daily guidance, reliable signals, and constant support to build confidence and achieve success. With our VIP membership, you’ll access live trading sessions, expert charting, and high-win-rate strategies. Together, we’ll help you navigate the market and reach your goals.\n\n",
+   "businessType": "education",
+   "industryType": "options_trading",
+   "memberCount": 1488,
+   "publishedReviewsCount": 133,
+   "reviewsAverage": 4.84,
+   "createdAt": 1711056257,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-09-20/user_1708901_09a31104-ee21-4006-a8e4-86d965a9cf9c.gif"
+   },
+   "ownerUser": {
+    "id": "user_CZa38nHcuSCF3",
+    "username": "sobank21",
+    "name": "SOBANK"
+   },
+   "affiliateTotalEarned": 22150.5,
+   "affiliateTotalClicks": 779,
+   "affiliateTotalConversions": 1900,
+   "hasGlobalAffiliatesEnabled": true
+  },
+  {
+   "id": "biz_HgmpnrLqjzDKd4",
+   "title": "Select Trading",
+   "route": "select",
+   "verified": false,
+   "creatorPitch": "I have honed my trading skills to secure funding over one million dollars from various firms. My passion is to share my trading analyses, insights, and help others commit to getting the work done.",
+   "businessType": "education",
+   "industryType": "forex_trading",
+   "memberCount": 529,
+   "publishedReviewsCount": 95,
+   "reviewsAverage": 4.8,
+   "createdAt": 1718811618,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-06-19/user_577517_a3d07b3f-0b01-48b8-9496-aea1ec7fd256.jpeg"
+   },
+   "ownerUser": {
+    "id": "user_9rwWX8gSiLsTy",
+    "username": "xauvictor",
+    "name": "xauvictor"
+   },
+   "affiliateTotalEarned": 20914.1,
+   "affiliateTotalClicks": 3591,
+   "affiliateTotalConversions": 193,
+   "hasGlobalAffiliatesEnabled": true
+  },
+  {
+   "id": "biz_tpRHCKPnb2kVzL",
+   "title": "TookThatTradingGroup",
+   "route": "tookthattradinggroup",
+   "verified": false,
+   "creatorPitch": "Trading education and live market calls from 6 years of experience. Join TookThatTradingGroup.",
+   "businessType": "education",
+   "industryType": "forex_trading",
+   "memberCount": 109,
+   "publishedReviewsCount": 21,
+   "reviewsAverage": 4.95,
+   "createdAt": 1748955847,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_4479234/image/bots/2026-08-18/bdd5974b-ca9d-4bd2-b7d7-bf89782fc55d.png"
+   },
+   "ownerUser": {
+    "id": "user_DlZ9rSneUroPF",
+    "username": "adamtookthat",
+    "name": "adamtookthat"
+   },
+   "affiliateTotalEarned": 19473.06,
+   "affiliateTotalClicks": 1193,
+   "affiliateTotalConversions": 289,
+   "hasGlobalAffiliatesEnabled": true
+  },
+  {
+   "id": "biz_zRstpH08wXMa7J",
+   "title": "Trendsetters Trading",
+   "route": "trendsetters-trading",
+   "verified": false,
+   "creatorPitch": "I've dedicated my career to unraveling the complexities of the stock market, helping traders enrich their knowledge, and providing actionable insights to enhance their trading strategies.",
+   "businessType": "education",
+   "industryType": "options_trading",
+   "memberCount": 296,
+   "publishedReviewsCount": 65,
+   "reviewsAverage": 4.98,
+   "createdAt": 1690764488,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_1563597/image/bots/2025-10-26/76066d4f-b1dd-48c1-85dc-4989409591bf.png"
+   },
+   "ownerUser": {
+    "id": "user_QufqJxKY62LWe",
+    "username": "printingtendies",
+    "name": "Trendsetters Trading LLC"
+   },
+   "affiliateTotalEarned": 17770.87,
+   "affiliateTotalClicks": 2064,
+   "affiliateTotalConversions": 157,
+   "hasGlobalAffiliatesEnabled": true
+  },
+  {
+   "id": "biz_RmOPvUpVLGQmhg",
+   "title": "Alpine Trading",
+   "route": "alpine-trading",
+   "verified": false,
+   "creatorPitch": "I've dedicated my life to mastering trading strategies and helping others succeed. With Alpine Trading, I offer a unique blend of innovation and expertise, ensuring you have the tools and support needed to excel in the dynamic trading world.",
+   "businessType": "education",
+   "industryType": "options_trading",
+   "memberCount": 349,
+   "publishedReviewsCount": 59,
+   "reviewsAverage": 4.78,
+   "createdAt": 1687970886,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-01-01/user_862043_acc32b89-d2b5-4843-868c-caf903d3f05a.png"
+   },
+   "ownerUser": {
+    "id": "user_vHssibnH0xcSl",
+    "username": "detectablemash68f9",
+    "name": "Strat Trades"
+   },
+   "affiliateTotalEarned": 16931.65,
+   "affiliateTotalClicks": 311,
+   "affiliateTotalConversions": 232,
+   "hasGlobalAffiliatesEnabled": true
+  },
+  {
+   "id": "biz_st7EmGwWgskri5",
+   "title": "Trading Options Academy TOA",
+   "route": "trading-options-academy-toa",
+   "verified": false,
+   "creatorPitch": "Trading Options Academy was founded by Niiko The Phone Guy, a seasoned trader with over 6 years of stock options experience. Niiko has successfully mentored thousands",
+   "businessType": "education",
+   "industryType": "options_trading",
+   "memberCount": 464,
+   "publishedReviewsCount": 32,
+   "reviewsAverage": 4.88,
+   "createdAt": 1737847180,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-02-01/user_7408578_a36f002b-3bfb-4c57-8e0d-6b40b8b5dcd8.jpeg"
+   },
+   "ownerUser": {
+    "id": "user_id1v3ayeYtZ2d",
+    "username": "nshaw2011",
+    "name": "Trading Options Academy TOA"
+   },
+   "affiliateTotalEarned": 14736.85,
+   "affiliateTotalClicks": 7105,
+   "affiliateTotalConversions": 452,
+   "hasGlobalAffiliatesEnabled": true
+  },
+  {
+   "id": "biz_gpH2bHJEfv0b5Z",
+   "title": "Voss Trading Education",
+   "route": "vte",
+   "verified": false,
+   "creatorPitch": "At Voss Trading Education, we help traders build confidence, discipline, and real market understanding. With 20+ years of experience, we offer live weekly training, mentorship, and a full library of educational trading courses for both new and experienced traders.",
+   "businessType": "education",
+   "industryType": "stock_trading",
+   "memberCount": 4290,
+   "publishedReviewsCount": 310,
+   "reviewsAverage": 5.0,
+   "createdAt": 1707154961,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_2882940/image/bots/2025-11-13/f9fe40fd-47a9-4440-9a6f-a6d32bc685e3.png"
+   },
+   "ownerUser": {
+    "id": "user_JMiH8WIrB4ysG",
+    "username": "thevosstrading",
+    "name": "Voss"
+   },
+   "affiliateTotalEarned": 12424.74,
+   "affiliateTotalClicks": 1222,
+   "affiliateTotalConversions": 1451,
+   "hasGlobalAffiliatesEnabled": true
+  },
+  {
+   "id": "biz_m8wC2t8w0Y4fZ2",
+   "title": "Orochi Trading",
+   "route": "orochi-trading",
+   "verified": false,
+   "creatorPitch": "We specialize in Auction Market Theory, TPO/Volume Profile, Elliott Wave, VWAP, and Orderflow.",
+   "businessType": "education",
+   "industryType": "crypto_trading",
+   "memberCount": 1367,
+   "publishedReviewsCount": 32,
+   "reviewsAverage": 4.97,
+   "createdAt": 1770663947,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2026-10-11/9d63d88f-7174-403d-a09c-9bfbcd1f721f/image.png"
+   },
+   "ownerUser": {
+    "id": "user_lcfmy8qxp0fHK",
+    "username": "orochitrading",
+    "name": "Orochi Trading"
+   },
+   "affiliateTotalEarned": 11969.37,
+   "affiliateTotalClicks": 6145,
+   "affiliateTotalConversions": 357,
+   "hasGlobalAffiliatesEnabled": true
+  },
+  {
+   "id": "biz_yyEB7iHxppqNFB",
+   "title": "The Alpha Club (Crypto Trading Group)",
+   "route": "thealphaclub",
+   "verified": false,
+   "creatorPitch": "The Alpha Club is a crypto & memecoin trading community founded by Matt Wayne in 2021. Learn a repeatable system for trading Solana memecoins early with tools like Terminal, Axiom, Pumpfun & FOMO. Includes a step-by-step system consisting of courses, daily live trading sessions, daily calls/signals, and a private chat for trenching together with the pro's.",
+   "businessType": "education",
+   "industryType": "crypto_trading",
+   "memberCount": 8608,
+   "publishedReviewsCount": 162,
+   "reviewsAverage": 4.9,
+   "createdAt": 1715458066,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_106370/image/bots/2026-08-14/dd9cb760-5532-4774-bbcb-b7784b862df4.png"
+   },
+   "ownerUser": {
+    "id": "user_kf8i9gBVMKUP6",
+    "username": "mattwayneio",
+    "name": "Matt Wayne"
+   },
+   "affiliateTotalEarned": 9889.18,
+   "affiliateTotalClicks": 4891,
+   "affiliateTotalConversions": 6479,
+   "hasGlobalAffiliatesEnabled": true
+  },
+  {
+   "id": "biz_N2lOIRLh2bQCZX",
+   "title": "The Trading Tutor",
+   "route": "thetradingtutorllc",
+   "verified": false,
+   "creatorPitch": "I’m \"The Trading Tutor,\" here to teach trading stocks and crypto. While I lack formal financial qualifications, I bring extensive experience, a focus on capital preservation, and a commitment to learning from mistakes. My approach emphasizes transparency, honesty, and building trust through results, ensuring a practical and grounded perspective for traders seeking growth.",
+   "businessType": "education",
+   "industryType": "options_trading",
+   "memberCount": 890,
+   "publishedReviewsCount": 22,
+   "reviewsAverage": 4.86,
+   "createdAt": 1723856681,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_3784623/image/bots/2025-08-12/1f17d733-a05b-4dc1-bf53-bf295468ab2c"
+   },
+   "ownerUser": {
+    "id": "user_sV7afdh4eAuCA",
+    "username": "thetradingtutor",
+    "name": "The Trading Tutor LLC"
+   },
+   "affiliateTotalEarned": 8608.8,
+   "affiliateTotalClicks": 1062,
+   "affiliateTotalConversions": 162,
+   "hasGlobalAffiliatesEnabled": true
+  },
+  {
+   "id": "biz_FnRyHKYnwKSJyY",
+   "title": "Sato Trades — Prop Firm Trading",
+   "route": "satotrades",
+   "verified": false,
+   "creatorPitch": "Daily ES and NQ orderflow levels from a funded futures trader. I post the same institutional levels I trade live on prop firm accounts, built from 5+ years of backtesting. Members get pre-market levels, trade setups, and live execution without paying for orderflow software or CME data. Built for traders trying to pass evaluations and stay consistent once funded.",
+   "businessType": "education",
+   "industryType": "futures_trading",
+   "memberCount": 1613,
+   "publishedReviewsCount": 61,
+   "reviewsAverage": 4.98,
+   "createdAt": 1687730612,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_1377681/image/bots/2026-06-15/3516e3c0-7d5c-4a2c-aef6-5875cca97a8e.png"
+   },
+   "ownerUser": {
+    "id": "user_FqdCFXdjOnuVn",
+    "username": "satotrades",
+    "name": "Sato Trades"
+   },
+   "affiliateTotalEarned": 7949.23,
+   "affiliateTotalClicks": 497,
+   "affiliateTotalConversions": 318,
+   "hasGlobalAffiliatesEnabled": true
+  },
+  {
+   "id": "biz_ifbKErslDNX93c",
+   "title": "Signature Trading Club",
+   "route": "signature-trading-club",
+   "verified": false,
+   "creatorPitch": null,
+   "businessType": "education",
+   "industryType": "forex_trading",
+   "memberCount": 5,
+   "publishedReviewsCount": 6,
+   "reviewsAverage": 5.0,
+   "createdAt": 1774775843,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_7371965/image/bots/2026-04-10/c4412845-76d5-4a6b-ad8b-2bc750c834cb.png"
+   },
+   "ownerUser": {
+    "id": "user_naAAA0t7e4zM0",
+    "username": "signaturetradingclub",
+    "name": "Signature Trading Club"
+   },
+   "affiliateTotalEarned": 6822.42,
+   "affiliateTotalClicks": 690,
+   "affiliateTotalConversions": 73,
+   "hasGlobalAffiliatesEnabled": true
+  },
+  {
+   "id": "biz_AHwIEoBe7OxuAJ",
+   "title": "Wealthview Trading",
+   "route": "wealthview-trading",
+   "verified": false,
+   "creatorPitch": "I've dedicated my life to mastering the art of trading, focusing on the critical elements of time and price. My journey has been filled with learning, adapting, and perfecting strategies that consistently yield success. Now, I'm eager to share these insights with you, helping you navigate the trading world with confidence and precision.",
+   "businessType": "education",
+   "industryType": "options_trading",
+   "memberCount": 446,
+   "publishedReviewsCount": 27,
+   "reviewsAverage": 4.67,
+   "createdAt": 1719945775,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-09-23/user_4650788_a1b42664-d1cd-4f05-94c8-2d4ad4bf77de.jpeg"
+   },
+   "ownerUser": {
+    "id": "user_3AbujPOXM3Nev",
+    "username": "wealthview",
+    "name": "Ictcurry"
+   },
+   "affiliateTotalEarned": 6463.75,
+   "affiliateTotalClicks": 527,
+   "affiliateTotalConversions": 211,
+   "hasGlobalAffiliatesEnabled": true
+  },
+  {
+   "id": "biz_wDb5wayVUwMmle",
+   "title": "Trading Ark",
+   "route": "tradingark",
+   "verified": false,
+   "creatorPitch": "Trading Ark is a structured trading community built around education, execution, transparency, and accountability. Access a growing course library, live market sessions, weekly education calls, real trade recaps, community support, and Trade Rewind with Premium. Start free, learn the process, and upgrade when you're ready to trade with greater structure, discipline, and intention.",
+   "businessType": "education",
+   "industryType": "futures_trading",
+   "memberCount": 410,
+   "publishedReviewsCount": 46,
+   "reviewsAverage": 4.89,
+   "createdAt": 1775676702,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2026-10-28/ba93e5dc-ee0c-4740-87b0-c8fac5f70108/image.png"
+   },
+   "ownerUser": {
+    "id": "user_mqqAdUxLyIl52",
+    "username": "noahunderhill",
+    "name": "Noah"
+   },
+   "affiliateTotalEarned": 5832.5,
+   "affiliateTotalClicks": 1977,
+   "affiliateTotalConversions": 472,
+   "hasGlobalAffiliatesEnabled": true
+  },
+  {
+   "id": "biz_72yDDrqPpm3SEk",
+   "title": "EliteClouds Trading Education ",
+   "route": "eliteclouds-trading-education",
+   "verified": false,
+   "creatorPitch": "In this discord group, I go live at 9:30 AM ET, share my screen, and break down S&P 500 & Nasdaq charts in real time. Every trade is explained step by step—entries, risk, and execution—so you learn why, not just what. Built for serious traders who value clarity, discipline, and a positive, growth-driven community. If you are looking to learn from scratch in classes, please call at +1-647-491-0216.",
+   "businessType": "education",
+   "industryType": "futures_trading",
+   "memberCount": 555,
+   "publishedReviewsCount": 213,
+   "reviewsAverage": 4.96,
+   "createdAt": 1698898055,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_2099896/image/bots/2026-01-30/40c53615-4b25-440b-aac5-3482fe6dfe88.png"
+   },
+   "ownerUser": {
+    "id": "user_kV8PSdwHKRKLb",
+    "username": "elitecloudstrading",
+    "name": "Eliteclouds Trading Education"
+   },
+   "affiliateTotalEarned": 5209.73,
+   "affiliateTotalClicks": 612,
+   "affiliateTotalConversions": 134,
+   "hasGlobalAffiliatesEnabled": true
+  },
+  {
+   "id": "biz_i1NZY6xazQvdnV",
+   "title": "Polaris Trading",
+   "route": "polaris-gex-trading",
+   "verified": false,
+   "creatorPitch": null,
+   "businessType": "software",
+   "industryType": "trading_indicators",
+   "memberCount": 396,
+   "publishedReviewsCount": 31,
+   "reviewsAverage": 4.97,
+   "createdAt": 1779845679,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_27894423/image/bots/2026-05-29/0bb6f42c-6f80-4a64-9a2a-37e0df925c36.png"
+   },
+   "ownerUser": {
+    "id": "user_9AjwU1BFcfFzE",
+    "username": "polaristrading",
+    "name": "Polaris Trading"
+   },
+   "affiliateTotalEarned": 5107.5,
+   "affiliateTotalClicks": 2046,
+   "affiliateTotalConversions": 224,
+   "hasGlobalAffiliatesEnabled": true
+  },
+  {
+   "id": "biz_5rWbuNNhNBK0L3",
+   "title": "Source | Options Trading",
+   "route": "source-trader",
+   "verified": false,
+   "creatorPitch": "Trade every market day with daily watchlists, live market commentary, real-time trade updates, disciplined risk management, and practical education designed to help you become a consistently profitable options trader.",
+   "businessType": "education",
+   "industryType": "options_trading",
+   "memberCount": 164,
+   "publishedReviewsCount": 26,
+   "reviewsAverage": 4.85,
+   "createdAt": 1702149423,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_1850168/image/bots/2026-07-19/6aa2a4a3-9a90-4077-868a-eef68b3be12a"
+   },
+   "ownerUser": {
+    "id": "user_HwPggfCuywgFB",
+    "username": "source-options-trading",
+    "name": "Source | Options Trading"
+   },
+   "affiliateTotalEarned": 4812.47,
+   "affiliateTotalClicks": 934,
+   "affiliateTotalConversions": 88,
+   "hasGlobalAffiliatesEnabled": true
+  },
+  {
+   "id": "biz_Dheae2jF2IisZE",
+   "title": "Ascend Trading",
+   "route": "ascend-trading",
+   "verified": false,
+   "creatorPitch": "We built Ascend Trading to give traders a real edge using fractal analysis. We focus on high probability setups, consistency, and helping traders become self sufficient in the markets.",
+   "businessType": "education",
+   "industryType": "options_trading",
+   "memberCount": 3435,
+   "publishedReviewsCount": 68,
+   "reviewsAverage": 4.78,
+   "createdAt": 1669878285,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-01-28/user_596944_629512a8-f6bf-4a33-8944-6f0c4fb9e0de.png"
+   },
+   "ownerUser": {
+    "id": "user_pE8Nom5vg4RLr",
+    "username": "goose18",
+    "name": "goose"
+   },
+   "affiliateTotalEarned": 4727.88,
+   "affiliateTotalClicks": 2437,
+   "affiliateTotalConversions": 2298,
+   "hasGlobalAffiliatesEnabled": true
+  }
+ ]
+}

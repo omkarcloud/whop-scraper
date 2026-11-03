@@ -1,0 +1,818 @@
+{
+ "id": "biz_1ZH7VJrbsBzY1D",
+ "title": "eMoney Reselling",
+ "route": "emoney",
+ "verified": true,
+ "creatorPitch": "I've spent years mastering the art of finding hidden deals and price glitches. With eMoney, I want to empower others to tap into these lucrative opportunities and maximize their earnings effortlessly.",
+ "businessDescription": "We teach people how to resell and build a business on amazon. We provide software for users to find items that they can resell on amazon.",
+ "businessType": "education",
+ "industryType": "cook_groups",
+ "targetAudience": null,
+ "memberCount": 537546,
+ "publishedReviewsCount": 2919,
+ "reviewsAverage": 4.77,
+ "reviewCounts": [
+  2497,
+  322,
+  21,
+  5,
+  74
+ ],
+ "cachedTotalViewsCount": 719761,
+ "usdGmv30Days": null,
+ "totalEarningsWithTransfersInUsd": null,
+ "createdAt": 1660597021,
+ "updatedAt": 1793699031,
+ "launched": true,
+ "hasGlobalAffiliatesEnabled": true,
+ "affiliateApplicationRequired": false,
+ "purchasesDisabled": null,
+ "disabledReason": null,
+ "features": [
+  "disable_past_due_to_active",
+  "manual_charges",
+  "support_tickets",
+  "force_accept_payins",
+  "tap_to_pay",
+  "stablecoin_rails",
+  "processing_levels"
+ ],
+ "hubRoute": "biz_1ZH7VJrbsBzY1D",
+ "logo": {
+  "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2026-10-27/046bb4bf-1435-45a4-b0c8-c9068c7dcf12/image.png"
+ },
+ "bannerImage": {
+  "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2026-10-27/4a23a5ea-9ca5-4e9d-a804-22ae1afe6059/image.png"
+ },
+ "ownerUser": {
+  "id": "user_ijie4TMYfO6yv",
+  "username": "nickresell",
+  "name": "Nick from eMoney",
+  "bio": "",
+  "city": null,
+  "country": null,
+  "createdAt": 1652332400,
+  "followersCount": 2597,
+  "verifiedAt": null,
+  "profilePicture": {
+   "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-10-12/user_207094_0e88e045-d80f-4597-aeb3-7612692dc9d5.png"
+  }
+ },
+ "socialLinks": [
+  {
+   "website": "x",
+   "url": "https://x.com/eMoney_HQ",
+   "title": null
+  }
+ ],
+ "publicForumExperience": {
+  "id": "exp_WySGJONaGbsLDb",
+  "name": "Public forum"
+ },
+ "primaryExperience": null,
+ "storePageConfig": {
+  "accentColor": "magenta",
+  "layout": "featured"
+ },
+ "publicTeamMembers": {
+  "totalCount": 40,
+  "nodes": [
+   {
+    "id": "ausr_u4qpGzcEucp4A",
+    "role": "owner",
+    "user": {
+     "id": "user_ijie4TMYfO6yv",
+     "username": "nickresell",
+     "name": "Nick from eMoney",
+     "followersCount": 2597,
+     "verifiedAt": null,
+     "profilePicture": {
+      "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-10-12/user_207094_0e88e045-d80f-4597-aeb3-7612692dc9d5.png"
+     }
+    }
+   },
+   {
+    "id": "ausr_c3Uvkow30cXzd",
+    "role": "owner",
+    "user": {
+     "id": "user_zhaUG4DVGpvXY",
+     "username": "slammm",
+     "name": "Sam From eMoney",
+     "followersCount": 105,
+     "verifiedAt": null,
+     "profilePicture": {
+      "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-10-14/user_50790_b7093b64-5b92-4036-91f8-ce14012b0117.png"
+     }
+    }
+   },
+   {
+    "id": "ausr_41BYIrkuMDFa4",
+    "role": "owner",
+    "user": {
+     "id": "user_2Pn9vrPj1lCLZ",
+     "username": "spikewmu",
+     "name": "Spikewmu",
+     "followersCount": 39,
+     "verifiedAt": null,
+     "profilePicture": {
+      "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-03-03/user_789427_0edfdacc-7616-4d5b-94cb-3e65be5970ad.png"
+     }
+    }
+   },
+   {
+    "id": "ausr_2DJVgMcpPDv0x",
+    "role": "admin",
+    "user": {
+     "id": "user_Dr8dO7ll8w9w0",
+     "username": "uncflips",
+     "name": "UncFlips",
+     "followersCount": 13,
+     "verifiedAt": null,
+     "profilePicture": {
+      "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-11-07/user_554974_693998da-aed1-4dd6-9944-813f5384e824.png"
+     }
+    }
+   },
+   {
+    "id": "ausr_X6eSflO7fnYjk",
+    "role": "owner",
+    "user": {
+     "id": "user_2TYDVKf7oMjSw",
+     "username": "bytemaster",
+     "name": "eMoney",
+     "followersCount": 52,
+     "verifiedAt": null,
+     "profilePicture": {
+      "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-09-05/user_9013821_d206fc66-10e6-4ca0-9999-cdeddb3ad46d.png"
+     }
+    }
+   },
+   {
+    "id": "ausr_lnf5bzkh0Kycm",
+    "role": "owner",
+    "user": {
+     "id": "user_1pbp6OXnVk6SA",
+     "username": "mattabes",
+     "name": "Matthew Abes",
+     "followersCount": 53,
+     "verifiedAt": null,
+     "profilePicture": {
+      "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-11-16/user_4037552_126f7564-c5d5-4356-9867-0043acfa7c41.png"
+     }
+    }
+   },
+   {
+    "id": "ausr_oELk1SX0ckFZc",
+    "role": "admin",
+    "user": {
+     "id": "user_7nWxX9tjrADX3",
+     "username": "liamburgz",
+     "name": "Liam from eMoney",
+     "followersCount": 8,
+     "verifiedAt": null,
+     "profilePicture": {
+      "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_12669583/image/users/2026-03-02/1a9dc80f-29af-4c6d-8865-b82a47b70c0d.webp"
+     }
+    }
+   },
+   {
+    "id": "ausr_p35qlI1c09uUT",
+    "role": "admin",
+    "user": {
+     "id": "user_LpGY3bmlZZdQF",
+     "username": "rafaelnaxi",
+     "name": "Rafael Naxi",
+     "followersCount": 2,
+     "verifiedAt": null,
+     "profilePicture": {
+      "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_14186660/image/users/2026-03-02/32dd2376-96a4-43ae-8d3d-96ed7b2b9ecc.png"
+     }
+    }
+   },
+   {
+    "id": "ausr_dbjNKheKOZhfc",
+    "role": "owner",
+    "user": {
+     "id": "user_MLLif1Cu86jhf",
+     "username": "aaassociates",
+     "name": "Amber Hamilton",
+     "followersCount": 0,
+     "verifiedAt": null,
+     "profilePicture": {
+      "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_17514443/image/users/2026-03-02/3640add3-6c01-4929-8a43-695298894389.png"
+     }
+    }
+   },
+   {
+    "id": "ausr_HlcbIei9wFilX",
+    "role": "moderator",
+    "user": {
+     "id": "user_daSPEx2SDCCGl",
+     "username": "eurepaxxon",
+     "name": "EURE",
+     "followersCount": 9,
+     "verifiedAt": null,
+     "profilePicture": {
+      "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-10-10/user_18076283_4be6595f-9279-42bc-a656-4b994b888629.png"
+     }
+    }
+   },
+   {
+    "id": "ausr_ZZwo2t5dtrXSW",
+    "role": "moderator",
+    "user": {
+     "id": "user_FGALjXzoRRJPu",
+     "username": "solecentral",
+     "name": "solecentral",
+     "followersCount": 9,
+     "verifiedAt": null,
+     "profilePicture": {
+      "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2026-08-27/8e78ecf0-6562-4a37-af68-b49209b46eb0/image.jpg"
+     }
+    }
+   },
+   {
+    "id": "ausr_XcJToUtHhzCdS",
+    "role": "moderator",
+    "user": {
+     "id": "user_Jrzytd2llyBpv",
+     "username": "trickyauthorship72ac",
+     "name": "BritDealz",
+     "followersCount": 1,
+     "verifiedAt": null,
+     "profilePicture": {
+      "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-11-20/user_175119_15449b74-cda8-4273-9828-8fd125600d79.jpeg"
+     }
+    }
+   },
+   {
+    "id": "ausr_bGClC4I1feyix",
+    "role": "moderator",
+    "user": {
+     "id": "user_5pYLnRmp8B1CB",
+     "username": "ab8185",
+     "name": "AB",
+     "followersCount": 0,
+     "verifiedAt": null,
+     "profilePicture": {
+      "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_16910431/image/users/2026-03-02/29b70630-cb2c-42f5-88ec-f80aeb70e054.png"
+     }
+    }
+   },
+   {
+    "id": "ausr_fI2BdKHjUE6XP",
+    "role": "moderator",
+    "user": {
+     "id": "user_TBOHsmT4j9mDc",
+     "username": "kickassdealz-agent",
+     "name": "Kickassdealz",
+     "followersCount": 0,
+     "verifiedAt": null,
+     "profilePicture": {
+      "sourceUrl": "https://ui-avatars.com/api/?name=Kickassdealz&background=535961&color=fff&format=png"
+     }
+    }
+   },
+   {
+    "id": "ausr_tpJjLL2ond0V4",
+    "role": "moderator",
+    "user": {
+     "id": "user_SuJMaYcfsdl6e",
+     "username": "user46563",
+     "name": "IvanTheGreat",
+     "followersCount": 0,
+     "verifiedAt": null,
+     "profilePicture": {
+      "sourceUrl": "https://ui-avatars.com/api/?name=IvanTheGreat&background=535961&color=fff&format=png"
+     }
+    }
+   },
+   {
+    "id": "ausr_4CNojTd5a3bT0",
+    "role": "moderator",
+    "user": {
+     "id": "user_YYTBJzcMrOpdJ",
+     "username": "gsneaksss",
+     "name": "G",
+     "followersCount": 0,
+     "verifiedAt": null,
+     "profilePicture": {
+      "sourceUrl": "https://ui-avatars.com/api/?name=G&background=535961&color=fff&format=png"
+     }
+    }
+   },
+   {
+    "id": "ausr_YTmoVS4IbnGNS",
+    "role": "admin",
+    "user": {
+     "id": "user_yPXvfCG8Ktwdm",
+     "username": "heydee",
+     "name": "Dee",
+     "followersCount": 321,
+     "verifiedAt": null,
+     "profilePicture": {
+      "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-01-15/user_21498_d2300305-36a7-4afd-a742-403b757f4851.gif"
+     }
+    }
+   },
+   {
+    "id": "ausr_IBSiy7dtU68pj",
+    "role": "moderator",
+    "user": {
+     "id": "user_LVnCQGLh1x6nv",
+     "username": "bizzer",
+     "name": "Biz",
+     "followersCount": 8,
+     "verifiedAt": null,
+     "profilePicture": {
+      "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-12-11/user_13623702_a1943d21-ff37-45e4-aad2-622c583762d8.png"
+     }
+    }
+   },
+   {
+    "id": "ausr_JhKnMkwGii67g",
+    "role": "moderator",
+    "user": {
+     "id": "user_WhnOWHw7Y0EFu",
+     "username": "gamifybots-agent",
+     "name": "Gamify Bot's agent",
+     "followersCount": 0,
+     "verifiedAt": null,
+     "profilePicture": {
+      "sourceUrl": "https://ui-avatars.com/api/?name=Gamify%20Bot%27s%20agent&background=535961&color=fff&format=png"
+     }
+    }
+   },
+   {
+    "id": "ausr_Y97OUXhgzcHyW",
+    "role": "moderator",
+    "user": {
+     "id": "user_GMG9KooXotiSX",
+     "username": "onboardings-agent22",
+     "name": "Onboarding's agent",
+     "followersCount": 53,
+     "verifiedAt": null,
+     "profilePicture": {
+      "sourceUrl": "https://ui-avatars.com/api/?name=Onboarding%27s%20agent&background=535961&color=fff&format=png"
+     }
+    }
+   },
+   {
+    "id": "ausr_gmX40otCzG2Kt",
+    "role": "owner",
+    "user": {
+     "id": "user_LA1G70T52AuB0",
+     "username": "dashboarddatas-agent",
+     "name": "dashboard data's agent",
+     "followersCount": 0,
+     "verifiedAt": null,
+     "profilePicture": {
+      "sourceUrl": "https://ui-avatars.com/api/?name=dashboard%20data%27s%20agent&background=535961&color=fff&format=png"
+     }
+    }
+   },
+   {
+    "id": "ausr_Ax9PN5pbbve42",
+    "role": "moderator",
+    "user": {
+     "id": "user_XttaT8KPM16lp",
+     "username": "resolutioncenterdiscordbots-agent",
+     "name": "Resolution Center Discord Bot's agent",
+     "followersCount": 1,
+     "verifiedAt": null,
+     "profilePicture": {
+      "sourceUrl": "https://ui-avatars.com/api/?name=Resolution%20Center%20Discord%20Bot%27s%20agent&background=535961&color=fff&format=png"
+     }
+    }
+   },
+   {
+    "id": "ausr_5BQ04X3jCAKYh",
+    "role": "moderator",
+    "user": {
+     "id": "user_Dq3t0pVWNXOWP",
+     "username": "backt",
+     "name": "Omar Fakhoury",
+     "followersCount": 1,
+     "verifiedAt": null,
+     "profilePicture": {
+      "sourceUrl": "https://ui-avatars.com/api/?name=Omar%20Fakhoury&background=535961&color=fff&format=png"
+     }
+    }
+   },
+   {
+    "id": "ausr_B49uuPV20tMbT",
+    "role": "moderator",
+    "user": {
+     "id": "user_D1vaOJ5bEHwbh",
+     "username": "ayonopp",
+     "name": "Ayo Trades",
+     "followersCount": 6,
+     "verifiedAt": null,
+     "profilePicture": {
+      "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2026-01-01/user_428854_7896e51c-efe3-418a-8ccf-7a1774623619.jpeg"
+     }
+    }
+   },
+   {
+    "id": "ausr_rPaDjW8kVtHME",
+    "role": "admin",
+    "user": {
+     "id": "user_5GxdvH0Vy8LXp",
+     "username": "slacklance18",
+     "name": "Dan Revatto",
+     "followersCount": 4,
+     "verifiedAt": null,
+     "profilePicture": {
+      "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_17731128/image/users/2026-03-02/0c168a37-8f8f-4d25-bec3-865dcbc2fe50.png"
+     }
+    }
+   },
+   {
+    "id": "ausr_gWPZPoU2SsboG",
+    "role": "moderator",
+    "user": {
+     "id": "user_TKX8CnqTmvab5",
+     "username": "devanand7800",
+     "name": "__dev_anand",
+     "followersCount": 0,
+     "verifiedAt": null,
+     "profilePicture": {
+      "sourceUrl": "https://ui-avatars.com/api/?name=__dev_anand&background=535961&color=fff&format=png"
+     }
+    }
+   },
+   {
+    "id": "ausr_U5KOiqXsuwJEV",
+    "role": "admin",
+    "user": {
+     "id": "user_WXDCnmqlej8Yj",
+     "username": "sawnza01",
+     "name": "Chris",
+     "followersCount": 16,
+     "verifiedAt": null,
+     "profilePicture": {
+      "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_12595977/image/users/2026-03-02/902d8e55-b77c-4051-b93a-2cac8447c8ad.png"
+     }
+    }
+   },
+   {
+    "id": "ausr_ZH0Cvx3UYxCH1",
+    "role": "admin",
+    "user": {
+     "id": "user_8BFqLM3GTroZF",
+     "username": "ashleyrep",
+     "name": "Ashley from eMoney (Support)",
+     "followersCount": 8,
+     "verifiedAt": null,
+     "profilePicture": {
+      "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2026-01-06/user_19567808_db9c3293-f2c2-4e74-817a-a20d4657f83c.png"
+     }
+    }
+   },
+   {
+    "id": "ausr_lBYwGLWEEVOtK",
+    "role": "owner",
+    "user": {
+     "id": "user_7hR5KxjOZvc3r",
+     "username": "grimreaper26",
+     "name": "Grim reaper",
+     "followersCount": 1,
+     "verifiedAt": null,
+     "profilePicture": {
+      "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_20179892/image/users/2026-03-02/57c781c4-3fdf-4419-8aca-0c7c508b5bd8.png"
+     }
+    }
+   },
+   {
+    "id": "ausr_M0IeNNDmuVvrh",
+    "role": "admin",
+    "user": {
+     "id": "user_Cuy0icuMaG12R",
+     "username": "ashleyshepherdcpa",
+     "name": "Ashley Shepherd CPA",
+     "followersCount": 1,
+     "verifiedAt": null,
+     "profilePicture": {
+      "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_21543475/image/users/2026-03-02/a146e86b-eab6-4807-b4c7-46a9720dbe1f.png"
+     }
+    }
+   },
+   {
+    "id": "ausr_anMSIq4LEa2Eg",
+    "role": "admin",
+    "user": {
+     "id": "user_ARX9kMmR41vZ6",
+     "username": "validoutput",
+     "name": "John Doe",
+     "followersCount": 0,
+     "verifiedAt": null,
+     "profilePicture": {
+      "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_14113525/image/users/2026-03-02/8b0226b7-e3f6-4ca6-9a76-1388efb20bcb.png"
+     }
+    }
+   },
+   {
+    "id": "ausr_5QW35VjAHrkCm",
+    "role": "moderator",
+    "user": {
+     "id": "user_ku45ks0c8dM2X",
+     "username": "isaacsosa",
+     "name": "Isaac from eMoney",
+     "followersCount": 10,
+     "verifiedAt": null,
+     "profilePicture": {
+      "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_1865361/image/users/2026-06-21/29929edb-01de-416f-b074-d97eb3653782.jpeg"
+     }
+    }
+   },
+   {
+    "id": "ausr_bpWmBjATW7Ey5",
+    "role": "custom",
+    "user": {
+     "id": "user_0uN07R7lqQvfE",
+     "username": "stevenaernst",
+     "name": null,
+     "followersCount": 0,
+     "verifiedAt": null,
+     "profilePicture": {
+      "sourceUrl": "https://ui-avatars.com/api/?name=stevenaernst&background=535961&color=fff&format=png"
+     }
+    }
+   },
+   {
+    "id": "ausr_mfPT5fo5wm8KD",
+    "role": "admin",
+    "user": {
+     "id": "user_fO8ttV7pBUsHH",
+     "username": "ssstormmm",
+     "name": "Paige",
+     "followersCount": 22,
+     "verifiedAt": null,
+     "profilePicture": {
+      "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2026-03-14/user_3190_986fe4b9-99e6-4a62-9dac-dd233507c839.jpeg"
+     }
+    }
+   },
+   {
+    "id": "ausr_AfFk6pZL6y6qO",
+    "role": "admin",
+    "user": {
+     "id": "user_jOz7RTE89uhtk",
+     "username": "juli0",
+     "name": "Julio from eMoney",
+     "followersCount": 43,
+     "verifiedAt": null,
+     "profilePicture": {
+      "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2026-07-08/13570aca-2b5f-4660-9af2-64a91a54783d/image.png"
+     }
+    }
+   },
+   {
+    "id": "ausr_EzpUzT1cdoacK",
+    "role": "admin",
+    "user": {
+     "id": "user_G9iR93hEicMmC",
+     "username": "zorgmed",
+     "name": "Mike",
+     "followersCount": 9,
+     "verifiedAt": null,
+     "profilePicture": {
+      "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2026-01-23/user_15081658_18d556d7-8e5b-4b5d-acf1-f924ddca74ad.png"
+     }
+    }
+   },
+   {
+    "id": "ausr_97vju1aHG5ZYY",
+    "role": "moderator",
+    "user": {
+     "id": "user_P7oK6unAdSVu0",
+     "username": "kylen1208",
+     "name": "Kyle",
+     "followersCount": 1,
+     "verifiedAt": null,
+     "profilePicture": {
+      "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2026-08-27/b7fa408b-8924-4a00-a219-e8e7e88b5f34/image.png"
+     }
+    }
+   },
+   {
+    "id": "ausr_uX3duk5Nh57RM",
+    "role": "moderator",
+    "user": {
+     "id": "user_2onddoZQUMy3S",
+     "username": "uncomfortedsubsoila952",
+     "name": "Salty From eMoney",
+     "followersCount": 21,
+     "verifiedAt": null,
+     "profilePicture": {
+      "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2026-09-26/f582f101-8ffa-44f6-8c6b-109e3b821897/image.png"
+     }
+    }
+   },
+   {
+    "id": "ausr_Xr6L7UkRBAmXp",
+    "role": "sales_manager",
+    "user": {
+     "id": "user_QjSX9Kg6lH8Qc",
+     "username": "chubery05",
+     "name": "Zach todd",
+     "followersCount": 1,
+     "verifiedAt": null,
+     "profilePicture": {
+      "sourceUrl": "https://ui-avatars.com/api/?name=Zach%20todd&background=535961&color=fff&format=png"
+     }
+    }
+   },
+   {
+    "id": "ausr_FB3GXq4AU0hCT",
+    "role": "sales_manager",
+    "user": {
+     "id": "user_m7lY0gYoDJFHa",
+     "username": "focusandflowstudio",
+     "name": null,
+     "followersCount": 0,
+     "verifiedAt": null,
+     "profilePicture": {
+      "sourceUrl": "https://ui-avatars.com/api/?name=focusandflowstudio&background=535961&color=fff&format=png"
+     }
+    }
+   }
+  ]
+ },
+ "visibleAccessPassesV2": [
+  {
+   "id": "prod_jshhxEws1lowZ",
+   "title": "Premium Membership",
+   "route": "emoney",
+   "headline": "The Home of High-Level Resellers",
+   "shortenedDescription": "eMoney is a private community built for people actively involved in reselling and online hustles. Members gain access to software and tools to secure thousands of items to resell.\nMost groups focus on hype or screenshots after deals are gone. eMoney focuses on access, education and understanding why opportunities work.\n🔓The Membership Experience: Get access to custom software, a daily list of thousands of reselling products and deals to find, and a network of thousands of resellers. ",
+   "accessPassType": "regular",
+   "businessType": "education",
+   "industryType": "cook_groups",
+   "marketplaceStatus": "live_marketplace",
+   "verified": true,
+   "whopRanking": null,
+   "activeUsersCount": 1869,
+   "memberCount": 1869,
+   "publishedReviewsCount": 2919,
+   "reviewsAverage": 4.77,
+   "usdGmv": 0,
+   "last24HoursGmv": 0.0,
+   "hasFreeAvailablePlan": false,
+   "hasPaidAvailablePlan": true,
+   "globalAffiliatePercentage": 0.0,
+   "createdAt": 1692755997,
+   "discoverableAt": 1742731407,
+   "logo": null,
+   "images": [
+    {
+     "url": "https://assets-2-prod.whop.com/public/uploads/2025-11-06/user_50790_ad53c1f0-e424-41ec-a1e2-5aafc372eeda.mp4"
+    }
+   ],
+   "company": {
+    "id": "biz_1ZH7VJrbsBzY1D",
+    "route": "emoney",
+    "title": "eMoney Reselling",
+    "verified": true
+   },
+   "defaultPlan": {
+    "id": "plan_5XHc1Wp4jiZKz",
+    "formattedPrice": "$50.00 / month",
+    "formattedPeriodV2": "/ month",
+    "rawInitialPrice": 0.0,
+    "rawRenewalPrice": 50.0,
+    "baseCurrency": "usd",
+    "planType": "renewal",
+    "billingPeriod": 30,
+    "releaseMethod": "buy_now",
+    "free": false,
+    "trialPeriodDays": null
+   },
+   "visiblePlansCount": 1
+  }
+ ],
+ "experienceList": {
+  "experiences": [
+   {
+    "id": "exp_WySGJONaGbsLDb",
+    "name": "Public forum",
+    "description": null,
+    "isPublic": true,
+    "userCount": 40,
+    "app": {
+     "id": "app_dYfm2IdXhDMquv",
+     "name": "Forums"
+    },
+    "accessPasses": []
+   },
+   {
+    "id": "exp_BomJSCQWqEoCw7",
+    "name": "eMoney Guides",
+    "description": "",
+    "isPublic": false,
+    "userCount": 1904,
+    "app": {
+     "id": "app_OtuSFX6rkPguRs",
+     "name": "Website Embed"
+    },
+    "accessPasses": [
+     {
+      "id": "prod_jshhxEws1lowZ",
+      "route": "emoney",
+      "title": "Premium Membership"
+     }
+    ]
+   },
+   {
+    "id": "exp_3n2ReK7Xgiiqza",
+    "name": "Premium Members",
+    "description": "",
+    "isPublic": false,
+    "userCount": 1901,
+    "app": {
+     "id": "app_dYfm2IdXhDMquv",
+     "name": "Forums"
+    },
+    "accessPasses": [
+     {
+      "id": "prod_jshhxEws1lowZ",
+      "route": "emoney",
+      "title": "Premium Membership"
+     }
+    ]
+   },
+   {
+    "id": "exp_V3lDUsHozgLtMn",
+    "name": "Global Announcements",
+    "description": "",
+    "isPublic": false,
+    "userCount": 528835,
+    "app": {
+     "id": "app_dYfm2IdXhDMquv",
+     "name": "Forums"
+    },
+    "accessPasses": [
+     {
+      "id": "prod_jshhxEws1lowZ",
+      "route": "emoney",
+      "title": "Premium Membership"
+     }
+    ]
+   },
+   {
+    "id": "exp_tPiSKBJkVNdKPc",
+    "name": "Major Announcements ",
+    "description": "",
+    "isPublic": false,
+    "userCount": 311193,
+    "app": {
+     "id": "app_dYfm2IdXhDMquv",
+     "name": "Forums"
+    },
+    "accessPasses": [
+     {
+      "id": "prod_jshhxEws1lowZ",
+      "route": "emoney",
+      "title": "Premium Membership"
+     }
+    ]
+   },
+   {
+    "id": "exp_p5aYsPhzKWbr2F",
+    "name": "Premium ANNOUNCEMENTS",
+    "description": "",
+    "isPublic": false,
+    "userCount": 3027,
+    "app": {
+     "id": "app_dYfm2IdXhDMquv",
+     "name": "Forums"
+    },
+    "accessPasses": [
+     {
+      "id": "prod_jshhxEws1lowZ",
+      "route": "emoney",
+      "title": "Premium Membership"
+     }
+    ]
+   },
+   {
+    "id": "exp_zfxAkAO9vYe1Sr",
+    "name": "Access The Discord",
+    "description": "",
+    "isPublic": false,
+    "userCount": 2585,
+    "app": {
+     "id": "app_sWtSR8DZsEGryg",
+     "name": "Discord"
+    },
+    "accessPasses": [
+     {
+      "id": "prod_jshhxEws1lowZ",
+      "route": "emoney",
+      "title": "Premium Membership"
+     }
+    ]
+   }
+  ]
+ }
+}

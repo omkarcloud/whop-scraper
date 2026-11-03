@@ -1,0 +1,18 @@
+{
+ "id": "prod_sDgVBTchRVAMo",
+ "route": "forex-signals-d6",
+ "title": "Forex Signals",
+ "company": {
+  "id": "biz_ezvXzKil5OtchC",
+  "route": "winnerscircle-e956",
+  "title": "WinnersCircle"
+ },
+ "reviews": {
+  "totalCount": 0,
+  "pageInfo": {
+   "hasNextPage": false,
+   "endCursor": null
+  },
+  "nodes": []
+ }
+}

@@ -1,0 +1,2925 @@
+{
+ "totalCount": 1864,
+ "pageInfo": {
+  "hasNextPage": true,
+  "endCursor": "NTA"
+ },
+ "nodes": [
+  {
+   "id": "bnty_kNOFkeNRN2iqc",
+   "title": "1000 Clics = 180 € Paiement",
+   "description": "🎯 OBJECTIF : Atteindre 1000 clics sur votre lien d'affiliation Bitly\n\n\n\n📋 CRITÈRES DE VALIDATION :\n\n- Minimum 1000 clics sur votre lien Bitly\n\n- Screenshot des statistiques Bitly avec votre nom visible\n\n- Vérification manuelle par l'équipe\n\n\n\n💰 PAIEMENT : 180 €\n\n\n\n⚠️ IMPORTANT :\n\n- Un seul paiement par tranche de 1000 clics\n\n- Les clics doivent être légitimes (pas de spam/bots)\n\n- Soumettez votre demande avec capture d'écran des stats\n\n🎬 Continuez à créer du contenu viral mettant en avant Kéo !",
+   "bountyType": "classic",
+   "status": "published",
+   "discoverStatus": "live_discover",
+   "rewardPerUnitAmount": 1.0,
+   "rewardUnit": "per_submission",
+   "currency": "eur",
+   "budgetAmount": null,
+   "totalPaid": 186913.14,
+   "spotsRemaining": 0,
+   "acceptedSubmissionsCount": 553,
+   "acceptedSubmissionsLimit": 1,
+   "activeSubmissionsCount": 0,
+   "bountySubmissionsCount": 602,
+   "awaitingReviewSubmissionsCount": 0,
+   "deniedSubmissionsCount": 22,
+   "allowTiktok": false,
+   "allowYoutube": false,
+   "allowInstagram": false,
+   "allowX": false,
+   "allowedCountryCodes": [],
+   "requiredCaptureDurationSeconds": null,
+   "scheduledFrequency": null,
+   "businessGoalType": null,
+   "viewCount": 0,
+   "commentCount": 0,
+   "reactionCount": 0,
+   "createdAt": 1756068174,
+   "updatedAt": 1793128187,
+   "experience": {
+    "id": "exp_UNGHLwI73W36Be",
+    "name": "Bounties",
+    "company": {
+     "id": "biz_s2DI733sCS68LY",
+     "route": "keo-affiliates-clipping",
+     "title": "Kéo - Clipping",
+     "verified": false
+    }
+   },
+   "user": {
+    "id": "user_5je9hDszTfhg8",
+    "username": "nle0077",
+    "name": "ilia$"
+   },
+   "accessPasses": {
+    "nodes": [
+     {
+      "id": "prod_w8kk7PyPbrjnu",
+      "route": "keo-affiliates-clipping",
+      "title": "Kéo - Clipping"
+     }
+    ]
+   }
+  },
+  {
+   "id": "bnty_VU08SFjuJnqXA",
+   "title": "Complete 30 days of posting",
+   "description": "Submit your accounts so i can check to verify you've posted 30 videos over 30 days",
+   "bountyType": "classic",
+   "status": "published",
+   "discoverStatus": "live_discover",
+   "rewardPerUnitAmount": 1.0,
+   "rewardUnit": "per_submission",
+   "currency": "usd",
+   "budgetAmount": null,
+   "totalPaid": 6000.0,
+   "spotsRemaining": 0,
+   "acceptedSubmissionsCount": 12,
+   "acceptedSubmissionsLimit": 1,
+   "activeSubmissionsCount": 0,
+   "bountySubmissionsCount": 12,
+   "awaitingReviewSubmissionsCount": 0,
+   "deniedSubmissionsCount": 0,
+   "allowTiktok": false,
+   "allowYoutube": false,
+   "allowInstagram": false,
+   "allowX": false,
+   "allowedCountryCodes": [],
+   "requiredCaptureDurationSeconds": null,
+   "scheduledFrequency": null,
+   "businessGoalType": null,
+   "viewCount": 0,
+   "commentCount": 0,
+   "reactionCount": 0,
+   "createdAt": 1755811929,
+   "updatedAt": 1756831922,
+   "experience": {
+    "id": "exp_VVgwmNP2SwkbXu",
+    "name": "Bounties",
+    "company": {
+     "id": "biz_P6rwcMek2m2bKB",
+     "route": "whop-retainer-ugc",
+     "title": "Whop Retainer UGC",
+     "verified": false
+    }
+   },
+   "user": {
+    "id": "user_72CPiUbEtQL08",
+    "username": "dylanlundgren",
+    "name": "Dylan Lundgren "
+   },
+   "accessPasses": {
+    "nodes": [
+     {
+      "id": "prod_N4BhtfXiYYyN0",
+      "route": "whop-ugc-retainer",
+      "title": "Whop UGC Retainer"
+     }
+    ]
+   }
+  },
+  {
+   "id": "bnty_JfnMVN4AVJaXG",
+   "title": "Tell us your Cantina username!",
+   "description": "We’re running a quick bounty to verify active Cantina users on the APP. Here’s all you need to do:\n\n\n\n\n\nTake a screenshot of your Cantina account (anything that clearly shows your account is logged into the APP).\n\n\n\n\n\n\n\nUpload the screenshot here.\n\n\n\n\n\n\n\nIn the text field, type your Cantina username exactly as it appears in the app, use the @, not just your name.\n\nOnce submitted, you’ll receive $3 for completing this bounty.",
+   "bountyType": "classic",
+   "status": "published",
+   "discoverStatus": "live_discover",
+   "rewardPerUnitAmount": 1.0,
+   "rewardUnit": "per_submission",
+   "currency": "usd",
+   "budgetAmount": null,
+   "totalPaid": 3981.0,
+   "spotsRemaining": 0,
+   "acceptedSubmissionsCount": 1227,
+   "acceptedSubmissionsLimit": 1,
+   "activeSubmissionsCount": 0,
+   "bountySubmissionsCount": 2743,
+   "awaitingReviewSubmissionsCount": 0,
+   "deniedSubmissionsCount": 753,
+   "allowTiktok": false,
+   "allowYoutube": false,
+   "allowInstagram": false,
+   "allowX": false,
+   "allowedCountryCodes": [],
+   "requiredCaptureDurationSeconds": null,
+   "scheduledFrequency": null,
+   "businessGoalType": null,
+   "viewCount": 0,
+   "commentCount": 0,
+   "reactionCount": 0,
+   "createdAt": 1757361466,
+   "updatedAt": 1775421128,
+   "experience": {
+    "id": "exp_eyZMlGCWw7x0hB",
+    "name": "CLAIM JOINING BONUS",
+    "company": {
+     "id": "biz_yPgjIxkwx7c4oe",
+     "route": "creator-network",
+     "title": "Creator Syndicate",
+     "verified": false
+    }
+   },
+   "user": {
+    "id": "user_Xeg9aCJHTRdAm",
+    "username": "johnnygarcai",
+    "name": "Johnny Garcia"
+   },
+   "accessPasses": {
+    "nodes": [
+     {
+      "id": "prod_bUKYK3SOBlk4p",
+      "route": "creator-network",
+      "title": "Creator Syndicate"
+     }
+    ]
+   }
+  },
+  {
+   "id": "bnty_nCr3A0QudArhJ",
+   "title": "Earn $300 per 1,000,000 Views",
+   "description": "SUBMISSIONS CLOSED\n\n\n\nBudget Remaining ($0/$4,000) \n\n\n\nPost Ken Carson content and earn $300 per 1,000,000 views!\n\n\n\nMax payout per submission: 3M views ($900)\n\n\n\nRules: all post must follow the guidelines outlined in the training.\n\n\n\n\n\n\n\nAll posts must either feature music from \"Delusional\" or snippets from Kens upcoming album \"More Chaos\"\n\n\n\nMore Chaos snippets: https://drive.google.com/drive/folders/1uS6Dlv_zW3Us6vVOuZF8YgpLWiuVmKYn?usp=sharing \n\n https://youtu.be/WSN9xCYwGPQ\n\n\n\nTo submit input views down below and post the link to the video.",
+   "bountyType": "classic",
+   "status": "published",
+   "discoverStatus": "live_discover",
+   "rewardPerUnitAmount": 1.0,
+   "rewardUnit": "per_submission",
+   "currency": "usd",
+   "budgetAmount": null,
+   "totalPaid": 3626.31,
+   "spotsRemaining": 0,
+   "acceptedSubmissionsCount": 32,
+   "acceptedSubmissionsLimit": 1,
+   "activeSubmissionsCount": 0,
+   "bountySubmissionsCount": 243,
+   "awaitingReviewSubmissionsCount": 0,
+   "deniedSubmissionsCount": 49,
+   "allowTiktok": false,
+   "allowYoutube": false,
+   "allowInstagram": false,
+   "allowX": false,
+   "allowedCountryCodes": [],
+   "requiredCaptureDurationSeconds": null,
+   "scheduledFrequency": null,
+   "businessGoalType": null,
+   "viewCount": 0,
+   "commentCount": 0,
+   "reactionCount": 0,
+   "createdAt": 1738188799,
+   "updatedAt": 1740408960,
+   "experience": {
+    "id": "exp_CDRvD3SuL5iQIj",
+    "name": "Bounties",
+    "company": {
+     "id": "biz_W49IngxtvES8Qt",
+     "route": "opium",
+     "title": "Opium",
+     "verified": false
+    }
+   },
+   "user": {
+    "id": "user_4U3G0tycXpRU3",
+    "username": "eddiecumberbatch",
+    "name": "Eddie Cumberbatch"
+   },
+   "accessPasses": {
+    "nodes": [
+     {
+      "id": "prod_iOgNX9m0nLyKw",
+      "route": "opium",
+      "title": "Opium"
+     }
+    ]
+   }
+  },
+  {
+   "id": "bnty_R4qTfmHR1q67g",
+   "title": "Create Your First Video",
+   "description": "Your first job is to make an AI Video with Cantina, the tool we'll be using to make AI content.\n\n\n\n\n\n\n\nUse this special invite link to join cantina: https://cantina.com/i/mvac6\n\n\n\n\n\n\n\nCreate a video with any character, and MAKE SURE IT MENTIONS YOUR WHOP OR DISCORD USERNAME.\n\n\n\n\n\n\n\nSubmit your discord username and the video below(You can download the video from the Cantina App and upload directly).\n\n\n\nHere is a page with more instructions if you need it: https://spiffy-femur-711.notion.site/Make-your-first-AI-Video-24e854b2a69980ed9a2dfa45f6259f31",
+   "bountyType": "classic",
+   "status": "published",
+   "discoverStatus": "live_discover",
+   "rewardPerUnitAmount": 1.0,
+   "rewardUnit": "per_submission",
+   "currency": "usd",
+   "budgetAmount": null,
+   "totalPaid": 2685.0,
+   "spotsRemaining": 0,
+   "acceptedSubmissionsCount": 537,
+   "acceptedSubmissionsLimit": 1,
+   "activeSubmissionsCount": 0,
+   "bountySubmissionsCount": 2186,
+   "awaitingReviewSubmissionsCount": 0,
+   "deniedSubmissionsCount": 1245,
+   "allowTiktok": false,
+   "allowYoutube": false,
+   "allowInstagram": false,
+   "allowX": false,
+   "allowedCountryCodes": [],
+   "requiredCaptureDurationSeconds": null,
+   "scheduledFrequency": null,
+   "businessGoalType": null,
+   "viewCount": 0,
+   "commentCount": 0,
+   "reactionCount": 0,
+   "createdAt": 1753999570,
+   "updatedAt": 1764014690,
+   "experience": {
+    "id": "exp_eyZMlGCWw7x0hB",
+    "name": "CLAIM JOINING BONUS",
+    "company": {
+     "id": "biz_yPgjIxkwx7c4oe",
+     "route": "creator-network",
+     "title": "Creator Syndicate",
+     "verified": false
+    }
+   },
+   "user": {
+    "id": "user_7vwZVS8znKz3i",
+    "username": "adamconnect",
+    "name": "Adam"
+   },
+   "accessPasses": {
+    "nodes": [
+     {
+      "id": "prod_bUKYK3SOBlk4p",
+      "route": "creator-network",
+      "title": "Creator Syndicate"
+     }
+    ]
+   }
+  },
+  {
+   "id": "bnty_BBWexA5JQgTfw",
+   "title": "Salaire Mensuel ",
+   "description": "Ce bounty permet aux clippers actifs de demander le paiement de leur salaire fixe mensuel.\n\n\n\nConditions obligatoires :\n\n\n\n\n\n\n\nPublication quotidienne respectée (2 posts minimum par jour par plateforme)\n\n\n\nComptes actifs et conformes à la stratégie\n\n\n\nRapports hebdomadaires envoyés dans les délais\n\n\n\nMontant :\n\n💰 200$ (paiement mensuel)\n\n\n\nProcédure de demande :\n\nLors de la soumission, merci d’inclure :\n\n\n\n\n\n\n\nTon nom d’utilisateur Discord\n\n\n\nLa période concernée (ex : 1er au 30 du mois)\n\n\n\n\n\n⚠️ Toute demande incomplète ou non conforme sera refusée.",
+   "bountyType": "classic",
+   "status": "published",
+   "discoverStatus": "live_discover",
+   "rewardPerUnitAmount": 1.0,
+   "rewardUnit": "per_submission",
+   "currency": "usd",
+   "budgetAmount": null,
+   "totalPaid": 1000.0,
+   "spotsRemaining": 0,
+   "acceptedSubmissionsCount": 5,
+   "acceptedSubmissionsLimit": 1,
+   "activeSubmissionsCount": 0,
+   "bountySubmissionsCount": 18,
+   "awaitingReviewSubmissionsCount": 0,
+   "deniedSubmissionsCount": 6,
+   "allowTiktok": false,
+   "allowYoutube": false,
+   "allowInstagram": false,
+   "allowX": false,
+   "allowedCountryCodes": [],
+   "requiredCaptureDurationSeconds": null,
+   "scheduledFrequency": null,
+   "businessGoalType": null,
+   "viewCount": 0,
+   "commentCount": 0,
+   "reactionCount": 0,
+   "createdAt": 1766275978,
+   "updatedAt": 1775744948,
+   "experience": {
+    "id": "exp_tFpaNyWseDIvLw",
+    "name": "Bounties",
+    "company": {
+     "id": "biz_5Qy8zaJg7iqpvF",
+     "route": "juste",
+     "title": "Valentin Clipping",
+     "verified": false
+    }
+   },
+   "user": {
+    "id": "user_EOVDOeUYnS8jz",
+    "username": "justefl",
+    "name": "Juste"
+   },
+   "accessPasses": {
+    "nodes": [
+     {
+      "id": "prod_COQrDAuOQr4Fd",
+      "route": "valentin-clipping",
+      "title": "Valentin Clipping"
+     }
+    ]
+   }
+  },
+  {
+   "id": "bnty_S6MHP1iFI29a4",
+   "title": "🏆 Bounty Task: AI Agency Market Expansion Playbook",
+   "description": "🎯 Task Objective\n\nCreate a practical, ethical market expansion playbook for an AI consulting or automation agency.\n\nThis bounty focuses on strategy, research, and clarity — not selling, spamming, or client outreach on behalf of the business.\n\n✅ What You Need to Do\n\nYour submission must include ALL sections below:\n\n1️⃣ Ideal Client Profile (ICP)\n\nDefine one clear ICP, including:\n\n\n\n\n\nIndustry\n\n\n\nCompany size\n\n\n\nCommon operational challenges\n\n\n\nWhy AI automation or consulting is relevant",
+   "bountyType": "classic",
+   "status": "published",
+   "discoverStatus": "live_discover",
+   "rewardPerUnitAmount": 1.0,
+   "rewardUnit": "per_submission",
+   "currency": "usd",
+   "budgetAmount": null,
+   "totalPaid": 900.0,
+   "spotsRemaining": 0,
+   "acceptedSubmissionsCount": 3,
+   "acceptedSubmissionsLimit": 1,
+   "activeSubmissionsCount": 0,
+   "bountySubmissionsCount": 6,
+   "awaitingReviewSubmissionsCount": 0,
+   "deniedSubmissionsCount": 3,
+   "allowTiktok": false,
+   "allowYoutube": false,
+   "allowInstagram": false,
+   "allowX": false,
+   "allowedCountryCodes": [],
+   "requiredCaptureDurationSeconds": null,
+   "scheduledFrequency": null,
+   "businessGoalType": null,
+   "viewCount": 0,
+   "commentCount": 0,
+   "reactionCount": 0,
+   "createdAt": 1768123728,
+   "updatedAt": 1768221556,
+   "experience": {
+    "id": "exp_PapsbS2UiuLA5C",
+    "name": "Bounties",
+    "company": {
+     "id": "biz_qfhubhS623p1yb",
+     "route": "resell-success-network-29d3",
+     "title": "Resell Success Network",
+     "verified": false
+    }
+   },
+   "user": {
+    "id": "user_Sw9yan8gn82wm",
+    "username": "muggysourced6",
+    "name": "Michael Johnson"
+   },
+   "accessPasses": {
+    "nodes": [
+     {
+      "id": "prod_uRHytlBMTFoqT",
+      "route": "ai-agency-consultation",
+      "title": "AI Agency Consultation "
+     }
+    ]
+   }
+  },
+  {
+   "id": "bnty_avONBwuKysvRj",
+   "title": "Post 30 Days of Sharriff2d Clips in a Row",
+   "description": "Featured Bounty from Sharriff2d Clipping Community",
+   "bountyType": "classic",
+   "status": "published",
+   "discoverStatus": "live_discover",
+   "rewardPerUnitAmount": 1.0,
+   "rewardUnit": "per_submission",
+   "currency": "usd",
+   "budgetAmount": null,
+   "totalPaid": 900.0,
+   "spotsRemaining": 0,
+   "acceptedSubmissionsCount": 6,
+   "acceptedSubmissionsLimit": 1,
+   "activeSubmissionsCount": 0,
+   "bountySubmissionsCount": 20,
+   "awaitingReviewSubmissionsCount": 0,
+   "deniedSubmissionsCount": 0,
+   "allowTiktok": false,
+   "allowYoutube": false,
+   "allowInstagram": false,
+   "allowX": false,
+   "allowedCountryCodes": [],
+   "requiredCaptureDurationSeconds": null,
+   "scheduledFrequency": null,
+   "businessGoalType": null,
+   "viewCount": 0,
+   "commentCount": 0,
+   "reactionCount": 0,
+   "createdAt": 1750284597,
+   "updatedAt": 1755898219,
+   "experience": {
+    "id": "exp_Sm0G228dMdEpRm",
+    "name": "Rewards for Results",
+    "company": {
+     "id": "biz_4zxe5JbgTzR8zQ",
+     "route": "digital-wealth-university",
+     "title": "Digital Wealth University",
+     "verified": false
+    }
+   },
+   "user": {
+    "id": "user_2COmlqSKKUQoE",
+    "username": "sharriff2d",
+    "name": "Sharriff Dyer II"
+   },
+   "accessPasses": {
+    "nodes": [
+     {
+      "id": "prod_Riy7ukqepkaeQ",
+      "route": "digital-wealth-university",
+      "title": "Digital Wealth University"
+     }
+    ]
+   }
+  },
+  {
+   "id": "bnty_hsqNFi2dbuXup",
+   "title": "🚨 BUG BOUNTY ALERT 🚨",
+   "description": "Think you can break our system? 👀 We’re actively looking for sharp testers to find critical bugs in our software.\n\n💰 Earn 450 for every valid bug reported\n\n📌 How it works: • Find a bug in our software • Record a video or take a screenshot • Upload proof (video/image) • Submit it to us\n\n🔥 If it’s valid → you get paid directly\n\n⚡ No fluff. No delays. Just real payouts for real findings. LInk at ig bio",
+   "bountyType": "classic",
+   "status": "published",
+   "discoverStatus": "live_discover",
+   "rewardPerUnitAmount": 1.0,
+   "rewardUnit": "per_submission",
+   "currency": "usd",
+   "budgetAmount": null,
+   "totalPaid": 900.0,
+   "spotsRemaining": 0,
+   "acceptedSubmissionsCount": 1,
+   "acceptedSubmissionsLimit": 1,
+   "activeSubmissionsCount": 0,
+   "bountySubmissionsCount": 2,
+   "awaitingReviewSubmissionsCount": 0,
+   "deniedSubmissionsCount": 0,
+   "allowTiktok": false,
+   "allowYoutube": false,
+   "allowInstagram": false,
+   "allowX": false,
+   "allowedCountryCodes": [],
+   "requiredCaptureDurationSeconds": null,
+   "scheduledFrequency": null,
+   "businessGoalType": null,
+   "viewCount": 0,
+   "commentCount": 0,
+   "reactionCount": 0,
+   "createdAt": 1772331652,
+   "updatedAt": 1772333042,
+   "experience": {
+    "id": "exp_dqNrxzi8NPvFwy",
+    "name": "Bounties",
+    "company": {
+     "id": "biz_SbZBUA6yOfwKlB",
+     "route": "tradetalk-daily-newsletter-e0d9",
+     "title": "Monarch Revenue Lab",
+     "verified": false
+    }
+   },
+   "user": {
+    "id": "user_HXeTlNacj99Lp",
+    "username": "solehipline",
+    "name": "Ethan"
+   },
+   "accessPasses": {
+    "nodes": [
+     {
+      "id": "prod_p9R5oOgntB4y4",
+      "route": "monarch-revenue-lab-basic-access-free",
+      "title": "Monarch Revenue Lab –Basic Access (Free)"
+     }
+    ]
+   }
+  },
+  {
+   "id": "bnty_yxKGXFEOHxtRa",
+   "title": "[CLOSED] Clip Brando & Earn $600 per 1,000,000 Views",
+   "description": "Make short form clips on Instagram, TikTok, YouTube Shorts, and X & earn $0.60 per 1k views + 25% affiliate sales following the course guidelines.\n\n\n\nEach post should have #eliteoptionstrader & #eliteoptionspro\n\n\n\nMake sure the accounts are only posting in the following countries: US, UK, AU, CA and majority english speaking places.\n\n\n\nNOTE: we retain the right to deny any posts",
+   "bountyType": "classic",
+   "status": "published",
+   "discoverStatus": "live_discover",
+   "rewardPerUnitAmount": 1.0,
+   "rewardUnit": "per_submission",
+   "currency": "usd",
+   "budgetAmount": null,
+   "totalPaid": 763.8,
+   "spotsRemaining": 0,
+   "acceptedSubmissionsCount": 8,
+   "acceptedSubmissionsLimit": 1,
+   "activeSubmissionsCount": 0,
+   "bountySubmissionsCount": 13,
+   "awaitingReviewSubmissionsCount": 0,
+   "deniedSubmissionsCount": 4,
+   "allowTiktok": false,
+   "allowYoutube": false,
+   "allowInstagram": false,
+   "allowX": false,
+   "allowedCountryCodes": [],
+   "requiredCaptureDurationSeconds": null,
+   "scheduledFrequency": null,
+   "businessGoalType": null,
+   "viewCount": 0,
+   "commentCount": 0,
+   "reactionCount": 0,
+   "createdAt": 1739290625,
+   "updatedAt": 1746809200,
+   "experience": {
+    "id": "exp_Kv8tQtzRHpd47y",
+    "name": "Get Paid",
+    "company": {
+     "id": "biz_pAmG2NBMop60nW",
+     "route": "elite-options-pro-clips",
+     "title": "Elite Options Pro Clips",
+     "verified": false
+    }
+   },
+   "user": {
+    "id": "user_Xb9FhImPT86eo",
+    "username": "nafiosmani",
+    "name": "Nafi Osmani"
+   },
+   "accessPasses": {
+    "nodes": [
+     {
+      "id": "prod_7t6ZLEmhmemtM",
+      "route": "elite-options-pro-clips",
+      "title": "Elite Options Pro Clips"
+     }
+    ]
+   }
+  },
+  {
+   "id": "bnty_P0aTexWM60EsF",
+   "title": "Get 5 million views on a clip and get a $500 bonus!",
+   "description": "We will make sure the views are 100% real, if not you'll get banned.\n\n\n\nClips must have Wade Houston's content",
+   "bountyType": "classic",
+   "status": "published",
+   "discoverStatus": "live_discover",
+   "rewardPerUnitAmount": 1.0,
+   "rewardUnit": "per_submission",
+   "currency": "usd",
+   "budgetAmount": null,
+   "totalPaid": 500.0,
+   "spotsRemaining": 0,
+   "acceptedSubmissionsCount": 1,
+   "acceptedSubmissionsLimit": 1,
+   "activeSubmissionsCount": 0,
+   "bountySubmissionsCount": 2,
+   "awaitingReviewSubmissionsCount": 0,
+   "deniedSubmissionsCount": 1,
+   "allowTiktok": false,
+   "allowYoutube": false,
+   "allowInstagram": false,
+   "allowX": false,
+   "allowedCountryCodes": [],
+   "requiredCaptureDurationSeconds": null,
+   "scheduledFrequency": null,
+   "businessGoalType": null,
+   "viewCount": 0,
+   "commentCount": 0,
+   "reactionCount": 0,
+   "createdAt": 1739052801,
+   "updatedAt": 1742475022,
+   "experience": {
+    "id": "exp_UhyjrzKTN6XYcG",
+    "name": "Bounties",
+    "company": {
+     "id": "biz_v9erxHKWhFJLr2",
+     "route": "clipit-media-21",
+     "title": "CLIPIT MEDIA",
+     "verified": false
+    }
+   },
+   "user": {
+    "id": "user_xWibsyRwxJaJJ",
+    "username": "marioss",
+    "name": "Marios"
+   },
+   "accessPasses": {
+    "nodes": [
+     {
+      "id": "prod_GLYvv6IvI3Yyk",
+      "route": "wade-houston-clips",
+      "title": "Wade Houston Clips"
+     }
+    ]
+   }
+  },
+  {
+   "id": "bnty_kArvjVaeOJadB",
+   "title": "🏆 Bounty Task: AI Agency Client Strategy Blueprint",
+   "description": "Create a clear, realistic client acquisition blueprint for an AI agency, focused on identifying ideal clients, problems, and ethical outreach strategies.\n\nThis is a strategy task, not direct selling.\n\n✅ What You Need to Do\n\nYour submission must include ALL of the following:\n\n1️⃣ Ideal Client Profile (ICP)\n\nDescribe one ideal client type:\n\n\n\n\n\nIndustry\n\n\n\nCompany size\n\n\n\nCommon operational pain points\n\n\n\nWhy AI solutions fit this client\n\n2️⃣ Use-Case Breakdown\n\nProvide 3 AI use cases relevant to the ICP, such as:\n\n\n\n\n\nAutomation\n\n\n\nCustomer support\n\n\n\nInternal workflow optimization\n\n\n\nData handling or reporting\n\nExplain each briefly.\n\n3️⃣ Outreach Strategy (Non-Spam)\n\nWrite 2 professional outreach messages (email or DM):\n\n\n\n\n\nClear value-focused messaging\n\n\n\nRespectful tone\n\n\n\nNo exaggerated claims\n\n\n\nNo guarantees or earnings language\n\n4️⃣ Consultation Flow\n\nOutline a 15–30 minute consultation call structure, including:\n\n\n\n\n\nDiscovery questions\n\n\n\nProblem clarification\n\n\n\nHigh-level solution discussion\n\n\n\nNext-step suggestions",
+   "bountyType": "classic",
+   "status": "published",
+   "discoverStatus": "live_discover",
+   "rewardPerUnitAmount": 1.0,
+   "rewardUnit": "per_submission",
+   "currency": "usd",
+   "budgetAmount": null,
+   "totalPaid": 433.0,
+   "spotsRemaining": 0,
+   "acceptedSubmissionsCount": 3,
+   "acceptedSubmissionsLimit": 1,
+   "activeSubmissionsCount": 0,
+   "bountySubmissionsCount": 4,
+   "awaitingReviewSubmissionsCount": 0,
+   "deniedSubmissionsCount": 0,
+   "allowTiktok": false,
+   "allowYoutube": false,
+   "allowInstagram": false,
+   "allowX": false,
+   "allowedCountryCodes": [],
+   "requiredCaptureDurationSeconds": null,
+   "scheduledFrequency": null,
+   "businessGoalType": null,
+   "viewCount": 0,
+   "commentCount": 0,
+   "reactionCount": 0,
+   "createdAt": 1767963879,
+   "updatedAt": 1768217943,
+   "experience": {
+    "id": "exp_PapsbS2UiuLA5C",
+    "name": "Bounties",
+    "company": {
+     "id": "biz_qfhubhS623p1yb",
+     "route": "resell-success-network-29d3",
+     "title": "Resell Success Network",
+     "verified": false
+    }
+   },
+   "user": {
+    "id": "user_Sw9yan8gn82wm",
+    "username": "muggysourced6",
+    "name": "Michael Johnson"
+   },
+   "accessPasses": {
+    "nodes": [
+     {
+      "id": "prod_uRHytlBMTFoqT",
+      "route": "ai-agency-consultation",
+      "title": "AI Agency Consultation "
+     }
+    ]
+   }
+  },
+  {
+   "id": "bnty_43B3QeVslZa98",
+   "title": "Earn $100 Retainer. Post 60 reels in 30 days",
+   "description": "Post 60 reels in 30 days. Submit account links. At least 2 hours between posts. No more than 3 posts a day.",
+   "bountyType": "classic",
+   "status": "published",
+   "discoverStatus": "live_discover",
+   "rewardPerUnitAmount": 1.0,
+   "rewardUnit": "per_submission",
+   "currency": "usd",
+   "budgetAmount": null,
+   "totalPaid": 278.0,
+   "spotsRemaining": 0,
+   "acceptedSubmissionsCount": 1,
+   "acceptedSubmissionsLimit": 1,
+   "activeSubmissionsCount": 0,
+   "bountySubmissionsCount": 23,
+   "awaitingReviewSubmissionsCount": 0,
+   "deniedSubmissionsCount": 10,
+   "allowTiktok": false,
+   "allowYoutube": false,
+   "allowInstagram": false,
+   "allowX": false,
+   "allowedCountryCodes": [],
+   "requiredCaptureDurationSeconds": null,
+   "scheduledFrequency": null,
+   "businessGoalType": null,
+   "viewCount": 0,
+   "commentCount": 0,
+   "reactionCount": 0,
+   "createdAt": 1742418001,
+   "updatedAt": 1751660204,
+   "experience": {
+    "id": "exp_Kv8tQtzRHpd47y",
+    "name": "Get Paid",
+    "company": {
+     "id": "biz_pAmG2NBMop60nW",
+     "route": "elite-options-pro-clips",
+     "title": "Elite Options Pro Clips",
+     "verified": false
+    }
+   },
+   "user": {
+    "id": "user_Xb9FhImPT86eo",
+    "username": "nafiosmani",
+    "name": "Nafi Osmani"
+   },
+   "accessPasses": {
+    "nodes": [
+     {
+      "id": "prod_7t6ZLEmhmemtM",
+      "route": "elite-options-pro-clips",
+      "title": "Elite Options Pro Clips"
+     }
+    ]
+   }
+  },
+  {
+   "id": "bnty_wN5GVBLdl7whS",
+   "title": "Thony G clips ",
+   "description": "Yo G’s,\n\n\n\nI want you guys to experiment with my YouTube long form videos and create short form videos form it \n\n\n\nOnly legends can edit \n\nAre you a legend? \n\n\n\nYouTube: ”Thony G”\n\n\n\nhttps://youtube.com/@thonyg1-h4v?si=GhEt0goXS_KLkxw_",
+   "bountyType": "classic",
+   "status": "published",
+   "discoverStatus": "live_discover",
+   "rewardPerUnitAmount": 1.0,
+   "rewardUnit": "per_submission",
+   "currency": "usd",
+   "budgetAmount": null,
+   "totalPaid": 250.0,
+   "spotsRemaining": 0,
+   "acceptedSubmissionsCount": 10,
+   "acceptedSubmissionsLimit": 1,
+   "activeSubmissionsCount": 0,
+   "bountySubmissionsCount": 15,
+   "awaitingReviewSubmissionsCount": 0,
+   "deniedSubmissionsCount": 3,
+   "allowTiktok": false,
+   "allowYoutube": false,
+   "allowInstagram": false,
+   "allowX": false,
+   "allowedCountryCodes": [],
+   "requiredCaptureDurationSeconds": null,
+   "scheduledFrequency": null,
+   "businessGoalType": null,
+   "viewCount": 0,
+   "commentCount": 0,
+   "reactionCount": 0,
+   "createdAt": 1789625863,
+   "updatedAt": 1791610630,
+   "experience": {
+    "id": "exp_b6zW2qrguPUjkJ",
+    "name": "Bounties",
+    "company": {
+     "id": "biz_hiE7wWRmM7C1BP",
+     "route": "thony-g-clips",
+     "title": "Thony G",
+     "verified": false
+    }
+   },
+   "user": {
+    "id": "user_NlSbRY96s3RYf",
+    "username": "thonygonly1",
+    "name": "Thony G "
+   },
+   "accessPasses": {
+    "nodes": [
+     {
+      "id": "prod_tegTzO8n0mG0F",
+      "route": "thony-g-clippers",
+      "title": "Clippers"
+     }
+    ]
+   }
+  },
+  {
+   "id": "bnty_9ZNkrPNctTOxZ",
+   "title": "500 Clics = 100 €",
+   "description": "Gagne 100 euros tous les 500 clics générés pour la page de vente de Gaspard",
+   "bountyType": "classic",
+   "status": "published",
+   "discoverStatus": "live_discover",
+   "rewardPerUnitAmount": 1.0,
+   "rewardUnit": "per_submission",
+   "currency": "usd",
+   "budgetAmount": null,
+   "totalPaid": 200.0,
+   "spotsRemaining": 1,
+   "acceptedSubmissionsCount": 0,
+   "acceptedSubmissionsLimit": 1,
+   "activeSubmissionsCount": 0,
+   "bountySubmissionsCount": 4,
+   "awaitingReviewSubmissionsCount": 0,
+   "deniedSubmissionsCount": 3,
+   "allowTiktok": false,
+   "allowYoutube": false,
+   "allowInstagram": false,
+   "allowX": false,
+   "allowedCountryCodes": [],
+   "requiredCaptureDurationSeconds": null,
+   "scheduledFrequency": null,
+   "businessGoalType": null,
+   "viewCount": 0,
+   "commentCount": 0,
+   "reactionCount": 0,
+   "createdAt": 1761472203,
+   "updatedAt": 1763630122,
+   "experience": {
+    "id": "exp_19oj23ELmIpEBb",
+    "name": "CAMPAGNE CLIPPING GASPARD",
+    "company": {
+     "id": "biz_0d8430WM3gdFsb",
+     "route": "gaspard-clips",
+     "title": "Gaspard Grosjean Clips",
+     "verified": false
+    }
+   },
+   "user": {
+    "id": "user_uEwWILv1R1Arq",
+    "username": "volttfr",
+    "name": "Kentin - ViralScale"
+   },
+   "accessPasses": {
+    "nodes": [
+     {
+      "id": "prod_o9HjMJlsstTSR",
+      "route": "gaspard-grosjean-clips-fb",
+      "title": "Gaspard Grosjean Clips"
+     }
+    ]
+   }
+  },
+  {
+   "id": "bnty_ciORiAFl4VIhQ",
+   "title": "Post for 30 days and earn $100 ",
+   "description": "\n\n\n\npost must meet guidelines in the course\n\n\n\n submit a reel on daily posts for feedback daily\n\n\n\n every page you run should be entered here:\n\nhttps://forms.gle/SPvtDMn47nM3jgeY6\n\n",
+   "bountyType": "classic",
+   "status": "published",
+   "discoverStatus": "live_discover",
+   "rewardPerUnitAmount": 1.0,
+   "rewardUnit": "per_submission",
+   "currency": "usd",
+   "budgetAmount": null,
+   "totalPaid": 200.0,
+   "spotsRemaining": 0,
+   "acceptedSubmissionsCount": 2,
+   "acceptedSubmissionsLimit": 1,
+   "activeSubmissionsCount": 0,
+   "bountySubmissionsCount": 8,
+   "awaitingReviewSubmissionsCount": 0,
+   "deniedSubmissionsCount": 1,
+   "allowTiktok": false,
+   "allowYoutube": false,
+   "allowInstagram": false,
+   "allowX": false,
+   "allowedCountryCodes": [],
+   "requiredCaptureDurationSeconds": null,
+   "scheduledFrequency": null,
+   "businessGoalType": null,
+   "viewCount": 0,
+   "commentCount": 0,
+   "reactionCount": 0,
+   "createdAt": 1739629122,
+   "updatedAt": 1743578977,
+   "experience": {
+    "id": "exp_heXZWKvLqdI59p",
+    "name": "Rewards",
+    "company": {
+     "id": "biz_m9XcmrlplnYTz3",
+     "route": "urban-unity-deposit",
+     "title": "Urban Unity",
+     "verified": false
+    }
+   },
+   "user": {
+    "id": "user_VWtXShKvETmvQ",
+    "username": "rezzashahabzadeh",
+    "name": "Rezza"
+   },
+   "accessPasses": {
+    "nodes": [
+     {
+      "id": "prod_gBF0vT73myMZy",
+      "route": "marshallcrews-clips",
+      "title": "Marshall Crews Clips"
+     }
+    ]
+   }
+  },
+  {
+   "id": "bnty_rSqEpcnSOEeh9",
+   "title": "[OLD/USE NEW BOUNTY] $10 for first 10 Videos Posted",
+   "description": "Post first 10 Videos and get $10. Submit account links. At least 2 hours between posts. No more than 3 posts a day.",
+   "bountyType": "classic",
+   "status": "published",
+   "discoverStatus": "live_discover",
+   "rewardPerUnitAmount": 1.0,
+   "rewardUnit": "per_submission",
+   "currency": "usd",
+   "budgetAmount": null,
+   "totalPaid": 200.0,
+   "spotsRemaining": 0,
+   "acceptedSubmissionsCount": 20,
+   "acceptedSubmissionsLimit": 1,
+   "activeSubmissionsCount": 0,
+   "bountySubmissionsCount": 113,
+   "awaitingReviewSubmissionsCount": 0,
+   "deniedSubmissionsCount": 31,
+   "allowTiktok": false,
+   "allowYoutube": false,
+   "allowInstagram": false,
+   "allowX": false,
+   "allowedCountryCodes": [],
+   "requiredCaptureDurationSeconds": null,
+   "scheduledFrequency": null,
+   "businessGoalType": null,
+   "viewCount": 0,
+   "commentCount": 0,
+   "reactionCount": 0,
+   "createdAt": 1740891832,
+   "updatedAt": 1744743489,
+   "experience": {
+    "id": "exp_AjZzbCsOXyRht3",
+    "name": "Get Paid",
+    "company": {
+     "id": "biz_uAAUCqelUFme7M",
+     "route": "seantrades-clips",
+     "title": "Sean Trades",
+     "verified": false
+    }
+   },
+   "user": {
+    "id": "user_Xb9FhImPT86eo",
+    "username": "nafiosmani",
+    "name": "Nafi Osmani"
+   },
+   "accessPasses": {
+    "nodes": [
+     {
+      "id": "prod_7VNjVIp8JVsnF",
+      "route": "seantrades-clips",
+      "title": "Sean Trades Clips"
+     }
+    ]
+   }
+  },
+  {
+   "id": "bnty_eIfV8ggpmGh32",
+   "title": "Engage with instagram post & IG Reel",
+   "description": "- Like the posts below (there’s 2 of them)\n- Send reel to 10 friends & share the IG post on your story\n- Share this post to your instagram story\n- Bookmark this post (Save with button on right)\n- Screen Record Full Session showing all 4 actions\n- Submit a livestream / screen recording showing each action\n- Comment #SWEEPERS on both posts\n\nLink to post 1 https://www.instagram.com/p/Dbe49NDub8T/?igsh=MnN3Ym1nZnJwYzgw\n\nLink to reel https://www.instagram.com/reel/Dbe5FyQu-Tm/?igsh=aWphb2F2ZmU0cnF6\n\nMust watch entire video & comment on both posts",
+   "bountyType": "user_funded",
+   "status": "published",
+   "discoverStatus": "live_discover",
+   "rewardPerUnitAmount": 0.42,
+   "rewardUnit": "per_submission",
+   "currency": "usd",
+   "budgetAmount": null,
+   "totalPaid": 161.4,
+   "spotsRemaining": 6,
+   "acceptedSubmissionsCount": 269,
+   "acceptedSubmissionsLimit": 275,
+   "activeSubmissionsCount": 0,
+   "bountySubmissionsCount": 563,
+   "awaitingReviewSubmissionsCount": 0,
+   "deniedSubmissionsCount": 207,
+   "allowTiktok": false,
+   "allowYoutube": false,
+   "allowInstagram": false,
+   "allowX": false,
+   "allowedCountryCodes": [
+    "PH"
+   ],
+   "requiredCaptureDurationSeconds": null,
+   "scheduledFrequency": null,
+   "businessGoalType": "post_engagement",
+   "viewCount": 28098,
+   "commentCount": 158,
+   "reactionCount": 77,
+   "createdAt": 1785557275,
+   "updatedAt": 1793613779,
+   "experience": {
+    "id": "exp_pjrt7Dh8Wrc3ln",
+    "name": "Public forum",
+    "company": {
+     "id": "biz_Tdt2BZ3ZpJh0R3",
+     "route": "the-sweepers",
+     "title": "The Sweepers",
+     "verified": false
+    }
+   },
+   "user": {
+    "id": "user_rRyA16jRgclok",
+    "username": "bdunk975",
+    "name": "Bdunk"
+   },
+   "accessPasses": {
+    "nodes": [
+     {
+      "id": "prod_yJvElrgs94i6d",
+      "route": "the-sweepers-free-access",
+      "title": "The Sweepers"
+     }
+    ]
+   }
+  },
+  {
+   "id": "bnty_Q8d55KdljkCyC",
+   "title": "[USE CONTENT REWARDS CAMPAIGN/DONT SUBMIT] Clip Sean & Earn $1,000 per 1,000,000 Views",
+   "description": "Make short form videos on TikTok, YouTube Shorts, Instagram or posts on twitter & earn $1 per 1k views following the guidelines. NOTE: If content shows Rios in a negative way, doesn’t follow the guide or exploited to get views payout will be void. Submit video links. Min: 1k",
+   "bountyType": "classic",
+   "status": "published",
+   "discoverStatus": "live_discover",
+   "rewardPerUnitAmount": 1.0,
+   "rewardUnit": "per_submission",
+   "currency": "usd",
+   "budgetAmount": null,
+   "totalPaid": 129.0,
+   "spotsRemaining": 0,
+   "acceptedSubmissionsCount": 16,
+   "acceptedSubmissionsLimit": 1,
+   "activeSubmissionsCount": 0,
+   "bountySubmissionsCount": 79,
+   "awaitingReviewSubmissionsCount": 0,
+   "deniedSubmissionsCount": 33,
+   "allowTiktok": false,
+   "allowYoutube": false,
+   "allowInstagram": false,
+   "allowX": false,
+   "allowedCountryCodes": [],
+   "requiredCaptureDurationSeconds": null,
+   "scheduledFrequency": null,
+   "businessGoalType": null,
+   "viewCount": 0,
+   "commentCount": 0,
+   "reactionCount": 0,
+   "createdAt": 1740539632,
+   "updatedAt": 1744743515,
+   "experience": {
+    "id": "exp_AjZzbCsOXyRht3",
+    "name": "Get Paid",
+    "company": {
+     "id": "biz_uAAUCqelUFme7M",
+     "route": "seantrades-clips",
+     "title": "Sean Trades",
+     "verified": false
+    }
+   },
+   "user": {
+    "id": "user_Xb9FhImPT86eo",
+    "username": "nafiosmani",
+    "name": "Nafi Osmani"
+   },
+   "accessPasses": {
+    "nodes": [
+     {
+      "id": "prod_7VNjVIp8JVsnF",
+      "route": "seantrades-clips",
+      "title": "Sean Trades Clips"
+     }
+    ]
+   }
+  },
+  {
+   "id": "bnty_zgbiMLanc69Ow",
+   "title": "Earn $120 for posting 60 reels across 30 days",
+   "description": "Post 60 reels actoss 30 days. Submit account links. At least 2 hours between posts. No more than 3 posts a day.",
+   "bountyType": "classic",
+   "status": "published",
+   "discoverStatus": "live_discover",
+   "rewardPerUnitAmount": 1.0,
+   "rewardUnit": "per_submission",
+   "currency": "usd",
+   "budgetAmount": null,
+   "totalPaid": 120.0,
+   "spotsRemaining": 0,
+   "acceptedSubmissionsCount": 1,
+   "acceptedSubmissionsLimit": 1,
+   "activeSubmissionsCount": 0,
+   "bountySubmissionsCount": 207,
+   "awaitingReviewSubmissionsCount": 0,
+   "deniedSubmissionsCount": 0,
+   "allowTiktok": false,
+   "allowYoutube": false,
+   "allowInstagram": false,
+   "allowX": false,
+   "allowedCountryCodes": [],
+   "requiredCaptureDurationSeconds": null,
+   "scheduledFrequency": null,
+   "businessGoalType": null,
+   "viewCount": 0,
+   "commentCount": 0,
+   "reactionCount": 0,
+   "createdAt": 1744743357,
+   "updatedAt": 1745511880,
+   "experience": {
+    "id": "exp_AjZzbCsOXyRht3",
+    "name": "Get Paid",
+    "company": {
+     "id": "biz_uAAUCqelUFme7M",
+     "route": "seantrades-clips",
+     "title": "Sean Trades",
+     "verified": false
+    }
+   },
+   "user": {
+    "id": "user_Xb9FhImPT86eo",
+    "username": "nafiosmani",
+    "name": "Nafi Osmani"
+   },
+   "accessPasses": {
+    "nodes": [
+     {
+      "id": "prod_7VNjVIp8JVsnF",
+      "route": "seantrades-clips",
+      "title": "Sean Trades Clips"
+     }
+    ]
+   }
+  },
+  {
+   "id": "bnty_cTjaegqc4cqaq",
+   "title": "Connecte mich mit einem \"interessanten\" Side Hustler",
+   "description": "Ich hab mal ein tiktok gepostet wo Ich mit Jan über sein \"E-Kitten\" Side Hustle gesprochen hab: https://www.tiktok.com/@alanoderso/video/7303516898891812129\n\nSeit dem fühle Ich (und meine no judgement policy) mich verpflichtet diese Seite des Internets zu covern. Es ist entertaining affff, hilft son bisschen aus dem Alltag raus und ich bin mir sicher Ich kann hier und da sogar als Dank nachhelfen mehr damit zu verdienen.\n\n\n\nDamit meine Ich auch seltene Fisch-Reseller, Automatensprenger, Online Arbitrager oder andere flüchtige Bekanntschaften die ihr vielleicht habt. Zensur jeder Art ist möglich, hauptsache wir bekommen die Realität von Geld an den Durschnittsbürobesetzer.\n\n\n\nAbgabe: kurzer Satz was du über sie/ihn weißt und Kontaktmöglichkeit (vorab pls nachfragen)\n\n\n\nPayout: Sobald Ich Kontakt aufnehme",
+   "bountyType": "classic",
+   "status": "published",
+   "discoverStatus": "live_discover",
+   "rewardPerUnitAmount": 1.0,
+   "rewardUnit": "per_submission",
+   "currency": "usd",
+   "budgetAmount": null,
+   "totalPaid": 100.0,
+   "spotsRemaining": 0,
+   "acceptedSubmissionsCount": 1,
+   "acceptedSubmissionsLimit": 1,
+   "activeSubmissionsCount": 0,
+   "bountySubmissionsCount": 6,
+   "awaitingReviewSubmissionsCount": 0,
+   "deniedSubmissionsCount": 0,
+   "allowTiktok": false,
+   "allowYoutube": false,
+   "allowInstagram": false,
+   "allowX": false,
+   "allowedCountryCodes": [],
+   "requiredCaptureDurationSeconds": null,
+   "scheduledFrequency": null,
+   "businessGoalType": null,
+   "viewCount": 0,
+   "commentCount": 0,
+   "reactionCount": 0,
+   "createdAt": 1742888845,
+   "updatedAt": 1744419848,
+   "experience": {
+    "id": "exp_9yM03Uo49fb9bA",
+    "name": "Side Quests",
+    "company": {
+     "id": "biz_J6MYrCKVzwlfcX",
+     "route": "alanoderso",
+     "title": "alanoderso",
+     "verified": false
+    }
+   },
+   "user": {
+    "id": "user_aKAH0h0QgAQam",
+    "username": "aditor",
+    "name": "Alan Simon"
+   },
+   "accessPasses": {
+    "nodes": [
+     {
+      "id": "prod_MIemxHgsUEnrt",
+      "route": "alanoderso",
+      "title": "Dichter & Denker"
+     }
+    ]
+   }
+  },
+  {
+   "id": "bnty_Q8vs1jD1lnx5N",
+   "title": "🚨🚨[$50] NEW BOUNTY🚨🚨",
+   "description": "[$50] BOUNTY FOR 50,000 VIEWS 💵\n\n\n\nHit 50k views on a single video and you’ll secure a $50 payout 💰 — this is ON TOP of the regular $1 CPM.\n\n\n\n⚡️ Important: This bounty only applies to clips created on or after September 21st. Anything before doesn’t count.\n\n\n\nThat means if you drop a 50k view banger, you’ll walk away with:\n\n✅ $50 bounty bonus\n\n✅ $50 from CPM (at $1 per 1k views)\n\n= $100 total payout from ONE clip.\n\n\n\nLock in and go chase it — this is where the real bags are made. 🔥",
+   "bountyType": "classic",
+   "status": "published",
+   "discoverStatus": "live_discover",
+   "rewardPerUnitAmount": 1.0,
+   "rewardUnit": "per_submission",
+   "currency": "usd",
+   "budgetAmount": null,
+   "totalPaid": 100.0,
+   "spotsRemaining": 0,
+   "acceptedSubmissionsCount": 2,
+   "acceptedSubmissionsLimit": 1,
+   "activeSubmissionsCount": 0,
+   "bountySubmissionsCount": 4,
+   "awaitingReviewSubmissionsCount": 0,
+   "deniedSubmissionsCount": 0,
+   "allowTiktok": false,
+   "allowYoutube": false,
+   "allowInstagram": false,
+   "allowX": false,
+   "allowedCountryCodes": [],
+   "requiredCaptureDurationSeconds": null,
+   "scheduledFrequency": null,
+   "businessGoalType": null,
+   "viewCount": 0,
+   "commentCount": 0,
+   "reactionCount": 0,
+   "createdAt": 1758469812,
+   "updatedAt": 1759345953,
+   "experience": {
+    "id": "exp_ScP4QBa8MJGyqB",
+    "name": "Bounties",
+    "company": {
+     "id": "biz_bj22xJuMLObp77",
+     "route": "nick-yardy-clips",
+     "title": "Nick Yardy Clips",
+     "verified": false
+    }
+   },
+   "user": {
+    "id": "user_A4JpjIJdhujpR",
+    "username": "fetterj",
+    "name": "James Fetter"
+   },
+   "accessPasses": {
+    "nodes": [
+     {
+      "id": "prod_42l33CkFo4Pa7",
+      "route": "nick-yardy-clips-fd",
+      "title": "Nick Yardy Clips"
+     }
+    ]
+   }
+  },
+  {
+   "id": "bnty_Me8MM3icDQO67",
+   "title": "BEST EDIT OF KANKAN WINS 100$",
+   "description": "Whoever submits the best edit of KanKan with “all typa shi” in the background wins 100$.\n\n\n\nWe have over 800$ in bonuses to give out SO LETS CRUSH THIS GUYS!",
+   "bountyType": "classic",
+   "status": "published",
+   "discoverStatus": "live_discover",
+   "rewardPerUnitAmount": 1.0,
+   "rewardUnit": "per_submission",
+   "currency": "usd",
+   "budgetAmount": null,
+   "totalPaid": 100.0,
+   "spotsRemaining": 0,
+   "acceptedSubmissionsCount": 1,
+   "acceptedSubmissionsLimit": 1,
+   "activeSubmissionsCount": 0,
+   "bountySubmissionsCount": 30,
+   "awaitingReviewSubmissionsCount": 0,
+   "deniedSubmissionsCount": 0,
+   "allowTiktok": false,
+   "allowYoutube": false,
+   "allowInstagram": false,
+   "allowX": false,
+   "allowedCountryCodes": [],
+   "requiredCaptureDurationSeconds": null,
+   "scheduledFrequency": null,
+   "businessGoalType": null,
+   "viewCount": 0,
+   "commentCount": 0,
+   "reactionCount": 0,
+   "createdAt": 1761682155,
+   "updatedAt": 1762981169,
+   "experience": {
+    "id": "exp_YryM6aY3SfmU9U",
+    "name": "Bounties",
+    "company": {
+     "id": "biz_hgsK2o0vYk3PzV",
+     "route": "kankan-clips",
+     "title": "KanKan Clips",
+     "verified": false
+    }
+   },
+   "user": {
+    "id": "user_bbMYdE5V5PUOK",
+    "username": "elih52322",
+    "name": "Elijah Houston"
+   },
+   "accessPasses": {
+    "nodes": [
+     {
+      "id": "prod_WxmFphAGGWB7Z",
+      "route": "kankan-clips-0e",
+      "title": "KanKan clips"
+     }
+    ]
+   }
+  },
+  {
+   "id": "bnty_MA6DWyEp4kOS0",
+   "title": "* CLOSED * - Watch Training and Post",
+   "description": "Must watch all training and post 2 videos on a Ethan branded page.\n\n\n\nFirst 20 people to do so are eligible. \n\n\n\nRules: \n\nMust paste vid in content rewards.\n\nMust follow all guidelines.\n\n\n\nNote: we retain the right to deny any post.",
+   "bountyType": "classic",
+   "status": "published",
+   "discoverStatus": "live_discover",
+   "rewardPerUnitAmount": 1.0,
+   "rewardUnit": "per_submission",
+   "currency": "usd",
+   "budgetAmount": null,
+   "totalPaid": 95.0,
+   "spotsRemaining": 0,
+   "acceptedSubmissionsCount": 19,
+   "acceptedSubmissionsLimit": 1,
+   "activeSubmissionsCount": 0,
+   "bountySubmissionsCount": 91,
+   "awaitingReviewSubmissionsCount": 0,
+   "deniedSubmissionsCount": 66,
+   "allowTiktok": false,
+   "allowYoutube": false,
+   "allowInstagram": false,
+   "allowX": false,
+   "allowedCountryCodes": [],
+   "requiredCaptureDurationSeconds": null,
+   "scheduledFrequency": null,
+   "businessGoalType": null,
+   "viewCount": 0,
+   "commentCount": 0,
+   "reactionCount": 0,
+   "createdAt": 1744346621,
+   "updatedAt": 1748525671,
+   "experience": {
+    "id": "exp_guyVrKhjzXrCXR",
+    "name": "Bounties",
+    "company": {
+     "id": "biz_pVb1zWudkCMwNZ",
+     "route": "ethan-duran-clips",
+     "title": "Clipping Campaign",
+     "verified": false
+    }
+   },
+   "user": {
+    "id": "user_ZFR0gVsu1uYa0",
+    "username": "viniciusbatista7367",
+    "name": "Vinicius Batista"
+   },
+   "accessPasses": {
+    "nodes": [
+     {
+      "id": "prod_Uz9W20uvD1Wdn",
+      "route": "ethan-duran-clips",
+      "title": "Clipping Campaign"
+     }
+    ]
+   }
+  },
+  {
+   "id": "bnty_juYE8X3CbzsFD",
+   "title": "Earn $10 for First 10 Videos ",
+   "description": "Post first 10 Videos and get $10. Submit account links. At least 2 hours between posts. No more than 3 posts a day.",
+   "bountyType": "classic",
+   "status": "published",
+   "discoverStatus": "live_discover",
+   "rewardPerUnitAmount": 1.0,
+   "rewardUnit": "per_submission",
+   "currency": "usd",
+   "budgetAmount": null,
+   "totalPaid": 90.0,
+   "spotsRemaining": 0,
+   "acceptedSubmissionsCount": 9,
+   "acceptedSubmissionsLimit": 1,
+   "activeSubmissionsCount": 0,
+   "bountySubmissionsCount": 247,
+   "awaitingReviewSubmissionsCount": 0,
+   "deniedSubmissionsCount": 48,
+   "allowTiktok": false,
+   "allowYoutube": false,
+   "allowInstagram": false,
+   "allowX": false,
+   "allowedCountryCodes": [],
+   "requiredCaptureDurationSeconds": null,
+   "scheduledFrequency": null,
+   "businessGoalType": null,
+   "viewCount": 0,
+   "commentCount": 0,
+   "reactionCount": 0,
+   "createdAt": 1744742920,
+   "updatedAt": 1745085833,
+   "experience": {
+    "id": "exp_AjZzbCsOXyRht3",
+    "name": "Get Paid",
+    "company": {
+     "id": "biz_uAAUCqelUFme7M",
+     "route": "seantrades-clips",
+     "title": "Sean Trades",
+     "verified": false
+    }
+   },
+   "user": {
+    "id": "user_Xb9FhImPT86eo",
+    "username": "nafiosmani",
+    "name": "Nafi Osmani"
+   },
+   "accessPasses": {
+    "nodes": [
+     {
+      "id": "prod_7VNjVIp8JVsnF",
+      "route": "seantrades-clips",
+      "title": "Sean Trades Clips"
+     }
+    ]
+   }
+  },
+  {
+   "id": "bnty_0Ge6lLBdi8sfO",
+   "title": "I’m looking for a professional logo for my page.",
+   "description": "Hello everyone!\n\nI’m looking for a professional logo for my page.\n\nname logo “Learn German Academy”\n\nRequired Sizes:\n\n1:1\n\n16:9\n\nEach designer may submit up to four (4) logos.\n\nI also need a German slogan that expresses the depth of my love — something heartfelt and meaningful.\n\nReminder: Only four submissions per person will be accepted.\n\nAny logo may be rejected if it does not meet the specified criteria.",
+   "bountyType": "classic",
+   "status": "published",
+   "discoverStatus": "live_discover",
+   "rewardPerUnitAmount": 1.0,
+   "rewardUnit": "per_submission",
+   "currency": "usd",
+   "budgetAmount": null,
+   "totalPaid": 90.0,
+   "spotsRemaining": 0,
+   "acceptedSubmissionsCount": 3,
+   "acceptedSubmissionsLimit": 1,
+   "activeSubmissionsCount": 0,
+   "bountySubmissionsCount": 4,
+   "awaitingReviewSubmissionsCount": 0,
+   "deniedSubmissionsCount": 1,
+   "allowTiktok": false,
+   "allowYoutube": false,
+   "allowInstagram": false,
+   "allowX": false,
+   "allowedCountryCodes": [],
+   "requiredCaptureDurationSeconds": null,
+   "scheduledFrequency": null,
+   "businessGoalType": null,
+   "viewCount": 0,
+   "commentCount": 0,
+   "reactionCount": 0,
+   "createdAt": 1764151168,
+   "updatedAt": 1764152551,
+   "experience": {
+    "id": "exp_DWwSI2wgenpP5H",
+    "name": "Bounties",
+    "company": {
+     "id": "biz_psi2ibhUroMUD8",
+     "route": "learn-german-academy-b958",
+     "title": "Learn German Academy",
+     "verified": false
+    }
+   },
+   "user": {
+    "id": "user_1Sh9w1Dh8S4cu",
+    "username": "maryperez1",
+    "name": "Mary Perez"
+   },
+   "accessPasses": {
+    "nodes": [
+     {
+      "id": "prod_mrc4NGDAuYBzD",
+      "route": "learn-german-academy-3c",
+      "title": "Learn German Academy"
+     }
+    ]
+   }
+  },
+  {
+   "id": "bnty_TYiBorIE34iGu",
+   "title": "Feature Request",
+   "description": "Propose new features or improvements for our product. For the best suggestions, we will implement them and pay you $100 directly to your account!",
+   "bountyType": "classic",
+   "status": "published",
+   "discoverStatus": "live_discover",
+   "rewardPerUnitAmount": 1.0,
+   "rewardUnit": "per_submission",
+   "currency": "usd",
+   "budgetAmount": null,
+   "totalPaid": 80.0,
+   "spotsRemaining": 0,
+   "acceptedSubmissionsCount": 3,
+   "acceptedSubmissionsLimit": 1,
+   "activeSubmissionsCount": 0,
+   "bountySubmissionsCount": 3,
+   "awaitingReviewSubmissionsCount": 0,
+   "deniedSubmissionsCount": 0,
+   "allowTiktok": false,
+   "allowYoutube": false,
+   "allowInstagram": false,
+   "allowX": false,
+   "allowedCountryCodes": [],
+   "requiredCaptureDurationSeconds": null,
+   "scheduledFrequency": null,
+   "businessGoalType": null,
+   "viewCount": 0,
+   "commentCount": 0,
+   "reactionCount": 0,
+   "createdAt": 1757920174,
+   "updatedAt": 1758249378,
+   "experience": {
+    "id": "exp_3nNTyZL21RWmb0",
+    "name": "Bounties",
+    "company": {
+     "id": "biz_DAilsatQcjXS06",
+     "route": "lob-b112",
+     "title": "YP traders",
+     "verified": false
+    }
+   },
+   "user": {
+    "id": "user_IyLInv5zTa5gJ",
+    "username": "coffee29",
+    "name": "John "
+   },
+   "accessPasses": {
+    "nodes": [
+     {
+      "id": "prod_hTzi67f3ZkgqQ",
+      "route": "yp-traders-elite-traders-sdppequfh5vcrvf-mhhhudugvkcuh3b",
+      "title": "YP Traders: Elite traders "
+     }
+    ]
+   }
+  },
+  {
+   "id": "bnty_O2p6867Q5GF2S",
+   "title": "💸 Get Paid to Join a Free Community (Less Than 1 Minute)",
+   "description": "- Go to: https://whop.com/bravosixpicks/bravosixpicks-free/\n- Click Get Access\n- Join for free\n- Send a screen recording showing: You open the link, You click Get Access, You successfully joined for free\n\nJoin the Free Community\n-What to Do\n-Go to: https://whop.com/bravosixpicks/bravosixpicks-free/\n-Click Get Access\n-Join the community for free\n\nThat's it! ✅\n\nProof:\n\nSend a screen recording showing:\n\n-You open the link\n-You click Get Access\n-You successfully join the community\n\nImportant\n-New members only\n-Your screen recording must be clear\n-Stay in the community\n\nEasy and takes less than 1 minute. 🚀",
+   "bountyType": "user_funded",
+   "status": "published",
+   "discoverStatus": "live_discover",
+   "rewardPerUnitAmount": 0.1,
+   "rewardUnit": "per_submission",
+   "currency": "usd",
+   "budgetAmount": null,
+   "totalPaid": 77.55,
+   "spotsRemaining": 483,
+   "acceptedSubmissionsCount": 517,
+   "acceptedSubmissionsLimit": 1000,
+   "activeSubmissionsCount": 0,
+   "bountySubmissionsCount": 1399,
+   "awaitingReviewSubmissionsCount": 0,
+   "deniedSubmissionsCount": 589,
+   "allowTiktok": false,
+   "allowYoutube": false,
+   "allowInstagram": false,
+   "allowX": false,
+   "allowedCountryCodes": [
+    "PH",
+    "PK"
+   ],
+   "requiredCaptureDurationSeconds": null,
+   "scheduledFrequency": null,
+   "businessGoalType": "other",
+   "viewCount": 30351,
+   "commentCount": 79,
+   "reactionCount": 100,
+   "createdAt": 1781727060,
+   "updatedAt": 1783119915,
+   "experience": {
+    "id": "exp_QZgLQboQYj4ZPG",
+    "name": "Public Forum",
+    "company": {
+     "id": "biz_evPI0Ex2dXL1Jg",
+     "route": "bravosixtrades",
+     "title": "Bravo Six Trades | Futures Trading",
+     "verified": false
+    }
+   },
+   "user": {
+    "id": "user_z5rTdVS7V74Ps",
+    "username": "bravosixtrades",
+    "name": "Bravo Six Trades | Futures Trading"
+   },
+   "accessPasses": {
+    "nodes": [
+     {
+      "id": "prod_YzP7afbOwr1Yu",
+      "route": "bravosix-trades",
+      "title": "Bravo Six Trades"
+     }
+    ]
+   }
+  },
+  {
+   "id": "bnty_0bdl8N4hevBsH",
+   "title": "Sign up for MEXC and win $25 after you trade",
+   "description": "Sign up for MEXC and win $25 when you make your first trade - submit a screenshot of your $10+ trade\n\n\n\nOnce completed fill out this form to verify your entry: https://docs.google.com/forms/d/e/1FAIpQLSegBQLqoEKR5s_ZmWpDIzsuxxifYXK9kLOtnea1-ClbwZo50g/viewform?usp=sharing\n\n\n\nWinners are announced every month",
+   "bountyType": "classic",
+   "status": "published",
+   "discoverStatus": "live_discover",
+   "rewardPerUnitAmount": 1.0,
+   "rewardUnit": "per_submission",
+   "currency": "usd",
+   "budgetAmount": null,
+   "totalPaid": 75.0,
+   "spotsRemaining": 0,
+   "acceptedSubmissionsCount": 3,
+   "acceptedSubmissionsLimit": 1,
+   "activeSubmissionsCount": 0,
+   "bountySubmissionsCount": 38,
+   "awaitingReviewSubmissionsCount": 0,
+   "deniedSubmissionsCount": 0,
+   "allowTiktok": false,
+   "allowYoutube": false,
+   "allowInstagram": false,
+   "allowX": false,
+   "allowedCountryCodes": [],
+   "requiredCaptureDurationSeconds": null,
+   "scheduledFrequency": null,
+   "businessGoalType": null,
+   "viewCount": 0,
+   "commentCount": 0,
+   "reactionCount": 0,
+   "createdAt": 1743946439,
+   "updatedAt": 1746407450,
+   "experience": {
+    "id": "exp_7Br1KtQ2PCtpuW",
+    "name": "Free Money",
+    "company": {
+     "id": "biz_axbpyeMnwx1T7V",
+     "route": "the-trenches-join",
+     "title": "The Krypto King",
+     "verified": false
+    }
+   },
+   "user": {
+    "id": "user_fmECQ3lkNX0NF",
+    "username": "tyrelle-krypto-king",
+    "name": "Tyrelle"
+   },
+   "accessPasses": {
+    "nodes": [
+     {
+      "id": "prod_xfMxnpBHFFgTX",
+      "route": "the-trenches-join-ufvl1lz9hpvnp1l",
+      "title": "The Trenches Premium"
+     },
+     {
+      "id": "prod_eTq2MwaQwwyuq",
+      "route": "learn-crypto-free",
+      "title": "Free Crypto Masterclass"
+     }
+    ]
+   }
+  },
+  {
+   "id": "bnty_XItwLBadG97hk",
+   "title": "Instagram Collab's",
+   "description": "Only profiles meeting the following criteria will be eligible:\n\n\n\n\n\n\n\n100K-250K Followers on Instagram (must be visible + organic)\n\n\n\n1,000,000+ Monthly Impressions / Reach (screen recordings proof required)\n\n\n\n💰 Payout: $25 per collab post \n\n🌎 Accounts from any niche are welcome - not limited to gambling.\n\n\n\n⚡ If you don’t meet these numbers, the collab won’t be approved. \n\n\n\nBring the audience, grab the reward.",
+   "bountyType": "classic",
+   "status": "published",
+   "discoverStatus": "live_discover",
+   "rewardPerUnitAmount": 1.0,
+   "rewardUnit": "per_submission",
+   "currency": "usd",
+   "budgetAmount": null,
+   "totalPaid": 75.0,
+   "spotsRemaining": 0,
+   "acceptedSubmissionsCount": 3,
+   "acceptedSubmissionsLimit": 1,
+   "activeSubmissionsCount": 0,
+   "bountySubmissionsCount": 15,
+   "awaitingReviewSubmissionsCount": 0,
+   "deniedSubmissionsCount": 8,
+   "allowTiktok": false,
+   "allowYoutube": false,
+   "allowInstagram": false,
+   "allowX": false,
+   "allowedCountryCodes": [],
+   "requiredCaptureDurationSeconds": null,
+   "scheduledFrequency": null,
+   "businessGoalType": null,
+   "viewCount": 0,
+   "commentCount": 0,
+   "reactionCount": 0,
+   "createdAt": 1755864919,
+   "updatedAt": 1756966552,
+   "experience": {
+    "id": "exp_2MNepda8udUU4H",
+    "name": "Bounties",
+    "company": {
+     "id": "biz_1w8mBbGIvniCvT",
+     "route": "bitstarz",
+     "title": "BitStarz Clipping ",
+     "verified": false
+    }
+   },
+   "user": {
+    "id": "user_JyUv83mf7kxEh",
+    "username": "michaelgr",
+    "name": "Michael G."
+   },
+   "accessPasses": {
+    "nodes": [
+     {
+      "id": "prod_cE9n914B4mOP2",
+      "route": "bitstarzclipping",
+      "title": "BitStarz Clipping "
+     }
+    ]
+   }
+  },
+  {
+   "id": "bnty_QBLeyTMzc21gn",
+   "title": "Royal_Parlayz- sign up earn $5",
+   "description": "First 10 to sign up gets double the money 💰 who doesnt like free money!🤷‍♂️",
+   "bountyType": "classic",
+   "status": "published",
+   "discoverStatus": "live_discover",
+   "rewardPerUnitAmount": 1.0,
+   "rewardUnit": "per_submission",
+   "currency": "usd",
+   "budgetAmount": null,
+   "totalPaid": 70.0,
+   "spotsRemaining": 0,
+   "acceptedSubmissionsCount": 14,
+   "acceptedSubmissionsLimit": 1,
+   "activeSubmissionsCount": 0,
+   "bountySubmissionsCount": 184,
+   "awaitingReviewSubmissionsCount": 0,
+   "deniedSubmissionsCount": 14,
+   "allowTiktok": false,
+   "allowYoutube": false,
+   "allowInstagram": false,
+   "allowX": false,
+   "allowedCountryCodes": [],
+   "requiredCaptureDurationSeconds": null,
+   "scheduledFrequency": null,
+   "businessGoalType": null,
+   "viewCount": 0,
+   "commentCount": 0,
+   "reactionCount": 0,
+   "createdAt": 1740454921,
+   "updatedAt": 1742944537,
+   "experience": {
+    "id": "exp_nx8O0ndiiK1yAb",
+    "name": "Bounties",
+    "company": {
+     "id": "biz_lgu1YzHaFfNPr0",
+     "route": "royalparlayz",
+     "title": "Royal_Parlayz",
+     "verified": false
+    }
+   },
+   "user": {
+    "id": "user_o1qPeLO2AYNOg",
+    "username": "royalszn",
+    "name": "ROYAL PARLAYZ"
+   },
+   "accessPasses": {
+    "nodes": [
+     {
+      "id": "prod_We6i5u2t3EGpp",
+      "route": "free-room",
+      "title": "Royal_Parlayz FREE ROOM"
+     }
+    ]
+   }
+  },
+  {
+   "id": "bnty_Kr8rZI91uJ5Yv",
+   "title": "Leave a Review",
+   "description": "Your feedback matters.\n\nLeave a review of the community through the 5 star rating system, submit a screenshot of your review, and receive $5 as a reward for supporting the community. If you do not submit a screenshot of the review then the bounty will not be accepted.",
+   "bountyType": "classic",
+   "status": "published",
+   "discoverStatus": "live_discover",
+   "rewardPerUnitAmount": 1.0,
+   "rewardUnit": "per_submission",
+   "currency": "usd",
+   "budgetAmount": null,
+   "totalPaid": 70.0,
+   "spotsRemaining": 0,
+   "acceptedSubmissionsCount": 14,
+   "acceptedSubmissionsLimit": 1,
+   "activeSubmissionsCount": 0,
+   "bountySubmissionsCount": 60,
+   "awaitingReviewSubmissionsCount": 0,
+   "deniedSubmissionsCount": 2,
+   "allowTiktok": false,
+   "allowYoutube": false,
+   "allowInstagram": false,
+   "allowX": false,
+   "allowedCountryCodes": [],
+   "requiredCaptureDurationSeconds": null,
+   "scheduledFrequency": null,
+   "businessGoalType": null,
+   "viewCount": 0,
+   "commentCount": 0,
+   "reactionCount": 0,
+   "createdAt": 1762583162,
+   "updatedAt": 1773035245,
+   "experience": {
+    "id": "exp_PQdb7O2GJJVvFO",
+    "name": "Bounties",
+    "company": {
+     "id": "biz_bNeLCYHgA5Cfp2",
+     "route": "7thlevel",
+     "title": "7th Level University",
+     "verified": false
+    }
+   },
+   "user": {
+    "id": "user_BeQ5MCA1mfVCp",
+    "username": "evanlord",
+    "name": "Evan Lord"
+   },
+   "accessPasses": {
+    "nodes": [
+     {
+      "id": "prod_w0UUouyiXnSvg",
+      "route": "nepq-b7",
+      "title": "7th Level University"
+     }
+    ]
+   }
+  },
+  {
+   "id": "bnty_J6Ha4kFSonS1k",
+   "title": "Intro Post!",
+   "description": "Tell us about you! Where your from, what you like to do, goals? The more you share the more you earn!",
+   "bountyType": "classic",
+   "status": "published",
+   "discoverStatus": "live_discover",
+   "rewardPerUnitAmount": 1.0,
+   "rewardUnit": "per_submission",
+   "currency": "usd",
+   "budgetAmount": null,
+   "totalPaid": 65.0,
+   "spotsRemaining": 0,
+   "acceptedSubmissionsCount": 13,
+   "acceptedSubmissionsLimit": 1,
+   "activeSubmissionsCount": 0,
+   "bountySubmissionsCount": 21,
+   "awaitingReviewSubmissionsCount": 0,
+   "deniedSubmissionsCount": 1,
+   "allowTiktok": false,
+   "allowYoutube": false,
+   "allowInstagram": false,
+   "allowX": false,
+   "allowedCountryCodes": [],
+   "requiredCaptureDurationSeconds": null,
+   "scheduledFrequency": null,
+   "businessGoalType": null,
+   "viewCount": 0,
+   "commentCount": 0,
+   "reactionCount": 0,
+   "createdAt": 1733857261,
+   "updatedAt": 1741123660,
+   "experience": {
+    "id": "exp_Bw4yAgUBDYVs1q",
+    "name": "Bounties App",
+    "company": {
+     "id": "biz_tl3YoxapL9oku7",
+     "route": "the-peach-games-ef",
+     "title": "The Peach Games",
+     "verified": false
+    }
+   },
+   "user": {
+    "id": "user_7soblEWmkDwdK",
+    "username": "frankieaalvarado",
+    "name": "Frankie"
+   },
+   "accessPasses": {
+    "nodes": [
+     {
+      "id": "prod_kWgnfDI3MDXwg",
+      "route": "the-peach-games-ef",
+      "title": "The Peach Games"
+     }
+    ]
+   }
+  },
+  {
+   "id": "bnty_gaqqxIeEJwlHE",
+   "title": "SHARE2EARN – BUILD FREEDOM TOGETHER",
+   "description": "2026 sẽ là năm phân hóa rất mạnh.\n\nMột nhóm người sẽ bị AI thay thế. Một nhóm khác sẽ biết cách dùng AI để tạo ra tự do tài chính và cuộc sống họ mong muốn.\n\nFreedom Builders được tạo ra không chỉ để kiếm tiền. Mà để xây dựng một thế hệ mới:\n\n\n\n\n\nBiết tận dụng công nghệ\n\n\n\nBiết xây thu nhập toàn cầu\n\n\n\nBiết làm chủ tương lai của mình\n\nChiến dịch Share2Earn không chỉ là một game. Đó là cách chúng ta cùng nhau lan tỏa một phong trào.\n\nBạn chia sẻ không chỉ để nhận $2. Bạn đang mở ra cơ hội cho ai đó bước vào một hành trình mới.\n\nVà có thể… chính bạn cũng sẽ là người bứt phá mạnh nhất trong năm tới 🚀\n\n\n\nQuyền lợi:\n\n\n\n\n\nNhận ngay $2 cho mỗi bài chia sẻ hợp lệ.\n\n\n\nCơ hội trở thành “Core Builder” nếu giới thiệu được nhiều người tham gia.\n\n\n\nƯu tiên nhận tài liệu & workshop AI miễn phí trong cộng đồng.\n\n\n\nCách tham gia: \n\n\n\n\n\nChia sẻ bài giới thiệu về Freedom Builders lên Facebook/TikTok.\n\n\n\nĐính kèm link cộng đồng + hashtag #FreedomBuilders\n\n\n\nGửi link bài đã share vào chiến dịch này\n\n\n\nĐiều kiện hợp lệ:\n\n\n\n\n\nBài viết ở chế độ công khai.\n\n\n\nNội dung tối thiểu 3–5 dòng (không spam).\n\n\n\nKhông xoá bài trong vòng 7 ngày.\n\n\n\nNội dung mẫu:\n\nDạo này mình tìm hiểu khá nhiều về AI và cách kiếm tiền online.\n\nThật sự mình nhận ra một điều: Ai hiểu và ứng dụng AI sớm thì lợi thế cực lớn trong 1–2 năm tới.\n\nMình vừa tham gia một cộng đồng tên là Freedom Builders – nơi mọi người chia sẻ cách build thu nhập global bằng AI, affiliate và digital business.\n\n\n\nChưa dám nói trước điều gì, nhưng mình tin 2026 sẽ là năm bứt phá cho những ai hành động từ bây giờ.\n\nNếu bạn cũng đang tò mò về AI và cơ hội thu nhập online, có thể vào xem thử cùng mình :👇 [Link cộng đồng]\n\n\n\nBiết đâu đây lại là bước ngoặt nhỏ cho một thay đổi lớn 😉\n\n#FreedomBuilders 🚀\n\n\n\nMẫu 2: \n\nMình để ý thấy 1 điều khá thú vị…\n\nRất nhiều người đang nói về AI, nhưng rất ít người thật sự biết cách dùng AI để tạo ra thu nhập.\n\nThay vì chỉ xem cho vui, mình quyết định tham gia một cộng đồng tên là Freedom Builders – nơi mọi người chia sẻ cách build income global một cách thực tế hơn.\n\nKhông hứa hẹn làm giàu nhanh. Nhưng ít nhất là có hướng đi rõ ràng trong thời đại AI.\n\nNếu bạn cũng đang tìm một cơ hội mới cho 2026, có thể vào xem thử cùng mình.\n\nLink ở đây 👇 [Link cộng đồng]\n\nBiết đâu vài tháng nữa mình lại cảm ơn vì đã bắt đầu từ hôm nay 🙂\n\n#FreedomBuilders 🚀",
+   "bountyType": "classic",
+   "status": "published",
+   "discoverStatus": "live_discover",
+   "rewardPerUnitAmount": 1.0,
+   "rewardUnit": "per_submission",
+   "currency": "usd",
+   "budgetAmount": null,
+   "totalPaid": 62.0,
+   "spotsRemaining": 0,
+   "acceptedSubmissionsCount": 31,
+   "acceptedSubmissionsLimit": 1,
+   "activeSubmissionsCount": 0,
+   "bountySubmissionsCount": 118,
+   "awaitingReviewSubmissionsCount": 0,
+   "deniedSubmissionsCount": 2,
+   "allowTiktok": false,
+   "allowYoutube": false,
+   "allowInstagram": false,
+   "allowX": false,
+   "allowedCountryCodes": [],
+   "requiredCaptureDurationSeconds": null,
+   "scheduledFrequency": null,
+   "businessGoalType": null,
+   "viewCount": 0,
+   "commentCount": 0,
+   "reactionCount": 0,
+   "createdAt": 1771033528,
+   "updatedAt": 1772253802,
+   "experience": {
+    "id": "exp_eQfhs03Cvg7VxB",
+    "name": "Bounties",
+    "company": {
+     "id": "biz_w2sAm5I5IAmuA3",
+     "route": "freedombuilders",
+     "title": "Freedom Builders",
+     "verified": false
+    }
+   },
+   "user": {
+    "id": "user_tGymkWBWOcHOU",
+    "username": "tonytrieu",
+    "name": "Tony Trieu"
+   },
+   "accessPasses": {
+    "nodes": [
+     {
+      "id": "prod_7hoc80Qm98gu8",
+      "route": "freeclub",
+      "title": "Freedom Builders"
+     },
+     {
+      "id": "prod_KxqbDdhvqfu0K",
+      "route": "freedom-builders-pro",
+      "title": "Freedom Builders - Pro"
+     },
+     {
+      "id": "prod_AmFfCIvioCemw",
+      "route": "freedom-builders-elite",
+      "title": "Freedom Builders - Elite"
+     }
+    ]
+   }
+  },
+  {
+   "id": "bnty_rjN3yjMMOVOcC",
+   "title": "Finish the Course: Get Paid!",
+   "description": "Submit your user email and a screenshot of your course completion certificate within 1 month of joining the group and win $5",
+   "bountyType": "classic",
+   "status": "published",
+   "discoverStatus": "live_discover",
+   "rewardPerUnitAmount": 1.0,
+   "rewardUnit": "per_submission",
+   "currency": "usd",
+   "budgetAmount": null,
+   "totalPaid": 55.0,
+   "spotsRemaining": 0,
+   "acceptedSubmissionsCount": 11,
+   "acceptedSubmissionsLimit": 1,
+   "activeSubmissionsCount": 0,
+   "bountySubmissionsCount": 97,
+   "awaitingReviewSubmissionsCount": 0,
+   "deniedSubmissionsCount": 13,
+   "allowTiktok": false,
+   "allowYoutube": false,
+   "allowInstagram": false,
+   "allowX": false,
+   "allowedCountryCodes": [],
+   "requiredCaptureDurationSeconds": null,
+   "scheduledFrequency": null,
+   "businessGoalType": null,
+   "viewCount": 0,
+   "commentCount": 0,
+   "reactionCount": 0,
+   "createdAt": 1739295389,
+   "updatedAt": 1741971782,
+   "experience": {
+    "id": "exp_nLPxYtWCgrpG0v",
+    "name": "Bounties",
+    "company": {
+     "id": "biz_FBSF34lUTgP7D7",
+     "route": "scarface-trades",
+     "title": "Scarface Trades",
+     "verified": false
+    }
+   },
+   "user": {
+    "id": "user_yVdUtNKAKB7Ip",
+    "username": "ike",
+    "name": "Ike Baldwin"
+   },
+   "accessPasses": {
+    "nodes": [
+     {
+      "id": "prod_gaNzzPD3mgsJg",
+      "route": "scarface-trades",
+      "title": "Scarface Trades Premium"
+     }
+    ]
+   }
+  },
+  {
+   "id": "bnty_kRvtQjeY2KTOC",
+   "title": "Suggest a Feature – Earn $2!",
+   "description": "Have an idea to improve our Whop community? Share your feature requests or suggestions! For each thoughtful and original idea we accept, you’ll earn $2 directly to your account.",
+   "bountyType": "classic",
+   "status": "published",
+   "discoverStatus": "live_discover",
+   "rewardPerUnitAmount": 1.0,
+   "rewardUnit": "per_submission",
+   "currency": "usd",
+   "budgetAmount": null,
+   "totalPaid": 54.0,
+   "spotsRemaining": 0,
+   "acceptedSubmissionsCount": 27,
+   "acceptedSubmissionsLimit": 1,
+   "activeSubmissionsCount": 0,
+   "bountySubmissionsCount": 50,
+   "awaitingReviewSubmissionsCount": 0,
+   "deniedSubmissionsCount": 12,
+   "allowTiktok": false,
+   "allowYoutube": false,
+   "allowInstagram": false,
+   "allowX": false,
+   "allowedCountryCodes": [],
+   "requiredCaptureDurationSeconds": null,
+   "scheduledFrequency": null,
+   "businessGoalType": null,
+   "viewCount": 0,
+   "commentCount": 0,
+   "reactionCount": 0,
+   "createdAt": 1745901956,
+   "updatedAt": 1753731105,
+   "experience": {
+    "id": "exp_CfMJ9RzWQ3WvCN",
+    "name": "Bounties",
+    "company": {
+     "id": "biz_spRebXMNtPJny3",
+     "route": "elyx",
+     "title": "Elyx Creators",
+     "verified": false
+    }
+   },
+   "user": {
+    "id": "user_RE2MWiTEHxkwd",
+    "username": "elyx",
+    "name": "Elyx"
+   },
+   "accessPasses": {
+    "nodes": [
+     {
+      "id": "prod_ct4pBFaLhitc3",
+      "route": "elyx",
+      "title": "Elyx Creators"
+     }
+    ]
+   }
+  },
+  {
+   "id": "bnty_Gy1bf3ffwjMsC",
+   "title": "Get paid to create your 3 clipping accounts & make your first 3 posts!",
+   "description": "CAN ONLY BE CLAIMED ONCE PER PERSON. After setting up your new clipping accounts (with Elite Options profile image, bio, and affiliate link)",
+   "bountyType": "classic",
+   "status": "published",
+   "discoverStatus": "live_discover",
+   "rewardPerUnitAmount": 1.0,
+   "rewardUnit": "per_submission",
+   "currency": "usd",
+   "budgetAmount": null,
+   "totalPaid": 50.0,
+   "spotsRemaining": 0,
+   "acceptedSubmissionsCount": 5,
+   "acceptedSubmissionsLimit": 1,
+   "activeSubmissionsCount": 0,
+   "bountySubmissionsCount": 43,
+   "awaitingReviewSubmissionsCount": 0,
+   "deniedSubmissionsCount": 6,
+   "allowTiktok": false,
+   "allowYoutube": false,
+   "allowInstagram": false,
+   "allowX": false,
+   "allowedCountryCodes": [],
+   "requiredCaptureDurationSeconds": null,
+   "scheduledFrequency": null,
+   "businessGoalType": null,
+   "viewCount": 0,
+   "commentCount": 0,
+   "reactionCount": 0,
+   "createdAt": 1746809015,
+   "updatedAt": 1749067729,
+   "experience": {
+    "id": "exp_Kv8tQtzRHpd47y",
+    "name": "Get Paid",
+    "company": {
+     "id": "biz_pAmG2NBMop60nW",
+     "route": "elite-options-pro-clips",
+     "title": "Elite Options Pro Clips",
+     "verified": false
+    }
+   },
+   "user": {
+    "id": "user_Xb9FhImPT86eo",
+    "username": "nafiosmani",
+    "name": "Nafi Osmani"
+   },
+   "accessPasses": {
+    "nodes": [
+     {
+      "id": "prod_7t6ZLEmhmemtM",
+      "route": "elite-options-pro-clips",
+      "title": "Elite Options Pro Clips"
+     }
+    ]
+   }
+  },
+  {
+   "id": "bnty_d86vSoLwazWWF",
+   "title": "Round 1",
+   "description": "Simply send out your 1st round of dispute letters with the Ai Credit  software. Drop your name and email here for us to verify and we will pay you $10 directly to your account!",
+   "bountyType": "classic",
+   "status": "published",
+   "discoverStatus": "live_discover",
+   "rewardPerUnitAmount": 1.0,
+   "rewardUnit": "per_submission",
+   "currency": "usd",
+   "budgetAmount": null,
+   "totalPaid": 50.0,
+   "spotsRemaining": 0,
+   "acceptedSubmissionsCount": 5,
+   "acceptedSubmissionsLimit": 1,
+   "activeSubmissionsCount": 0,
+   "bountySubmissionsCount": 5,
+   "awaitingReviewSubmissionsCount": 0,
+   "deniedSubmissionsCount": 0,
+   "allowTiktok": false,
+   "allowYoutube": false,
+   "allowInstagram": false,
+   "allowX": false,
+   "allowedCountryCodes": [],
+   "requiredCaptureDurationSeconds": null,
+   "scheduledFrequency": null,
+   "businessGoalType": null,
+   "viewCount": 0,
+   "commentCount": 0,
+   "reactionCount": 0,
+   "createdAt": 1736570643,
+   "updatedAt": 1743720596,
+   "experience": {
+    "id": "exp_pXuGVpl0aaVpLh",
+    "name": "Bounties",
+    "company": {
+     "id": "biz_vj70PydWnzLZLn",
+     "route": "kingdomminds",
+     "title": "KM Credit Academy",
+     "verified": false
+    }
+   },
+   "user": {
+    "id": "user_Gr7RqY4rsrjKm",
+    "username": "infokingdomminds",
+    "name": "Sharif (Realmelaninking)"
+   },
+   "accessPasses": {
+    "nodes": [
+     {
+      "id": "prod_Y6CHCL7NStKVs",
+      "route": "kingdomminds",
+      "title": "KM Credit Academy"
+     }
+    ]
+   }
+  },
+  {
+   "id": "bnty_2V6wwq6gAP3pz",
+   "title": "Bugs Bounty",
+   "description": "First person to paste submit the hidden message wins!",
+   "bountyType": "classic",
+   "status": "published",
+   "discoverStatus": "live_discover",
+   "rewardPerUnitAmount": 1.0,
+   "rewardUnit": "per_submission",
+   "currency": "usd",
+   "budgetAmount": null,
+   "totalPaid": 50.0,
+   "spotsRemaining": 0,
+   "acceptedSubmissionsCount": 1,
+   "acceptedSubmissionsLimit": 1,
+   "activeSubmissionsCount": 0,
+   "bountySubmissionsCount": 13,
+   "awaitingReviewSubmissionsCount": 0,
+   "deniedSubmissionsCount": 0,
+   "allowTiktok": false,
+   "allowYoutube": false,
+   "allowInstagram": false,
+   "allowX": false,
+   "allowedCountryCodes": [],
+   "requiredCaptureDurationSeconds": null,
+   "scheduledFrequency": null,
+   "businessGoalType": null,
+   "viewCount": 0,
+   "commentCount": 0,
+   "reactionCount": 0,
+   "createdAt": 1736538122,
+   "updatedAt": 1736543147,
+   "experience": {
+    "id": "exp_7PeOjll9x1PjYp",
+    "name": "Bounties",
+    "company": {
+     "id": "biz_c3TTjQLuJNGyjx",
+     "route": "join-to-get",
+     "title": "Join To Get $$$",
+     "verified": false
+    }
+   },
+   "user": {
+    "id": "user_xw4ZVCTTMKg3k",
+    "username": "etiennewasil",
+    "name": "Etienne Wasil"
+   },
+   "accessPasses": {
+    "nodes": [
+     {
+      "id": "prod_qbzZgwzeO57n3",
+      "route": "mission-3-bugs",
+      "title": "Mission 3: BUGSS"
+     }
+    ]
+   }
+  },
+  {
+   "id": "bnty_sbkC6TJgw5m2O",
+   "title": "[$25] BOUNTY FOR TWO PEOPLE TO GET A 10,000 VIEW VIDEO",
+   "description": "Get 10k views on a video and you will be paid $25 This is ON TOP of the regular $1 CPM. Only Clips made after this announcement count.",
+   "bountyType": "classic",
+   "status": "published",
+   "discoverStatus": "live_discover",
+   "rewardPerUnitAmount": 1.0,
+   "rewardUnit": "per_submission",
+   "currency": "usd",
+   "budgetAmount": null,
+   "totalPaid": 50.0,
+   "spotsRemaining": 0,
+   "acceptedSubmissionsCount": 2,
+   "acceptedSubmissionsLimit": 1,
+   "activeSubmissionsCount": 0,
+   "bountySubmissionsCount": 9,
+   "awaitingReviewSubmissionsCount": 0,
+   "deniedSubmissionsCount": 0,
+   "allowTiktok": false,
+   "allowYoutube": false,
+   "allowInstagram": false,
+   "allowX": false,
+   "allowedCountryCodes": [],
+   "requiredCaptureDurationSeconds": null,
+   "scheduledFrequency": null,
+   "businessGoalType": null,
+   "viewCount": 0,
+   "commentCount": 0,
+   "reactionCount": 0,
+   "createdAt": 1757985404,
+   "updatedAt": 1758756547,
+   "experience": {
+    "id": "exp_ScP4QBa8MJGyqB",
+    "name": "Bounties",
+    "company": {
+     "id": "biz_bj22xJuMLObp77",
+     "route": "nick-yardy-clips",
+     "title": "Nick Yardy Clips",
+     "verified": false
+    }
+   },
+   "user": {
+    "id": "user_A4JpjIJdhujpR",
+    "username": "fetterj",
+    "name": "James Fetter"
+   },
+   "accessPasses": {
+    "nodes": [
+     {
+      "id": "prod_42l33CkFo4Pa7",
+      "route": "nick-yardy-clips-fd",
+      "title": "Nick Yardy Clips"
+     }
+    ]
+   }
+  },
+  {
+   "id": "bnty_yTBFYEUUG4PGJ",
+   "title": "🏆 Bounty Task: AI Agency Opportunity Finder",
+   "description": "🎯 Task Objective\n\nHelp identify real-world opportunities where businesses could benefit from AI automation or AI consulting services.\n\nThis bounty focuses on research and clarity, not selling.\n\n✅ What You Need to Do\n\nComplete ONE of the options below:\n\nOption A — Opportunity Research\n\nProvide 3 businesses or creators that could benefit from AI services.\n\nFor each, include:\n\n\n\n\n\nBusiness name\n\n\n\nIndustry\n\n\n\nWebsite or social profile\n\n\n\n1–2 sentences explaining how AI could help\n\nOR\n\nOption B — Outreach Message Draft\n\nWrite one professional outreach message (email or DM) offering an AI agency consultation.\n\nMust include:\n\n\n\n\n\nTarget audience\n\n\n\nProblem being solved\n\n\n\nClear, respectful tone\n\n\n\nNo exaggerated claims\n\n📌 Submission Rules\n\n\n\n\n\nOriginal work only\n\n\n\nNo spam lists or copied templates\n\n\n\nClear formatting required\n\n\n\nSubmit via the bounty channel",
+   "bountyType": "classic",
+   "status": "published",
+   "discoverStatus": "live_discover",
+   "rewardPerUnitAmount": 1.0,
+   "rewardUnit": "per_submission",
+   "currency": "usd",
+   "budgetAmount": null,
+   "totalPaid": 50.0,
+   "spotsRemaining": 0,
+   "acceptedSubmissionsCount": 2,
+   "acceptedSubmissionsLimit": 1,
+   "activeSubmissionsCount": 0,
+   "bountySubmissionsCount": 3,
+   "awaitingReviewSubmissionsCount": 0,
+   "deniedSubmissionsCount": 1,
+   "allowTiktok": false,
+   "allowYoutube": false,
+   "allowInstagram": false,
+   "allowX": false,
+   "allowedCountryCodes": [],
+   "requiredCaptureDurationSeconds": null,
+   "scheduledFrequency": null,
+   "businessGoalType": null,
+   "viewCount": 0,
+   "commentCount": 0,
+   "reactionCount": 0,
+   "createdAt": 1767955519,
+   "updatedAt": 1768120078,
+   "experience": {
+    "id": "exp_PapsbS2UiuLA5C",
+    "name": "Bounties",
+    "company": {
+     "id": "biz_qfhubhS623p1yb",
+     "route": "resell-success-network-29d3",
+     "title": "Resell Success Network",
+     "verified": false
+    }
+   },
+   "user": {
+    "id": "user_Sw9yan8gn82wm",
+    "username": "muggysourced6",
+    "name": "Michael Johnson"
+   },
+   "accessPasses": {
+    "nodes": [
+     {
+      "id": "prod_uRHytlBMTFoqT",
+      "route": "ai-agency-consultation",
+      "title": "AI Agency Consultation "
+     }
+    ]
+   }
+  },
+  {
+   "id": "bnty_ScmJpqbwX5rfo",
+   "title": "Feature Request",
+   "description": "Propose new features or improvements for our product. For the best suggestions, we will implement them and pay you $45 directly to your account!",
+   "bountyType": "classic",
+   "status": "published",
+   "discoverStatus": "live_discover",
+   "rewardPerUnitAmount": 1.0,
+   "rewardUnit": "per_submission",
+   "currency": "usd",
+   "budgetAmount": null,
+   "totalPaid": 45.0,
+   "spotsRemaining": 0,
+   "acceptedSubmissionsCount": 1,
+   "acceptedSubmissionsLimit": 1,
+   "activeSubmissionsCount": 0,
+   "bountySubmissionsCount": 1,
+   "awaitingReviewSubmissionsCount": 0,
+   "deniedSubmissionsCount": 0,
+   "allowTiktok": false,
+   "allowYoutube": false,
+   "allowInstagram": false,
+   "allowX": false,
+   "allowedCountryCodes": [],
+   "requiredCaptureDurationSeconds": null,
+   "scheduledFrequency": null,
+   "businessGoalType": null,
+   "viewCount": 0,
+   "commentCount": 0,
+   "reactionCount": 0,
+   "createdAt": 1770161738,
+   "updatedAt": 1770161977,
+   "experience": {
+    "id": "exp_2mFNcxLugI8n1S",
+    "name": "Bounties",
+    "company": {
+     "id": "biz_yo0ZO2BWmqntWu",
+     "route": "learning-artificial-intelligence",
+     "title": "Learning artificial intelligence",
+     "verified": false
+    }
+   },
+   "user": {
+    "id": "user_pZy8jOgcFrN5c",
+    "username": "branhanminery",
+    "name": "branhan minery"
+   },
+   "accessPasses": {
+    "nodes": [
+     {
+      "id": "prod_q0s7ecKSIPASr",
+      "route": "learning-artificial-intelligen",
+      "title": "Learning artificial intelligen"
+     }
+    ]
+   }
+  },
+  {
+   "id": "bnty_GH2ILbdunNhXN",
+   "title": "💸 Get Paid To Follow Us On X (Less Than 1 Minute)",
+   "description": "What to Do\n- Go to: https://x.com/bravosixpicks\n- Click Follow\n- Stay following the account\n\nThat’s it! ✅\n\nProof\nSend a screen recording showing:\n- You open the X profile\n- You click Follow\n- The account successfully shows as Following\n\nImportant\n- New followers only\n- Your screen recording must be clear\n- You must stay following the account\n\nEasy and takes less than 1 minute. 🚀\n\nRequirements\n- Go to: https://x.com/bravosixpicks\n- Follow @bravosixpicks\n- Send a clear screen recording showing you opened the profile and successfully followed the account\n- Remain following the account\n\nRequirements:\n• Must have an active X account.\n• Must not already be following @bravosixpicks before starting.\n• Must complete the follow during the screen recording.\n• Screen recording must be clear, original, and not reused or edited.\n• Must remain following the account after completing the task.\n\nWhat to submit:\n• Open the X profile: https://x.com/bravosixpicks\n• Show that the account is not already followed.\n• Tap Follow on @bravosixpicks.\n• Clearly show the button change to Following.\n• Submit one clear screen recording showing the entire process.",
+   "bountyType": "user_funded",
+   "status": "published",
+   "discoverStatus": "live_discover",
+   "rewardPerUnitAmount": 0.1,
+   "rewardUnit": "per_submission",
+   "currency": "usd",
+   "budgetAmount": null,
+   "totalPaid": 40.2,
+   "spotsRemaining": 732,
+   "acceptedSubmissionsCount": 268,
+   "acceptedSubmissionsLimit": 1000,
+   "activeSubmissionsCount": 0,
+   "bountySubmissionsCount": 1458,
+   "awaitingReviewSubmissionsCount": 0,
+   "deniedSubmissionsCount": 1039,
+   "allowTiktok": false,
+   "allowYoutube": false,
+   "allowInstagram": false,
+   "allowX": false,
+   "allowedCountryCodes": [
+    "PH",
+    "PK",
+    "US",
+    "MX",
+    "IN",
+    "NG",
+    "ET",
+    "ID",
+    "KE",
+    "TH",
+    "UG",
+    "EG",
+    "DZ",
+    "MA",
+    "ZA",
+    "JO",
+    "TN",
+    "CA",
+    "GB",
+    "AU",
+    "DE",
+    "NL",
+    "CH",
+    "SE",
+    "FR",
+    "IT",
+    "SG",
+    "JP",
+    "KR",
+    "ES",
+    "PL",
+    "RO",
+    "BR",
+    "LK",
+    "VN",
+    "AR",
+    "TR",
+    "BD",
+    "MY",
+    "NP"
+   ],
+   "requiredCaptureDurationSeconds": null,
+   "scheduledFrequency": null,
+   "businessGoalType": null,
+   "viewCount": 12194,
+   "commentCount": 0,
+   "reactionCount": 66,
+   "createdAt": 1790817096,
+   "updatedAt": 1793462416,
+   "experience": {
+    "id": "exp_QZgLQboQYj4ZPG",
+    "name": "Public Forum",
+    "company": {
+     "id": "biz_evPI0Ex2dXL1Jg",
+     "route": "bravosixtrades",
+     "title": "Bravo Six Trades | Futures Trading",
+     "verified": false
+    }
+   },
+   "user": {
+    "id": "user_z5rTdVS7V74Ps",
+    "username": "bravosixtrades",
+    "name": "Bravo Six Trades | Futures Trading"
+   },
+   "accessPasses": {
+    "nodes": [
+     {
+      "id": "prod_YzP7afbOwr1Yu",
+      "route": "bravosix-trades",
+      "title": "Bravo Six Trades"
+     }
+    ]
+   }
+  },
+  {
+   "id": "bnty_p9swK7NnGEHiN",
+   "title": "Finish the Course: Get Paid!",
+   "description": "Submit your user email and a screenshot of your course completion certificate within 1 month of joining the group and win $5",
+   "bountyType": "classic",
+   "status": "published",
+   "discoverStatus": "live_discover",
+   "rewardPerUnitAmount": 1.0,
+   "rewardUnit": "per_submission",
+   "currency": "usd",
+   "budgetAmount": null,
+   "totalPaid": 40.0,
+   "spotsRemaining": 0,
+   "acceptedSubmissionsCount": 8,
+   "acceptedSubmissionsLimit": 1,
+   "activeSubmissionsCount": 0,
+   "bountySubmissionsCount": 163,
+   "awaitingReviewSubmissionsCount": 0,
+   "deniedSubmissionsCount": 0,
+   "allowTiktok": false,
+   "allowYoutube": false,
+   "allowInstagram": false,
+   "allowX": false,
+   "allowedCountryCodes": [],
+   "requiredCaptureDurationSeconds": null,
+   "scheduledFrequency": null,
+   "businessGoalType": null,
+   "viewCount": 0,
+   "commentCount": 0,
+   "reactionCount": 0,
+   "createdAt": 1740455666,
+   "updatedAt": 1746044451,
+   "experience": {
+    "id": "exp_4VtiCVcJEeKK4h",
+    "name": "Bounties",
+    "company": {
+     "id": "biz_Xfiv84q0aUcR6N",
+     "route": "jdubtrades",
+     "title": "Jdub Trades ",
+     "verified": false
+    }
+   },
+   "user": {
+    "id": "user_l4PPoZfn9KaX8",
+    "username": "jdubtrades",
+    "name": "Jdub"
+   },
+   "accessPasses": {
+    "nodes": [
+     {
+      "id": "prod_pDFobNXw4UY7E",
+      "route": "jdubtrades",
+      "title": "Jdub Trades Premium"
+     },
+     {
+      "id": "prod_dDUHczjvJ6QY9",
+      "route": "jdubtradesfree",
+      "title": "Free Trading Community"
+     }
+    ]
+   }
+  },
+  {
+   "id": "bnty_RrLif1G8AbNB7",
+   "title": "[CLOSED] $10 for first 10 Videos Posted",
+   "description": "Post first 10 Videos and get $10. Submit account links. At least 2 hours between posts. No more than 3 posts a day.",
+   "bountyType": "classic",
+   "status": "published",
+   "discoverStatus": "live_discover",
+   "rewardPerUnitAmount": 1.0,
+   "rewardUnit": "per_submission",
+   "currency": "usd",
+   "budgetAmount": null,
+   "totalPaid": 40.0,
+   "spotsRemaining": 0,
+   "acceptedSubmissionsCount": 4,
+   "acceptedSubmissionsLimit": 1,
+   "activeSubmissionsCount": 0,
+   "bountySubmissionsCount": 13,
+   "awaitingReviewSubmissionsCount": 0,
+   "deniedSubmissionsCount": 5,
+   "allowTiktok": false,
+   "allowYoutube": false,
+   "allowInstagram": false,
+   "allowX": false,
+   "allowedCountryCodes": [],
+   "requiredCaptureDurationSeconds": null,
+   "scheduledFrequency": null,
+   "businessGoalType": null,
+   "viewCount": 0,
+   "commentCount": 0,
+   "reactionCount": 0,
+   "createdAt": 1740257750,
+   "updatedAt": 1746809190,
+   "experience": {
+    "id": "exp_Kv8tQtzRHpd47y",
+    "name": "Get Paid",
+    "company": {
+     "id": "biz_pAmG2NBMop60nW",
+     "route": "elite-options-pro-clips",
+     "title": "Elite Options Pro Clips",
+     "verified": false
+    }
+   },
+   "user": {
+    "id": "user_Xb9FhImPT86eo",
+    "username": "nafiosmani",
+    "name": "Nafi Osmani"
+   },
+   "accessPasses": {
+    "nodes": [
+     {
+      "id": "prod_7t6ZLEmhmemtM",
+      "route": "elite-options-pro-clips",
+      "title": "Elite Options Pro Clips"
+     }
+    ]
+   }
+  },
+  {
+   "id": "bnty_6zVcgGD8bGlOD",
+   "title": "For Zexer",
+   "description": "Collect your reward",
+   "bountyType": "classic",
+   "status": "published",
+   "discoverStatus": "live_discover",
+   "rewardPerUnitAmount": 1.0,
+   "rewardUnit": "per_submission",
+   "currency": "usd",
+   "budgetAmount": null,
+   "totalPaid": 35.0,
+   "spotsRemaining": 0,
+   "acceptedSubmissionsCount": 1,
+   "acceptedSubmissionsLimit": 1,
+   "activeSubmissionsCount": 0,
+   "bountySubmissionsCount": 8,
+   "awaitingReviewSubmissionsCount": 0,
+   "deniedSubmissionsCount": 0,
+   "allowTiktok": false,
+   "allowYoutube": false,
+   "allowInstagram": false,
+   "allowX": false,
+   "allowedCountryCodes": [],
+   "requiredCaptureDurationSeconds": null,
+   "scheduledFrequency": null,
+   "businessGoalType": null,
+   "viewCount": 0,
+   "commentCount": 0,
+   "reactionCount": 0,
+   "createdAt": 1754128087,
+   "updatedAt": 1754128446,
+   "experience": {
+    "id": "exp_g9WTvp507DNxpM",
+    "name": "Bounties",
+    "company": {
+     "id": "biz_l2VJmEvuZs8rrG",
+     "route": "clutchcuts",
+     "title": "Clutch Cuts",
+     "verified": false
+    }
+   },
+   "user": {
+    "id": "user_qYWv2HWbMtqSC",
+    "username": "hemsworthdavid09",
+    "name": "Hemsworth David"
+   },
+   "accessPasses": {
+    "nodes": [
+     {
+      "id": "prod_fTNeMEw9L9KVp",
+      "route": "clutchcuts",
+      "title": "Clutch Cuts"
+     }
+    ]
+   }
+  },
+  {
+   "id": "bnty_qHZHHtwFpH37a",
+   "title": "Leave a review",
+   "description": "Submit your review for Creator World (as shown in the video below), then submit your bounty with the full name used for the review.",
+   "bountyType": "classic",
+   "status": "published",
+   "discoverStatus": "live_discover",
+   "rewardPerUnitAmount": 1.0,
+   "rewardUnit": "per_submission",
+   "currency": "usd",
+   "budgetAmount": null,
+   "totalPaid": 33.0,
+   "spotsRemaining": 0,
+   "acceptedSubmissionsCount": 10,
+   "acceptedSubmissionsLimit": 1,
+   "activeSubmissionsCount": 0,
+   "bountySubmissionsCount": 16,
+   "awaitingReviewSubmissionsCount": 0,
+   "deniedSubmissionsCount": 5,
+   "allowTiktok": false,
+   "allowYoutube": false,
+   "allowInstagram": false,
+   "allowX": false,
+   "allowedCountryCodes": [],
+   "requiredCaptureDurationSeconds": null,
+   "scheduledFrequency": null,
+   "businessGoalType": null,
+   "viewCount": 0,
+   "commentCount": 0,
+   "reactionCount": 0,
+   "createdAt": 1741598468,
+   "updatedAt": 1768238032,
+   "experience": {
+    "id": "exp_Xvp71VS7NYLbOI",
+    "name": "Rewards",
+    "company": {
+     "id": "biz_uNfzDns52Gdo6t",
+     "route": "vcm",
+     "title": "Creator World Ultimate Bundle",
+     "verified": false
+    }
+   },
+   "user": {
+    "id": "user_2jUjrSvADlfh5",
+    "username": "creatorkarro",
+    "name": "Karolis Piliponis"
+   },
+   "accessPasses": {
+    "nodes": [
+     {
+      "id": "prod_iwkHIS9zo70rO",
+      "route": "creator-world",
+      "title": "Creator World Ultimate Bundle"
+     }
+    ]
+   }
+  },
+  {
+   "id": "bnty_h5lUb7xypf8qu",
+   "title": "Royal_Parlayz- sign up earn $10",
+   "description": "FIRST 20 to subscribe earns $10 each, also they will enter a raffle where one lucky winner receives $500 cash!💰 ",
+   "bountyType": "classic",
+   "status": "published",
+   "discoverStatus": "live_discover",
+   "rewardPerUnitAmount": 1.0,
+   "rewardUnit": "per_submission",
+   "currency": "usd",
+   "budgetAmount": null,
+   "totalPaid": 30.0,
+   "spotsRemaining": 0,
+   "acceptedSubmissionsCount": 3,
+   "acceptedSubmissionsLimit": 1,
+   "activeSubmissionsCount": 0,
+   "bountySubmissionsCount": 6,
+   "awaitingReviewSubmissionsCount": 0,
+   "deniedSubmissionsCount": 0,
+   "allowTiktok": false,
+   "allowYoutube": false,
+   "allowInstagram": false,
+   "allowX": false,
+   "allowedCountryCodes": [],
+   "requiredCaptureDurationSeconds": null,
+   "scheduledFrequency": null,
+   "businessGoalType": null,
+   "viewCount": 0,
+   "commentCount": 0,
+   "reactionCount": 0,
+   "createdAt": 1740899086,
+   "updatedAt": 1742940435,
+   "experience": {
+    "id": "exp_R4mVcPEtM428OI",
+    "name": "Bounties",
+    "company": {
+     "id": "biz_lgu1YzHaFfNPr0",
+     "route": "royalparlayz",
+     "title": "Royal_Parlayz",
+     "verified": false
+    }
+   },
+   "user": {
+    "id": "user_o1qPeLO2AYNOg",
+    "username": "royalszn",
+    "name": "ROYAL PARLAYZ"
+   },
+   "accessPasses": {
+    "nodes": [
+     {
+      "id": "prod_MFXeuRcQJvaRl",
+      "route": "royalparlayz",
+      "title": "Royal_Parlayz"
+     }
+    ]
+   }
+  },
+  {
+   "id": "bnty_MvOSByriK7QRN",
+   "title": "Refer a Family or Friend ",
+   "description": "Simply get 1 or more of your family & Friends to send out the 1st round of dispute letters with the Ai Credit software. You will be helping then fix their credit and get paid from us for doing so! Drop their first & last name and email here for us to verify and we will pay you $10 per person directly to your account!",
+   "bountyType": "classic",
+   "status": "published",
+   "discoverStatus": "live_discover",
+   "rewardPerUnitAmount": 1.0,
+   "rewardUnit": "per_submission",
+   "currency": "usd",
+   "budgetAmount": null,
+   "totalPaid": 30.0,
+   "spotsRemaining": 0,
+   "acceptedSubmissionsCount": 3,
+   "acceptedSubmissionsLimit": 1,
+   "activeSubmissionsCount": 0,
+   "bountySubmissionsCount": 3,
+   "awaitingReviewSubmissionsCount": 0,
+   "deniedSubmissionsCount": 0,
+   "allowTiktok": false,
+   "allowYoutube": false,
+   "allowInstagram": false,
+   "allowX": false,
+   "allowedCountryCodes": [],
+   "requiredCaptureDurationSeconds": null,
+   "scheduledFrequency": null,
+   "businessGoalType": null,
+   "viewCount": 0,
+   "commentCount": 0,
+   "reactionCount": 0,
+   "createdAt": 1736571475,
+   "updatedAt": 1743720367,
+   "experience": {
+    "id": "exp_pXuGVpl0aaVpLh",
+    "name": "Bounties",
+    "company": {
+     "id": "biz_vj70PydWnzLZLn",
+     "route": "kingdomminds",
+     "title": "KM Credit Academy",
+     "verified": false
+    }
+   },
+   "user": {
+    "id": "user_Gr7RqY4rsrjKm",
+    "username": "infokingdomminds",
+    "name": "Sharif (Realmelaninking)"
+   },
+   "accessPasses": {
+    "nodes": [
+     {
+      "id": "prod_Y6CHCL7NStKVs",
+      "route": "kingdomminds",
+      "title": "KM Credit Academy"
+     }
+    ]
+   }
+  },
+  {
+   "id": "bnty_kRz8Cp1StDUB4",
+   "title": "Introduce Yourself & Make a Friend 🫂",
+   "description": "Post your Introduction in our \"Introductions\" tab and comment on another member's post. Submit a screenshot or paste the URL to claim. Can only be claimed once.",
+   "bountyType": "classic",
+   "status": "published",
+   "discoverStatus": "live_discover",
+   "rewardPerUnitAmount": 1.0,
+   "rewardUnit": "per_submission",
+   "currency": "usd",
+   "budgetAmount": null,
+   "totalPaid": 30.0,
+   "spotsRemaining": 0,
+   "acceptedSubmissionsCount": 6,
+   "acceptedSubmissionsLimit": 1,
+   "activeSubmissionsCount": 0,
+   "bountySubmissionsCount": 7,
+   "awaitingReviewSubmissionsCount": 0,
+   "deniedSubmissionsCount": 0,
+   "allowTiktok": false,
+   "allowYoutube": false,
+   "allowInstagram": false,
+   "allowX": false,
+   "allowedCountryCodes": [],
+   "requiredCaptureDurationSeconds": null,
+   "scheduledFrequency": null,
+   "businessGoalType": null,
+   "viewCount": 0,
+   "commentCount": 0,
+   "reactionCount": 0,
+   "createdAt": 1734051135,
+   "updatedAt": 1748916138,
+   "experience": {
+    "id": "exp_qQbMPRsDi7nEqf",
+    "name": "Challenges",
+    "company": {
+     "id": "biz_n9FVAtyANUHJdT",
+     "route": "ai-academy",
+     "title": "AI Academy",
+     "verified": false
+    }
+   },
+   "user": {
+    "id": "user_hmLs8ToE6j3M5",
+    "username": "blakebasuel",
+    "name": "Blake Basuel"
+   },
+   "accessPasses": {
+    "nodes": [
+     {
+      "id": "prod_ikUB6LtBIM8lD",
+      "route": "ai-academy",
+      "title": "AI Academy"
+     }
+    ]
+   }
+  }
+ ]
+}

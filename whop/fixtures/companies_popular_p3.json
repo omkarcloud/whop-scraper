@@ -1,0 +1,8 @@
+{
+ "totalCount": 100,
+ "pageInfo": {
+  "hasNextPage": false,
+  "endCursor": null
+ },
+ "nodes": []
+}

@@ -1,0 +1,2447 @@
+{
+ "totalCount": 179,
+ "pageInfo": {
+  "hasNextPage": true,
+  "endCursor": "NTA"
+ },
+ "nodes": [
+  {
+   "id": "app_dYfm2IdXhDMquv",
+   "name": "Forums",
+   "route": null,
+   "description": "Create and share posts to spark discussions within your community.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": true,
+   "discoverableAt": 1708533346,
+   "totalInstalls": 300210,
+   "totalInstallsLast7Days": 78941,
+   "totalInstallsLast30Days": 300210,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 54427,
+    "wau": 184824,
+    "mau": 464864,
+    "timeSpentLast24HoursInSeconds": 6736169
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-03-07/user_2348232_b7ca5057-522a-40c9-b29e-ad40682326aa.webp"
+   },
+   "creator": {
+    "id": "user_RLK3ZmTdSpbQ8",
+    "username": "jack",
+    "name": "Jack Sharkey"
+   },
+   "company": {
+    "id": "biz_81DmrpXEeixuLD",
+    "route": "7cbf4d8f-a314-4187-98ff-57e81ec7d803",
+    "title": "Whop"
+   },
+   "accessPass": {
+    "id": "prod_BoYrqfyg0x6ML",
+    "route": "forums",
+    "title": "Forums",
+    "headline": null,
+    "reviewsAverage": 4.18,
+    "publishedReviewsCount": 38,
+    "marketplaceCategory": {
+     "id": "mcat_dAIZYQY2VXEyC",
+     "name": "Community",
+     "route": "community"
+    }
+   }
+  },
+  {
+   "id": "app_xml5hbizmZPgUT",
+   "name": "Chat",
+   "route": null,
+   "description": "Allow your users to talk to each other.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": true,
+   "discoverableAt": 1707180853,
+   "totalInstalls": 19413,
+   "totalInstallsLast7Days": 3100,
+   "totalInstallsLast30Days": 19413,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 43771,
+    "wau": 123042,
+    "mau": 284949,
+    "timeSpentLast24HoursInSeconds": 12078430
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-04-03/user_2854022_d0835741-5097-4699-9568-773cd6b8e91a.png"
+   },
+   "creator": {
+    "id": "user_RLK3ZmTdSpbQ8",
+    "username": "jack",
+    "name": "Jack Sharkey"
+   },
+   "company": {
+    "id": "biz_81DmrpXEeixuLD",
+    "route": "7cbf4d8f-a314-4187-98ff-57e81ec7d803",
+    "title": "Whop"
+   },
+   "accessPass": {
+    "id": "prod_D2OMKOE7huULX",
+    "route": "chat-app",
+    "title": "Chat",
+    "headline": null,
+    "reviewsAverage": 4.18,
+    "publishedReviewsCount": 38,
+    "marketplaceCategory": {
+     "id": "mcat_dAIZYQY2VXEyC",
+     "name": "Community",
+     "route": "community"
+    }
+   }
+  },
+  {
+   "id": "app_0vPZThfBpAwLo",
+   "name": "Courses",
+   "route": null,
+   "description": "Create and sell online courses, coaching, and educational content.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": true,
+   "discoverableAt": 1691697747,
+   "totalInstalls": 18217,
+   "totalInstallsLast7Days": 2693,
+   "totalInstallsLast30Days": 18217,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 34655,
+    "wau": 121371,
+    "mau": 311714,
+    "timeSpentLast24HoursInSeconds": 41346263
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-03-15/user_2412964_530b4bce-798a-4209-b086-428340ea9383.png"
+   },
+   "creator": {
+    "id": "user_q61ixyl8cVGff",
+    "username": "whopinc",
+    "name": "Whop"
+   },
+   "company": {
+    "id": "biz_5vd6tfvFevab28",
+    "route": "70147ac3-6dd2-4a77-aade-63a16aad31fe",
+    "title": "Courses App"
+   },
+   "accessPass": {
+    "id": "prod_Fpxj4uEQLIss8",
+    "route": "courses",
+    "title": "Courses App",
+    "headline": "Create and sell online courses easily",
+    "reviewsAverage": 4.04,
+    "publishedReviewsCount": 28,
+    "marketplaceCategory": {
+     "id": "mcat_qywzObxKQ6Oyg",
+     "name": "Education",
+     "route": "education"
+    }
+   }
+  },
+  {
+   "id": "app_mmjPLOxIgL1qxe",
+   "name": "Content",
+   "route": null,
+   "description": "Easily share written documents and free-form text content with your users.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1702416070,
+   "totalInstalls": 13429,
+   "totalInstallsLast7Days": 2486,
+   "totalInstallsLast30Days": 13429,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 8459,
+    "wau": 42733,
+    "mau": 133236,
+    "timeSpentLast24HoursInSeconds": 403797
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-02-25/user_2348232_94fb0708-4a84-4fde-b762-5d715d562c5c.webp"
+   },
+   "creator": {
+    "id": "user_4naexFKzzGPmK",
+    "username": "tristan",
+    "name": "Tristan"
+   },
+   "company": {
+    "id": "biz_VXhiOQxFGk5eLO",
+    "route": "069c4e56-4abe-4533-8941-72a1c0a15d82",
+    "title": "Content by Whop"
+   },
+   "accessPass": {
+    "id": "prod_U2V8maphZ40L1",
+    "route": "content-app",
+    "title": "Content",
+    "headline": null,
+    "reviewsAverage": 1.57,
+    "publishedReviewsCount": 7,
+    "marketplaceCategory": {
+     "id": "mcat_dAIZYQY2VXEyC",
+     "name": "Community",
+     "route": "community"
+    }
+   }
+  },
+  {
+   "id": "app_QRxsQodZgK1r4D",
+   "name": "Content Rewards",
+   "route": null,
+   "description": "The easiest way for brands to drive viral reach through organic creator campaigns",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1767820641,
+   "totalInstalls": 9118,
+   "totalInstallsLast7Days": 1405,
+   "totalInstallsLast30Days": 9118,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 21426,
+    "wau": 60939,
+    "mau": 228891,
+    "timeSpentLast24HoursInSeconds": 5925331
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2026-09-03/91a447ae-f15a-49cb-9a6d-4f18c77bb17b/image.png"
+   },
+   "creator": {
+    "id": "user_SLVcFAoFIapiA",
+    "username": "contentrewardscc",
+    "name": "Content Rewards"
+   },
+   "company": {
+    "id": "biz_Wr1osgF3zLmQDH",
+    "route": "contentrewardscc",
+    "title": "Content Rewards"
+   },
+   "accessPass": {
+    "id": "prod_sHxNJtG1TwWuK",
+    "route": "content-rewards-04",
+    "title": "Content Rewards",
+    "headline": null,
+    "reviewsAverage": 4.98,
+    "publishedReviewsCount": 47,
+    "marketplaceCategory": {
+     "id": "mcat_dAIZYQY2VXEyC",
+     "name": "Community",
+     "route": "community"
+    }
+   }
+  },
+  {
+   "id": "app_5UWRrs7haZZeiQ",
+   "name": "Files",
+   "route": null,
+   "description": "Sell access to exclusive files, templates, and more.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1711122817,
+   "totalInstalls": 12169,
+   "totalInstallsLast7Days": 1283,
+   "totalInstallsLast30Days": 12169,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 3087,
+    "wau": 15607,
+    "mau": 55008,
+    "timeSpentLast24HoursInSeconds": 356190
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-04-09/user_1_886d6c85-ff7c-4e80-9781-e1b2728f7929.webp"
+   },
+   "creator": {
+    "id": "user_q61ixyl8cVGff",
+    "username": "whopinc",
+    "name": "Whop"
+   },
+   "company": {
+    "id": "biz_4NRielcfN2xxZA",
+    "route": "1b43a51a-88fb-4fc4-abfe-eb27426d7381",
+    "title": "Files by Whop"
+   },
+   "accessPass": {
+    "id": "prod_FcwY52GLYNN4P",
+    "route": "files",
+    "title": "Files",
+    "headline": "Exclusive access to premium files",
+    "reviewsAverage": 2.06,
+    "publishedReviewsCount": 18,
+    "marketplaceCategory": {
+     "id": "mcat_qywzObxKQ6Oyg",
+     "name": "Education",
+     "route": "education"
+    }
+   }
+  },
+  {
+   "id": "app_WykcI6ivb5fOlz",
+   "name": "Livestreaming",
+   "route": null,
+   "description": "Go live to your audience with live chat and reactions.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": true,
+   "discoverableAt": 1733760548,
+   "totalInstalls": 3618,
+   "totalInstallsLast7Days": 579,
+   "totalInstallsLast30Days": 3618,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 4541,
+    "wau": 17108,
+    "mau": 49380,
+    "timeSpentLast24HoursInSeconds": 5738991
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-01-21/user_6586406_58c45e66-5390-405e-a3b1-e917877f62b7.png"
+   },
+   "creator": {
+    "id": "user_RLK3ZmTdSpbQ8",
+    "username": "jack",
+    "name": "Jack Sharkey"
+   },
+   "company": {
+    "id": "biz_81DmrpXEeixuLD",
+    "route": "7cbf4d8f-a314-4187-98ff-57e81ec7d803",
+    "title": "Whop"
+   },
+   "accessPass": {
+    "id": "prod_7icFdCEI5s4XF",
+    "route": "livestreaming",
+    "title": "Livestreaming",
+    "headline": null,
+    "reviewsAverage": 4.18,
+    "publishedReviewsCount": 38,
+    "marketplaceCategory": {
+     "id": "mcat_dAIZYQY2VXEyC",
+     "name": "Community",
+     "route": "community"
+    }
+   }
+  },
+  {
+   "id": "app_sWtSR8DZsEGryg",
+   "name": "Discord",
+   "route": null,
+   "description": "Sell access to your Discord Server with automatic role management.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1710779264,
+   "totalInstalls": 2505,
+   "totalInstallsLast7Days": 565,
+   "totalInstallsLast30Days": 2505,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 10807,
+    "wau": 57081,
+    "mau": 202709,
+    "timeSpentLast24HoursInSeconds": 346831
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-03-21/user_42648_6e00a214-ab5f-481d-892d-2009b09ba49c.webp"
+   },
+   "creator": {
+    "id": "user_q61ixyl8cVGff",
+    "username": "whopinc",
+    "name": "Whop"
+   },
+   "company": {
+    "id": "biz_YZi93ZheX5OmUZ",
+    "route": "5d11026b-5290-4740-b394-386f083d1c18",
+    "title": "Discord by Whop"
+   },
+   "accessPass": {
+    "id": "prod_1YGsm3N6IGmuT",
+    "route": "discord-app",
+    "title": "Discord",
+    "headline": "Where builders ship code and level up together",
+    "reviewsAverage": 5.0,
+    "publishedReviewsCount": 4,
+    "marketplaceCategory": {
+     "id": "mcat_dAIZYQY2VXEyC",
+     "name": "Community",
+     "route": "community"
+    }
+   }
+  },
+  {
+   "id": "app_sDXrwzF3lUJCaW",
+   "name": "Youtube AI Video Clipper",
+   "route": null,
+   "description": "Easily clip youtube videos with AI.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1759819803,
+   "totalInstalls": 1404,
+   "totalInstallsLast7Days": 359,
+   "totalInstallsLast30Days": 1404,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 49,
+    "wau": 338,
+    "mau": 1236,
+    "timeSpentLast24HoursInSeconds": 1872
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_13368043/image/apps/2025-10-05/8c01c31d-6cf4-439e-bb19-cce0f58c18e9.png"
+   },
+   "creator": {
+    "id": "user_sLnadQkZiLs2u",
+    "username": "clarkden",
+    "name": "Clarkden"
+   },
+   "company": {
+    "id": "biz_QleSBC1OwozISU",
+    "route": "clark-9da9",
+    "title": "Ripple Society"
+   },
+   "accessPass": {
+    "id": "prod_UaOfgmjWL0iDC",
+    "route": "klyp-ai-video-clipper",
+    "title": "Klyp - AI Video Clipper",
+    "headline": null,
+    "reviewsAverage": 1.0,
+    "publishedReviewsCount": 1,
+    "marketplaceCategory": {
+     "id": "mcat_mgD3g5EDUZ3Uh",
+     "name": "AI",
+     "route": "ai"
+    }
+   }
+  },
+  {
+   "id": "app_RnVNENx5vtP8Zp",
+   "name": "Events",
+   "route": null,
+   "description": "Sell access to virtual or in person events",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1709771074,
+   "totalInstalls": 1581,
+   "totalInstallsLast7Days": 300,
+   "totalInstallsLast30Days": 1581,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 5574,
+    "wau": 23551,
+    "mau": 57723,
+    "timeSpentLast24HoursInSeconds": 305361
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-03-07/user_2412964_7d4ceeef-d234-4c7a-9390-8dc41614f335.png"
+   },
+   "creator": {
+    "id": "user_RLK3ZmTdSpbQ8",
+    "username": "jack",
+    "name": "Jack Sharkey"
+   },
+   "company": {
+    "id": "biz_81DmrpXEeixuLD",
+    "route": "7cbf4d8f-a314-4187-98ff-57e81ec7d803",
+    "title": "Whop"
+   },
+   "accessPass": {
+    "id": "prod_3b4aD3D2nzGhU",
+    "route": "events",
+    "title": "Events",
+    "headline": null,
+    "reviewsAverage": 4.18,
+    "publishedReviewsCount": 38,
+    "marketplaceCategory": {
+     "id": "mcat_dAIZYQY2VXEyC",
+     "name": "Community",
+     "route": "community"
+    }
+   }
+  },
+  {
+   "id": "app_Hult2DfiNkAhMp",
+   "name": "Telegram",
+   "route": null,
+   "description": "Sell access to an exclusive Telegram community.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1711136502,
+   "totalInstalls": 651,
+   "totalInstallsLast7Days": 138,
+   "totalInstallsLast30Days": 651,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 927,
+    "wau": 5089,
+    "mau": 18945,
+    "timeSpentLast24HoursInSeconds": 30213
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-04-06/user_929273_500c9bb9-f289-455c-923f-251d4b9f85e9.png"
+   },
+   "creator": {
+    "id": "user_q61ixyl8cVGff",
+    "username": "whopinc",
+    "name": "Whop"
+   },
+   "company": {
+    "id": "biz_ap7uH8L3U35gvv",
+    "route": "5b497d34-4ecc-48b0-a09b-1867d110a6a3",
+    "title": "Telegram by Whop"
+   },
+   "accessPass": {
+    "id": "prod_4kfeYv283Rw8e",
+    "route": "telegram-3",
+    "title": "Telegram",
+    "headline": "Join Our Exclusive Telegram Community",
+    "reviewsAverage": 1.67,
+    "publishedReviewsCount": 6,
+    "marketplaceCategory": {
+     "id": "mcat_dAIZYQY2VXEyC",
+     "name": "Community",
+     "route": "community"
+    }
+   }
+  },
+  {
+   "id": "app_OtuSFX6rkPguRs",
+   "name": "Website Embed",
+   "route": null,
+   "description": "Embed a website in your whop hub.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1709369711,
+   "totalInstalls": 523,
+   "totalInstallsLast7Days": 123,
+   "totalInstallsLast30Days": 523,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 6937,
+    "wau": 30796,
+    "mau": 92084,
+    "timeSpentLast24HoursInSeconds": 850576
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-04-16/user_1_ebc40de9-9625-4955-86d2-921b4751cde9.png"
+   },
+   "creator": {
+    "id": "user_nrxHyu5XRFjkS",
+    "username": "s",
+    "name": "Steven Schwartz"
+   },
+   "company": {
+    "id": "biz_mmGRGhPlmSOuU6",
+    "route": "8acc24f6-4721-46be-a85c-fcfea6f39eca",
+    "title": "Steven"
+   },
+   "accessPass": {
+    "id": "prod_v63bnQu3G8bNm",
+    "route": "website-embed",
+    "title": "Full Website",
+    "headline": null,
+    "reviewsAverage": 2.0,
+    "publishedReviewsCount": 2,
+    "marketplaceCategory": null
+   }
+  },
+  {
+   "id": "app_jHH5YT7jHYQANi",
+   "name": "Software",
+   "route": null,
+   "description": "Sell access to your downloadable software and gate it via license keys.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1711549953,
+   "totalInstalls": 474,
+   "totalInstallsLast7Days": 104,
+   "totalInstallsLast30Days": 474,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 801,
+    "wau": 4089,
+    "mau": 13517,
+    "timeSpentLast24HoursInSeconds": 140711
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-03-28/user_417821_1e7eea48-455f-4470-804e-5ba9cd6fff78.png"
+   },
+   "creator": {
+    "id": "user_q61ixyl8cVGff",
+    "username": "whopinc",
+    "name": "Whop"
+   },
+   "company": {
+    "id": "biz_BInFqwK4hJbd8s",
+    "route": "9d8eb6a4-549f-4f39-b0cc-c0b0fba3e6ac",
+    "title": "Software by Whop"
+   },
+   "accessPass": {
+    "id": "prod_xXAyUW3RDK0Fx",
+    "route": "software-2",
+    "title": "Software",
+    "headline": "Gate software with license keys",
+    "reviewsAverage": 5.0,
+    "publishedReviewsCount": 1,
+    "marketplaceCategory": {
+     "id": "mcat_9380pbpfyhcJK",
+     "name": "Business & Productivity",
+     "route": "business-productivity"
+    }
+   }
+  },
+  {
+   "id": "app_N3S3muNGIbm3tQ",
+   "name": "TradingView",
+   "route": null,
+   "description": "Sell access to your TradingView Indicators.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1711409592,
+   "totalInstalls": 318,
+   "totalInstallsLast7Days": 85,
+   "totalInstallsLast30Days": 318,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 1263,
+    "wau": 6305,
+    "mau": 22315,
+    "timeSpentLast24HoursInSeconds": 57503
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-04-02/user_1227474_36ff3ab7-6313-4482-9632-82d88170643d.png"
+   },
+   "creator": {
+    "id": "user_q61ixyl8cVGff",
+    "username": "whopinc",
+    "name": "Whop"
+   },
+   "company": {
+    "id": "biz_onq67UUpnRyBg0",
+    "route": "a82e93fd-2ffa-4405-bf66-b1f044284d5e",
+    "title": "TradingView by Whop"
+   },
+   "accessPass": {
+    "id": "prod_7xXclgLO65Q0w",
+    "route": "tradingview-2",
+    "title": "TradingView",
+    "headline": "Unlock Premium TradingView Indicators",
+    "reviewsAverage": 2.38,
+    "publishedReviewsCount": 8,
+    "marketplaceCategory": {
+     "id": "mcat_2wi1DcDey18vq",
+     "name": "Trading",
+     "route": "trading"
+    }
+   }
+  },
+  {
+   "id": "app_F2Xvs1V54iborw",
+   "name": "Sell Digital Files: FilesBunny",
+   "route": null,
+   "description": "Sell digital products to your audience - Zero app tranx fees - Unlimited listings - External links",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1760995216,
+   "totalInstalls": 310,
+   "totalInstallsLast7Days": 78,
+   "totalInstallsLast30Days": 310,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 13,
+    "wau": 73,
+    "mau": 283,
+    "timeSpentLast24HoursInSeconds": 390
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_17631349/image/apps/2025-10-19/592dc48c-68c3-4e1c-ab58-5ad032b9bba7.png"
+   },
+   "creator": {
+    "id": "user_0XmS42qeIQhnz",
+    "username": "reviralabs",
+    "name": "Siva"
+   },
+   "company": {
+    "id": "biz_Y1Mc6g9t0P4sOS",
+    "route": "reviralabs",
+    "title": "ReviraLabs"
+   },
+   "accessPass": {
+    "id": "prod_RrIBRFC3e07y5",
+    "route": "sell-digital-products-4b",
+    "title": "Sell Digital Products",
+    "headline": null,
+    "reviewsAverage": 5.0,
+    "publishedReviewsCount": 1,
+    "marketplaceCategory": {
+     "id": "mcat_IjnH3cXeqpPZQ",
+     "name": "E-commerce & Shopping",
+     "route": "ecommerce-shopping"
+    }
+   }
+  },
+  {
+   "id": "app_BJo3BJBydLDpxG",
+   "name": "Announcements",
+   "route": null,
+   "description": "Free feed. Free email. No inbox fee.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1764016015,
+   "totalInstalls": 419,
+   "totalInstallsLast7Days": 75,
+   "totalInstallsLast30Days": 419,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 1153,
+    "wau": 7280,
+    "mau": 30335,
+    "timeSpentLast24HoursInSeconds": 17711
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_342486/image/apps/2025-08-18/a6165fa6-ddb3-4860-98f7-5b4c0c9516f3"
+   },
+   "creator": {
+    "id": "user_8TkKKL6cR6AoX",
+    "username": "tsarp",
+    "name": "Andrew Weir"
+   },
+   "company": {
+    "id": "biz_7MiHfVRaR8S1LN",
+    "route": "tracka-labs",
+    "title": "Vertigo Apps"
+   },
+   "accessPass": {
+    "id": "prod_SeOZxMhtK0iJQ",
+    "route": "tracka-e4",
+    "title": "Tracka",
+    "headline": null,
+    "reviewsAverage": 3.75,
+    "publishedReviewsCount": 8,
+    "marketplaceCategory": {
+     "id": "mcat_dAIZYQY2VXEyC",
+     "name": "Community",
+     "route": "community"
+    }
+   }
+  },
+  {
+   "id": "app_dC2dkRARmXE4qf",
+   "name": "Calendar Bookings",
+   "route": null,
+   "description": "Turn your calendar into cash with Calendar Bookings",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1727133731,
+   "totalInstalls": 355,
+   "totalInstallsLast7Days": 72,
+   "totalInstallsLast30Days": 355,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 178,
+    "wau": 902,
+    "mau": 3288,
+    "timeSpentLast24HoursInSeconds": 4239
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-10-03/user_4506876_289eab74-0586-4f12-8271-473c41946e20.svg"
+   },
+   "creator": {
+    "id": "user_RLK3ZmTdSpbQ8",
+    "username": "jack",
+    "name": "Jack Sharkey"
+   },
+   "company": {
+    "id": "biz_81DmrpXEeixuLD",
+    "route": "7cbf4d8f-a314-4187-98ff-57e81ec7d803",
+    "title": "Whop"
+   },
+   "accessPass": {
+    "id": "prod_bvGUx39yJd5xM",
+    "route": "1on1-bookings",
+    "title": "Calendar Bookings New",
+    "headline": null,
+    "reviewsAverage": 4.18,
+    "publishedReviewsCount": 38,
+    "marketplaceCategory": {
+     "id": "mcat_qywzObxKQ6Oyg",
+     "name": "Education",
+     "route": "education"
+    }
+   }
+  },
+  {
+   "id": "app_t9OodHdFeEWDrl",
+   "name": "Announcements",
+   "route": null,
+   "description": "Write it. Schedule it. Set it to expire. Ship it everywhere with one click.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1773156736,
+   "totalInstalls": 228,
+   "totalInstallsLast7Days": 72,
+   "totalInstallsLast30Days": 228,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 264,
+    "wau": 968,
+    "mau": 1524,
+    "timeSpentLast24HoursInSeconds": 9441
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_13786030/image/apps/2026-03-04/87db9ffb-166f-4a78-a211-3e326b09ee51.png"
+   },
+   "creator": {
+    "id": "user_wR7OyRK6Yt28i",
+    "username": "adamahmed2030",
+    "name": "Adam Ahmed"
+   },
+   "company": {
+    "id": "biz_Xh4kLVZdihXUAE",
+    "route": "whop-vertex-studio",
+    "title": "Vertex"
+   },
+   "accessPass": {
+    "id": "prod_AfnhmkKoMq8Wh",
+    "route": "announcements-0a",
+    "title": "Announcements ",
+    "headline": null,
+    "reviewsAverage": 5.0,
+    "publishedReviewsCount": 1,
+    "marketplaceCategory": {
+     "id": "mcat_dAIZYQY2VXEyC",
+     "name": "Community",
+     "route": "community"
+    }
+   }
+  },
+  {
+   "id": "app_FET4iQGlNrjTWy",
+   "name": "AutoClip",
+   "route": null,
+   "description": "Turn YouTube videos into viral clips in seconds. AI-powered clipping that’s fast, smart, and ready for social. The best way to make money clipping",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1754355858,
+   "totalInstalls": 162,
+   "totalInstallsLast7Days": 59,
+   "totalInstallsLast30Days": 162,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 13,
+    "wau": 81,
+    "mau": 267,
+    "timeSpentLast24HoursInSeconds": 135
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_8708374/image/apps/2025-08-04/3fc1750b-24cf-49e6-9916-b3972b29816d"
+   },
+   "creator": {
+    "id": "user_5R8gvML6CUrGB",
+    "username": "deiv-codes",
+    "name": "deiv "
+   },
+   "company": {
+    "id": "biz_39iflKj6ScIryA",
+    "route": "deiv-apps",
+    "title": "Deiv's Apps"
+   },
+   "accessPass": {
+    "id": "prod_mCJuVxhinI31C",
+    "route": "clipping-2f",
+    "title": "Clipping",
+    "headline": null,
+    "reviewsAverage": 5.0,
+    "publishedReviewsCount": 1,
+    "marketplaceCategory": {
+     "id": "mcat_9380pbpfyhcJK",
+     "name": "Business & Productivity",
+     "route": "business-productivity"
+    }
+   }
+  },
+  {
+   "id": "app_i5oS9ptm9pfy7Q",
+   "name": "Web app",
+   "route": null,
+   "description": "Gate your web app with the Whop API, ensuring only paid users get access.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1711638008,
+   "totalInstalls": 289,
+   "totalInstallsLast7Days": 56,
+   "totalInstallsLast30Days": 289,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 1053,
+    "wau": 5036,
+    "mau": 15383,
+    "timeSpentLast24HoursInSeconds": 63727
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-04-16/user_2854022_79bed145-526c-4dbc-a7ea-bca4f23dcb12.svg"
+   },
+   "creator": {
+    "id": "user_q61ixyl8cVGff",
+    "username": "whopinc",
+    "name": "Whop"
+   },
+   "company": {
+    "id": "biz_5oTrM0aXWvkfiY",
+    "route": "8c0cf454-e871-4de8-b913-dfa57e9ffdfa",
+    "title": "Webapp by Whop"
+   },
+   "accessPass": {
+    "id": "prod_CtoTmgL7W675i",
+    "route": "webapp-3",
+    "title": "Webapp",
+    "headline": "Secure your web app with Whop API",
+    "reviewsAverage": 5.0,
+    "publishedReviewsCount": 1,
+    "marketplaceCategory": {
+     "id": "mcat_9380pbpfyhcJK",
+     "name": "Business & Productivity",
+     "route": "business-productivity"
+    }
+   }
+  },
+  {
+   "id": "app_a53W4QAKN35vHR",
+   "name": "Paid Calls and Bookings",
+   "route": null,
+   "description": "Stop manually pasting meeting links. Instantly host one-time or recurring Zoom meetings and offer paid bookings right in Whop.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1752628593,
+   "totalInstalls": 171,
+   "totalInstallsLast7Days": 43,
+   "totalInstallsLast30Days": 171,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 24,
+    "wau": 106,
+    "mau": 372,
+    "timeSpentLast24HoursInSeconds": 514
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2026-08-26/6ad0c921-4723-44d5-8be1-04bd4361bce5/image.png"
+   },
+   "creator": {
+    "id": "user_9o7UOf9vucLtY",
+    "username": "free-custom-apps",
+    "name": "Thinkify"
+   },
+   "company": {
+    "id": "biz_07J0xZBnv5jQ9i",
+    "route": "free-custom-apps",
+    "title": "Calls & FREE Custom Apps"
+   },
+   "accessPass": {
+    "id": "prod_3PUnjQxcnmzi1",
+    "route": "zoom-integration",
+    "title": "Zoom Integration",
+    "headline": null,
+    "reviewsAverage": 5.0,
+    "publishedReviewsCount": 1,
+    "marketplaceCategory": {
+     "id": "mcat_9380pbpfyhcJK",
+     "name": "Business & Productivity",
+     "route": "business-productivity"
+    }
+   }
+  },
+  {
+   "id": "app_ULbUQ7PG7oM2jg",
+   "name": "Storefront",
+   "route": null,
+   "description": "Increase your revenue by 20% with one click upsells inside your whop",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1760050908,
+   "totalInstalls": 190,
+   "totalInstallsLast7Days": 39,
+   "totalInstallsLast30Days": 190,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 44,
+    "wau": 268,
+    "mau": 1142,
+    "timeSpentLast24HoursInSeconds": 1553
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_13601382/image/apps/2025-10-17/93c6a8eb-a20e-4cb3-bd8d-e4e43f5706fd.png"
+   },
+   "creator": {
+    "id": "user_JPShHuisJOPYr",
+    "username": "batelo",
+    "name": "Batelo"
+   },
+   "company": {
+    "id": "biz_r4FTsYJC8xKNQu",
+    "route": "batelolabs",
+    "title": "BateloLabs"
+   },
+   "accessPass": {
+    "id": "prod_sinIXV2FbbYmk",
+    "route": "storefront-23",
+    "title": "Storefront",
+    "headline": null,
+    "reviewsAverage": 5.0,
+    "publishedReviewsCount": 11,
+    "marketplaceCategory": {
+     "id": "mcat_IjnH3cXeqpPZQ",
+     "name": "E-commerce & Shopping",
+     "route": "ecommerce-shopping"
+    }
+   }
+  },
+  {
+   "id": "app_lNydeijThUsxz4",
+   "name": "X/Twitter Feed",
+   "route": null,
+   "description": "Embed any X/Twitter feed directly inside your Whop",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1775567498,
+   "totalInstalls": 151,
+   "totalInstallsLast7Days": 38,
+   "totalInstallsLast30Days": 151,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 13,
+    "wau": 55,
+    "mau": 293,
+    "timeSpentLast24HoursInSeconds": 358
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_16799177/image/apps/2026-03-21/dba14ee0-0d58-4aab-a7f7-e81b7adef7f5.avif"
+   },
+   "creator": {
+    "id": "user_B80P14EJYYbXG",
+    "username": "maxdziura",
+    "name": "Max"
+   },
+   "company": {
+    "id": "biz_nOxut5W68Kbj6f",
+    "route": "dziura-labs",
+    "title": "Dziura Labs"
+   },
+   "accessPass": {
+    "id": "prod_pdK4hjY6nE3rx",
+    "route": "x-twitter-feed",
+    "title": "X/Twitter Feed",
+    "headline": "Real-Time Social Media Monitoring & Analytics",
+    "reviewsAverage": 5.0,
+    "publishedReviewsCount": 1,
+    "marketplaceCategory": {
+     "id": "mcat_DFkAvjs7qfa7u",
+     "name": "Social Media",
+     "route": "social-media"
+    }
+   }
+  },
+  {
+   "id": "app_flJnFzocgQ2cZY",
+   "name": "Onboarding",
+   "route": null,
+   "description": "Welcome new members and give them a guide",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1754351451,
+   "totalInstalls": 207,
+   "totalInstallsLast7Days": 37,
+   "totalInstallsLast30Days": 207,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 569,
+    "wau": 3552,
+    "mau": 14147,
+    "timeSpentLast24HoursInSeconds": 10418
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_16279686/image/apps/2025-08-02/1bd64dd1-5f12-4401-89c8-6f77fa152710"
+   },
+   "creator": {
+    "id": "user_SF9bMqmk8kEIK",
+    "username": "bigoffnick",
+    "name": "Nick Bigoff"
+   },
+   "company": {
+    "id": "biz_Mws3WiOhBwxJwr",
+    "route": "youngnrich",
+    "title": "Young n' Rich"
+   },
+   "accessPass": {
+    "id": "prod_yA2lCXhy3nzQA",
+    "route": "onboarding-46",
+    "title": "Onboarding",
+    "headline": null,
+    "reviewsAverage": 3.67,
+    "publishedReviewsCount": 9,
+    "marketplaceCategory": {
+     "id": "mcat_dAIZYQY2VXEyC",
+     "name": "Community",
+     "route": "community"
+    }
+   }
+  },
+  {
+   "id": "app_s5id0QjAzMwUfC",
+   "name": "AI Chatbot for Your Community",
+   "route": null,
+   "description": "An AI chatbot that answers your members' questions 24/7, trained on your docs, products and forums.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1760574512,
+   "totalInstalls": 154,
+   "totalInstallsLast7Days": 34,
+   "totalInstallsLast30Days": 154,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 9,
+    "wau": 67,
+    "mau": 253,
+    "timeSpentLast24HoursInSeconds": 430
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_2021666/image/apps/2025-10-15/6c2f7a3c-67fe-450c-b43c-320194511017.png"
+   },
+   "creator": {
+    "id": "user_JaBeMFEqxHpwX",
+    "username": "harismlad",
+    "name": "Haris "
+   },
+   "company": {
+    "id": "biz_jpoAczvrP8oUDT",
+    "route": "spot-labs",
+    "title": "Spot Labs"
+   },
+   "accessPass": {
+    "id": "prod_wwn4mZ2eNrYnc",
+    "route": "ai-chatbot-de",
+    "title": "AI Chatbot",
+    "headline": null,
+    "reviewsAverage": 5.0,
+    "publishedReviewsCount": 1,
+    "marketplaceCategory": {
+     "id": "mcat_mgD3g5EDUZ3Uh",
+     "name": "AI",
+     "route": "ai"
+    }
+   }
+  },
+  {
+   "id": "app_ZiYcR6P91Vskmn",
+   "name": "Bounties",
+   "route": null,
+   "description": "Let your community complete tasks to earn money",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1727196427,
+   "totalInstalls": 158,
+   "totalInstallsLast7Days": 28,
+   "totalInstallsLast30Days": 158,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 817,
+    "wau": 5055,
+    "mau": 14571,
+    "timeSpentLast24HoursInSeconds": 24147
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-10-01/user_6586406_0ab9bcf0-1443-442e-8af0-ec02d55df896.png"
+   },
+   "creator": {
+    "id": "user_lcrm6XM6nQOBB",
+    "username": "connor",
+    "name": "Connor"
+   },
+   "company": {
+    "id": "biz_oi0HMf6jOukrdO",
+    "route": "b242ddf6-79b6-4c37-b90b-8d7624c6c44d",
+    "title": "Bounties"
+   },
+   "accessPass": {
+    "id": "prod_UOxiDcjWQ0Bwm",
+    "route": "bounties-app",
+    "title": "Bounties App",
+    "headline": null,
+    "reviewsAverage": 0.0,
+    "publishedReviewsCount": 0,
+    "marketplaceCategory": null
+   }
+  },
+  {
+   "id": "app_S1kCiKc3KIqr0z",
+   "name": "MetaTrader 5",
+   "route": null,
+   "description": "Manage, gate, and sell access to your MetaTrader 5 Expert Advisors and indicators.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1792602943,
+   "totalInstalls": 37,
+   "totalInstallsLast7Days": 26,
+   "totalInstallsLast30Days": 37,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 1,
+    "wau": 13,
+    "mau": 21,
+    "timeSpentLast24HoursInSeconds": 4
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2026-08-29/8ce983dc-1029-4bb6-abf7-0c56a780b90a/image.png"
+   },
+   "creator": {
+    "id": "user_pqIOfXuAWAydZ",
+    "username": "qlub99",
+    "name": "qlub99"
+   },
+   "company": {
+    "id": "biz_4V2Z7FGU2HtVB5",
+    "route": "qlub99",
+    "title": "qlub99"
+   },
+   "accessPass": {
+    "id": "prod_uDxtSn739mlpu",
+    "route": "metatrader-5-9e",
+    "title": "MetaTrader 5",
+    "headline": null,
+    "reviewsAverage": 5.0,
+    "publishedReviewsCount": 12,
+    "marketplaceCategory": null
+   }
+  },
+  {
+   "id": "app_zImxUsPIgti252",
+   "name": "Tips",
+   "route": null,
+   "description": "Collect money from your users for tips, donations, and more.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1712679601,
+   "totalInstalls": 162,
+   "totalInstallsLast7Days": 25,
+   "totalInstallsLast30Days": 162,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 18,
+    "wau": 94,
+    "mau": 403,
+    "timeSpentLast24HoursInSeconds": 229
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-04-26/user_2854022_ed992e92-f8e6-4f30-998f-447f9d198b2f.png"
+   },
+   "creator": {
+    "id": "user_RLK3ZmTdSpbQ8",
+    "username": "jack",
+    "name": "Jack Sharkey"
+   },
+   "company": {
+    "id": "biz_81DmrpXEeixuLD",
+    "route": "7cbf4d8f-a314-4187-98ff-57e81ec7d803",
+    "title": "Whop"
+   },
+   "accessPass": {
+    "id": "prod_LFtLQ8n8iIRD8",
+    "route": "payments",
+    "title": "Payments",
+    "headline": null,
+    "reviewsAverage": 4.18,
+    "publishedReviewsCount": 38,
+    "marketplaceCategory": {
+     "id": "mcat_dAIZYQY2VXEyC",
+     "name": "Community",
+     "route": "community"
+    }
+   }
+  },
+  {
+   "id": "app_fqYWzj3RZXe1O0",
+   "name": "Community Onboarding",
+   "route": null,
+   "description": "Turn new members into active members in minutes",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1777480278,
+   "totalInstalls": 91,
+   "totalInstallsLast7Days": 24,
+   "totalInstallsLast30Days": 91,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 102,
+    "wau": 227,
+    "mau": 438,
+    "timeSpentLast24HoursInSeconds": 4210
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_19624863/image/apps/2026-04-25/c1a77155-f498-4ff2-9f58-32fd135a745e.png"
+   },
+   "creator": {
+    "id": "user_mA7XJV9qhruAh",
+    "username": "contactjonas",
+    "name": "Jonas"
+   },
+   "company": {
+    "id": "biz_i469miZE1S2iVC",
+    "route": "cancellation-flow",
+    "title": "Community Onboarding"
+   },
+   "accessPass": {
+    "id": "prod_VpU72SzYIWBlL",
+    "route": "cancellation-flow-72",
+    "title": "Onboard members",
+    "headline": "The best way to onboard members on Whop!",
+    "reviewsAverage": 5.0,
+    "publishedReviewsCount": 3,
+    "marketplaceCategory": {
+     "id": "mcat_qywzObxKQ6Oyg",
+     "name": "Education",
+     "route": "education"
+    }
+   }
+  },
+  {
+   "id": "app_p48yaidwlOa6R8",
+   "name": "Forms",
+   "route": null,
+   "description": "Allow your users to fill out custom forms.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1755039313,
+   "totalInstalls": 86,
+   "totalInstallsLast7Days": 23,
+   "totalInstallsLast30Days": 86,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 57,
+    "wau": 310,
+    "mau": 1405,
+    "timeSpentLast24HoursInSeconds": 1409
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_125984/image/apps/2025-08-10/634af7cf-b3da-450e-87d7-4d141cf9522b"
+   },
+   "creator": {
+    "id": "user_HWrl2veKqlLbw",
+    "username": "lemos",
+    "name": "Lemos"
+   },
+   "company": {
+    "id": "biz_it5yk1L0aUU68h",
+    "route": "ignited",
+    "title": "Ignited"
+   },
+   "accessPass": {
+    "id": "prod_pqyGkReAnY9dF",
+    "route": "forms-a3",
+    "title": "Forms",
+    "headline": null,
+    "reviewsAverage": 4.9,
+    "publishedReviewsCount": 20,
+    "marketplaceCategory": {
+     "id": "mcat_9380pbpfyhcJK",
+     "name": "Business & Productivity",
+     "route": "business-productivity"
+    }
+   }
+  },
+  {
+   "id": "app_DMugMqcSCcwyCz",
+   "name": "Coach AI",
+   "route": null,
+   "description": "Give members private access to an AI coach that thinks like you. Train it on your content and frameworks, set a natural reply delay for human-like pacing, and deliver context-rich answers inside a fully branded UI. Go live in minutes with Whop checkout, control usage, and monetize access—without hiring.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1757734553,
+   "totalInstalls": 101,
+   "totalInstallsLast7Days": 23,
+   "totalInstallsLast30Days": 101,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 10,
+    "wau": 102,
+    "mau": 400,
+    "timeSpentLast24HoursInSeconds": 460
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_14530323/image/apps/2025-08-30/78800bbc-6f3e-49d8-8bcd-fdbc74eb106d"
+   },
+   "creator": {
+    "id": "user_JNw1SM4Uuy8lT",
+    "username": "gregoirebourdin",
+    "name": "Gregoire"
+   },
+   "company": {
+    "id": "biz_zXWEYMokWgduvj",
+    "route": "whop-coach-ai",
+    "title": "Coach AI™"
+   },
+   "accessPass": {
+    "id": "prod_UVOLZZ7fWeAOC",
+    "route": "coach-ai-e6",
+    "title": "Coach AI",
+    "headline": null,
+    "reviewsAverage": 4.8,
+    "publishedReviewsCount": 5,
+    "marketplaceCategory": {
+     "id": "mcat_mgD3g5EDUZ3Uh",
+     "name": "AI",
+     "route": "ai"
+    }
+   }
+  },
+  {
+   "id": "app_bLSc10GEFPDu4G",
+   "name": "Merch App",
+   "route": null,
+   "description": "Sell merch in your whop!",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1750286965,
+   "totalInstalls": 99,
+   "totalInstallsLast7Days": 22,
+   "totalInstallsLast30Days": 99,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 4,
+    "wau": 41,
+    "mau": 156,
+    "timeSpentLast24HoursInSeconds": 83
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_1531875/image/apps/2025-06-15/18d2781e-96e2-42f0-aa20-47cc2025d06c"
+   },
+   "creator": {
+    "id": "user_NfWNyMZ0kywfS",
+    "username": "canarycanary",
+    "name": "Canary Canary"
+   },
+   "company": {
+    "id": "biz_4wQDLfOrsFlRtw",
+    "route": "merch",
+    "title": "Canary Canary"
+   },
+   "accessPass": {
+    "id": "prod_lXwqcr7acjbk0",
+    "route": "merch-app-e2",
+    "title": "Merch App",
+    "headline": null,
+    "reviewsAverage": 5.0,
+    "publishedReviewsCount": 5,
+    "marketplaceCategory": {
+     "id": "mcat_IjnH3cXeqpPZQ",
+     "name": "E-commerce & Shopping",
+     "route": "ecommerce-shopping"
+    }
+   }
+  },
+  {
+   "id": "app_CeM1nWvDMNIxVO",
+   "name": "LinkHub",
+   "route": null,
+   "description": "LinkHub helps Whop creators share all their links in one clean, customizable hub. Add your socials, products, and content in seconds — and give your community a single place to connect with everything you offer.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1755790135,
+   "totalInstalls": 97,
+   "totalInstallsLast7Days": 22,
+   "totalInstallsLast30Days": 97,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 12,
+    "wau": 61,
+    "mau": 286,
+    "timeSpentLast24HoursInSeconds": 153
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_12496065/image/apps/2025-08-21/f1c78c12-9591-4dc9-826d-3fde370a6399"
+   },
+   "creator": {
+    "id": "user_ykfPETULnkX7A",
+    "username": "jeremykip",
+    "name": "Jeremykip"
+   },
+   "company": {
+    "id": "biz_Jj0RRQDPvZ1R5G",
+    "route": "my-apps",
+    "title": "My apps"
+   },
+   "accessPass": {
+    "id": "prod_x7DmxSxgcqxSJ",
+    "route": "linkhub",
+    "title": "LinkHub",
+    "headline": null,
+    "reviewsAverage": 0.0,
+    "publishedReviewsCount": 0,
+    "marketplaceCategory": {
+     "id": "mcat_DFkAvjs7qfa7u",
+     "name": "Social Media",
+     "route": "social-media"
+    }
+   }
+  },
+  {
+   "id": "app_Oik32BrVDYEBAu",
+   "name": "Wins",
+   "route": null,
+   "description": "Showcase community wins.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1758572644,
+   "totalInstalls": 115,
+   "totalInstallsLast7Days": 21,
+   "totalInstallsLast30Days": 115,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 455,
+    "wau": 2146,
+    "mau": 6967,
+    "timeSpentLast24HoursInSeconds": 17471
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_7726231/image/apps/2025-07-02/9a35922e-1e4d-4261-b729-0c57824225f1"
+   },
+   "creator": {
+    "id": "user_qA7qoyIEltApi",
+    "username": "dot",
+    "name": "dot"
+   },
+   "company": {
+    "id": "biz_Liu7rZdamjPxjk",
+    "route": "dot-dev",
+    "title": "dot"
+   },
+   "accessPass": {
+    "id": "prod_JfmBbcJrixBPy",
+    "route": "wins-13",
+    "title": "Wins",
+    "headline": null,
+    "reviewsAverage": 4.75,
+    "publishedReviewsCount": 4,
+    "marketplaceCategory": {
+     "id": "mcat_dAIZYQY2VXEyC",
+     "name": "Community",
+     "route": "community"
+    }
+   }
+  },
+  {
+   "id": "app_BRleRm7yzyBCK3",
+   "name": "Shop",
+   "route": null,
+   "description": "Sell physical products on Whop.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1773131618,
+   "totalInstalls": 56,
+   "totalInstallsLast7Days": 20,
+   "totalInstallsLast30Days": 56,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 19,
+    "wau": 109,
+    "mau": 742,
+    "timeSpentLast24HoursInSeconds": 1166
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_2176865/image/apps/2026-02-09/4e1006b3-0f51-4b5d-8221-55a2a9c95523.png"
+   },
+   "creator": {
+    "id": "user_XQE5ZkrkBy9K5",
+    "username": "colin",
+    "name": "Colin McDermott"
+   },
+   "company": {
+    "id": "biz_r6TXA8eDp31e4p",
+    "route": "searchcandy",
+    "title": "Search Candy"
+   },
+   "accessPass": {
+    "id": "prod_hdcz2SUFpEADG",
+    "route": "shop-56",
+    "title": "Shop",
+    "headline": null,
+    "reviewsAverage": 5.0,
+    "publishedReviewsCount": 3,
+    "marketplaceCategory": {
+     "id": "mcat_IjnH3cXeqpPZQ",
+     "name": "E-commerce & Shopping",
+     "route": "ecommerce-shopping"
+    }
+   }
+  },
+  {
+   "id": "app_a9wAATNSIppNWg",
+   "name": "Welcome & Onboarding",
+   "route": null,
+   "description": "Create the perfect first impression, and introduce new users to your community with customizable welcome screens. Use video, images, links and more to give your users everything they need to get started and stay engaged.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1761264945,
+   "totalInstalls": 72,
+   "totalInstallsLast7Days": 20,
+   "totalInstallsLast30Days": 72,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 164,
+    "wau": 1096,
+    "mau": 3571,
+    "timeSpentLast24HoursInSeconds": 5172
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_18095451/image/apps/2025-10-24/67aeeb4c-33d0-4bb9-b1a6-d1ab383b4b78.png"
+   },
+   "creator": {
+    "id": "user_1hyQNU0BXuFtS",
+    "username": "appagentic",
+    "name": "Joe | App Agentic"
+   },
+   "company": {
+    "id": "biz_wVwyCSAUPchrgH",
+    "route": "app-agentic",
+    "title": "App Agentic"
+   },
+   "accessPass": {
+    "id": "prod_lLrrDbN78vzBP",
+    "route": "onboarding-designer",
+    "title": "Onboarding Designer",
+    "headline": null,
+    "reviewsAverage": 0.0,
+    "publishedReviewsCount": 0,
+    "marketplaceCategory": {
+     "id": "mcat_qywzObxKQ6Oyg",
+     "name": "Education",
+     "route": "education"
+    }
+   }
+  },
+  {
+   "id": "app_sKaQ5CA35JXFGA",
+   "name": "MKKT: Digital Store",
+   "route": null,
+   "description": "Sell your files inside and outside whop - Share one link anywhere, X, Facebook, Insta, and bring them into your whop ",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1773134815,
+   "totalInstalls": 73,
+   "totalInstallsLast7Days": 18,
+   "totalInstallsLast30Days": 73,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 2,
+    "wau": 26,
+    "mau": 80,
+    "timeSpentLast24HoursInSeconds": 48
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_17112407/image/apps/2026-07-22/25fdb49b-8d54-4a95-a15e-959b6d3939e1.svg"
+   },
+   "creator": {
+    "id": "user_sKFY141h8tW2j",
+    "username": "harrylite",
+    "name": "Harry"
+   },
+   "company": {
+    "id": "biz_vGuGnRjVRMSdjc",
+    "route": "mkkt",
+    "title": "MKKT - Digital Store"
+   },
+   "accessPass": {
+    "id": "prod_uUSQrCH7sW8gS",
+    "route": "marketplace-68",
+    "title": "Sell Digital Products — MKKT",
+    "headline": "Sell ebooks, PDFs, templates and courses to your members. One store link.",
+    "reviewsAverage": 5.0,
+    "publishedReviewsCount": 2,
+    "marketplaceCategory": {
+     "id": "mcat_IjnH3cXeqpPZQ",
+     "name": "E-commerce & Shopping",
+     "route": "ecommerce-shopping"
+    }
+   }
+  },
+  {
+   "id": "app_HAoaDlDP4OgB8D",
+   "name": "Affiliate ",
+   "route": null,
+   "description": "Enhanced affiliate tracking and campaign creation beyond Whop’s basic system.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1766200060,
+   "totalInstalls": 83,
+   "totalInstallsLast7Days": 18,
+   "totalInstallsLast30Days": 83,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 4,
+    "wau": 24,
+    "mau": 116,
+    "timeSpentLast24HoursInSeconds": 14
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_1714827/image/apps/2025-12-08/6d26e690-3464-404a-a738-37fc462ec226.avif"
+   },
+   "creator": {
+    "id": "user_eaiLKL0HXsmRs",
+    "username": "judeioppolo",
+    "name": "Jude Ioppolo"
+   },
+   "company": {
+    "id": "biz_1o2vV23RuFslAX",
+    "route": "ftg-e1d4",
+    "title": "ftg"
+   },
+   "accessPass": {
+    "id": "prod_MIIwX1x70UrH8",
+    "route": "affilate-32",
+    "title": "Affilate ",
+    "headline": null,
+    "reviewsAverage": 0.0,
+    "publishedReviewsCount": 0,
+    "marketplaceCategory": {
+     "id": "mcat_ZFCiyOAkQQXzA",
+     "name": "Marketing & Growth",
+     "route": "marketing-growth"
+    }
+   }
+  },
+  {
+   "id": "app_aRCN7F5IlSMd2c",
+   "name": "ClipCap",
+   "route": null,
+   "description": "Clipping tool for bulk generating viral clips and adding subtitles. Creators Earn 20% commission for their members subscriptions. ",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1775604225,
+   "totalInstalls": 58,
+   "totalInstallsLast7Days": 18,
+   "totalInstallsLast30Days": 58,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 5,
+    "wau": 22,
+    "mau": 103,
+    "timeSpentLast24HoursInSeconds": 38
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_7141426/image/apps/2026-03-13/e3cbc92e-6b5c-4447-94cc-cac57b9b0504.png"
+   },
+   "creator": {
+    "id": "user_1ZQyNKxYe1Xg8",
+    "username": "nokoro",
+    "name": "Noah"
+   },
+   "company": {
+    "id": "biz_7ALQvcsQd7zvbX",
+    "route": "whopapp-1c59",
+    "title": "ClipCap"
+   },
+   "accessPass": {
+    "id": "prod_FuzMAf1U788lA",
+    "route": "clipcap",
+    "title": "Basic",
+    "headline": "",
+    "reviewsAverage": 0.0,
+    "publishedReviewsCount": 0,
+    "marketplaceCategory": {
+     "id": "mcat_mgD3g5EDUZ3Uh",
+     "name": "AI",
+     "route": "ai"
+    }
+   }
+  },
+  {
+   "id": "app_563viWsZWeQgjn",
+   "name": "Clipcash — Content Rewards",
+   "route": null,
+   "description": "Easily request marketing content from your community",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1756157260,
+   "totalInstalls": 54,
+   "totalInstallsLast7Days": 13,
+   "totalInstallsLast30Days": 54,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 0,
+    "wau": 11,
+    "mau": 47,
+    "timeSpentLast24HoursInSeconds": 0
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_8444455/image/apps/2025-08-19/6ee74efd-4948-4d82-9fc1-4b1171031e62"
+   },
+   "creator": {
+    "id": "user_0hA7TPkmcBtXT",
+    "username": "l",
+    "name": "luka"
+   },
+   "company": {
+    "id": "biz_aiWHMLzz1Dg9yl",
+    "route": "whoplabs-main",
+    "title": "Whop Labs"
+   },
+   "accessPass": {
+    "id": "prod_oD1ZhNidha9Fx",
+    "route": "clipcash-a7",
+    "title": "ClipCash",
+    "headline": null,
+    "reviewsAverage": 4.46,
+    "publishedReviewsCount": 24,
+    "marketplaceCategory": {
+     "id": "mcat_DFkAvjs7qfa7u",
+     "name": "Social Media",
+     "route": "social-media"
+    }
+   }
+  },
+  {
+   "id": "app_CBnePu0MQNJPhb",
+   "name": "TradingView",
+   "route": null,
+   "description": "Manage, gate, and sell access to your TradingView indicators.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1772651984,
+   "totalInstalls": 91,
+   "totalInstallsLast7Days": 13,
+   "totalInstallsLast30Days": 91,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 118,
+    "wau": 486,
+    "mau": 2058,
+    "timeSpentLast24HoursInSeconds": 4390
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_233487/image/apps/2026-01-29/20facc7f-75a7-4432-b66a-33fb49ef7010.png"
+   },
+   "creator": {
+    "id": "user_pqIOfXuAWAydZ",
+    "username": "qlub99",
+    "name": "qlub99"
+   },
+   "company": {
+    "id": "biz_4V2Z7FGU2HtVB5",
+    "route": "qlub99",
+    "title": "qlub99"
+   },
+   "accessPass": {
+    "id": "prod_sVWJTP21Qzrjf",
+    "route": "tradingview-53",
+    "title": "TradingView",
+    "headline": null,
+    "reviewsAverage": 5.0,
+    "publishedReviewsCount": 12,
+    "marketplaceCategory": {
+     "id": "mcat_2wi1DcDey18vq",
+     "name": "Trading",
+     "route": "trading"
+    }
+   }
+  },
+  {
+   "id": "app_GZakxXgrbGBb8s",
+   "name": "Wins",
+   "route": null,
+   "description": "A Wall of Wins where your community can post and celebrate their biggest successes.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1748896299,
+   "totalInstalls": 100,
+   "totalInstallsLast7Days": 12,
+   "totalInstallsLast30Days": 100,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 61,
+    "wau": 378,
+    "mau": 1613,
+    "timeSpentLast24HoursInSeconds": 525
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_3644019/image/apps/2025-06-11/471d2040-bf36-4706-b92d-96395970162e"
+   },
+   "creator": {
+    "id": "user_pgy3vSOTo5piJ",
+    "username": "siyabuilt",
+    "name": "Siya"
+   },
+   "company": {
+    "id": "biz_fwyRRbkPRVojln",
+    "route": "codebox",
+    "title": "CIYA"
+   },
+   "accessPass": {
+    "id": "prod_4pZOpW2lMbS48",
+    "route": "wins-f8",
+    "title": "Wins",
+    "headline": null,
+    "reviewsAverage": 5.0,
+    "publishedReviewsCount": 3,
+    "marketplaceCategory": {
+     "id": "mcat_dAIZYQY2VXEyC",
+     "name": "Community",
+     "route": "community"
+    }
+   }
+  },
+  {
+   "id": "app_LJBf23IioJe6Xo",
+   "name": "Chess",
+   "route": null,
+   "description": "Play chess on your phone directly inside Whop!",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1756476792,
+   "totalInstalls": 42,
+   "totalInstallsLast7Days": 12,
+   "totalInstallsLast30Days": 42,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 3,
+    "wau": 19,
+    "mau": 67,
+    "timeSpentLast24HoursInSeconds": 836
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_929273/image/apps/2025-08-29/8c641f8c-a835-43eb-98ba-6373854237bd"
+   },
+   "creator": {
+    "id": "user_v9KUoZvTGp6ID",
+    "username": "j",
+    "name": "Jordan"
+   },
+   "company": {
+    "id": "biz_jPnadnrzz8Ab5g",
+    "route": "jordan",
+    "title": "Jordan"
+   },
+   "accessPass": {
+    "id": "prod_81kt7ciMrhw03",
+    "route": "chess-7a",
+    "title": "Chess",
+    "headline": null,
+    "reviewsAverage": 4.64,
+    "publishedReviewsCount": 11,
+    "marketplaceCategory": {
+     "id": "mcat_2tnhBIfC6QvT8",
+     "name": "Games",
+     "route": "games"
+    }
+   }
+  },
+  {
+   "id": "app_4U33T3mWdiCseF",
+   "name": "Knowledge Base",
+   "route": null,
+   "description": "Docs, PDFs, images, website embeds, and folders for your community.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1770256500,
+   "totalInstalls": 51,
+   "totalInstallsLast7Days": 12,
+   "totalInstallsLast30Days": 51,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 62,
+    "wau": 369,
+    "mau": 805,
+    "timeSpentLast24HoursInSeconds": 1959
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_20714907/image/apps/2026-01-07/693ab436-dacb-4188-b103-9a80a9351542.png"
+   },
+   "creator": {
+    "id": "user_pcH27vhLSSxOw",
+    "username": "heysalesman",
+    "name": "David"
+   },
+   "company": {
+    "id": "biz_902VyJrNkT0x2A",
+    "route": "hey-salesman",
+    "title": "Hey Salesman"
+   },
+   "accessPass": {
+    "id": "prod_jOvfBTWLgGoOA",
+    "route": "knowledge-base-9c",
+    "title": "Knowledge base",
+    "headline": null,
+    "reviewsAverage": 4.0,
+    "publishedReviewsCount": 1,
+    "marketplaceCategory": {
+     "id": "mcat_9380pbpfyhcJK",
+     "name": "Business & Productivity",
+     "route": "business-productivity"
+    }
+   }
+  },
+  {
+   "id": "app_kKVYS0jsqo172g",
+   "name": "Giveaways",
+   "route": null,
+   "description": "Host community giveaways.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1758572445,
+   "totalInstalls": 45,
+   "totalInstallsLast7Days": 11,
+   "totalInstallsLast30Days": 45,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 195,
+    "wau": 984,
+    "mau": 3590,
+    "timeSpentLast24HoursInSeconds": 2986
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_7726231/image/apps/2025-06-14/2cd9fe20-a1f7-4a0e-972d-1fe4ee0e0a5f"
+   },
+   "creator": {
+    "id": "user_qA7qoyIEltApi",
+    "username": "dot",
+    "name": "dot"
+   },
+   "company": {
+    "id": "biz_Liu7rZdamjPxjk",
+    "route": "dot-dev",
+    "title": "dot"
+   },
+   "accessPass": {
+    "id": "prod_blOPdjsafjYEk",
+    "route": "giveaways-7d",
+    "title": "Giveaways",
+    "headline": "Giveaways",
+    "reviewsAverage": 4.75,
+    "publishedReviewsCount": 4,
+    "marketplaceCategory": {
+     "id": "mcat_dAIZYQY2VXEyC",
+     "name": "Community",
+     "route": "community"
+    }
+   }
+  },
+  {
+   "id": "app_TNaDYdfCZHqGEP",
+   "name": "Boosta - AI clipping tool",
+   "route": null,
+   "description": "Cloud, Desktop & API. 🖥️☁️ Turn long videos into viral Shorts. 💸 WHOP OWNERS earn 30% Revenue Share",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1770256147,
+   "totalInstalls": 31,
+   "totalInstallsLast7Days": 11,
+   "totalInstallsLast30Days": 31,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 2,
+    "wau": 8,
+    "mau": 22,
+    "timeSpentLast24HoursInSeconds": 211
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_4585540/image/apps/2026-01-01/341c3011-2e72-496e-8121-ef32900ee2fe.png"
+   },
+   "creator": {
+    "id": "user_PwTaMEFKkrpJB",
+    "username": "hundevmode",
+    "name": "Hun"
+   },
+   "company": {
+    "id": "biz_zoZ73YUR7CM0PD",
+    "route": "boosta-2501",
+    "title": "Boosta"
+   },
+   "accessPass": {
+    "id": "prod_zJvPtPkr0cMEB",
+    "route": "boosta-74",
+    "title": "Boosta",
+    "headline": null,
+    "reviewsAverage": 0.0,
+    "publishedReviewsCount": 0,
+    "marketplaceCategory": {
+     "id": "mcat_mgD3g5EDUZ3Uh",
+     "name": "AI",
+     "route": "ai"
+    }
+   }
+  },
+  {
+   "id": "app_YHzng07IQoXgyN",
+   "name": "Tasks",
+   "route": null,
+   "description": "Give your members tasks to do and give them prizes when they finish.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1759334173,
+   "totalInstalls": 21,
+   "totalInstallsLast7Days": 9,
+   "totalInstallsLast30Days": 21,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 51,
+    "wau": 111,
+    "mau": 203,
+    "timeSpentLast24HoursInSeconds": 3048
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2026-10-31/d92eda5a-6542-4edc-91a2-6717aeea557f/image.png"
+   },
+   "creator": {
+    "id": "user_HWrl2veKqlLbw",
+    "username": "lemos",
+    "name": "Lemos"
+   },
+   "company": {
+    "id": "biz_it5yk1L0aUU68h",
+    "route": "ignited",
+    "title": "Ignited"
+   },
+   "accessPass": {
+    "id": "prod_FOmlUcSwGsujV",
+    "route": "tasks",
+    "title": "Tasks",
+    "headline": null,
+    "reviewsAverage": 4.9,
+    "publishedReviewsCount": 20,
+    "marketplaceCategory": {
+     "id": "mcat_dAIZYQY2VXEyC",
+     "name": "Community",
+     "route": "community"
+    }
+   }
+  },
+  {
+   "id": "app_O7SZaErflBy3e8",
+   "name": "Linkly",
+   "route": null,
+   "description": "A simple minimal app to display all your important links in one place.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1763592009,
+   "totalInstalls": 69,
+   "totalInstallsLast7Days": 9,
+   "totalInstallsLast30Days": 69,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 51,
+    "wau": 319,
+    "mau": 1418,
+    "timeSpentLast24HoursInSeconds": 904
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2026-10-03/a6127c7d-7fce-4a1b-94c1-7e04f126f268/image.png"
+   },
+   "creator": {
+    "id": "user_jgeSr7WwzU1tJ",
+    "username": "muzammilmac",
+    "name": "Muzammil"
+   },
+   "company": {
+    "id": "biz_3vivbcFuJ4E5tg",
+    "route": "whoplyhq",
+    "title": "Whoply HQ"
+   },
+   "accessPass": {
+    "id": "prod_ohBVNEXGLL54u",
+    "route": "test-47-c924",
+    "title": "Linkly",
+    "headline": "All your links in one place",
+    "reviewsAverage": 5.0,
+    "publishedReviewsCount": 1,
+    "marketplaceCategory": {
+     "id": "mcat_9380pbpfyhcJK",
+     "name": "Business & Productivity",
+     "route": "business-productivity"
+    }
+   }
+  },
+  {
+   "id": "app_J28UL4HogP7myX",
+   "name": "Job Board",
+   "route": null,
+   "description": "Post job openings for your business.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1706288649,
+   "totalInstalls": 29,
+   "totalInstallsLast7Days": 8,
+   "totalInstallsLast30Days": 29,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 65,
+    "wau": 314,
+    "mau": 1027,
+    "timeSpentLast24HoursInSeconds": 469
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-01-29/user_1057900_612c47de-ae38-4121-a970-a0d8e7321a40.svg"
+   },
+   "creator": {
+    "id": "user_lcrm6XM6nQOBB",
+    "username": "connor",
+    "name": "Connor"
+   },
+   "company": {
+    "id": "biz_h1gdbcWJ609Ang",
+    "route": "c1ca1b13-76d0-4b63-8fdf-ec9a72cb1fa2",
+    "title": "Whop"
+   },
+   "accessPass": {
+    "id": "prod_Bc4sY1Ml2zmfR",
+    "route": "job-board",
+    "title": "Job Board",
+    "headline": "Post job openings easily",
+    "reviewsAverage": 0.0,
+    "publishedReviewsCount": 0,
+    "marketplaceCategory": {
+     "id": "mcat_9380pbpfyhcJK",
+     "name": "Business & Productivity",
+     "route": "business-productivity"
+    }
+   }
+  },
+  {
+   "id": "app_V3EsjujTsLBOlW",
+   "name": "WelcomeKit",
+   "route": null,
+   "description": "Welcome new members with a seamless onboarding journey",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1760046816,
+   "totalInstalls": 18,
+   "totalInstallsLast7Days": 8,
+   "totalInstallsLast30Days": 18,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 0,
+    "wau": 10,
+    "mau": 24,
+    "timeSpentLast24HoursInSeconds": 0
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_17922547/image/apps/2025-10-04/0034c38e-a989-41af-8e05-fa99b34c6aa2.png"
+   },
+   "creator": {
+    "id": "user_N2JE7G5NHxLbQ",
+    "username": "nirali-dev",
+    "name": "Nirali"
+   },
+   "company": {
+    "id": "biz_TQeCIBKSPhk66e",
+    "route": "whop-apps-d2ff",
+    "title": "whop apps"
+   },
+   "accessPass": {
+    "id": "prod_gtVpkLRrxcwxi",
+    "route": "onboardingscreen",
+    "title": "OnboardingScreen",
+    "headline": null,
+    "reviewsAverage": 5.0,
+    "publishedReviewsCount": 1,
+    "marketplaceCategory": {
+     "id": "mcat_dAIZYQY2VXEyC",
+     "name": "Community",
+     "route": "community"
+    }
+   }
+  }
+ ]
+}

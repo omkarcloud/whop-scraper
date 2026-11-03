@@ -1,0 +1,1430 @@
+{
+ "totalCount": 179,
+ "pageInfo": {
+  "hasNextPage": false,
+  "endCursor": "MTc5"
+ },
+ "nodes": [
+  {
+   "id": "app_KqT19h1v7HkqXA",
+   "name": "FlipTrack Pro",
+   "route": null,
+   "description": "FlipTrack Pro – ROI Tracker & Dashboard for Sneaker and Flip Resellers",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1761058223,
+   "totalInstalls": 2,
+   "totalInstallsLast7Days": 0,
+   "totalInstallsLast30Days": 2,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 0,
+    "wau": 0,
+    "mau": 2,
+    "timeSpentLast24HoursInSeconds": 0
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_7242376/image/apps/2025-10-05/c6fdacae-6893-4adb-9b69-2abcf854cc77.png"
+   },
+   "creator": {
+    "id": "user_EhbWjfxlexBAk",
+    "username": "anyanjoarthur",
+    "name": "Arthur"
+   },
+   "company": {
+    "id": "biz_8WM0TlPxPnCB7R",
+    "route": "luxury-codes",
+    "title": "Luxury Codes"
+   },
+   "accessPass": {
+    "id": "prod_6BtLzeGH9RLZo",
+    "route": "fliptrack-pro",
+    "title": "FlipTrack Pro",
+    "headline": null,
+    "reviewsAverage": 0.0,
+    "publishedReviewsCount": 0,
+    "marketplaceCategory": {
+     "id": "mcat_IjnH3cXeqpPZQ",
+     "name": "E-commerce & Shopping",
+     "route": "ecommerce-shopping"
+    }
+   }
+  },
+  {
+   "id": "app_Umkc8pwGBbLQ1H",
+   "name": "Leaderboard",
+   "route": null,
+   "description": "Simple, fast, and clear way to manage points and rankings in real time.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1760116977,
+   "totalInstalls": 4,
+   "totalInstallsLast7Days": 0,
+   "totalInstallsLast30Days": 4,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 1,
+    "wau": 16,
+    "mau": 63,
+    "timeSpentLast24HoursInSeconds": 1
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_342486/image/apps/2025-10-10/47856f89-4031-40c3-aeb4-177a5f2e500d.png"
+   },
+   "creator": {
+    "id": "user_8TkKKL6cR6AoX",
+    "username": "tsarp",
+    "name": "Andrew Weir"
+   },
+   "company": {
+    "id": "biz_7MiHfVRaR8S1LN",
+    "route": "tracka-labs",
+    "title": "Vertigo Apps"
+   },
+   "accessPass": {
+    "id": "prod_CGPKgJqbQRTwd",
+    "route": "leaderboard-9b",
+    "title": "Leaderboard",
+    "headline": null,
+    "reviewsAverage": 3.75,
+    "publishedReviewsCount": 8,
+    "marketplaceCategory": {
+     "id": "mcat_dAIZYQY2VXEyC",
+     "name": "Community",
+     "route": "community"
+    }
+   }
+  },
+  {
+   "id": "app_cByRe28Etwc0vO",
+   "name": "Trivio – Daily Trivia Games",
+   "route": null,
+   "description": "Daily trivia games for your community — no effort required. Increase retention, spark conversations, and make your members addicted to coming back, every single day.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1760793615,
+   "totalInstalls": 3,
+   "totalInstallsLast7Days": 0,
+   "totalInstallsLast30Days": 3,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 0,
+    "wau": 1,
+    "mau": 3,
+    "timeSpentLast24HoursInSeconds": 0
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_18137042/image/apps/2025-10-16/51021b9d-f038-4e11-b311-1d69d50ab1cd.png"
+   },
+   "creator": {
+    "id": "user_BwLDV5c7Li2EC",
+    "username": "jonahships",
+    "name": "Jonah H."
+   },
+   "company": {
+    "id": "biz_M1RTWZ6XvZuy14",
+    "route": "nebaura",
+    "title": "Nebaura Studios"
+   },
+   "accessPass": {
+    "id": "prod_Rna9HFMiLw14e",
+    "route": "trivio-engage-your-community-44",
+    "title": "Trivio – Engage Your Community",
+    "headline": null,
+    "reviewsAverage": 0.0,
+    "publishedReviewsCount": 0,
+    "marketplaceCategory": {
+     "id": "mcat_2tnhBIfC6QvT8",
+     "name": "Games",
+     "route": "games"
+    }
+   }
+  },
+  {
+   "id": "app_vtllLWAJVNPPVC",
+   "name": "Quizzes",
+   "route": null,
+   "description": "Qualify users, book calls, and upsell products with payment-integrated quiz funnels.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1761984140,
+   "totalInstalls": 2,
+   "totalInstallsLast7Days": 0,
+   "totalInstallsLast30Days": 2,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 0,
+    "wau": 0,
+    "mau": 2,
+    "timeSpentLast24HoursInSeconds": 0
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_2008844/image/apps/2025-10-29/60f89688-6fcb-4fe8-ba17-ddcbbd4eb2cc.png"
+   },
+   "creator": {
+    "id": "user_3p3aPZKcPSAvx",
+    "username": "leihang12",
+    "name": "Lei Hang"
+   },
+   "company": {
+    "id": "biz_LUg6396wqeKQnZ",
+    "route": "aiboss",
+    "title": "Superb Web Solutions LLC"
+   },
+   "accessPass": {
+    "id": "prod_IJfpXjv76DCq5",
+    "route": "onboarding-quiz-funnel",
+    "title": "Onboarding Quiz Funnel",
+    "headline": null,
+    "reviewsAverage": 5.0,
+    "publishedReviewsCount": 1,
+    "marketplaceCategory": {
+     "id": "mcat_ZFCiyOAkQQXzA",
+     "name": "Marketing & Growth",
+     "route": "marketing-growth"
+    }
+   }
+  },
+  {
+   "id": "app_sAdJ6w0OBnYzDk",
+   "name": "Feedback Board",
+   "route": null,
+   "description": "Commuity board your users can submit feedback and upvote",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1760973389,
+   "totalInstalls": 0,
+   "totalInstallsLast7Days": 0,
+   "totalInstallsLast30Days": 0,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 0,
+    "wau": 1,
+    "mau": 3,
+    "timeSpentLast24HoursInSeconds": 0
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_44023/image/apps/2025-10-30/dce6f1f3-f362-4f91-8ce7-fc599597a8a3.png"
+   },
+   "creator": {
+    "id": "user_gN4OcYrMArW0O",
+    "username": "unmethodicalphotomicrographyc63f",
+    "name": "HappyFeet"
+   },
+   "company": {
+    "id": "biz_mQ4EmggqViXDrT",
+    "route": "happy-industries",
+    "title": "Happy Industries"
+   },
+   "accessPass": {
+    "id": "prod_aiLfuwBZIEXRj",
+    "route": "suggestions-c8",
+    "title": "Suggestions",
+    "headline": null,
+    "reviewsAverage": 4.0,
+    "publishedReviewsCount": 3,
+    "marketplaceCategory": {
+     "id": "mcat_Rq94nnQRgM923",
+     "name": "Customer Support",
+     "route": "customer-support"
+    }
+   }
+  },
+  {
+   "id": "app_rA572sv16PrTaX",
+   "name": "Frequently Asked Questions",
+   "route": null,
+   "description": "A simple app that allows creators to set up frequently asked questions that the user's can view. ",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1761059900,
+   "totalInstalls": 2,
+   "totalInstallsLast7Days": 0,
+   "totalInstallsLast30Days": 2,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 0,
+    "wau": 0,
+    "mau": 2,
+    "timeSpentLast24HoursInSeconds": 0
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_627894/image/apps/2025-10-21/143ded57-82cb-41b1-8aed-bacb94aae0b2.png"
+   },
+   "creator": {
+    "id": "user_iUFUGdVY8tMNC",
+    "username": "matthewburgess10",
+    "name": "Matthew Burgess"
+   },
+   "company": {
+    "id": "biz_RVA3Va08huRtNE",
+    "route": "access-expiry-notifier",
+    "title": "CodeWave Apps"
+   },
+   "accessPass": {
+    "id": "prod_XO5ymmT1AnN5j",
+    "route": "access-expiry-notifier-78",
+    "title": "Access Expiry Notifier",
+    "headline": null,
+    "reviewsAverage": 0.0,
+    "publishedReviewsCount": 0,
+    "marketplaceCategory": {
+     "id": "mcat_Rq94nnQRgM923",
+     "name": "Customer Support",
+     "route": "customer-support"
+    }
+   }
+  },
+  {
+   "id": "app_wCQHUerMIbO5cV",
+   "name": "Feedback Tracker",
+   "route": null,
+   "description": "Track your community's feedback",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1762614005,
+   "totalInstalls": 1,
+   "totalInstallsLast7Days": 0,
+   "totalInstallsLast30Days": 1,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 0,
+    "wau": 3,
+    "mau": 15,
+    "timeSpentLast24HoursInSeconds": 0
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_18295730/image/apps/2025-10-24/ce7b2f99-b199-4fe8-8ec9-72c9c9da3166.png"
+   },
+   "creator": {
+    "id": "user_myffvpwr60BkI",
+    "username": "paulcardenasc",
+    "name": "Paul Cardenas"
+   },
+   "company": {
+    "id": "biz_z0beP4FO5d8gRe",
+    "route": "scribebit",
+    "title": "Zega Apps"
+   },
+   "accessPass": {
+    "id": "prod_xXgrXbNfYwNU2",
+    "route": "feedback-tracker",
+    "title": "Feedback Tracker",
+    "headline": null,
+    "reviewsAverage": 0.0,
+    "publishedReviewsCount": 0,
+    "marketplaceCategory": {
+     "id": "mcat_dAIZYQY2VXEyC",
+     "name": "Community",
+     "route": "community"
+    }
+   }
+  },
+  {
+   "id": "app_o0RdcVfY4NUmlR",
+   "name": "Spark",
+   "route": null,
+   "description": "A real time feed for your community to share quick insights, upvote ideas, and climb leaderboards through engagement.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1761245455,
+   "totalInstalls": 2,
+   "totalInstallsLast7Days": 0,
+   "totalInstallsLast30Days": 2,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 0,
+    "wau": 3,
+    "mau": 13,
+    "timeSpentLast24HoursInSeconds": 0
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_15107895/image/apps/2025-10-22/af16ebc0-e50b-4a55-9af4-fe311bdc91f0.png"
+   },
+   "creator": {
+    "id": "user_ug7AUOS0wuIBu",
+    "username": "maybelaurence",
+    "name": "Lenz"
+   },
+   "company": {
+    "id": "biz_K1oZa8bZiNreSZ",
+    "route": "lenz-apps",
+    "title": "Lenz Apps"
+   },
+   "accessPass": {
+    "id": "prod_Wwfm3wAyPC0Bx",
+    "route": "react-router",
+    "title": "react-router",
+    "headline": null,
+    "reviewsAverage": 5.0,
+    "publishedReviewsCount": 2,
+    "marketplaceCategory": {
+     "id": "mcat_dAIZYQY2VXEyC",
+     "name": "Community",
+     "route": "community"
+    }
+   }
+  },
+  {
+   "id": "app_Aa24d5Nw4TTDzc",
+   "name": "Surveys",
+   "route": null,
+   "description": "Create surveys with AI summaries and reward your members. Build surveys with conditional logic, templates, and analytics for your Whop community.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1765512130,
+   "totalInstalls": 4,
+   "totalInstallsLast7Days": 0,
+   "totalInstallsLast30Days": 4,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 0,
+    "wau": 0,
+    "mau": 4,
+    "timeSpentLast24HoursInSeconds": 0
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_1757791/image/apps/2025-11-11/341eee73-87de-4e34-bd67-7dd919a4484f.png"
+   },
+   "creator": {
+    "id": "user_WMpuBs1jYk5YG",
+    "username": "marlinwmack",
+    "name": "Marlin Mack"
+   },
+   "company": {
+    "id": "biz_MdzxzxWmb8BFBI",
+    "route": "sample-7fbe",
+    "title": "Sample"
+   },
+   "accessPass": {
+    "id": "prod_Sih0kG8yGzBDk",
+    "route": "surveys-21",
+    "title": "Surveys",
+    "headline": null,
+    "reviewsAverage": 0.0,
+    "publishedReviewsCount": 0,
+    "marketplaceCategory": {
+     "id": "mcat_Rq94nnQRgM923",
+     "name": "Customer Support",
+     "route": "customer-support"
+    }
+   }
+  },
+  {
+   "id": "app_FQhiJWjufWfCkJ",
+   "name": "Engagement Rewards",
+   "route": null,
+   "description": "Turn engagement into competition. Auto-track engagement, rank members, and pay out prizes to keep your top members coming back.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1761411759,
+   "totalInstalls": 6,
+   "totalInstallsLast7Days": 0,
+   "totalInstallsLast30Days": 6,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 1,
+    "wau": 16,
+    "mau": 60,
+    "timeSpentLast24HoursInSeconds": 2
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_1593784/image/apps/2025-10-25/901d7555-8aab-4661-8212-3f7c2ce31425.png"
+   },
+   "creator": {
+    "id": "user_z4HQJgxvSuyUf",
+    "username": "kianfahimi",
+    "name": "kian"
+   },
+   "company": {
+    "id": "biz_qPK67VZ7YaFgg9",
+    "route": "9a672dae-9822-424e-9d44-7cc64f846d17",
+    "title": "Engagement Rewards"
+   },
+   "accessPass": {
+    "id": "prod_G2GFH8zLf218P",
+    "route": "engagement-rewards-7d",
+    "title": "Engagement Rewards",
+    "headline": null,
+    "reviewsAverage": 5.0,
+    "publishedReviewsCount": 4,
+    "marketplaceCategory": {
+     "id": "mcat_9380pbpfyhcJK",
+     "name": "Business & Productivity",
+     "route": "business-productivity"
+    }
+   }
+  },
+  {
+   "id": "app_ybhq64JoEQa4Lt",
+   "name": "CourtPulse",
+   "route": null,
+   "description": "Live NBA & NFL Scores",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1761346849,
+   "totalInstalls": 3,
+   "totalInstallsLast7Days": 0,
+   "totalInstallsLast30Days": 3,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 0,
+    "wau": 1,
+    "mau": 11,
+    "timeSpentLast24HoursInSeconds": 0
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_1234549/image/apps/2025-10-24/9cf69ca4-954c-4760-ac0b-bd0f1e13668a.png"
+   },
+   "creator": {
+    "id": "user_VeR89isUKLjVj",
+    "username": "edisonisgrowing",
+    "name": "Edison"
+   },
+   "company": {
+    "id": "biz_HUd6NiNNIq9stT",
+    "route": "wsa",
+    "title": "wsa"
+   },
+   "accessPass": {
+    "id": "prod_9Wb4CCR58QtTp",
+    "route": "courtpulse",
+    "title": "CourtPulse",
+    "headline": null,
+    "reviewsAverage": 5.0,
+    "publishedReviewsCount": 1,
+    "marketplaceCategory": {
+     "id": "mcat_Vi5RKLFDSEYVX",
+     "name": "Sports",
+     "route": "sports"
+    }
+   }
+  },
+  {
+   "id": "app_LxagxmCSHDYHC1",
+   "name": "Type Racer Game",
+   "route": null,
+   "description": "Let your users play a type racer game and earn a % of the money.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1761988591,
+   "totalInstalls": 1,
+   "totalInstallsLast7Days": 0,
+   "totalInstallsLast30Days": 1,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 0,
+    "wau": 0,
+    "mau": 2,
+    "timeSpentLast24HoursInSeconds": 0
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_18386111/image/apps/2025-10-25/072139b1-3692-46d2-be68-2ba9279eefda.png"
+   },
+   "creator": {
+    "id": "user_pYeZ73dHZhv0Q",
+    "username": "ijt",
+    "name": "Ahmed Gagan"
+   },
+   "company": {
+    "id": "biz_mc1dcALnoCZTdH",
+    "route": "ahmed-gagan",
+    "title": "Ahmed Gagan"
+   },
+   "accessPass": {
+    "id": "prod_NsFPtYqJWw18L",
+    "route": "type-racer-game",
+    "title": "Type Racer Game",
+    "headline": "Type Racer Game",
+    "reviewsAverage": 0.0,
+    "publishedReviewsCount": 0,
+    "marketplaceCategory": {
+     "id": "mcat_2tnhBIfC6QvT8",
+     "name": "Games",
+     "route": "games"
+    }
+   }
+  },
+  {
+   "id": "app_rzUx2xLZOsDuxu",
+   "name": "The Ladder",
+   "route": null,
+   "description": "Allow your community to compete on a live leaderboard, boost engagement, and win exclusive coupons for their activity.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1763173636,
+   "totalInstalls": 1,
+   "totalInstallsLast7Days": 0,
+   "totalInstallsLast30Days": 1,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 0,
+    "wau": 1,
+    "mau": 4,
+    "timeSpentLast24HoursInSeconds": 0
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_18291901/image/apps/2025-11-17/276d12e3-906a-4133-bbe2-733018f9b9ff.png"
+   },
+   "creator": {
+    "id": "user_Wxp4CWQbsUXtl",
+    "username": "samgrs",
+    "name": "Sam"
+   },
+   "company": {
+    "id": "biz_Lc3hR7Idy1Vn1a",
+    "route": "sam-development-agency",
+    "title": "Sam Development Agency"
+   },
+   "accessPass": {
+    "id": "prod_9rRG28hOeRq32",
+    "route": "the-ladder-a7",
+    "title": "The Ladder",
+    "headline": null,
+    "reviewsAverage": 0.0,
+    "publishedReviewsCount": 0,
+    "marketplaceCategory": {
+     "id": "mcat_dAIZYQY2VXEyC",
+     "name": "Community",
+     "route": "community"
+    }
+   }
+  },
+  {
+   "id": "app_rEB8gGHOYy5Vd1",
+   "name": "ClyptAI",
+   "route": null,
+   "description": "ClyptAI is the gateway to crypto agent trading: AI agents that retail traders own, name, and grow, built on Hyperliquid",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1769541800,
+   "totalInstalls": 1,
+   "totalInstallsLast7Days": 0,
+   "totalInstallsLast30Days": 1,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 0,
+    "wau": 1,
+    "mau": 4,
+    "timeSpentLast24HoursInSeconds": 0
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_19007097/image/apps/2026-03-23/8f5c944d-94fa-4e0f-a46f-fbd7d489d60c.png"
+   },
+   "creator": {
+    "id": "user_djEIes3olBgGd",
+    "username": "clyptai",
+    "name": "ClyptAI"
+   },
+   "company": {
+    "id": "biz_Tf8vA1fkyEG8M3",
+    "route": "clyptai",
+    "title": "ClyptAI"
+   },
+   "accessPass": {
+    "id": "prod_xdDuyOlOASqjC",
+    "route": "clypt-prod-51",
+    "title": "ClyptAI",
+    "headline": "Access to Institutional grade Crypto Strategies",
+    "reviewsAverage": 5.0,
+    "publishedReviewsCount": 7,
+    "marketplaceCategory": {
+     "id": "mcat_2wi1DcDey18vq",
+     "name": "Trading",
+     "route": "trading"
+    }
+   }
+  },
+  {
+   "id": "app_82JO6tIdIZN9LV",
+   "name": "Tier Maker",
+   "route": null,
+   "description": "Create live tier lists where members can rank items, debate placements, and stay engaged.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1763065605,
+   "totalInstalls": 1,
+   "totalInstallsLast7Days": 0,
+   "totalInstallsLast30Days": 1,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 0,
+    "wau": 0,
+    "mau": 2,
+    "timeSpentLast24HoursInSeconds": 0
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_1988467/image/apps/2025-11-03/b75c64d8-0025-4cef-86ac-8ab0468d75ef.png"
+   },
+   "creator": {
+    "id": "user_zTz43UvWWvtlE",
+    "username": "jazzz1",
+    "name": "jazzz1"
+   },
+   "company": {
+    "id": "biz_qk8jOPVkMlqHXP",
+    "route": "neurotech-solutions-a914",
+    "title": "NeuroTech Solutions"
+   },
+   "accessPass": {
+    "id": "prod_V9MLjm8T0D3u9",
+    "route": "tier-maker",
+    "title": "Tier Maker",
+    "headline": null,
+    "reviewsAverage": 0.0,
+    "publishedReviewsCount": 0,
+    "marketplaceCategory": {
+     "id": "mcat_dAIZYQY2VXEyC",
+     "name": "Community",
+     "route": "community"
+    }
+   }
+  },
+  {
+   "id": "app_JxC65kDufm1sK9",
+   "name": "Chat Tiers",
+   "route": null,
+   "description": "Divide members into tiers like beginner, intermediate, & advanced; Do tier specific chat.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1762849531,
+   "totalInstalls": 9,
+   "totalInstallsLast7Days": 0,
+   "totalInstallsLast30Days": 9,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 6,
+    "wau": 25,
+    "mau": 157,
+    "timeSpentLast24HoursInSeconds": 54
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_8828883/image/apps/2025-11-12/cdd17d13-7e2d-4bf9-94ec-cc9907efa20d.png"
+   },
+   "creator": {
+    "id": "user_e6YOHUJyuT8pu",
+    "username": "mayank1712",
+    "name": "Mayank Thakur"
+   },
+   "company": {
+    "id": "biz_emESPodVAfCDQo",
+    "route": "mvp-s",
+    "title": "Whop Mvps"
+   },
+   "accessPass": {
+    "id": "prod_anlPrQWjHrBpA",
+    "route": "user-leagues",
+    "title": "User Leagues",
+    "headline": null,
+    "reviewsAverage": 5.0,
+    "publishedReviewsCount": 1,
+    "marketplaceCategory": {
+     "id": "mcat_dAIZYQY2VXEyC",
+     "name": "Community",
+     "route": "community"
+    }
+   }
+  },
+  {
+   "id": "app_PSEdLd1L1TOfbR",
+   "name": "Novig",
+   "route": null,
+   "description": "Find the best odds with our AI chat!",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1762726414,
+   "totalInstalls": 4,
+   "totalInstallsLast7Days": 0,
+   "totalInstallsLast30Days": 4,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 1,
+    "wau": 2,
+    "mau": 13,
+    "timeSpentLast24HoursInSeconds": 20
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_16897562/image/apps/2025-11-09/071ddd58-566a-42d7-9769-e62b3f3bce6b.jpg"
+   },
+   "creator": {
+    "id": "user_7BrF3ngyRTxH9",
+    "username": "bearmarket",
+    "name": "Bear Matthews"
+   },
+   "company": {
+    "id": "biz_POokZapyfcI7rG",
+    "route": "test-93e1",
+    "title": "BOOM SANDBOX"
+   },
+   "accessPass": {
+    "id": "prod_xUFb1dpfueAWX",
+    "route": "novig-v3",
+    "title": "Novig v3",
+    "headline": null,
+    "reviewsAverage": 0.0,
+    "publishedReviewsCount": 0,
+    "marketplaceCategory": {
+     "id": "mcat_Vi5RKLFDSEYVX",
+     "name": "Sports",
+     "route": "sports"
+    }
+   }
+  },
+  {
+   "id": "app_fiSXb2SsU8j5UA",
+   "name": "ProphetX",
+   "route": null,
+   "description": "Browse Live Odds on ProphetX!",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1762923814,
+   "totalInstalls": 5,
+   "totalInstallsLast7Days": 0,
+   "totalInstallsLast30Days": 5,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 0,
+    "wau": 2,
+    "mau": 16,
+    "timeSpentLast24HoursInSeconds": 0
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_16897562/image/apps/2025-11-10/63d22d6a-b713-49ce-896b-b05a9e774e22.png"
+   },
+   "creator": {
+    "id": "user_7BrF3ngyRTxH9",
+    "username": "bearmarket",
+    "name": "Bear Matthews"
+   },
+   "company": {
+    "id": "biz_POokZapyfcI7rG",
+    "route": "test-93e1",
+    "title": "BOOM SANDBOX"
+   },
+   "accessPass": {
+    "id": "prod_z6sSKkvgGqvR9",
+    "route": "prophetx-live",
+    "title": "ProphetX Live",
+    "headline": null,
+    "reviewsAverage": 0.0,
+    "publishedReviewsCount": 0,
+    "marketplaceCategory": {
+     "id": "mcat_Vi5RKLFDSEYVX",
+     "name": "Sports",
+     "route": "sports"
+    }
+   }
+  },
+  {
+   "id": "app_6528rHN2zbIAPN",
+   "name": "Crowly - AI Tutor",
+   "route": null,
+   "description": "Turn your course into an AI tutor your members can ask anything, answers with video timestamps, trained on your actual lessons, installed in your Whop in minutes.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1766030416,
+   "totalInstalls": 4,
+   "totalInstallsLast7Days": 0,
+   "totalInstallsLast30Days": 4,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 4,
+    "wau": 46,
+    "mau": 150,
+    "timeSpentLast24HoursInSeconds": 25
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_19552922/image/apps/2026-05-09/59229586-af43-4c3e-82b1-0ddfe85ac5ff.png"
+   },
+   "creator": {
+    "id": "user_XNLcLZLjEtZ4n",
+    "username": "crowlyai",
+    "name": "Vince Hauser"
+   },
+   "company": {
+    "id": "biz_ouO8jEEE4jCVmX",
+    "route": "crowly",
+    "title": "Crowly"
+   },
+   "accessPass": {
+    "id": "prod_B4jki9rg4XZjL",
+    "route": "crowly-23",
+    "title": "Crowly",
+    "headline": null,
+    "reviewsAverage": 5.0,
+    "publishedReviewsCount": 2,
+    "marketplaceCategory": {
+     "id": "mcat_dAIZYQY2VXEyC",
+     "name": "Community",
+     "route": "community"
+    }
+   }
+  },
+  {
+   "id": "app_9LuAc6c2f7yRiv",
+   "name": "Market Pulse Live",
+   "route": null,
+   "description": "Market Pulse Live gives traders a centralized command center to watch the markets unfold in real time without flipping between tabs, feeds, or platforms.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1765841761,
+   "totalInstalls": 2,
+   "totalInstallsLast7Days": 0,
+   "totalInstallsLast30Days": 2,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 0,
+    "wau": 3,
+    "mau": 12,
+    "timeSpentLast24HoursInSeconds": 0
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_18983411/image/apps/2025-11-29/43112355-7b29-44d8-8da6-b75a20552539.png"
+   },
+   "creator": {
+    "id": "user_V7jyP6T65VDRU",
+    "username": "selfishtrader",
+    "name": "Selfish Trader"
+   },
+   "company": {
+    "id": "biz_VlcyoPPLQClcwJ",
+    "route": "market-pulse-live",
+    "title": "Market Pulse Live"
+   },
+   "accessPass": {
+    "id": "prod_BGo1g4WUgmBGd",
+    "route": "market-pulse-live-75",
+    "title": "Market Pulse Live",
+    "headline": "Real-Time Market Streams Built for Active Traders",
+    "reviewsAverage": 5.0,
+    "publishedReviewsCount": 2,
+    "marketplaceCategory": {
+     "id": "mcat_2wi1DcDey18vq",
+     "name": "Trading",
+     "route": "trading"
+    }
+   }
+  },
+  {
+   "id": "app_jwfSNwUVrebFeC",
+   "name": "Formly",
+   "route": null,
+   "description": "A simple app to help you create forms and gather information you want from the user.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1766915127,
+   "totalInstalls": 9,
+   "totalInstallsLast7Days": 0,
+   "totalInstallsLast30Days": 9,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 2,
+    "wau": 17,
+    "mau": 66,
+    "timeSpentLast24HoursInSeconds": 14
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2026-09-27/f2d74583-41d5-48ab-ba1c-3163f65701ce/image.png"
+   },
+   "creator": {
+    "id": "user_jgeSr7WwzU1tJ",
+    "username": "muzammilmac",
+    "name": "Muzammil"
+   },
+   "company": {
+    "id": "biz_3vivbcFuJ4E5tg",
+    "route": "whoplyhq",
+    "title": "Whoply HQ"
+   },
+   "accessPass": {
+    "id": "prod_Mg5UhUW0jCLHW",
+    "route": "membr-5d",
+    "title": "Formly",
+    "headline": "A simple app to create forms",
+    "reviewsAverage": 5.0,
+    "publishedReviewsCount": 1,
+    "marketplaceCategory": {
+     "id": "mcat_9380pbpfyhcJK",
+     "name": "Business & Productivity",
+     "route": "business-productivity"
+    }
+   }
+  },
+  {
+   "id": "app_pW1RjQxmi75RvG",
+   "name": "X tracker",
+   "route": null,
+   "description": "Get real-time tweets of any X account by tracking.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1767023138,
+   "totalInstalls": 5,
+   "totalInstallsLast7Days": 0,
+   "totalInstallsLast30Days": 5,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 1,
+    "wau": 2,
+    "mau": 5,
+    "timeSpentLast24HoursInSeconds": 2
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_16801096/image/apps/2025-12-13/6c90c8bb-bf73-4527-a1bd-5e33f8ed0e8a.png"
+   },
+   "creator": {
+    "id": "user_8F5YzBzrJZYBv",
+    "username": "mahmoud-marey",
+    "name": "Mahmoud Marey"
+   },
+   "company": {
+    "id": "biz_CUzva7zfK8BsJc",
+    "route": "korvd",
+    "title": "Korvd"
+   },
+   "accessPass": {
+    "id": "prod_2qJ9gn0NLjoWY",
+    "route": "x-tracker-a5",
+    "title": "X tracker",
+    "headline": null,
+    "reviewsAverage": 1.5,
+    "publishedReviewsCount": 2,
+    "marketplaceCategory": {
+     "id": "mcat_2wi1DcDey18vq",
+     "name": "Trading",
+     "route": "trading"
+    }
+   }
+  },
+  {
+   "id": "app_QrooxQftxuVLpL",
+   "name": "Position Sizer",
+   "route": null,
+   "description": "Outputs optimal position size for a given stock given existing portfolio and risk criteria.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": null,
+   "totalInstalls": 1,
+   "totalInstallsLast7Days": 0,
+   "totalInstallsLast30Days": 1,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 0,
+    "wau": 3,
+    "mau": 9,
+    "timeSpentLast24HoursInSeconds": 0
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_8624576/image/apps/2025-12-27/38df27b9-9a5d-4200-974f-6a580bdc651c.png"
+   },
+   "creator": {
+    "id": "user_20W1PFHImNfw6",
+    "username": "mlportfolios",
+    "name": "MLPortfolios"
+   },
+   "company": {
+    "id": "biz_BZQWDt3zWXpM2E",
+    "route": "mlportfolios",
+    "title": "MLPortfolios"
+   },
+   "accessPass": {
+    "id": "prod_j4giGIF3NOwBB",
+    "route": "position-sizer",
+    "title": "Position Sizer",
+    "headline": "",
+    "reviewsAverage": 5.0,
+    "publishedReviewsCount": 12,
+    "marketplaceCategory": {
+     "id": "mcat_2wi1DcDey18vq",
+     "name": "Trading",
+     "route": "trading"
+    }
+   }
+  },
+  {
+   "id": "app_9zJuiTxIO4nwv9",
+   "name": "Loom Zoom",
+   "route": null,
+   "description": "Make members pay for each minute of loom & zoom",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1774714173,
+   "totalInstalls": 0,
+   "totalInstallsLast7Days": 0,
+   "totalInstallsLast30Days": 0,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 0,
+    "wau": 2,
+    "mau": 2,
+    "timeSpentLast24HoursInSeconds": 0
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_16698014/image/apps/2026-02-28/56c04aa1-c413-47f0-8bf1-c0c7e327573d.png"
+   },
+   "creator": {
+    "id": "user_L8YwhuixVcRCf",
+    "username": "fotografiaartyzmi",
+    "name": "Michał Nowakowski"
+   },
+   "company": {
+    "id": "biz_WUQgd0Jm5cvPJU",
+    "route": "michael-software",
+    "title": "Michael Software"
+   },
+   "accessPass": {
+    "id": "prod_ZrerxeKZf0fXV",
+    "route": "loom-zoom",
+    "title": "Loom Zoom",
+    "headline": null,
+    "reviewsAverage": 5.0,
+    "publishedReviewsCount": 2,
+    "marketplaceCategory": {
+     "id": "mcat_9380pbpfyhcJK",
+     "name": "Business & Productivity",
+     "route": "business-productivity"
+    }
+   }
+  },
+  {
+   "id": "app_eYvIPCWL7YurXg",
+   "name": "Suggestions",
+   "route": null,
+   "description": "Give your community a votable roadmap — members suggest & upvote ideas, you ship what matters. Built into your Whop.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1782474099,
+   "totalInstalls": 6,
+   "totalInstallsLast7Days": 0,
+   "totalInstallsLast30Days": 6,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 2,
+    "wau": 3,
+    "mau": 16,
+    "timeSpentLast24HoursInSeconds": 18
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_21078122/image/apps/2026-06-18/7d34004e-5820-4590-836b-754a4fd55644.png"
+   },
+   "creator": {
+    "id": "user_sDvu9OLAgHicq",
+    "username": "umgrim",
+    "name": "Jérémy M."
+   },
+   "company": {
+    "id": "biz_dUavIMfBEY2AVW",
+    "route": "becomunity-labs",
+    "title": "Becomunity Labs"
+   },
+   "accessPass": {
+    "id": "prod_f3FDpYKJSWyWm",
+    "route": "suggestions-9a",
+    "title": "Suggestions",
+    "headline": "Give your community a votable roadmap — members suggest & upvote ideas",
+    "reviewsAverage": 0.0,
+    "publishedReviewsCount": 0,
+    "marketplaceCategory": {
+     "id": "mcat_dAIZYQY2VXEyC",
+     "name": "Community",
+     "route": "community"
+    }
+   }
+  },
+  {
+   "id": "app_qZwNBYXkTemdBu",
+   "name": "SUPER MOD",
+   "route": null,
+   "description": "“Turn your community on autopilot\". (SUPER MOD) answers questions, handles support, and keeps everything running 24/7*",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1784658173,
+   "totalInstalls": 4,
+   "totalInstallsLast7Days": 0,
+   "totalInstallsLast30Days": 4,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 0,
+    "wau": 1,
+    "mau": 6,
+    "timeSpentLast24HoursInSeconds": 0
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_12501784/image/apps/2026-05-04/e7982eed-16f2-4ca7-b056-53495ab75a66.png"
+   },
+   "creator": {
+    "id": "user_3gX6C9GZwk3mn",
+    "username": "arpxn",
+    "name": "A R P X N"
+   },
+   "company": {
+    "id": "biz_DRvvd9BjiKTNuo",
+    "route": "supermod",
+    "title": "SUPER MOD"
+   },
+   "accessPass": {
+    "id": "prod_X9HfkQm5jeMEE",
+    "route": "supermod",
+    "title": "SUPER MOD",
+    "headline": "\"SUPER MOD\" an AI-powered community assistant",
+    "reviewsAverage": 0.0,
+    "publishedReviewsCount": 0,
+    "marketplaceCategory": {
+     "id": "mcat_mgD3g5EDUZ3Uh",
+     "name": "AI",
+     "route": "ai"
+    }
+   }
+  },
+  {
+   "id": "app_7gSGxBWqpEmFFH",
+   "name": "VizorDesk",
+   "route": null,
+   "description": "Institutional crypto terminal — order flow, liquidation maps, COT positioning, options dealer-gamma & cross-exchange dispersion across 130+ assets. Real-time. Descriptive, not signals.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1785753898,
+   "totalInstalls": 3,
+   "totalInstallsLast7Days": 0,
+   "totalInstallsLast30Days": 3,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 0,
+    "wau": 1,
+    "mau": 4,
+    "timeSpentLast24HoursInSeconds": 0
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_30037491/image/apps/2026-07-09/7e6bc225-79ad-4d04-bca5-57c7e460b611.png"
+   },
+   "creator": {
+    "id": "user_mLcYBSoQUQDa6",
+    "username": "vdx-system",
+    "name": "VizorDesk"
+   },
+   "company": {
+    "id": "biz_cpf1tdwWA6ei2g",
+    "route": "vizordesk",
+    "title": "VizorDesk"
+   },
+   "accessPass": {
+    "id": "prod_GwnKYerJ9o04Y",
+    "route": "vizordesklicenseengine",
+    "title": "VizorDesk Terminal",
+    "headline": "",
+    "reviewsAverage": 0.0,
+    "publishedReviewsCount": 0,
+    "marketplaceCategory": {
+     "id": "mcat_2wi1DcDey18vq",
+     "name": "Trading",
+     "route": "trading"
+    }
+   }
+  },
+  {
+   "id": "app_pYb1WouerZ92S2",
+   "name": "Podium - Levels & Leaderboards",
+   "route": null,
+   "description": "Turn Whop, Discord & Telegram activity into one XP race — levels, quests and automatic rewards.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1785430536,
+   "totalInstalls": 12,
+   "totalInstallsLast7Days": 0,
+   "totalInstallsLast30Days": 12,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 2,
+    "wau": 11,
+    "mau": 35,
+    "timeSpentLast24HoursInSeconds": 21
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_29769710/image/apps/2026-07-16/e0a02752-d4a1-4e1b-96fe-2d896fad593a.jpeg"
+   },
+   "creator": {
+    "id": "user_ZHcnIaGhGAcFc",
+    "username": "socratech",
+    "name": "Socratech"
+   },
+   "company": {
+    "id": "biz_Agh1G2tBybD0NS",
+    "route": "universal-canvas",
+    "title": "Universal Canvas"
+   },
+   "accessPass": {
+    "id": "prod_b3PqUOEYQQNFN",
+    "route": "podium-leaderboard",
+    "title": "Podium - Levels & Leaderboards",
+    "headline": "Turn community activity into visible progress.",
+    "reviewsAverage": 0.0,
+    "publishedReviewsCount": 0,
+    "marketplaceCategory": {
+     "id": "mcat_dAIZYQY2VXEyC",
+     "name": "Community",
+     "route": "community"
+    }
+   }
+  },
+  {
+   "id": "app_oXJbN8TYHorfPf",
+   "name": "Fabfunnel",
+   "route": null,
+   "description": "FabFunnel helps performance marketers, e-com brands, media buyers, and affiliates launch and manage ad campaigns across Meta, TikTok, and NewsBreak from one place - instead of rebuilding the same campaign platform by platform.",
+   "appType": "b2c_app",
+   "status": "live",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "discoverableAt": 1787849063,
+   "totalInstalls": 8,
+   "totalInstallsLast7Days": 0,
+   "totalInstallsLast30Days": 8,
+   "aiPromptCount": 0,
+   "aiAverageRating": null,
+   "aiRatingCount": 0,
+   "stats": {
+    "dau": 0,
+    "wau": 1,
+    "mau": 5,
+    "timeSpentLast24HoursInSeconds": 0
+   },
+   "icon": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_34139852/image/apps/2026-08-14/945e8a72-2053-40db-8c54-0fdafb907353.png"
+   },
+   "creator": {
+    "id": "user_ktAflh6Am9kdd",
+    "username": "smokywarhead0b",
+    "name": "Neeraj Moudgil"
+   },
+   "company": {
+    "id": "biz_rmh9D5YqmcM4Ou",
+    "route": "fabfunnel",
+    "title": "Fabfunnel"
+   },
+   "accessPass": {
+    "id": "prod_MM2DyE1ybcZE1",
+    "route": "fab-78",
+    "title": "Fab",
+    "headline": null,
+    "reviewsAverage": 0.0,
+    "publishedReviewsCount": 0,
+    "marketplaceCategory": {
+     "id": "mcat_ZFCiyOAkQQXzA",
+     "name": "Marketing & Growth",
+     "route": "marketing-growth"
+    }
+   }
+  }
+ ]
+}

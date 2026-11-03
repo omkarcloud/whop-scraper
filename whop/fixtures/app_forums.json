@@ -1,0 +1,126 @@
+{
+ "id": "app_dYfm2IdXhDMquv",
+ "name": "Forums",
+ "route": null,
+ "description": "Create and share posts to spark discussions within your community.",
+ "appType": "b2c_app",
+ "status": "live",
+ "marketplaceStatus": "live_marketplace",
+ "verified": true,
+ "discoverableAt": 1708533346,
+ "totalInstalls": 300210,
+ "totalInstallsLast7Days": 78941,
+ "totalInstallsLast30Days": 300210,
+ "aiPromptCount": 0,
+ "aiAverageRating": null,
+ "aiRatingCount": 0,
+ "stats": {
+  "dau": 0,
+  "wau": 0,
+  "mau": 0,
+  "timeSpentLast24HoursInSeconds": 6736169
+ },
+ "icon": {
+  "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-03-07/user_2348232_b7ca5057-522a-40c9-b29e-ad40682326aa.webp"
+ },
+ "creator": {
+  "id": "user_RLK3ZmTdSpbQ8",
+  "username": "jack",
+  "name": "Jack Sharkey"
+ },
+ "company": {
+  "id": "biz_81DmrpXEeixuLD",
+  "route": "7cbf4d8f-a314-4187-98ff-57e81ec7d803",
+  "title": "Whop"
+ },
+ "accessPass": {
+  "id": "prod_BoYrqfyg0x6ML",
+  "route": "forums",
+  "title": "Forums",
+  "headline": null,
+  "reviewsAverage": 4.18,
+  "publishedReviewsCount": 38,
+  "marketplaceCategory": {
+   "id": "mcat_dAIZYQY2VXEyC",
+   "name": "Community",
+   "route": "community"
+  },
+  "shortenedDescription": null,
+  "description": null,
+  "reviewCounts": [
+   5,
+   1,
+   1,
+   0,
+   0
+  ],
+  "memberCount": 2128874,
+  "activeUsersCount": 2128874,
+  "createdAt": 1708533346,
+  "galleryImages": [
+   {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-08-08/user_3957498_23f1cdae-ef25-4bab-913a-267d267b0f81.jpeg"
+   },
+   {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-08-08/user_3957498_fff02eef-49d8-4452-9660-1eb55a2b4521.jpeg"
+   },
+   {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-08-08/user_3957498_36e3a0b3-d2b1-4ad7-92f4-565779b678a0.jpeg"
+   }
+  ],
+  "defaultPlan": {
+   "id": "plan_0rpR0SQnZWqjc",
+   "title": null,
+   "description": null,
+   "formattedPrice": "Free",
+   "formattedPeriodV2": "one-time purchase",
+   "priceTag": "Free",
+   "rawInitialPrice": 0.0,
+   "rawInitialPriceUsd": 0.0,
+   "rawRenewalPrice": 0.0,
+   "rawRenewalPriceUsd": 0.0,
+   "initialPriceDueInCents": 0,
+   "strikeThroughInitialPrice": null,
+   "strikeThroughRenewalPrice": null,
+   "baseCurrency": "usd",
+   "planType": "one_time",
+   "billingPeriod": null,
+   "releaseMethod": "buy_now",
+   "free": true,
+   "trialPeriodDays": null,
+   "expirationDays": null,
+   "stock": null,
+   "unlimitedStock": true,
+   "inStock": true,
+   "lowStockWarning": null,
+   "visibility": "visible",
+   "directLink": "https://whop.com/checkout/plan_0rpR0SQnZWqjc",
+   "createdAt": 1708533346,
+   "allowMultipleQuantity": false,
+   "splitPayRequiredPayments": null,
+   "acceptedPaymentMethods": [
+    "free"
+   ]
+  },
+  "company": {
+   "id": "biz_81DmrpXEeixuLD",
+   "route": "7cbf4d8f-a314-4187-98ff-57e81ec7d803",
+   "title": "Whop",
+   "verified": false,
+   "memberCount": 2572329
+  }
+ },
+ "appStoreDescription": "Create discussion boards where members can share feedback, talk to each other, and engage in organized, thread-based conversations.\n\nKey features:\n• Threaded discussions with comments and replies\n• Paywalled posts and attaching files, gifs, or polls\n• Customizable banner image\n• Customizable in-app permissions and email notification preferences\n• Discord integration (send posts to Discord webhooks)\n\nPerfect if you want to create organized communication spaces, announcement channels, or paywalled threads in your whop.",
+ "aiGeneratedDescription": null,
+ "productPageText": "Forums",
+ "defaultExperienceDescription": "Share your thoughts and connect with others on topics that matter to you.",
+ "internalIdentifier": "forums",
+ "hostedUrl": null,
+ "baseUrl": null,
+ "capabilities": [
+  "seo"
+ ],
+ "lastAiPromptAt": null,
+ "totalAiTokens": "0",
+ "usingDefaultIcon": false
+}

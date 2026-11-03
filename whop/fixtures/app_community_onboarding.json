@@ -1,0 +1,121 @@
+{
+ "id": "app_fqYWzj3RZXe1O0",
+ "name": "Community Onboarding",
+ "route": null,
+ "description": "Turn new members into active members in minutes",
+ "appType": "b2c_app",
+ "status": "live",
+ "marketplaceStatus": "live_marketplace",
+ "verified": false,
+ "discoverableAt": 1777480278,
+ "totalInstalls": 91,
+ "totalInstallsLast7Days": 24,
+ "totalInstallsLast30Days": 91,
+ "aiPromptCount": 0,
+ "aiAverageRating": null,
+ "aiRatingCount": 0,
+ "stats": {
+  "dau": 0,
+  "wau": 0,
+  "mau": 0,
+  "timeSpentLast24HoursInSeconds": 4210
+ },
+ "icon": {
+  "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_19624863/image/apps/2026-04-25/c1a77155-f498-4ff2-9f58-32fd135a745e.png"
+ },
+ "creator": {
+  "id": "user_mA7XJV9qhruAh",
+  "username": "contactjonas",
+  "name": "Jonas"
+ },
+ "company": {
+  "id": "biz_i469miZE1S2iVC",
+  "route": "cancellation-flow",
+  "title": "Community Onboarding"
+ },
+ "accessPass": {
+  "id": "prod_VpU72SzYIWBlL",
+  "route": "cancellation-flow-72",
+  "title": "Onboard members",
+  "headline": "The best way to onboard members on Whop!",
+  "reviewsAverage": 5.0,
+  "publishedReviewsCount": 3,
+  "marketplaceCategory": {
+   "id": "mcat_qywzObxKQ6Oyg",
+   "name": "Education",
+   "route": "education"
+  },
+  "shortenedDescription": "The easiest way to create onboarding flows your members actually complete. Build beautiful onboarding experiences that welcome, qualify, and activate new members. Drag-and-drop builder, powerful step types, and conversion-focused flows, all in one place. Connect to any Whop product in seconds. Perfect for creators and communities that want better activation and retention. Install free. No code needed.  \n\n\n● Build custom onboarding flows with a drag-and-drop builder and launch in minutes.  \n\n\n● Guide members through welcome steps, forms, topic selection, checklists, and interactive prompts.  \n\n\n● Use powerful step types like long form text, skill levels, confirmations, ranked lists, review CTAs, and more.  \n\n\n● Increase engagement and retention with onboarding journeys designed to activate members faster.  \n\n\n● Personalize first impressions and qualify members before they enter your community or product.  \n\n\n● Add welcome videos, social follow prompts, testimonials, FAQs, and conversion steps inside one flow.  \n\n\n● Connect directly to your Whop products and create a seamless member onboarding experience.  \n\n\n● No code needed. Fully customizable. Built to turn new signups into engaged members.",
+  "description": null,
+  "reviewCounts": [
+   3,
+   0,
+   0,
+   0,
+   0
+  ],
+  "memberCount": 947,
+  "activeUsersCount": 947,
+  "createdAt": 1771960754,
+  "galleryImages": [
+   {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_19624863/image/access_passes/2026-05-04/51e79962-c528-4990-966d-b8d47a825aea.png"
+   },
+   {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_19624863/image/access_passes/2026-04-26/c2a18080-14d6-4992-8fac-e029920db871.png"
+   }
+  ],
+  "defaultPlan": {
+   "id": "plan_nmgvO2Xx5Cmct",
+   "title": null,
+   "description": null,
+   "formattedPrice": "Free",
+   "formattedPeriodV2": "one-time purchase",
+   "priceTag": "Free",
+   "rawInitialPrice": 0.0,
+   "rawInitialPriceUsd": 0.0,
+   "rawRenewalPrice": 0.0,
+   "rawRenewalPriceUsd": 0.0,
+   "initialPriceDueInCents": 0,
+   "strikeThroughInitialPrice": null,
+   "strikeThroughRenewalPrice": null,
+   "baseCurrency": "usd",
+   "planType": "one_time",
+   "billingPeriod": null,
+   "releaseMethod": "buy_now",
+   "free": true,
+   "trialPeriodDays": null,
+   "expirationDays": null,
+   "stock": null,
+   "unlimitedStock": true,
+   "inStock": true,
+   "lowStockWarning": null,
+   "visibility": "visible",
+   "directLink": "https://whop.com/checkout/plan_nmgvO2Xx5Cmct",
+   "createdAt": 1771960754,
+   "allowMultipleQuantity": false,
+   "splitPayRequiredPayments": null,
+   "acceptedPaymentMethods": [
+    "free"
+   ]
+  },
+  "company": {
+   "id": "biz_i469miZE1S2iVC",
+   "route": "cancellation-flow",
+   "title": "Community Onboarding",
+   "verified": false,
+   "memberCount": 1382
+  }
+ },
+ "appStoreDescription": "Most communities lose momentum the second a new member joins. They get confused, skip the important steps, ask the same questions, or never take action. Community Onboarding fixes that.\n\nBuild a clean onboarding flow for any Whop product so every new member knows exactly what to do first. Add welcome videos, rules, forms, skill questions, checklists, topic selection, FAQs, social prompts, testimonials, review CTAs, and more, all with a simple drag-and-drop builder.\n\nUse it to welcome members, qualify them, collect useful info, guide them to the right resources, and push them toward their first meaningful action.\n\nConnect it to your Whop product in seconds. No code. No messy setup. Just a better first experience for every member who joins.\n\nUse Community Onboarding to:\n\n● Give every new member a clear first step after joining.\n● Reduce confusion, repeated questions, and messy manual onboarding.\n● Collect member goals, experience level, interests, and feedback.\n● Guide members through videos, checklists, FAQs, rules, and action steps.\n● Add review CTAs and testimonial prompts at the right moment.\n● Create custom flows for different products, communities, or member types.\n● Improve activation and retention by getting members engaged faster.\n● Launch a polished onboarding experience in minutes, without code.\n\nIf new members are joining but not engaging, your onboarding is probably the problem. Fix it before they go cold.",
+ "aiGeneratedDescription": null,
+ "productPageText": "Community Onboarding",
+ "defaultExperienceDescription": null,
+ "internalIdentifier": null,
+ "hostedUrl": null,
+ "baseUrl": null,
+ "capabilities": [],
+ "lastAiPromptAt": null,
+ "totalAiTokens": "0",
+ "usingDefaultIcon": false
+}

@@ -1,0 +1,1059 @@
+{
+ "totalCount": 100,
+ "pageInfo": {
+  "hasNextPage": true,
+  "endCursor": "NTA"
+ },
+ "nodes": [
+  {
+   "id": "biz_gdSBfcK70R5qSU",
+   "title": "Whop AI",
+   "route": "whop-ai",
+   "verified": true,
+   "creatorPitch": "Internal Whop AI company. We make generalist agents that help automate your experience on Whop. For all other support inquiries, please use standard customer support.",
+   "businessType": "software",
+   "industryType": "ai_agents",
+   "memberCount": 1567783,
+   "publishedReviewsCount": 2,
+   "reviewsAverage": 5.0,
+   "createdAt": 1768924875,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_1/image/bots/2026-02-25/2308fd99-df13-4957-ac63-81f2be923a49.png"
+   },
+   "ownerUser": {
+    "id": "user_v9KUoZvTGp6ID",
+    "username": "j",
+    "name": "Jordan"
+   }
+  },
+  {
+   "id": "biz_1ZH7VJrbsBzY1D",
+   "title": "eMoney Reselling",
+   "route": "emoney",
+   "verified": true,
+   "creatorPitch": "I've spent years mastering the art of finding hidden deals and price glitches. With eMoney, I want to empower others to tap into these lucrative opportunities and maximize their earnings effortlessly.",
+   "businessType": "education",
+   "industryType": "cook_groups",
+   "memberCount": 537546,
+   "publishedReviewsCount": 2919,
+   "reviewsAverage": 4.77,
+   "createdAt": 1660597021,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2026-10-27/046bb4bf-1435-45a4-b0c8-c9068c7dcf12/image.png"
+   },
+   "ownerUser": {
+    "id": "user_ijie4TMYfO6yv",
+    "username": "nickresell",
+    "name": "Nick from eMoney"
+   }
+  },
+  {
+   "id": "biz_HYuiP0VyNN6thp",
+   "title": "Media Metas",
+   "route": "media-metas-f4",
+   "verified": false,
+   "creatorPitch": "I've dedicated my career to mastering social media growth. With Media Metas, I share my expertise and connect you with top professionals to enhance your online presence.",
+   "businessType": "education",
+   "industryType": "faceless_content_business_training",
+   "memberCount": 191452,
+   "publishedReviewsCount": 807,
+   "reviewsAverage": 4.29,
+   "createdAt": 1681920386,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/bots/images/28397.original.png"
+   },
+   "ownerUser": {
+    "id": "user_9MmnPfjImelAr",
+    "username": "mussyy",
+    "name": "musa"
+   }
+  },
+  {
+   "id": "biz_G9MiyhDVcIBWMK",
+   "title": "Crystal Academy",
+   "route": "crystal-academy",
+   "verified": true,
+   "creatorPitch": "I've built Crystal Academy to demystify trading. From live sessions to exclusive member chats, my mission is to support traders at every level. Our community is a place where learning and trading meet, ensuring everyone from beginners to seasoned traders can thrive.",
+   "businessType": "education",
+   "industryType": "options_trading",
+   "memberCount": 0,
+   "publishedReviewsCount": 3709,
+   "reviewsAverage": 4.82,
+   "createdAt": 1682268857,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-03-27/user_1079589_56bbdde8-114d-4cd5-8b71-83a2c2b11b7b.png"
+   },
+   "ownerUser": {
+    "id": "user_qVL7oBK9JDPOg",
+    "username": "sierraaaliyah",
+    "name": "Sierra Smith"
+   }
+  },
+  {
+   "id": "biz_pr2vm81mrwmTqn",
+   "title": "Sharpr Picks",
+   "route": "sharpr-picks",
+   "verified": false,
+   "creatorPitch": "With over a decade of experience. Sharpr Picks shares sports picks that are highly researched by Elite Expert(s)-with immense knowledge about the game. All picks have high chances of success.",
+   "businessType": "education",
+   "industryType": "sports_betting_picks",
+   "memberCount": 160837,
+   "publishedReviewsCount": 1771,
+   "reviewsAverage": 4.7,
+   "createdAt": 1709255106,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_3153806/image/bots/2026-07-11/824119ba-48ab-4de0-8e8f-898498740a1a.png"
+   },
+   "ownerUser": {
+    "id": "user_OtC4yzMcupnk9",
+    "username": "support-help",
+    "name": "Support"
+   }
+  },
+  {
+   "id": "biz_fsyAlxa8BZM1Ca",
+   "title": "Steven's whop",
+   "route": "steven",
+   "verified": true,
+   "creatorPitch": "Some random shit that I like to sell",
+   "businessType": "ecommerce",
+   "industryType": "florist",
+   "memberCount": 149293,
+   "publishedReviewsCount": 100,
+   "reviewsAverage": 4.7,
+   "createdAt": 1661444546,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2026-02-27/f691cb55-af05-475e-84e0-7e5032a0f2a4/image.png"
+   },
+   "ownerUser": {
+    "id": "user_nrxHyu5XRFjkS",
+    "username": "s",
+    "name": "Steven Schwartz"
+   }
+  },
+  {
+   "id": "biz_c5SwW687vFyQTq",
+   "title": "Pro Sports Advice ",
+   "route": "pro-sports-advice",
+   "verified": false,
+   "creatorPitch": "As a 11-year professional gambler, I created my Whop to share expert sports insights and exclusive horse racing info. I’ve built a team of top global tipsters who work 24/7 to deliver daily value you won’t find anywhere else.",
+   "businessType": "education",
+   "industryType": "sports_betting_picks",
+   "memberCount": 133525,
+   "publishedReviewsCount": 2258,
+   "reviewsAverage": 4.8,
+   "createdAt": 1722438891,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-12-13/user_6845717_5573710a-df02-41a4-a8a6-1fcee4cd30b6.png"
+   },
+   "ownerUser": {
+    "id": "user_v8UULXr3RljBm",
+    "username": "prosportsadviceltd",
+    "name": "Pro Sports Advice"
+   }
+  },
+  {
+   "id": "biz_pn9Fq67uJNjgj1",
+   "title": "Potion Alpha",
+   "route": "potion-alpha",
+   "verified": true,
+   "creatorPitch": "Potion Alpha, the #1 online crypto platform where over 110,000 members collaborate to master blockchain trading. Whether you're a beginner or an experienced trader, our entire team at Potion Alpha is focused on helping you win with real-time tools, memecoin scanning, and exclusive bots. Join us, and let’s grow together!",
+   "businessType": "education",
+   "industryType": "crypto_trading",
+   "memberCount": 124390,
+   "publishedReviewsCount": 393,
+   "reviewsAverage": 4.77,
+   "createdAt": 1720547468,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-02-28/user_3556163_4100ea73-ef42-4d2c-a057-d094a8295055.png"
+   },
+   "ownerUser": {
+    "id": "user_25wL2Yv3yp1BH",
+    "username": "movimentum",
+    "name": "Movimentum"
+   }
+  },
+  {
+   "id": "biz_kBqIt4HVtlKe8g",
+   "title": "The School of Threaded Arts",
+   "route": "tsa-trading",
+   "verified": false,
+   "creatorPitch": "The School of Threaded Arts is a trading education company for people with a 9-5. or who are completely new to the markets. We teach one real system, start to finish, through a self-paced curriculum, live coaching every week, and a community that shows real trades, wins and losses included. No signals. No hype. No pretending. Just a process you own and a team that holds you to it.",
+   "businessType": "education",
+   "industryType": "options_trading",
+   "memberCount": 108154,
+   "publishedReviewsCount": 438,
+   "reviewsAverage": 4.8,
+   "createdAt": 1673486777,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-09-09/user_698592_3235cdd9-eee2-443c-9164-e71dd565b866.jpeg"
+   },
+   "ownerUser": {
+    "id": "user_r0cdcPTrtepR4",
+    "username": "dontezakram",
+    "name": "Dontez Akram"
+   }
+  },
+  {
+   "id": "biz_ihFXce0csDW4jB",
+   "title": "THE KINGDM",
+   "route": "livewithmamba",
+   "verified": false,
+   "creatorPitch": "I've mastered the Forex market, turning trades into triumphs. Join me as I guide you through live sessions and exclusive strategies to become a successful trader!",
+   "businessType": "education",
+   "industryType": "forex_trading",
+   "memberCount": 102561,
+   "publishedReviewsCount": 1190,
+   "reviewsAverage": 4.86,
+   "createdAt": 1702366998,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_15779767/image/bots/2025-10-14/e91c94aa-fff9-4c36-b902-bd08de91fb77"
+   },
+   "ownerUser": {
+    "id": "user_dMqCY96ch6RGK",
+    "username": "mambafx",
+    "name": "mambafx"
+   }
+  },
+  {
+   "id": "biz_66MxDDe7O54GYk",
+   "title": "Profit Insider",
+   "route": "profit-insider",
+   "verified": false,
+   "creatorPitch": "RP is a trader and entrepreneur dedicated to mastering financial markets and building successful ventures/",
+   "businessType": "education",
+   "industryType": "options_trading",
+   "memberCount": 92810,
+   "publishedReviewsCount": 308,
+   "reviewsAverage": 4.89,
+   "createdAt": 1705499896,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-01-19/user_1945614_93f1523d-e794-4c2f-aad2-2c1115bc4bc3.png"
+   },
+   "ownerUser": {
+    "id": "user_hiufwHR3JWj92",
+    "username": "profitinsider",
+    "name": "Profit Insider"
+   }
+  },
+  {
+   "id": "biz_aTJHClkox1gW2k",
+   "title": "Netrevenue",
+   "route": "ambro-clips",
+   "verified": false,
+   "creatorPitch": null,
+   "businessType": "services",
+   "industryType": "outsourced_sales",
+   "memberCount": 88980,
+   "publishedReviewsCount": 333,
+   "reviewsAverage": 4.41,
+   "createdAt": 1744821123,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_6288887/image/bots/2025-09-12/8513b75d-eae7-477f-b3ab-13c4d6c35eeb"
+   },
+   "ownerUser": {
+    "id": "user_4xEXLrSnAvW5w",
+    "username": "ambro",
+    "name": "Ambro"
+   }
+  },
+  {
+   "id": "biz_Cv6mip3HVc2iIQ",
+   "title": "KingCapSports",
+   "route": "kingcapsports",
+   "verified": false,
+   "creatorPitch": "3000+ 5 Star Reviews. Providing the best premium sports information since 2012. Follow @KingCap702 on Instagram for FREE daily insight!",
+   "businessType": "education",
+   "industryType": "sports_betting_picks",
+   "memberCount": 82778,
+   "publishedReviewsCount": 3966,
+   "reviewsAverage": 4.78,
+   "createdAt": 1700978965,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-06-28/user_4482081_5d7be7b1-3491-43b5-813e-87a3b9ebe16a.avif"
+   },
+   "ownerUser": {
+    "id": "user_Zqbl4wzkFkJbT",
+    "username": "kingcapsports",
+    "name": "KingCapSports"
+   }
+  },
+  {
+   "id": "biz_nOm0O5tkC5nMDE",
+   "title": "Official Picks",
+   "route": "officialpicks",
+   "verified": false,
+   "creatorPitch": "The #1 Sports Picks Community on Whop. Trusted by 70,000+ members and 5,000+ five-star reviews. Premium picks, live betting, and analysis across NBA, NFL, MLB, NHL, and UFC.",
+   "businessType": "education",
+   "industryType": "sports_betting_picks",
+   "memberCount": 77037,
+   "publishedReviewsCount": 5024,
+   "reviewsAverage": 4.86,
+   "createdAt": 1698122435,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_2035955/image/access_passes/2026-04-20/9d94ec34-49bb-4331-9583-63bb577b37ca.jpeg"
+   },
+   "ownerUser": {
+    "id": "user_iK1RIbVUccKv5",
+    "username": "officialpicks",
+    "name": "Official Picks"
+   }
+  },
+  {
+   "id": "biz_jxgqRQS1oBaivY",
+   "title": "Beat the Books",
+   "route": "beat-the-books",
+   "verified": false,
+   "creatorPitch": "Founded in 2022, Beat the Books is one of the largest sports capping communities in the world! In our short existence, we've helped over 50,000 members Beat the Books, with a team that's collectively up over 2000 units to date",
+   "businessType": "education",
+   "industryType": "sports_betting_picks",
+   "memberCount": 71143,
+   "publishedReviewsCount": 1845,
+   "reviewsAverage": 4.64,
+   "createdAt": 1660695240,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/access_passes/images/15642.original."
+   },
+   "ownerUser": {
+    "id": "user_Q13Wfn8SR4Ggc",
+    "username": "beatthebooks",
+    "name": "Beat the Books"
+   }
+  },
+  {
+   "id": "biz_CplNKCV0wdyDV0",
+   "title": "Dodgy's Dungeon",
+   "route": "dodgys-dungeon",
+   "verified": false,
+   "creatorPitch": "I'm Dodgy, a passionate trader who specializes in ICT concepts. I trade live every day, sharing my market insights and helping others master gap and imbalance analysis for better trades. My goal is to make traders self-sufficient using the best strategies in the game.",
+   "businessType": "education",
+   "industryType": "futures_trading",
+   "memberCount": 59535,
+   "publishedReviewsCount": 789,
+   "reviewsAverage": 4.77,
+   "createdAt": 1711499558,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-03-27/user_3164476_c1ee557b-963a-483c-9877-060d70246657.webp"
+   },
+   "ownerUser": {
+    "id": "user_4Ib8fEQf8tUhH",
+    "username": "dodgysddoffical",
+    "name": "Dodgy"
+   }
+  },
+  {
+   "id": "biz_IQjx5bPgQNQqpm",
+   "title": "Divine",
+   "route": "divine",
+   "verified": true,
+   "creatorPitch": "The largest paid ecommerce community & reseller software platform on the internet. Helped over 100,000 ecommerce sellers since 2019.",
+   "businessType": "education",
+   "industryType": "cook_groups",
+   "memberCount": 56601,
+   "publishedReviewsCount": 4616,
+   "reviewsAverage": 4.97,
+   "createdAt": 1652207175,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-06-26/user_3735610_e7cf4489-20d1-4d61-a106-52e5c6ed8908.gif"
+   },
+   "ownerUser": {
+    "id": "user_VpQqvqHEFq6qQ",
+    "username": "gutt",
+    "name": "Divine"
+   }
+  },
+  {
+   "id": "biz_xVzNX6saY1gnhM",
+   "title": "Black Box",
+   "route": "blackbox",
+   "verified": true,
+   "creatorPitch": "Most people waste time chasing expired deals and overcrowded opportunities. Black Box is a private community for people who want a competitive advantage. Get access to Hidden Clearances, real-time price errors, and thousands of members sharing what's working right now. Stop guessing, stop chasing expired deals, and start finding opportunities before everyone else.",
+   "businessType": "education",
+   "industryType": "cook_groups",
+   "memberCount": 0,
+   "publishedReviewsCount": 4280,
+   "reviewsAverage": 4.96,
+   "createdAt": 1652496202,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_401714/image/bots/2026-01-08/fbba3286-a881-42bb-95a1-85f31313b673.png"
+   },
+   "ownerUser": {
+    "id": "user_lQlbsBbqSTPra",
+    "username": "riostoriches",
+    "name": "Rios"
+   }
+  },
+  {
+   "id": "biz_qwyTIqmDzIQZdI",
+   "title": "Monetise",
+   "route": "monetise",
+   "verified": true,
+   "creatorPitch": "Let Our AI System Build You A Profitable Digital Product Business (without experience or showing your face)",
+   "businessType": "education",
+   "industryType": "digital_product_business_training",
+   "memberCount": 0,
+   "publishedReviewsCount": 4399,
+   "reviewsAverage": 4.85,
+   "createdAt": 1737063615,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2026-08-28/4c36d479-6f0b-4695-8bc5-a2a284d8ec20/image.webp"
+   },
+   "ownerUser": {
+    "id": "user_7mF5rtfrmSCf6",
+    "username": "imangadzhi",
+    "name": "Iman Gadzhi"
+   }
+  },
+  {
+   "id": "biz_DwsyX7ipNJ25vA",
+   "title": "PJ Trades",
+   "route": "pjtradespremium",
+   "verified": false,
+   "creatorPitch": "With ten years of hands on experience navigating the fast paced world of financial markets, PJ Trades is a seasoned day trader specializing in futures. Known for a disciplined approach to trading, PJ Trades combines technical analysis, market research, and risk management to consistently identify high probability setups and deliver results.",
+   "businessType": "education",
+   "industryType": "futures_trading",
+   "memberCount": 52799,
+   "publishedReviewsCount": 2691,
+   "reviewsAverage": 4.96,
+   "createdAt": 1734090014,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-06-27/user_7691008_8619adfa-cac3-47be-bb64-8dddb6778c97.png"
+   },
+   "ownerUser": {
+    "id": "user_l0GyIShS2gdQi",
+    "username": "pjtradesofficial",
+    "name": "PJ Trades"
+   }
+  },
+  {
+   "id": "biz_ZSpdxPVyNDAufs",
+   "title": "MAZI PICKS ",
+   "route": "mazipicks",
+   "verified": false,
+   "creatorPitch": "THE FACE OF SPORTS BETTING 🏈🏀⚾️🏒\n𝐌𝐀𝐙𝐈 𝐕𝐒 | 𝐒𝐁𝐊 #1 SPORTS CONSULTANT IN THE WORLD",
+   "businessType": "education",
+   "industryType": "sports_betting_picks",
+   "memberCount": 0,
+   "publishedReviewsCount": 677,
+   "reviewsAverage": 4.74,
+   "createdAt": 1706746095,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_2821086/image/access_passes/2026-03-19/0961bf87-6514-46e8-ac50-c872b4050899.jpeg"
+   },
+   "ownerUser": {
+    "id": "user_aCqBpYm0LDZgf",
+    "username": "mazipicks",
+    "name": "MAZI PICKS"
+   }
+  },
+  {
+   "id": "biz_y3Ykd121PDcAL9",
+   "title": "New Age Trading",
+   "route": "newagetrading",
+   "verified": false,
+   "creatorPitch": "I’ve spent years mastering the art of trading and educating others. My mission is to transform aspiring traders into profitable ones through mentorship, community, and real-time insights. At New Age Trading, we make the complex simple and guide you every step of the way.",
+   "businessType": "education",
+   "industryType": "options_trading",
+   "memberCount": 45637,
+   "publishedReviewsCount": 407,
+   "reviewsAverage": 4.76,
+   "createdAt": 1682562209,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-03-07/user_1108021_7c24d865-a6c8-413a-afff-3868b61f97ff.png"
+   },
+   "ownerUser": {
+    "id": "user_Y59R1z1IbZH6O",
+    "username": "newagetradingteam",
+    "name": "PBInvesting"
+   }
+  },
+  {
+   "id": "biz_yrwCZPmMSaOuQx",
+   "title": "DEAL SOLDIER",
+   "route": "deal-soldier",
+   "verified": false,
+   "creatorPitch": "As the broke kid growing up, I spent hours shopping the clearance rack in search of brand name clothing just to fit in. That drive for finding bargains never left me. We launched DEAL SOLDIER to change the way you shop. Forever. ",
+   "businessType": "education",
+   "industryType": "cook_groups",
+   "memberCount": 41183,
+   "publishedReviewsCount": 1470,
+   "reviewsAverage": 4.92,
+   "createdAt": 1707522383,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-02-16/user_2817599_46d88791-8030-48d1-9ecc-c28934acad43.png"
+   },
+   "ownerUser": {
+    "id": "user_pXncIANv7Hh1G",
+    "username": "superunsexy",
+    "name": "Sean Sweeney"
+   }
+  },
+  {
+   "id": "biz_u26nAiCK8jEWj4",
+   "title": "Vonn.5",
+   "route": "vonn-5",
+   "verified": false,
+   "creatorPitch": "With more than 5 years in the business, Vonn.5 is the most secure and confident play daily. My picks have an 80% Win Rate.\n",
+   "businessType": "education",
+   "industryType": "sports_betting_picks",
+   "memberCount": 0,
+   "publishedReviewsCount": 98,
+   "reviewsAverage": 4.62,
+   "createdAt": 1719262676,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-06-25/user_4482081_2e4b3084-4c5a-41dd-b245-9ae5e5e2d1dd.png"
+   },
+   "ownerUser": {
+    "id": "user_y6kO3hPoCquzz",
+    "username": "vonn5",
+    "name": "Vonn5"
+   }
+  },
+  {
+   "id": "biz_deAkTzM5LaPod3",
+   "title": "ParlayScience",
+   "route": "parlayscience",
+   "verified": false,
+   "creatorPitch": "Leading the way to revolutionize the industry. Changing the way we look at sport betting. Our data partners help us create the most cutting-edge plays to maximize your success. With their insights and our knowledge, we stay one step ahead of everyone else in this ever-evolving game! \n",
+   "businessType": "education",
+   "industryType": "sports_betting_picks",
+   "memberCount": 37829,
+   "publishedReviewsCount": 930,
+   "reviewsAverage": 4.6,
+   "createdAt": 1683997742,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/bots/images/31997.original.png"
+   },
+   "ownerUser": {
+    "id": "user_NRqMGiM7LiPqN",
+    "username": "parlayscience",
+    "name": "ParlayScience"
+   }
+  },
+  {
+   "id": "biz_TdWbD5vvKbDKm8",
+   "title": "Stellar AIO",
+   "route": "stellaraio",
+   "verified": true,
+   "creatorPitch": "Embrace the next generation of shopping, meticulously designed for collectors, resellers, and sneakerheads. \n\nExperience the benefits of blazing-fast checkouts, a decisive edge on limited drops, and the capability to handle multiple orders seamlessly. ",
+   "businessType": "software",
+   "industryType": "resale_bots",
+   "memberCount": 36462,
+   "publishedReviewsCount": 337,
+   "reviewsAverage": 4.67,
+   "createdAt": 1638768726,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/bots/images/45.original."
+   },
+   "ownerUser": {
+    "id": "user_lkAemAPmw4v2X",
+    "username": "stellar",
+    "name": "Stellar"
+   }
+  },
+  {
+   "id": "biz_akVtM371ILUYlW",
+   "title": "Hidden Society",
+   "route": "hidden-society",
+   "verified": true,
+   "creatorPitch": "The creator of Hidden Society built this community with a simple mission: to change lives. What started as a passion for reselling grew into a movement, empowering individuals to unlock financial freedom. With a deep understanding of markets and unmatched dedication, he proves that with the right mindset, tools, and community, anyone can achieve extraordinary success.",
+   "businessType": "education",
+   "industryType": "cook_groups",
+   "memberCount": 36330,
+   "publishedReviewsCount": 1512,
+   "reviewsAverage": 4.97,
+   "createdAt": 1660857116,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/access_passes/images/16220.original."
+   },
+   "ownerUser": {
+    "id": "user_Op2lfyrShMKEJ",
+    "username": "topkek",
+    "name": "topkek"
+   }
+  },
+  {
+   "id": "biz_7FAo7vSO4Ni40L",
+   "title": "Team Bull Trading",
+   "route": "team-bull-trading",
+   "verified": false,
+   "creatorPitch": "I'm Jacob (JDUN Trades), founder of Team Bull Trading. 10 years trading. Built on Discipline Over Dopamine. I trade LIVE daily",
+   "businessType": "education",
+   "industryType": "futures_trading",
+   "memberCount": 35155,
+   "publishedReviewsCount": 503,
+   "reviewsAverage": 4.66,
+   "createdAt": 1682365711,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/bots/images/29051.original."
+   },
+   "ownerUser": {
+    "id": "user_ZAvZbJrVXKzWJ",
+    "username": "teambulltrading",
+    "name": "Jdun Trades"
+   }
+  },
+  {
+   "id": "biz_vDpukzx7MQsCLH",
+   "title": "LIMITLE$$",
+   "route": "limitless",
+   "verified": false,
+   "creatorPitch": "Profitability based on REAL market mechanics. Learn how the market works. Trade how the market works.",
+   "businessType": "software",
+   "industryType": "trading_indicators",
+   "memberCount": 33573,
+   "publishedReviewsCount": 309,
+   "reviewsAverage": 4.82,
+   "createdAt": 1659414935,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-02-12/user_398743_83f0d531-806b-499c-9025-da0e9bf63ccc.png"
+   },
+   "ownerUser": {
+    "id": "user_ILkXua5QBg6Pm",
+    "username": "chicagotrades",
+    "name": "Chicago"
+   }
+  },
+  {
+   "id": "biz_Vnq7ARqjtbR2M4",
+   "title": "GOAT Sports Bets",
+   "route": "goat-sports-betting",
+   "verified": false,
+   "creatorPitch": "With over 26,000 satisfied clients, we’ve built a community dedicated to helping bettors win with expertly curated picks. We focus on transparency, ensuring that our members not only receive the best picks but also learn solid bankroll management. ",
+   "businessType": "education",
+   "industryType": "sports_betting_picks",
+   "memberCount": 32954,
+   "publishedReviewsCount": 1551,
+   "reviewsAverage": 4.63,
+   "createdAt": 1677275576,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/bots/images/20963.original.gif"
+   },
+   "ownerUser": {
+    "id": "user_g9BZnIvmZhmRl",
+    "username": "goatvicc",
+    "name": "Victor Madu"
+   }
+  },
+  {
+   "id": "biz_khsf3tLx6PnZAj",
+   "title": "Beer Money Picks",
+   "route": "beermoneypicks",
+   "verified": false,
+   "creatorPitch": "Beer Money Picks is where sharp betting meets good company. Since 2022, our team has delivered high-value picks across multiple sports. Driven by transparency, real strategy, and a probability-first edge. Join 30,000+ members who pull up daily for picks, breakdowns, and a community that feels like watching the game with your crew. Let's cash together. 🍻",
+   "businessType": "education",
+   "industryType": "sports_betting_picks",
+   "memberCount": 31989,
+   "publishedReviewsCount": 1055,
+   "reviewsAverage": 4.77,
+   "createdAt": 1697131579,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_8153999/image/bots/2026-08-13/a104a4e4-f342-4b5f-aefc-2b3cf844971d"
+   },
+   "ownerUser": {
+    "id": "user_UlFZ3VEvL2Kg2",
+    "username": "beermoneyypicks",
+    "name": "Beer Money Picks"
+   }
+  },
+  {
+   "id": "biz_IJAvEvTm8dRJi5",
+   "title": "Content Academy",
+   "route": "contentacademy",
+   "verified": true,
+   "creatorPitch": "We've now helped 100+ creators reach 10K followers on Instagram/TikTok and build full time careers in content creation!\n\nI've built a following of 500k+ followers on Instagram and 1.3M+ on TikTok. Now, I'm sharing my entire system to help you grow your brand and online business.",
+   "businessType": "education",
+   "industryType": "content_creator_training",
+   "memberCount": 31656,
+   "publishedReviewsCount": 164,
+   "reviewsAverage": 4.91,
+   "createdAt": 1706806087,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-12-09/user_826592_1c41af0b-9e4d-4b4a-b049-48c8016959c6.jpeg"
+   },
+   "ownerUser": {
+    "id": "user_yEqtQpHaei2dv",
+    "username": "mino",
+    "name": "Mino Lee"
+   }
+  },
+  {
+   "id": "biz_7gsczi0BqsyGY4",
+   "title": "CHEESELOCKS",
+   "route": "cheeselocks",
+   "verified": false,
+   "creatorPitch": "CHEESELOCKS is a sports analysis and betting community built around disciplined play, structured templates, bankroll management, and transparency. We provide daily picks across multiple sports, detailed analysis, public results tracking, and an active community designed to help members approach sports betting with more structure and consistency.",
+   "businessType": "education",
+   "industryType": "sports_betting_picks",
+   "memberCount": 31631,
+   "publishedReviewsCount": 1455,
+   "reviewsAverage": 4.7,
+   "createdAt": 1733893839,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-02-14/user_4091696_4c6de596-07c1-463c-bf27-12de2ab25081.png"
+   },
+   "ownerUser": {
+    "id": "user_cDqKapSXIMm2P",
+    "username": "cheeseaholicbusiness",
+    "name": ""
+   }
+  },
+  {
+   "id": "biz_vbWcgU9R3m5oQR",
+   "title": "Profit Lounge",
+   "route": "profitlounge",
+   "verified": false,
+   "creatorPitch": "Real-time alerts for the best deals, hidden clearance and penny items near you, plus a community that helps you win.",
+   "businessType": "education",
+   "industryType": "cook_groups",
+   "memberCount": 31175,
+   "publishedReviewsCount": 1086,
+   "reviewsAverage": 4.95,
+   "createdAt": 1633282273,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_232972/image/bots/2025-12-27/77505b70-0db9-4e89-962c-10b822888383.png"
+   },
+   "ownerUser": {
+    "id": "user_VyawEKbYuBZSq",
+    "username": "profitlounge",
+    "name": "Profit Lounge"
+   }
+  },
+  {
+   "id": "biz_cVXF3feL9Jc9oH",
+   "title": "The Algo Tools",
+   "route": "the-algo-tools",
+   "verified": false,
+   "creatorPitch": "The Best Trading Tools In The Industry",
+   "businessType": "software",
+   "industryType": "trading_indicators",
+   "memberCount": 30717,
+   "publishedReviewsCount": 207,
+   "reviewsAverage": 4.69,
+   "createdAt": 1701287163,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_1045277/image/bots/2026-03-09/92d31b73-b836-4bf6-8d86-8a27d7130b4e.JPG"
+   },
+   "ownerUser": {
+    "id": "user_D6puOofbKrq5T",
+    "username": "frank369",
+    "name": "Frank369"
+   }
+  },
+  {
+   "id": "biz_2wSSksF4yPjk2k",
+   "title": "MC Sports Analytics",
+   "route": "mcsports",
+   "verified": false,
+   "creatorPitch": "Stop guessing. Our models rank every NFL, CFB, NHL and EPL game daily and grade every result, wins and losses. Your own HQ, AI parlays with the model's chance on every leg, and the premium Discord. First month $19.99.",
+   "businessType": "education",
+   "industryType": "sports_betting_picks",
+   "memberCount": 30667,
+   "publishedReviewsCount": 1063,
+   "reviewsAverage": 4.76,
+   "createdAt": 1680546860,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2026-10-13/53f68d00-bae4-4974-8d35-ecc3bc039885/image.png"
+   },
+   "ownerUser": {
+    "id": "user_s6lcvOhsQkaJC",
+    "username": "mcbets",
+    "name": "MCbets"
+   }
+  },
+  {
+   "id": "biz_DYK3LFcvpksovx",
+   "title": "BetBigBen",
+   "route": "betbigben",
+   "verified": false,
+   "creatorPitch": "I’m Ben, and with years of experience in sports betting, I've developed a sharp eye for picking winners. My passion lies in using data-driven insights to help you make smarter bets. Join my community and let’s win together!",
+   "businessType": "education",
+   "industryType": "sports_betting_picks",
+   "memberCount": 28568,
+   "publishedReviewsCount": 1173,
+   "reviewsAverage": 4.57,
+   "createdAt": 1674936244,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-02-20/user_594286_d7b7602f-f199-4985-9c2d-5b972fb09b04.jpeg"
+   },
+   "ownerUser": {
+    "id": "user_q2OoI9CaZx4cd",
+    "username": "betbigben",
+    "name": "Ben"
+   }
+  },
+  {
+   "id": "biz_j3DzBFXDjQQkpf",
+   "title": "Stock Hours",
+   "route": "stock-hours",
+   "verified": false,
+   "creatorPitch": "Live options signals. Real receipts. Every market day.\n27,000+ traders. 4.9★ from 769 reviews. Calling live setups since 2018.\nWhat's inside:\n📈 Live signals from Nour called in real time, every session\n📋 The daily watchlist, dropped before the bell\n⚙️ The exact ThinkOrSwim algo we trade off\n🎓 Live lessons every night at 8PM ET\n👉 Try the full room free every Wednesday. See it live first.",
+   "businessType": "education",
+   "industryType": "options_trading",
+   "memberCount": 27779,
+   "publishedReviewsCount": 775,
+   "reviewsAverage": 4.89,
+   "createdAt": 1680206051,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-11-11/user_1164981_cab71ff0-082c-49a2-9d74-7fb6b0aa095d.png"
+   },
+   "ownerUser": {
+    "id": "user_kQ1PS41uoATcE",
+    "username": "stockhoursllc",
+    "name": "NourTrades "
+   }
+  },
+  {
+   "id": "biz_luLh3Ru1dDgjVP",
+   "title": "YDC",
+   "route": "yourdailycapper",
+   "verified": false,
+   "creatorPitch": "With over a decade of experience and 50,000+ clients, YDC has become one of the most trusted names in sports betting 📈\n\nWe deliver transparent analysis, top-tier plays, and consistent strategies directly to your phone every day.",
+   "businessType": "education",
+   "industryType": "sports_betting_picks",
+   "memberCount": 27097,
+   "publishedReviewsCount": 1257,
+   "reviewsAverage": 4.84,
+   "createdAt": 1715370965,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-05-16/user_1164981_d7b2b51b-fd1f-495c-88cc-153b62c34f30.png"
+   },
+   "ownerUser": {
+    "id": "user_vkUlGaS5MrdHO",
+    "username": "yourdailycapper",
+    "name": "yourdailycapper"
+   }
+  },
+  {
+   "id": "biz_Tdt2BZ3ZpJh0R3",
+   "title": "The Sweepers",
+   "route": "the-sweepers",
+   "verified": false,
+   "creatorPitch": "Winning starts here. HoodRich & BDunk bring elite sports betting strategies, smart plays, and a community focused on cashing daily.",
+   "businessType": "education",
+   "industryType": "sports_betting_picks",
+   "memberCount": 26313,
+   "publishedReviewsCount": 991,
+   "reviewsAverage": 4.71,
+   "createdAt": 1679892136,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_940583/image/access_passes/2026-05-07/ac84b871-47de-4573-9d2d-be7d8c54e993.jpeg"
+   },
+   "ownerUser": {
+    "id": "user_p3zyzUZ73E4vj",
+    "username": "hoodrich4pres",
+    "name": "HoodRich $"
+   }
+  },
+  {
+   "id": "biz_iz0uDFX8QUeKqd",
+   "title": "yew",
+   "route": "yew",
+   "verified": true,
+   "creatorPitch": "Exploring .gpc development through the Cronus Zen to bring accessibility to gamers!",
+   "businessType": "software",
+   "industryType": "console_controller_scripts",
+   "memberCount": 25082,
+   "publishedReviewsCount": 1315,
+   "reviewsAverage": 4.79,
+   "createdAt": 1722450714,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_6139482/image/bots/2026-07-24/d22a3a58-5504-46c5-98f9-c08dd8df11a3.png"
+   },
+   "ownerUser": {
+    "id": "user_NOAeR2dANOWY7",
+    "username": "yew",
+    "name": "yew"
+   }
+  },
+  {
+   "id": "biz_Jh3ZTEL227w8I1",
+   "title": "PeloSwing",
+   "route": "peloswing",
+   "verified": true,
+   "creatorPitch": "Learn while you earn & stay ahead of the curve with timely alerts and expert analysis. With over a decade of experience in market analysis and stock trading, we wanted to build a platform that provides real-time alerts and insights to help traders make informed decisions, instead of the gambling! We've helped thousands already, and are ready to help more!",
+   "businessType": "education",
+   "industryType": "options_trading",
+   "memberCount": 24970,
+   "publishedReviewsCount": 443,
+   "reviewsAverage": 4.88,
+   "createdAt": 1688358593,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_1418595/image/bots/2026-07-06/103de0d9-2b14-4c28-8b1c-5f42492197f9.jpg"
+   },
+   "ownerUser": {
+    "id": "user_UuRGYdVBzTybq",
+    "username": "peloswing",
+    "name": "PeloSwing"
+   }
+  },
+  {
+   "id": "biz_WiIxP2Fz2qyhag",
+   "title": "Razza Trades",
+   "route": "3m-trading",
+   "verified": false,
+   "creatorPitch": "I'm Raza, founder of the 3M trading concepts. I’ve been teaching my trading concepts to 1000s every month for 4 years now. Join us and elevate your trading journey!",
+   "businessType": "education",
+   "industryType": "futures_trading",
+   "memberCount": 24471,
+   "publishedReviewsCount": 598,
+   "reviewsAverage": 4.86,
+   "createdAt": 1701373314,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2026-10-21/4042c06f-3c32-4a3f-9f07-950094a8cf95/image.jpg"
+   },
+   "ownerUser": {
+    "id": "user_T24dAlhKM0OZe",
+    "username": "razatrades",
+    "name": "Raza "
+   }
+  },
+  {
+   "id": "biz_mfhK8uSAgrmrAd",
+   "title": "PlayBit",
+   "route": "playbit",
+   "verified": false,
+   "creatorPitch": "Education First, Profit Second.",
+   "businessType": "education",
+   "industryType": "futures_trading",
+   "memberCount": 24400,
+   "publishedReviewsCount": 1041,
+   "reviewsAverage": 4.96,
+   "createdAt": 1699070670,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_87579/image/bots/2025-08-22/c1028bb1-277a-4697-b1af-78575f03b533"
+   },
+   "ownerUser": {
+    "id": "user_SvlWakFIL83ok",
+    "username": "playbit",
+    "name": "PlayBit"
+   }
+  },
+  {
+   "id": "biz_9dMBOdbbglGUst",
+   "title": "Whop Ads",
+   "route": "whop-ads",
+   "verified": true,
+   "creatorPitch": "Reach your ideal customers across the internet from your business dashboard",
+   "businessType": "platform",
+   "industryType": "ad_network",
+   "memberCount": 24375,
+   "publishedReviewsCount": 76,
+   "reviewsAverage": 4.84,
+   "createdAt": 1758596644,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_18510377/image/bots/2026-07-17/5f89b547-e401-4416-bf81-cc0927796c50.png"
+   },
+   "ownerUser": {
+    "id": "user_z1ZstH6P4d4a1",
+    "username": "iamthemoat",
+    "name": "Nicholas Motamedi"
+   }
+  },
+  {
+   "id": "biz_7opgP2AFy8z5u7",
+   "title": "Your First Dollar",
+   "route": "yourfirstdollar",
+   "verified": false,
+   "creatorPitch": "Your First Dollar is a Marketplace for Creators(10,000+)  and Brands(200+) . If you are a Creator looking to get hired for Tiktok Shop, Slideshows, AI, Reposting, Buy/Sell accounts, etc this is the place for you. If you are a Brand looking to hire creators for similar jobs this is also the place for you! ",
+   "businessType": "platform",
+   "industryType": "ugc_marketplace",
+   "memberCount": 24033,
+   "publishedReviewsCount": 196,
+   "reviewsAverage": 4.64,
+   "createdAt": 1651878028,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-09-01/user_214580_4347b1b8-ccf3-4e54-98f2-c789d96422cd.png"
+   },
+   "ownerUser": {
+    "id": "user_JweENXr4KuxDo",
+    "username": "conqoer",
+    "name": "Cal"
+   }
+  },
+  {
+   "id": "biz_sHOgSQCCUgITXR",
+   "title": "ParlayCapital",
+   "route": "parlaycapital",
+   "verified": false,
+   "creatorPitch": "I’ve always been passionate about sports, numbers, & watching film. Combining these passions led me to create a thriving community with over 54,000 members where we leverage data, insights & knowledge to make profitable sports bets. With ParlayCapital, I’m excited to share my winning strategies and help you succeed in the sports betting world.",
+   "businessType": "education",
+   "industryType": "sports_betting_picks",
+   "memberCount": 22795,
+   "publishedReviewsCount": 796,
+   "reviewsAverage": 4.87,
+   "createdAt": 1711606288,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2025-01-23/user_411337_fedf9d47-48bf-4cba-a7bd-1edfc95e1624.jpeg"
+   },
+   "ownerUser": {
+    "id": "user_pR3kzTQhXgFQ6",
+    "username": "parlaycapital",
+    "name": "ParlayCapital"
+   }
+  },
+  {
+   "id": "biz_LXDGhxe2EyRaq6",
+   "title": "Cook the Books",
+   "route": "cook-the-books",
+   "verified": false,
+   "creatorPitch": "100% Transparent and Profitable Community.   Everybody has had a bad experience \"paying for picks\".  WE ARE DIFFERENT!  CTB has a small team that provides detailed analysis behind every play we recommend.  Famous 10k Challenge is up 590+ units. $100 Bettors are up $59k.  CTB also developed a player prop tool and is available to all members so they can do their own research.  Best Community Ever!",
+   "businessType": "education",
+   "industryType": "sports_betting_picks",
+   "memberCount": 22779,
+   "publishedReviewsCount": 963,
+   "reviewsAverage": 4.84,
+   "createdAt": 1690730969,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2023-11-27/user_1164981_1ebfca2e-836e-42d4-b381-88adbb25dd62.jpeg"
+   },
+   "ownerUser": {
+    "id": "user_xae6yK5jOHE1R",
+    "username": "cookthebooks12",
+    "name": "Cook The Books"
+   }
+  },
+  {
+   "id": "biz_J24UWKEQgU7oWS",
+   "title": "Market Fluidity University",
+   "route": "market-fluidity-uni",
+   "verified": false,
+   "creatorPitch": "This entire course and the community is focused on helping traders how to keep losses small and finally break out of the break-even stage. We have a very active discord community where you can share analysis and share ideas. \n\nAlot of focus is also on price action, giving trades a 2nd chance, impulse entries, Q and As and much more !",
+   "businessType": "education",
+   "industryType": "forex_trading",
+   "memberCount": 22529,
+   "publishedReviewsCount": 446,
+   "reviewsAverage": 4.94,
+   "createdAt": 1708143603,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/2024-03-19/user_2904228_167b2a66-3713-468e-bd02-7b8e09bcfb4b.jpeg"
+   },
+   "ownerUser": {
+    "id": "user_ZJ9HpqtkbqJzk",
+    "username": "rajabanks",
+    "name": "RajaB"
+   }
+  },
+  {
+   "id": "biz_peI4l9c4ML3yDI",
+   "title": "Toodegrees",
+   "route": "toodegrees",
+   "verified": false,
+   "creatorPitch": "We create algorithmic indicators that apply ICT and price action concepts, simplifying complex market data into clear, actionable insights. Using these tools gives traders a more structured view of the market and helps them spot opportunities with greater confidence.",
+   "businessType": "software",
+   "industryType": "trading_indicators",
+   "memberCount": 22310,
+   "publishedReviewsCount": 377,
+   "reviewsAverage": 4.83,
+   "createdAt": 1708028114,
+   "logo": {
+    "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_2990654/image/bots/2025-08-18/ff622e96-c007-4ee4-9aa8-44339b18e72b"
+   },
+   "ownerUser": {
+    "id": "user_BbI66BGVKXd5T",
+    "username": "toodegrees",
+    "name": "Toodegrees"
+   }
+  }
+ ]
+}

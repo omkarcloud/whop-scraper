@@ -1,0 +1,188 @@
+{
+ "id": "biz_ezvXzKil5OtchC",
+ "title": "WinnersCircle",
+ "route": "winnerscircle-e956",
+ "verified": false,
+ "creatorPitch": "Elite forex signals, market analysis, and trade breakdowns from a proven trader. Join the circle and start winning.",
+ "businessDescription": null,
+ "businessType": "education",
+ "industryType": "forex_trading",
+ "targetAudience": "Aspiring and intermediate forex traders looking for consistent, actionable signals and mentorship",
+ "memberCount": 1,
+ "publishedReviewsCount": 0,
+ "reviewsAverage": null,
+ "reviewCounts": [
+  0,
+  0,
+  0,
+  0,
+  0
+ ],
+ "cachedTotalViewsCount": 9,
+ "usdGmv30Days": null,
+ "totalEarningsWithTransfersInUsd": null,
+ "createdAt": 1780578347,
+ "updatedAt": 1789470798,
+ "launched": false,
+ "hasGlobalAffiliatesEnabled": true,
+ "affiliateApplicationRequired": false,
+ "purchasesDisabled": null,
+ "disabledReason": null,
+ "features": [
+  "tap_to_pay"
+ ],
+ "hubRoute": "biz_ezvXzKil5OtchC",
+ "logo": {
+  "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_28432728/image/ai_prompts/2026-06-04/ff8b677f-6339-48d5-9c25-2824a82ce9f7.png"
+ },
+ "bannerImage": {
+  "sourceUrl": "https://assets-2-prod.whop.com/public/uploads/user_28432728/image/ai_prompts/2026-06-04/3a273cee-08c5-400b-8af1-1c03b96ca354.png"
+ },
+ "ownerUser": {
+  "id": "user_L45c2e2YJrbUC",
+  "username": "jordyplum",
+  "name": "Jord plummsta",
+  "bio": null,
+  "city": "Auckland",
+  "country": "NZ",
+  "createdAt": 1780572738,
+  "followersCount": 1,
+  "verifiedAt": null,
+  "profilePicture": {
+   "sourceUrl": "https://ui-avatars.com/api/?name=Jord%20plummsta&background=535961&color=fff&format=png"
+  }
+ },
+ "socialLinks": [],
+ "publicForumExperience": {
+  "id": "exp_RGrCQ9kN52rWEE",
+  "name": "Public forum"
+ },
+ "primaryExperience": null,
+ "storePageConfig": {
+  "accentColor": null,
+  "layout": null
+ },
+ "publicTeamMembers": {
+  "totalCount": 1,
+  "nodes": [
+   {
+    "id": "ausr_lepJavbNNEqGJ",
+    "role": "owner",
+    "user": {
+     "id": "user_L45c2e2YJrbUC",
+     "username": "jordyplum",
+     "name": "Jord plummsta",
+     "followersCount": 1,
+     "verifiedAt": null,
+     "profilePicture": {
+      "sourceUrl": "https://ui-avatars.com/api/?name=Jord%20plummsta&background=535961&color=fff&format=png"
+     }
+    }
+   }
+  ]
+ },
+ "visibleAccessPassesV2": [
+  {
+   "id": "prod_sDgVBTchRVAMo",
+   "title": "Forex Signals",
+   "route": "forex-signals-d6",
+   "headline": "Win more trades with elite forex signals",
+   "shortenedDescription": "Daily forex signals, live market analysis, and trade breakdowns. Get entries, exits, and risk management for every trade.",
+   "accessPassType": "regular",
+   "businessType": "education",
+   "industryType": "forex_trading",
+   "marketplaceStatus": "live_marketplace",
+   "verified": false,
+   "whopRanking": null,
+   "activeUsersCount": 0,
+   "memberCount": 0,
+   "publishedReviewsCount": 0,
+   "reviewsAverage": 0.0,
+   "usdGmv": 0,
+   "last24HoursGmv": 0.0,
+   "hasFreeAvailablePlan": false,
+   "hasPaidAvailablePlan": true,
+   "globalAffiliatePercentage": 30.0,
+   "createdAt": 1780578520,
+   "discoverableAt": 1780578821,
+   "logo": null,
+   "images": [
+    {
+     "url": "https://assets-2-prod.whop.com/public/uploads/user_28432728/image/ai_prompts/2026-06-04/d01f7068-8320-498b-9761-ea3c8802fc0e.png"
+    }
+   ],
+   "company": {
+    "id": "biz_ezvXzKil5OtchC",
+    "route": "winnerscircle-e956",
+    "title": "WinnersCircle",
+    "verified": false
+   },
+   "defaultPlan": {
+    "id": "plan_ho4A2ZcH4qXsF",
+    "formattedPrice": "$32.00 / month",
+    "formattedPeriodV2": "/ month",
+    "rawInitialPrice": 0.0,
+    "rawRenewalPrice": 32.0,
+    "baseCurrency": "usd",
+    "planType": "renewal",
+    "billingPeriod": 30,
+    "releaseMethod": "buy_now",
+    "free": false,
+    "trialPeriodDays": null
+   },
+   "visiblePlansCount": 1
+  }
+ ],
+ "experienceList": {
+  "experiences": [
+   {
+    "id": "exp_ucF0C3PmhoUoZO",
+    "name": "Trade Updates",
+    "description": null,
+    "isPublic": false,
+    "userCount": 1,
+    "app": {
+     "id": "app_mmjPLOxIgL1qxe",
+     "name": "Content"
+    },
+    "accessPasses": [
+     {
+      "id": "prod_sDgVBTchRVAMo",
+      "route": "forex-signals-d6",
+      "title": "Forex Signals"
+     }
+    ]
+   },
+   {
+    "id": "exp_bcal2UQs6zCzrr",
+    "name": "Signals Chat",
+    "description": null,
+    "isPublic": false,
+    "userCount": 1,
+    "app": {
+     "id": "app_xml5hbizmZPgUT",
+     "name": "Chat"
+    },
+    "accessPasses": [
+     {
+      "id": "prod_sDgVBTchRVAMo",
+      "route": "forex-signals-d6",
+      "title": "Forex Signals"
+     }
+    ]
+   },
+   {
+    "id": "exp_RGrCQ9kN52rWEE",
+    "name": "Public forum",
+    "description": null,
+    "isPublic": true,
+    "userCount": 1,
+    "app": {
+     "id": "app_dYfm2IdXhDMquv",
+     "name": "Forums"
+    },
+    "accessPasses": []
+   }
+  ]
+ }
+}
