@@ -22,6 +22,8 @@ from datetime import datetime, timezone
 
 from whop.refs import (SITE, app_link, campaign_link, company_link, organization_link,
                        product_link, user_link)
+from scraper_utils.values import bool_or_none as _bool, to_int as _int
+from scraper_utils.text import squashed_any as _str, trimmed as _text
 
 CR_CDN = "https://crusercontent.com/"
 
@@ -37,21 +39,6 @@ def _get(obj, *keys, default=None):
     return default if obj is None else obj
 
 
-def _str(value):
-    if value is None:
-        return None
-    value = " ".join(str(value).split())
-    return value or None
-
-
-def _text(value):
-    """Multi-line text: keep the line breaks, trim the edges, "" -> None."""
-    if value is None:
-        return None
-    value = str(value).strip()
-    return value or None
-
-
 def _num(value):
     if isinstance(value, bool) or value is None:
         return None
@@ -62,15 +49,6 @@ def _num(value):
         return float(text) if "." in text else int(text)
     except ValueError:
         return None
-
-
-def _int(value):
-    value = _num(value)
-    return int(value) if isinstance(value, (int, float)) else None
-
-
-def _bool(value):
-    return value if isinstance(value, bool) else None
 
 
 def iso_from_unix(value):

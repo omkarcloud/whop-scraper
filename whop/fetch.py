@@ -44,6 +44,7 @@ import config
 import egress
 from scraper_errors import BadRequest, Blocked, NotFound, UpstreamError
 from whop.refs import CONTENT_REWARDS, SITE
+from scraper_utils import retry, sessions
 
 IMPERSONATE = "chrome"
 GRAPHQL = "https://data.whop.com/graphql"
@@ -106,26 +107,11 @@ def _session():
 
 
 def _drop_session():
-    sess = getattr(_local, "session", None)
-    _local.session = None
-    if sess is not None:
-        try:
-            sess.close()
-        except Exception:
-            pass
+    sessions.drop(_local)
 
 
 def _retrying(fn):
-    last = None
-    for attempt in range(1, config.MAX_RETRIES + 1):
-        try:
-            return fn()
-        except WhopUpstreamError as e:
-            last = e
-            _drop_session()
-            if attempt < config.MAX_RETRIES:
-                time.sleep(config.RETRY_BACKOFF * attempt)
-    raise last
+    return retry.run(fn, config, WhopUpstreamError, lambda e: _drop_session())
 
 
 def _headers(base):
